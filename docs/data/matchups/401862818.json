@@ -7,11 +7,24 @@
    "team": "South Florida",
    "rank_ap": null,
    "records": {
-    "su": "5\u20132",
-    "ats": "3\u20134",
-    "ou": "3\u20134"
+    "su": "6\u20132",
+    "ats": "4\u20134",
+    "ou": "3\u20135"
    },
    "recent": [
+    {
+     "date": "2026-10-31T16:00:00+00:00",
+     "season": 2026,
+     "opp": "UAB",
+     "site": "H",
+     "pts": 30,
+     "opp_pts": 10,
+     "result": "W",
+     "spread": -7.5,
+     "cover": "W",
+     "total": 43.5,
+     "ou": "U"
+    },
     {
      "date": "2026-10-17T23:00:00+00:00",
      "season": 2026,
@@ -63,34 +76,21 @@
      "cover": "L",
      "total": 48.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-09-19T23:00:00+00:00",
-     "season": 2026,
-     "opp": "Delaware State",
-     "site": "H",
-     "pts": 59,
-     "opp_pts": 17,
-     "result": "W",
-     "spread": -37.5,
-     "cover": "W",
-     "total": 59.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 26.6,
+     "value": 27.0,
      "fmt": "1",
-     "rank": 84,
+     "rank": 78,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 15.1,
+     "value": 14.5,
      "fmt": "1",
      "rank": 10,
      "better": false
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 64,
-    "overall": 0.92,
-    "offense": 25.23,
-    "defense": 24.31
+    "rank": 60,
+    "overall": 1.65,
+    "offense": 25.21,
+    "defense": 23.55
    }
   },
   "home": {
@@ -360,7 +360,7 @@
      "label": "Points per game",
      "value": 25.0,
      "fmt": "1",
-     "rank": 94,
+     "rank": 92,
      "better": true
     },
     {
@@ -368,7 +368,7 @@
      "label": "Points allowed per game",
      "value": 26.3,
      "fmt": "1",
-     "rank": 93,
+     "rank": 92,
      "better": false
     },
     {
@@ -550,8 +550,8 @@
    ],
    "rating": {
     "rank": 88,
-    "overall": -3.45,
-    "offense": 24.04,
+    "overall": -3.57,
+    "offense": 23.92,
     "defense": 27.49
    }
   }

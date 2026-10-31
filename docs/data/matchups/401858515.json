@@ -7,11 +7,24 @@
    "team": "Maryland",
    "rank_ap": null,
    "records": {
-    "su": "2\u20135",
-    "ats": "3\u20134",
-    "ou": "6\u20131"
+    "su": "2\u20136",
+    "ats": "3\u20134\u20131",
+    "ou": "6\u20132"
    },
    "recent": [
+    {
+     "date": "2026-10-31T16:00:00+00:00",
+     "season": 2026,
+     "opp": "Illinois",
+     "site": "H",
+     "pts": 17,
+     "opp_pts": 20,
+     "result": "L",
+     "spread": 3.0,
+     "cover": "P",
+     "total": 54.5,
+     "ou": "U"
+    },
     {
      "date": "2026-10-17T16:30:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "L",
      "total": 55.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-09-19T23:30:00+00:00",
-     "season": 2026,
-     "opp": "Virginia Tech",
-     "site": "H",
-     "pts": 26,
-     "opp_pts": 35,
-     "result": "L",
-     "spread": 2.5,
-     "cover": "L",
-     "total": 53.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 28.3,
+     "value": 26.9,
      "fmt": "1",
-     "rank": 72,
+     "rank": 80,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 33.3,
+     "value": 31.6,
      "fmt": "1",
-     "rank": 128,
+     "rank": 121,
      "better": false
     },
     {
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 83,
-    "overall": -2.55,
-    "offense": 25.92,
-    "defense": 28.47
+    "rank": 82,
+    "overall": -2.68,
+    "offense": 25.08,
+    "defense": 27.76
    }
   },
   "home": {
@@ -360,7 +360,7 @@
      "label": "Points per game",
      "value": 31.3,
      "fmt": "1",
-     "rank": 52,
+     "rank": 53,
      "better": true
     },
     {
@@ -368,7 +368,7 @@
      "label": "Points allowed per game",
      "value": 32.3,
      "fmt": "1",
-     "rank": 124,
+     "rank": 125,
      "better": false
     },
     {
@@ -549,7 +549,7 @@
     }
    ],
    "rating": {
-    "rank": 77,
+    "rank": 76,
     "overall": -1.83,
     "offense": 27.2,
     "defense": 29.03

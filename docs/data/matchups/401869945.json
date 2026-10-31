@@ -7,11 +7,24 @@
    "team": "Old Dominion",
    "rank_ap": null,
    "records": {
-    "su": "2\u20136",
-    "ats": "1\u20137",
-    "ou": "3\u20135"
+    "su": "2\u20137",
+    "ats": "1\u20138",
+    "ou": "4\u20135"
    },
    "recent": [
+    {
+     "date": "2026-10-31T17:00:00+00:00",
+     "season": 2026,
+     "opp": "Marshall",
+     "site": "H",
+     "pts": 23,
+     "opp_pts": 36,
+     "result": "L",
+     "spread": 3.0,
+     "cover": "L",
+     "total": 45.5,
+     "ou": "O"
+    },
     {
      "date": "2026-10-24T21:00:00+00:00",
      "season": 2026,
@@ -63,26 +76,13 @@
      "cover": "L",
      "total": 51.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-09-26T22:00:00+00:00",
-     "season": 2026,
-     "opp": "James Madison",
-     "site": "H",
-     "pts": 20,
-     "opp_pts": 46,
-     "result": "L",
-     "spread": 7.0,
-     "cover": "L",
-     "total": 44.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 15.5,
+     "value": 16.3,
      "fmt": "1",
      "rank": 134,
      "better": true
@@ -90,9 +90,9 @@
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 26.8,
+     "value": 27.8,
      "fmt": "1",
-     "rank": 97,
+     "rank": 103,
      "better": false
     },
     {
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 121,
-    "overall": -8.54,
-    "offense": 18.2,
-    "defense": 26.74
+    "rank": 127,
+    "overall": -9.59,
+    "offense": 18.14,
+    "defense": 27.73
    }
   },
   "home": {
@@ -360,7 +360,7 @@
      "label": "Points per game",
      "value": 26.1,
      "fmt": "1",
-     "rank": 89,
+     "rank": 88,
      "better": true
     },
     {
@@ -368,7 +368,7 @@
      "label": "Points allowed per game",
      "value": 25.9,
      "fmt": "1",
-     "rank": 89,
+     "rank": 87,
      "better": false
     },
     {
@@ -550,9 +550,9 @@
    ],
    "rating": {
     "rank": 119,
-    "overall": -8.21,
-    "offense": 21.73,
-    "defense": 29.94
+    "overall": -8.13,
+    "offense": 21.68,
+    "defense": 29.81
    }
   }
  },

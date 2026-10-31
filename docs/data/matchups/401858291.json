@@ -92,7 +92,7 @@
      "label": "Points allowed per game",
      "value": 15.3,
      "fmt": "1",
-     "rank": 12,
+     "rank": 13,
      "better": false
     },
     {
@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 3,
-    "overall": 17.73,
-    "offense": 36.7,
-    "defense": 18.97
+    "rank": 2,
+    "overall": 17.72,
+    "offense": 36.63,
+    "defense": 18.91
    }
   },
   "home": {
    "team": "Notre Dame",
    "rank_ap": 5,
    "records": {
-    "su": "6\u20131",
-    "ats": "4\u20133",
-    "ou": "5\u20132"
+    "su": "7\u20131",
+    "ats": "4\u20134",
+    "ou": "5\u20133"
    },
    "recent": [
+    {
+     "date": "2026-10-31T16:00:00+00:00",
+     "season": 2026,
+     "opp": "Navy",
+     "site": "N",
+     "pts": 35,
+     "opp_pts": 13,
+     "result": "W",
+     "spread": -30.5,
+     "cover": "L",
+     "total": 54.5,
+     "ou": "U"
+    },
     {
      "date": "2026-10-17T23:30:00+00:00",
      "season": 2026,
@@ -339,26 +352,13 @@
      "cover": "W",
      "total": 57.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-09-19T23:30:00+00:00",
-     "season": 2026,
-     "opp": "Michigan State",
-     "site": "H",
-     "pts": 27,
-     "opp_pts": 10,
-     "result": "W",
-     "spread": -28.5,
-     "cover": "L",
-     "total": 51.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 41.1,
+     "value": 40.4,
      "fmt": "1",
      "rank": 5,
      "better": true
@@ -368,7 +368,7 @@
      "label": "Points allowed per game",
      "value": 13.4,
      "fmt": "1",
-     "rank": 4,
+     "rank": 5,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 2,
-    "overall": 17.75,
-    "offense": 35.57,
-    "defense": 17.83
+    "rank": 3,
+    "overall": 17.59,
+    "offense": 35.19,
+    "defense": 17.6
    }
   }
  },

@@ -84,7 +84,7 @@
      "label": "Points per game",
      "value": 25.7,
      "fmt": "1",
-     "rank": 91,
+     "rank": 90,
      "better": true
     },
     {
@@ -92,7 +92,7 @@
      "label": "Points allowed per game",
      "value": 28.0,
      "fmt": "1",
-     "rank": 104,
+     "rank": 105,
      "better": false
     },
     {
@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 111,
-    "overall": -6.9,
-    "offense": 23.17,
-    "defense": 30.07
+    "rank": 110,
+    "overall": -6.84,
+    "offense": 23.16,
+    "defense": 30.0
    }
   },
   "home": {
    "team": "Navy",
    "rank_ap": null,
    "records": {
-    "su": "2\u20135",
-    "ats": "2\u20135",
-    "ou": "5\u20132"
+    "su": "2\u20136",
+    "ats": "3\u20135",
+    "ou": "5\u20133"
    },
    "recent": [
+    {
+     "date": "2026-10-31T16:00:00+00:00",
+     "season": 2026,
+     "opp": "Notre Dame",
+     "site": "N",
+     "pts": 13,
+     "opp_pts": 35,
+     "result": "L",
+     "spread": 30.5,
+     "cover": "W",
+     "total": 54.5,
+     "ou": "U"
+    },
     {
      "date": "2026-10-24T19:30:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "L",
      "total": 45.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-09-25T23:00:00+00:00",
-     "season": 2026,
-     "opp": "UAB",
-     "site": "A",
-     "pts": 20,
-     "opp_pts": 24,
-     "result": "L",
-     "spread": -6.5,
-     "cover": "L",
-     "total": 50.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 29.7,
+     "value": 27.6,
      "fmt": "1",
-     "rank": 65,
+     "rank": 76,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 29.1,
+     "value": 29.9,
      "fmt": "1",
-     "rank": 107,
+     "rank": 111,
      "better": false
     },
     {
@@ -550,9 +550,9 @@
    ],
    "rating": {
     "rank": 104,
-    "overall": -5.15,
-    "offense": 24.01,
-    "defense": 29.16
+    "overall": -5.13,
+    "offense": 23.72,
+    "defense": 28.85
    }
   }
  },

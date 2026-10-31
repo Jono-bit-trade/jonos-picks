@@ -84,7 +84,7 @@
      "label": "Points per game",
      "value": 35.6,
      "fmt": "1",
-     "rank": 29,
+     "rank": 27,
      "better": true
     },
     {
@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 22,
-    "overall": 7.64,
+    "rank": 23,
+    "overall": 7.62,
     "offense": 28.96,
-    "defense": 21.32
+    "defense": 21.34
    }
   },
   "home": {
    "team": "Illinois",
    "rank_ap": null,
    "records": {
-    "su": "4\u20133",
-    "ats": "3\u20134",
-    "ou": "5\u20132"
+    "su": "5\u20133",
+    "ats": "3\u20134\u20131",
+    "ou": "5\u20133"
    },
    "recent": [
+    {
+     "date": "2026-10-31T16:00:00+00:00",
+     "season": 2026,
+     "opp": "Maryland",
+     "site": "A",
+     "pts": 20,
+     "opp_pts": 17,
+     "result": "W",
+     "spread": -3.0,
+     "cover": "P",
+     "total": 54.5,
+     "ou": "U"
+    },
     {
      "date": "2026-10-24T19:00:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "W",
      "total": 53.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-09-19T18:00:00+00:00",
-     "season": 2026,
-     "opp": "Southern Illinois",
-     "site": "H",
-     "pts": 48,
-     "opp_pts": 10,
-     "result": "W",
-     "spread": -34.5,
-     "cover": "W",
-     "total": 55.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 30.3,
+     "value": 29.0,
      "fmt": "1",
-     "rank": 58,
+     "rank": 66,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 25.3,
+     "value": 24.2,
      "fmt": "1",
-     "rank": 79,
+     "rank": 69,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 49,
-    "overall": 2.15,
-    "offense": 27.39,
-    "defense": 25.24
+    "rank": 48,
+    "overall": 2.33,
+    "offense": 26.75,
+    "defense": 24.42
    }
   }
  },

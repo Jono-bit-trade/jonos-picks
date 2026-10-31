@@ -92,7 +92,7 @@
      "label": "Points allowed per game",
      "value": 25.8,
      "fmt": "1",
-     "rank": 87,
+     "rank": 85,
      "better": false
     },
     {
@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 84,
-    "overall": -2.87,
-    "offense": 23.81,
-    "defense": 26.68
+    "rank": 83,
+    "overall": -3.01,
+    "offense": 23.75,
+    "defense": 26.76
    }
   },
   "home": {
    "team": "Michigan",
    "rank_ap": 18,
    "records": {
-    "su": "4\u20133",
-    "ats": "3\u20134",
-    "ou": "1\u20136"
+    "su": "5\u20133",
+    "ats": "3\u20135",
+    "ou": "2\u20136"
    },
    "recent": [
+    {
+     "date": "2026-10-31T16:30:00+00:00",
+     "season": 2026,
+     "opp": "Rutgers",
+     "site": "A",
+     "pts": 28,
+     "opp_pts": 21,
+     "result": "W",
+     "spread": -16.5,
+     "cover": "L",
+     "total": 47.5,
+     "ou": "O"
+    },
     {
      "date": "2026-10-24T16:00:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "L",
      "total": 39.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-09-19T19:30:00+00:00",
-     "season": 2026,
-     "opp": "UTEP",
-     "site": "H",
-     "pts": 52,
-     "opp_pts": 17,
-     "result": "W",
-     "spread": -34.5,
-     "cover": "W",
-     "total": 48.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 20.3,
+     "value": 21.2,
      "fmt": "1",
-     "rank": 121,
+     "rank": 115,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 15.7,
+     "value": 16.4,
      "fmt": "1",
-     "rank": 16,
+     "rank": 20,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 30,
-    "overall": 6.18,
-    "offense": 25.82,
-    "defense": 19.64
+    "rank": 29,
+    "overall": 6.35,
+    "offense": 25.75,
+    "defense": 19.4
    }
   }
  },

@@ -92,7 +92,7 @@
      "label": "Points allowed per game",
      "value": 13.9,
      "fmt": "1",
-     "rank": 6,
+     "rank": 7,
      "better": false
     },
     {
@@ -274,20 +274,33 @@
    ],
    "rating": {
     "rank": 39,
-    "overall": 3.74,
-    "offense": 24.39,
-    "defense": 20.65
+    "overall": 3.75,
+    "offense": 24.35,
+    "defense": 20.6
    }
   },
   "home": {
    "team": "Arizona",
    "rank_ap": 22,
    "records": {
-    "su": "6\u20131",
-    "ats": "3\u20134",
-    "ou": "3\u20134"
+    "su": "6\u20132",
+    "ats": "3\u20135",
+    "ou": "4\u20134"
    },
    "recent": [
+    {
+     "date": "2026-10-31T16:00:00+00:00",
+     "season": 2026,
+     "opp": "Texas Tech",
+     "site": "A",
+     "pts": 26,
+     "opp_pts": 34,
+     "result": "L",
+     "spread": 4.0,
+     "cover": "L",
+     "total": 55.5,
+     "ou": "O"
+    },
     {
      "date": "2026-10-24T23:30:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "L",
      "total": 47.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-09-20T02:30:00+00:00",
-     "season": 2026,
-     "opp": "Northern Illinois",
-     "site": "H",
-     "pts": 42,
-     "opp_pts": 17,
-     "result": "W",
-     "spread": -34.5,
-     "cover": "L",
-     "total": 50.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 36.1,
+     "value": 34.9,
      "fmt": "1",
-     "rank": 21,
+     "rank": 34,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 16.7,
+     "value": 18.9,
      "fmt": "1",
-     "rank": 23,
+     "rank": 26,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 15,
-    "overall": 9.26,
-    "offense": 30.37,
-    "defense": 21.11
+    "rank": 16,
+    "overall": 8.96,
+    "offense": 30.46,
+    "defense": 21.5
    }
   }
  },

@@ -7,11 +7,24 @@
    "team": "Marshall",
    "rank_ap": null,
    "records": {
-    "su": "4\u20133",
-    "ats": "2\u20135",
-    "ou": "3\u20134"
+    "su": "5\u20133",
+    "ats": "3\u20135",
+    "ou": "4\u20134"
    },
    "recent": [
+    {
+     "date": "2026-10-31T17:00:00+00:00",
+     "season": 2026,
+     "opp": "Old Dominion",
+     "site": "A",
+     "pts": 36,
+     "opp_pts": 23,
+     "result": "W",
+     "spread": -3.0,
+     "cover": "W",
+     "total": 45.5,
+     "ou": "O"
+    },
     {
      "date": "2026-10-20T23:30:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "L",
      "total": 56.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-09-19T22:30:00+00:00",
-     "season": 2026,
-     "opp": "Missouri State",
-     "site": "A",
-     "pts": 30,
-     "opp_pts": 24,
-     "result": "W",
-     "spread": -4.0,
-     "cover": "W",
-     "total": 52.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 21.7,
+     "value": 23.5,
      "fmt": "1",
-     "rank": 110,
+     "rank": 100,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 30.7,
+     "value": 29.8,
      "fmt": "1",
-     "rank": 117,
+     "rank": 109,
      "better": false
     },
     {
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 112,
-    "overall": -7.06,
-    "offense": 22.5,
-    "defense": 29.55
+    "rank": 107,
+    "overall": -5.89,
+    "offense": 23.58,
+    "defense": 29.46
    }
   },
   "home": {
@@ -360,7 +360,7 @@
      "label": "Points per game",
      "value": 24.4,
      "fmt": "1",
-     "rank": 95,
+     "rank": 93,
      "better": true
     },
     {
@@ -550,9 +550,9 @@
    ],
    "rating": {
     "rank": 94,
-    "overall": -3.96,
-    "offense": 24.21,
-    "defense": 28.17
+    "overall": -4.04,
+    "offense": 24.07,
+    "defense": 28.11
    }
   }
  },

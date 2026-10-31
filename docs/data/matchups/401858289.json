@@ -84,7 +84,7 @@
      "label": "Points per game",
      "value": 31.6,
      "fmt": "1",
-     "rank": 49,
+     "rank": 50,
      "better": true
     },
     {
@@ -92,7 +92,7 @@
      "label": "Points allowed per game",
      "value": 27.9,
      "fmt": "1",
-     "rank": 103,
+     "rank": 104,
      "better": false
     },
     {
@@ -274,20 +274,33 @@
    ],
    "rating": {
     "rank": 38,
-    "overall": 4.0,
-    "offense": 29.78,
-    "defense": 25.78
+    "overall": 3.97,
+    "offense": 29.7,
+    "defense": 25.74
    }
   },
   "home": {
    "team": "Boston College",
    "rank_ap": null,
    "records": {
-    "su": "4\u20133",
-    "ats": "5\u20132",
-    "ou": "2\u20135"
+    "su": "4\u20134",
+    "ats": "5\u20133",
+    "ou": "2\u20136"
    },
    "recent": [
+    {
+     "date": "2026-10-31T16:00:00+00:00",
+     "season": 2026,
+     "opp": "Duke",
+     "site": "A",
+     "pts": 2,
+     "opp_pts": 47,
+     "result": "L",
+     "spread": 7.0,
+     "cover": "L",
+     "total": 49.5,
+     "ou": "U"
+    },
     {
      "date": "2026-10-24T19:30:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "W",
      "total": 45.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-09-19T18:00:00+00:00",
-     "season": 2026,
-     "opp": "Maine",
-     "site": "H",
-     "pts": 22,
-     "opp_pts": 16,
-     "result": "W",
-     "spread": -37.5,
-     "cover": "L",
-     "total": 54.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 24.4,
+     "value": 21.6,
      "fmt": "1",
-     "rank": 95,
+     "rank": 109,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 23.6,
+     "value": 26.5,
      "fmt": "1",
-     "rank": 62,
+     "rank": 95,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 81,
-    "overall": -2.38,
-    "offense": 23.9,
-    "defense": 26.28
+    "rank": 101,
+    "overall": -4.72,
+    "offense": 22.31,
+    "defense": 27.03
    }
   }
  },

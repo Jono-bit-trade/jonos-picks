@@ -84,7 +84,7 @@
      "label": "Points per game",
      "value": 35.0,
      "fmt": "1",
-     "rank": 34,
+     "rank": 33,
      "better": true
     },
     {
@@ -92,7 +92,7 @@
      "label": "Points allowed per game",
      "value": 20.5,
      "fmt": "1",
-     "rank": 38,
+     "rank": 37,
      "better": false
     },
     {
@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 55,
-    "overall": 1.86,
-    "offense": 27.38,
-    "defense": 25.52
+    "rank": 61,
+    "overall": 1.6,
+    "offense": 27.28,
+    "defense": 25.68
    }
   },
   "home": {
    "team": "SMU",
    "rank_ap": 19,
    "records": {
-    "su": "6\u20131",
-    "ats": "2\u20133\u20132",
-    "ou": "3\u20134"
+    "su": "6\u20132",
+    "ats": "2\u20134\u20132",
+    "ou": "3\u20135"
    },
    "recent": [
+    {
+     "date": "2026-10-31T16:00:00+00:00",
+     "season": 2026,
+     "opp": "Syracuse",
+     "site": "A",
+     "pts": 27,
+     "opp_pts": 30,
+     "result": "L",
+     "spread": -8.5,
+     "cover": "L",
+     "total": 58.5,
+     "ou": "U"
+    },
     {
      "date": "2026-10-24T16:00:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "L",
      "total": 60.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-09-19T19:30:00+00:00",
-     "season": 2026,
-     "opp": "Louisville",
-     "site": "A",
-     "pts": 31,
-     "opp_pts": 41,
-     "result": "L",
-     "spread": 3.0,
-     "cover": "L",
-     "total": 57.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 36.4,
+     "value": 35.2,
      "fmt": "1",
-     "rank": 20,
+     "rank": 31,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 21.1,
+     "value": 22.2,
      "fmt": "1",
-     "rank": 48,
+     "rank": 55,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 24,
-    "overall": 7.37,
-    "offense": 30.74,
-    "defense": 23.37
+    "rank": 28,
+    "overall": 6.52,
+    "offense": 30.35,
+    "defense": 23.83
    }
   }
  },

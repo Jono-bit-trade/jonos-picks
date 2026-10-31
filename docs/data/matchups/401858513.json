@@ -7,11 +7,24 @@
    "team": "Iowa",
    "rank_ap": 15,
    "records": {
-    "su": "5\u20132",
-    "ats": "4\u20133",
-    "ou": "2\u20135"
+    "su": "6\u20132",
+    "ats": "5\u20133",
+    "ou": "2\u20136"
    },
    "recent": [
+    {
+     "date": "2026-10-31T16:00:00+00:00",
+     "season": 2026,
+     "opp": "Wisconsin",
+     "site": "H",
+     "pts": 30,
+     "opp_pts": 0,
+     "result": "W",
+     "spread": -2.5,
+     "cover": "W",
+     "total": 36.5,
+     "ou": "U"
+    },
     {
      "date": "2026-10-24T19:30:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "W",
      "total": 39.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-09-19T20:00:00+00:00",
-     "season": 2026,
-     "opp": "Northern Iowa",
-     "site": "H",
-     "pts": 55,
-     "opp_pts": 0,
-     "result": "W",
-     "spread": -37.5,
-     "cover": "W",
-     "total": 48.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 28.0,
+     "value": 28.2,
      "fmt": "1",
-     "rank": 75,
+     "rank": 70,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 14.3,
+     "value": 12.5,
      "fmt": "1",
-     "rank": 8,
+     "rank": 3,
      "better": false
     },
     {
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 20,
-    "overall": 7.8,
-    "offense": 27.02,
-    "defense": 19.22
+    "rank": 14,
+    "overall": 9.69,
+    "offense": 27.66,
+    "defense": 17.97
    }
   },
   "home": {
@@ -368,7 +368,7 @@
      "label": "Points allowed per game",
      "value": 16.6,
      "fmt": "1",
-     "rank": 22,
+     "rank": 21,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 18,
-    "overall": 8.1,
-    "offense": 28.75,
-    "defense": 20.64
+    "rank": 19,
+    "overall": 8.07,
+    "offense": 28.68,
+    "defense": 20.61
    }
   }
  },
