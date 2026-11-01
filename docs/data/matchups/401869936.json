@@ -7,11 +7,24 @@
    "team": "UL Monroe",
    "rank_ap": null,
    "records": {
-    "su": "1\u20136",
-    "ats": "2\u20135",
-    "ou": "4\u20133"
+    "su": "1\u20137",
+    "ats": "2\u20136",
+    "ou": "5\u20133"
    },
    "recent": [
+    {
+     "date": "2026-10-31T19:30:00+00:00",
+     "season": 2026,
+     "opp": "Southern Miss",
+     "site": "H",
+     "pts": 21,
+     "opp_pts": 35,
+     "result": "L",
+     "spread": 3.5,
+     "cover": "L",
+     "total": 54.5,
+     "ou": "O"
+    },
     {
      "date": "2026-10-24T20:00:00+00:00",
      "season": 2026,
@@ -63,34 +76,21 @@
      "cover": "L",
      "total": 58.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-09-19T20:30:00+00:00",
-     "season": 2026,
-     "opp": "SE Louisiana",
-     "site": "H",
-     "pts": 35,
-     "opp_pts": 38,
-     "result": "L",
-     "spread": -9.5,
-     "cover": "L",
-     "total": 48.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 20.1,
+     "value": 20.2,
      "fmt": "1",
-     "rank": 122,
+     "rank": 123,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 37.3,
+     "value": 37.0,
      "fmt": "1",
      "rank": 134,
      "better": false
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 134,
-    "overall": -14.2,
-    "offense": 17.69,
-    "defense": 31.9
+    "rank": 135,
+    "overall": -14.93,
+    "offense": 17.42,
+    "defense": 32.35
    }
   },
   "home": {
@@ -360,7 +360,7 @@
      "label": "Points per game",
      "value": 28.8,
      "fmt": "1",
-     "rank": 67,
+     "rank": 69,
      "better": true
     },
     {
@@ -368,7 +368,7 @@
      "label": "Points allowed per game",
      "value": 27.2,
      "fmt": "1",
-     "rank": 98,
+     "rank": 99,
      "better": false
     },
     {
@@ -550,9 +550,9 @@
    ],
    "rating": {
     "rank": 93,
-    "overall": -3.98,
-    "offense": 24.31,
-    "defense": 28.29
+    "overall": -4.09,
+    "offense": 24.25,
+    "defense": 28.34
    }
   }
  },

@@ -84,7 +84,7 @@
      "label": "Points per game",
      "value": 16.3,
      "fmt": "1",
-     "rank": 134,
+     "rank": 135,
      "better": true
     },
     {
@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 127,
-    "overall": -9.59,
-    "offense": 18.14,
-    "defense": 27.73
+    "rank": 124,
+    "overall": -9.57,
+    "offense": 18.19,
+    "defense": 27.76
    }
   },
   "home": {
    "team": "Coastal Carolina",
    "rank_ap": null,
    "records": {
-    "su": "2\u20135",
-    "ats": "3\u20134",
-    "ou": "4\u20133"
+    "su": "3\u20135",
+    "ats": "4\u20134",
+    "ou": "4\u20134"
    },
    "recent": [
+    {
+     "date": "2026-10-31T18:00:00+00:00",
+     "season": 2026,
+     "opp": "Georgia State",
+     "site": "A",
+     "pts": 31,
+     "opp_pts": 20,
+     "result": "W",
+     "spread": 3.5,
+     "cover": "W",
+     "total": 55.5,
+     "ou": "U"
+    },
     {
      "date": "2026-10-17T00:00:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "L",
      "total": 50.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-09-19T15:30:00+00:00",
-     "season": 2026,
-     "opp": "Delaware",
-     "site": "A",
-     "pts": 14,
-     "opp_pts": 22,
-     "result": "L",
-     "spread": 4.5,
-     "cover": "L",
-     "total": 56.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 26.1,
+     "value": 26.8,
      "fmt": "1",
-     "rank": 88,
+     "rank": 82,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 25.9,
+     "value": 25.1,
      "fmt": "1",
-     "rank": 87,
+     "rank": 75,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 119,
-    "overall": -8.13,
-    "offense": 21.68,
-    "defense": 29.81
+    "rank": 109,
+    "overall": -6.57,
+    "offense": 22.17,
+    "defense": 28.74
    }
   }
  },

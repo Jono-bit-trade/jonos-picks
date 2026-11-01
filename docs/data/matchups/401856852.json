@@ -7,11 +7,24 @@
    "team": "Colorado",
    "rank_ap": null,
    "records": {
-    "su": "2\u20135",
-    "ats": "2\u20135",
-    "ou": "4\u20133"
+    "su": "3\u20135",
+    "ats": "2\u20135\u20131",
+    "ou": "5\u20133"
    },
    "recent": [
+    {
+     "date": "2026-10-31T18:00:00+00:00",
+     "season": 2026,
+     "opp": "Kansas State",
+     "site": "H",
+     "pts": 27,
+     "opp_pts": 24,
+     "result": "W",
+     "spread": -3.0,
+     "cover": "P",
+     "total": 47.5,
+     "ou": "O"
+    },
     {
      "date": "2026-10-24T23:00:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "L",
      "total": 54.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-09-19T23:30:00+00:00",
-     "season": 2026,
-     "opp": "Northwestern",
-     "site": "A",
-     "pts": 7,
-     "opp_pts": 41,
-     "result": "L",
-     "spread": 3.5,
-     "cover": "L",
-     "total": 47.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 20.1,
+     "value": 21.0,
      "fmt": "1",
-     "rank": 122,
+     "rank": 117,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 30.1,
+     "value": 29.4,
      "fmt": "1",
-     "rank": 113,
+     "rank": 108,
      "better": false
     },
     {
@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 108,
-    "overall": -6.07,
-    "offense": 22.27,
-    "defense": 28.34
+    "rank": 104,
+    "overall": -5.24,
+    "offense": 22.54,
+    "defense": 27.78
    }
   },
   "home": {
    "team": "Arizona State",
    "rank_ap": null,
    "records": {
-    "su": "4\u20133",
-    "ats": "3\u20134",
-    "ou": "4\u20133"
+    "su": "4\u20134",
+    "ats": "4\u20134",
+    "ou": "5\u20133"
    },
    "recent": [
+    {
+     "date": "2026-10-31T19:30:00+00:00",
+     "season": 2026,
+     "opp": "BYU",
+     "site": "A",
+     "pts": 20,
+     "opp_pts": 27,
+     "result": "L",
+     "spread": 17.5,
+     "cover": "W",
+     "total": 46.5,
+     "ou": "O"
+    },
     {
      "date": "2026-10-24T19:45:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "L",
      "total": 49.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-09-19T16:00:00+00:00",
-     "season": 2026,
-     "opp": "Kansas",
-     "site": "N",
-     "pts": 24,
-     "opp_pts": 17,
-     "result": "W",
-     "spread": -5.5,
-     "cover": "W",
-     "total": 50.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 30.9,
+     "value": 29.5,
      "fmt": "1",
-     "rank": 56,
+     "rank": 62,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 29.9,
+     "value": 29.5,
      "fmt": "1",
-     "rank": 110,
+     "rank": 109,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 72,
-    "overall": -0.39,
-    "offense": 26.88,
-    "defense": 27.27
+    "rank": 68,
+    "overall": -0.01,
+    "offense": 26.81,
+    "defense": 26.82
    }
   }
  },

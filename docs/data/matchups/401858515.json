@@ -84,7 +84,7 @@
      "label": "Points per game",
      "value": 26.9,
      "fmt": "1",
-     "rank": 80,
+     "rank": 79,
      "better": true
     },
     {
@@ -92,7 +92,7 @@
      "label": "Points allowed per game",
      "value": 31.6,
      "fmt": "1",
-     "rank": 121,
+     "rank": 122,
      "better": false
     },
     {
@@ -273,9 +273,9 @@
     }
    ],
    "rating": {
-    "rank": 82,
+    "rank": 81,
     "overall": -2.68,
-    "offense": 25.08,
+    "offense": 25.09,
     "defense": 27.76
    }
   },
@@ -283,11 +283,24 @@
    "team": "Purdue",
    "rank_ap": null,
    "records": {
-    "su": "3\u20134",
-    "ats": "3\u20134",
-    "ou": "6\u20131"
+    "su": "3\u20135",
+    "ats": "3\u20135",
+    "ou": "6\u20132"
    },
    "recent": [
+    {
+     "date": "2026-10-31T20:15:00+00:00",
+     "season": 2026,
+     "opp": "Penn State",
+     "site": "A",
+     "pts": 17,
+     "opp_pts": 31,
+     "result": "L",
+     "spread": 10.0,
+     "cover": "L",
+     "total": 55.5,
+     "ou": "U"
+    },
     {
      "date": "2026-10-17T00:00:00+00:00",
      "season": 2026,
@@ -339,34 +352,21 @@
      "cover": "L",
      "total": 57.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-09-20T03:00:00+00:00",
-     "season": 2026,
-     "opp": "UCLA",
-     "site": "A",
-     "pts": 38,
-     "opp_pts": 52,
-     "result": "L",
-     "spread": 13.5,
-     "cover": "L",
-     "total": 53.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 31.3,
+     "value": 29.5,
      "fmt": "1",
-     "rank": 53,
+     "rank": 62,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 32.3,
+     "value": 32.1,
      "fmt": "1",
      "rank": 125,
      "better": false
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 76,
-    "overall": -1.83,
-    "offense": 27.2,
-    "defense": 29.03
+    "rank": 77,
+    "overall": -1.92,
+    "offense": 26.9,
+    "defense": 28.81
    }
   }
  },

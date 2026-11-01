@@ -7,11 +7,24 @@
    "team": "Penn State",
    "rank_ap": 13,
    "records": {
-    "su": "3\u20134",
-    "ats": "3\u20134",
-    "ou": "3\u20134"
+    "su": "4\u20134",
+    "ats": "4\u20134",
+    "ou": "3\u20135"
    },
    "recent": [
+    {
+     "date": "2026-10-31T20:15:00+00:00",
+     "season": 2026,
+     "opp": "Purdue",
+     "site": "H",
+     "pts": 31,
+     "opp_pts": 17,
+     "result": "W",
+     "spread": -10.0,
+     "cover": "W",
+     "total": 55.5,
+     "ou": "U"
+    },
     {
      "date": "2026-10-17T19:30:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "L",
      "total": 43.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-09-19T16:00:00+00:00",
-     "season": 2026,
-     "opp": "Buffalo",
-     "site": "H",
-     "pts": 55,
-     "opp_pts": 13,
-     "result": "W",
-     "spread": -39.5,
-     "cover": "W",
-     "total": 48.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 28.7,
+     "value": 29.0,
      "fmt": "1",
-     "rank": 68,
+     "rank": 67,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 18.9,
+     "value": 18.6,
      "fmt": "1",
-     "rank": 25,
+     "rank": 22,
      "better": false
     },
     {
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 35,
-    "overall": 5.14,
-    "offense": 27.75,
-    "defense": 22.61
+    "rank": 33,
+    "overall": 5.48,
+    "offense": 27.64,
+    "defense": 22.16
    }
   },
   "home": {
@@ -550,9 +550,9 @@
    ],
    "rating": {
     "rank": 37,
-    "overall": 4.57,
-    "offense": 28.68,
-    "defense": 24.11
+    "overall": 4.66,
+    "offense": 28.75,
+    "defense": 24.09
    }
   }
  },

@@ -84,7 +84,7 @@
      "label": "Points per game",
      "value": 27.0,
      "fmt": "1",
-     "rank": 78,
+     "rank": 77,
      "better": true
     },
     {
@@ -92,7 +92,7 @@
      "label": "Points allowed per game",
      "value": 14.5,
      "fmt": "1",
-     "rank": 10,
+     "rank": 11,
      "better": false
     },
     {
@@ -274,20 +274,33 @@
    ],
    "rating": {
     "rank": 60,
-    "overall": 1.65,
-    "offense": 25.21,
-    "defense": 23.55
+    "overall": 1.54,
+    "offense": 25.16,
+    "defense": 23.61
    }
   },
   "home": {
    "team": "East Carolina",
    "rank_ap": null,
    "records": {
-    "su": "3\u20134",
-    "ats": "3\u20134",
-    "ou": "2\u20135"
+    "su": "4\u20134",
+    "ats": "4\u20134",
+    "ou": "2\u20136"
    },
    "recent": [
+    {
+     "date": "2026-10-31T19:00:00+00:00",
+     "season": 2026,
+     "opp": "Temple",
+     "site": "H",
+     "pts": 17,
+     "opp_pts": 9,
+     "result": "W",
+     "spread": -4.0,
+     "cover": "W",
+     "total": 51.5,
+     "ou": "U"
+    },
     {
      "date": "2026-10-22T23:30:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "L",
      "total": 58.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-09-19T22:00:00+00:00",
-     "season": 2026,
-     "opp": "Old Dominion",
-     "site": "A",
-     "pts": 20,
-     "opp_pts": 17,
-     "result": "W",
-     "spread": 2.5,
-     "cover": "W",
-     "total": 48.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 25.0,
+     "value": 24.0,
      "fmt": "1",
-     "rank": 92,
+     "rank": 95,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 26.3,
+     "value": 24.1,
      "fmt": "1",
-     "rank": 92,
+     "rank": 67,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 88,
-    "overall": -3.57,
-    "offense": 23.92,
-    "defense": 27.49
+    "rank": 87,
+    "overall": -3.42,
+    "offense": 22.91,
+    "defense": 26.33
    }
   }
  },

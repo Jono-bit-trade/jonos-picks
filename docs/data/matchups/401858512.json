@@ -7,11 +7,24 @@
    "team": "UCLA",
    "rank_ap": 7,
    "records": {
-    "su": "7\u20130",
-    "ats": "7\u20130",
-    "ou": "3\u20134"
+    "su": "8\u20130",
+    "ats": "8\u20130",
+    "ou": "3\u20135"
    },
    "recent": [
+    {
+     "date": "2026-10-31T20:15:00+00:00",
+     "season": 2026,
+     "opp": "Nevada",
+     "site": "H",
+     "pts": 27,
+     "opp_pts": 0,
+     "result": "W",
+     "spread": -22.5,
+     "cover": "W",
+     "total": 43.5,
+     "ou": "U"
+    },
     {
      "date": "2026-10-24T19:30:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "W",
      "total": 55.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-09-20T03:00:00+00:00",
-     "season": 2026,
-     "opp": "Purdue",
-     "site": "H",
-     "pts": 52,
-     "opp_pts": 38,
-     "result": "W",
-     "spread": -13.5,
-     "cover": "W",
-     "total": 53.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 34.4,
+     "value": 33.5,
      "fmt": "1",
-     "rank": 36,
+     "rank": 37,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 15.3,
+     "value": 13.4,
      "fmt": "1",
-     "rank": 13,
+     "rank": 5,
      "better": false
     },
     {
@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 32,
-    "overall": 5.84,
-    "offense": 27.38,
-    "defense": 21.55
+    "rank": 27,
+    "overall": 6.79,
+    "offense": 27.09,
+    "defense": 20.3
    }
   },
   "home": {
    "team": "Minnesota",
    "rank_ap": null,
    "records": {
-    "su": "5\u20132",
-    "ats": "5\u20132",
-    "ou": "3\u20134"
+    "su": "5\u20133",
+    "ats": "6\u20132",
+    "ou": "3\u20135"
    },
    "recent": [
+    {
+     "date": "2026-10-31T19:30:00+00:00",
+     "season": 2026,
+     "opp": "Indiana",
+     "site": "A",
+     "pts": 16,
+     "opp_pts": 23,
+     "result": "L",
+     "spread": 20.5,
+     "cover": "W",
+     "total": 40.5,
+     "ou": "U"
+    },
     {
      "date": "2026-10-24T19:30:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "W",
      "total": 44.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-09-19T16:00:00+00:00",
-     "season": 2026,
-     "opp": "Akron",
-     "site": "H",
-     "pts": 41,
-     "opp_pts": 7,
-     "result": "W",
-     "spread": -22.5,
-     "cover": "W",
-     "total": 48.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 26.6,
+     "value": 25.2,
      "fmt": "1",
-     "rank": 83,
+     "rank": 89,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 20.1,
+     "value": 20.5,
      "fmt": "1",
-     "rank": 36,
+     "rank": 34,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 55,
-    "overall": 1.83,
-    "offense": 24.72,
-    "defense": 22.89
+    "rank": 47,
+    "overall": 2.54,
+    "offense": 24.9,
+    "defense": 22.36
    }
   }
  },

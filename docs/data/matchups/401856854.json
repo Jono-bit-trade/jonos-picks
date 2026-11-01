@@ -84,7 +84,7 @@
      "label": "Points per game",
      "value": 40.0,
      "fmt": "1",
-     "rank": 7,
+     "rank": 8,
      "better": true
     },
     {
@@ -274,20 +274,33 @@
    ],
    "rating": {
     "rank": 58,
-    "overall": 1.7,
-    "offense": 28.44,
-    "defense": 26.74
+    "overall": 1.71,
+    "offense": 28.39,
+    "defense": 26.68
    }
   },
   "home": {
    "team": "Kansas State",
    "rank_ap": null,
    "records": {
-    "su": "4\u20133",
-    "ats": "3\u20134",
-    "ou": "4\u20133"
+    "su": "4\u20134",
+    "ats": "3\u20134\u20131",
+    "ou": "5\u20133"
    },
    "recent": [
+    {
+     "date": "2026-10-31T18:00:00+00:00",
+     "season": 2026,
+     "opp": "Colorado",
+     "site": "A",
+     "pts": 24,
+     "opp_pts": 27,
+     "result": "L",
+     "spread": 3.0,
+     "cover": "P",
+     "total": 47.5,
+     "ou": "O"
+    },
     {
      "date": "2026-10-24T19:45:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "L",
      "total": 55.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-09-19T16:00:00+00:00",
-     "season": 2026,
-     "opp": "Tulane",
-     "site": "H",
-     "pts": 31,
-     "opp_pts": 20,
-     "result": "W",
-     "spread": -20.5,
-     "cover": "L",
-     "total": 49.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 32.9,
+     "value": 31.8,
      "fmt": "1",
-     "rank": 43,
+     "rank": 49,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 21.1,
+     "value": 21.9,
      "fmt": "1",
-     "rank": 48,
+     "rank": 50,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 42,
-    "overall": 3.21,
-    "offense": 28.15,
-    "defense": 24.94
+    "rank": 48,
+    "overall": 2.47,
+    "offense": 27.72,
+    "defense": 25.25
    }
   }
  },

@@ -7,11 +7,24 @@
    "team": "Temple",
    "rank_ap": null,
    "records": {
-    "su": "2\u20135",
-    "ats": "4\u20132\u20131",
-    "ou": "3\u20134"
+    "su": "2\u20136",
+    "ats": "4\u20133\u20131",
+    "ou": "3\u20135"
    },
    "recent": [
+    {
+     "date": "2026-10-31T19:00:00+00:00",
+     "season": 2026,
+     "opp": "East Carolina",
+     "site": "A",
+     "pts": 9,
+     "opp_pts": 17,
+     "result": "L",
+     "spread": 4.0,
+     "cover": "L",
+     "total": 51.5,
+     "ou": "U"
+    },
     {
      "date": "2026-10-17T17:00:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "P",
      "total": 48.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-09-19T19:00:00+00:00",
-     "season": 2026,
-     "opp": "Toledo",
-     "site": "A",
-     "pts": 48,
-     "opp_pts": 49,
-     "result": "L",
-     "spread": 4.5,
-     "cover": "W",
-     "total": 48.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 25.7,
+     "value": 23.6,
      "fmt": "1",
-     "rank": 90,
+     "rank": 97,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 28.0,
+     "value": 26.6,
      "fmt": "1",
-     "rank": 105,
+     "rank": 94,
      "better": false
     },
     {
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 110,
-    "overall": -6.84,
-    "offense": 23.16,
-    "defense": 30.0
+    "rank": 112,
+    "overall": -7.01,
+    "offense": 22.0,
+    "defense": 29.01
    }
   },
   "home": {
@@ -360,7 +360,7 @@
      "label": "Points per game",
      "value": 27.6,
      "fmt": "1",
-     "rank": 76,
+     "rank": 75,
      "better": true
     },
     {
@@ -368,7 +368,7 @@
      "label": "Points allowed per game",
      "value": 29.9,
      "fmt": "1",
-     "rank": 111,
+     "rank": 112,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 104,
-    "overall": -5.13,
-    "offense": 23.72,
-    "defense": 28.85
+    "rank": 103,
+    "overall": -5.12,
+    "offense": 23.68,
+    "defense": 28.8
    }
   }
  },

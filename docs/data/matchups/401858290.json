@@ -226,11 +226,24 @@
    "team": "Wake Forest",
    "rank_ap": 14,
    "records": {
-    "su": "6\u20131",
-    "ats": "5\u20132",
-    "ou": "3\u20134"
+    "su": "7\u20131",
+    "ats": "6\u20132",
+    "ou": "4\u20134"
    },
    "recent": [
+    {
+     "date": "2026-10-31T19:45:00+00:00",
+     "season": 2026,
+     "opp": "Virginia",
+     "site": "H",
+     "pts": 51,
+     "opp_pts": 7,
+     "result": "W",
+     "spread": -13.5,
+     "cover": "W",
+     "total": 48.5,
+     "ou": "O"
+    },
     {
      "date": "2026-10-18T02:30:00+00:00",
      "season": 2026,
@@ -282,36 +295,23 @@
      "cover": "W",
      "total": 57.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-09-18T23:30:00+00:00",
-     "season": 2026,
-     "opp": "Miami",
-     "site": "H",
-     "pts": 20,
-     "opp_pts": 33,
-     "result": "L",
-     "spread": 20.5,
-     "cover": "W",
-     "total": 55.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 37.4,
+     "value": 39.1,
      "fmt": "1",
-     "rank": 15,
+     "rank": 10,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 19.4,
+     "value": 17.9,
      "fmt": "1",
-     "rank": 31,
+     "rank": 21,
      "better": false
     },
     {
@@ -492,10 +492,10 @@
     }
    ],
    "rating": {
-    "rank": 21,
-    "overall": 7.71,
-    "offense": 29.28,
-    "defense": 21.57
+    "rank": 14,
+    "overall": 9.99,
+    "offense": 30.53,
+    "defense": 20.54
    }
   }
  },

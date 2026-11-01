@@ -84,7 +84,7 @@
      "label": "Points per game",
      "value": 34.4,
      "fmt": "1",
-     "rank": 36,
+     "rank": 31,
      "better": true
     },
     {
@@ -92,7 +92,7 @@
      "label": "Points allowed per game",
      "value": 20.6,
      "fmt": "1",
-     "rank": 38,
+     "rank": 36,
      "better": false
     },
     {
@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 27,
-    "overall": 6.73,
+    "rank": 28,
+    "overall": 6.78,
     "offense": 30.3,
-    "defense": 23.57
+    "defense": 23.52
    }
   },
   "home": {
    "team": "Colorado State",
    "rank_ap": null,
    "records": {
-    "su": "3\u20134",
-    "ats": "4\u20133",
-    "ou": "7\u20130"
+    "su": "3\u20135",
+    "ats": "4\u20134",
+    "ou": "7\u20131"
    },
    "recent": [
+    {
+     "date": "2026-10-31T19:30:00+00:00",
+     "season": 2026,
+     "opp": "Utah State",
+     "site": "A",
+     "pts": 14,
+     "opp_pts": 31,
+     "result": "L",
+     "spread": 9.5,
+     "cover": "L",
+     "total": 59.5,
+     "ou": "U"
+    },
     {
      "date": "2026-10-24T22:30:00+00:00",
      "season": 2026,
@@ -339,34 +352,21 @@
      "cover": "W",
      "total": 56.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-09-19T23:30:00+00:00",
-     "season": 2026,
-     "opp": "BYU",
-     "site": "H",
-     "pts": 23,
-     "opp_pts": 41,
-     "result": "L",
-     "spread": 17.5,
-     "cover": "L",
-     "total": 54.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 38.6,
+     "value": 35.5,
      "fmt": "1",
-     "rank": 12,
+     "rank": 25,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 44.0,
+     "value": 42.4,
      "fmt": "1",
      "rank": 138,
      "better": false
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 122,
-    "overall": -9.27,
-    "offense": 28.07,
-    "defense": 37.34
+    "rank": 127,
+    "overall": -9.97,
+    "offense": 27.08,
+    "defense": 37.05
    }
   }
  },

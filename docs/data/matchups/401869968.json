@@ -7,11 +7,24 @@
    "team": "South Alabama",
    "rank_ap": null,
    "records": {
-    "su": "4\u20133",
-    "ats": "4\u20133",
-    "ou": "5\u20132"
+    "su": "4\u20134",
+    "ats": "4\u20134",
+    "ou": "5\u20133"
    },
    "recent": [
+    {
+     "date": "2026-10-31T19:00:00+00:00",
+     "season": 2026,
+     "opp": "Louisiana Tech",
+     "site": "H",
+     "pts": 20,
+     "opp_pts": 35,
+     "result": "L",
+     "spread": 6.0,
+     "cover": "L",
+     "total": 57.5,
+     "ou": "U"
+    },
     {
      "date": "2026-10-20T23:30:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "L",
      "total": 54.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-09-19T23:00:00+00:00",
-     "season": 2026,
-     "opp": "Ohio",
-     "site": "H",
-     "pts": 41,
-     "opp_pts": 36,
-     "result": "W",
-     "spread": -7.0,
-     "cover": "L",
-     "total": 49.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 35.1,
+     "value": 33.2,
      "fmt": "1",
-     "rank": 32,
+     "rank": 39,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 32.4,
+     "value": 32.8,
      "fmt": "1",
-     "rank": 126,
+     "rank": 128,
      "better": false
     },
     {
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 86,
-    "overall": -3.35,
-    "offense": 28.18,
-    "defense": 31.53
+    "rank": 96,
+    "overall": -4.37,
+    "offense": 27.48,
+    "defense": 31.85
    }
   },
   "home": {
@@ -360,7 +360,7 @@
      "label": "Points per game",
      "value": 30.1,
      "fmt": "1",
-     "rank": 60,
+     "rank": 57,
      "better": true
     },
     {
@@ -368,7 +368,7 @@
      "label": "Points allowed per game",
      "value": 21.2,
      "fmt": "1",
-     "rank": 49,
+     "rank": 45,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 68,
-    "overall": 0.13,
-    "offense": 25.82,
-    "defense": 25.69
+    "rank": 66,
+    "overall": 0.25,
+    "offense": 25.85,
+    "defense": 25.61
    }
   }
  },

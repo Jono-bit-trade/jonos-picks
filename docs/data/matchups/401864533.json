@@ -7,11 +7,24 @@
    "team": "New Mexico",
    "rank_ap": null,
    "records": {
-    "su": "6\u20131",
-    "ats": "6\u20131",
-    "ou": "3\u20134"
+    "su": "7\u20131",
+    "ats": "6\u20132",
+    "ou": "3\u20135"
    },
    "recent": [
+    {
+     "date": "2026-10-31T20:00:00+00:00",
+     "season": 2026,
+     "opp": "San Jos\u00e9 State",
+     "site": "A",
+     "pts": 21,
+     "opp_pts": 16,
+     "result": "W",
+     "spread": -15.5,
+     "cover": "L",
+     "total": 43.5,
+     "ou": "U"
+    },
     {
      "date": "2026-10-25T02:00:00+00:00",
      "season": 2026,
@@ -63,34 +76,21 @@
      "cover": "W",
      "total": 47.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-09-19T23:30:00+00:00",
-     "season": 2026,
-     "opp": "Oklahoma",
-     "site": "A",
-     "pts": 6,
-     "opp_pts": 14,
-     "result": "L",
-     "spread": 21.5,
-     "cover": "W",
-     "total": 45.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 37.0,
+     "value": 35.0,
      "fmt": "1",
-     "rank": 20,
+     "rank": 28,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 11.3,
+     "value": 11.9,
      "fmt": "1",
      "rank": 1,
      "better": false
@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 36,
-    "overall": 4.69,
-    "offense": 26.93,
-    "defense": 22.24
+    "rank": 38,
+    "overall": 4.17,
+    "offense": 26.28,
+    "defense": 22.12
    }
   },
   "home": {
    "team": "Nevada",
    "rank_ap": null,
    "records": {
-    "su": "3\u20134",
-    "ats": "5\u20132",
-    "ou": "3\u20134"
+    "su": "3\u20135",
+    "ats": "5\u20133",
+    "ou": "3\u20135"
    },
    "recent": [
+    {
+     "date": "2026-10-31T20:15:00+00:00",
+     "season": 2026,
+     "opp": "UCLA",
+     "site": "A",
+     "pts": 0,
+     "opp_pts": 27,
+     "result": "L",
+     "spread": 22.5,
+     "cover": "L",
+     "total": 43.5,
+     "ou": "U"
+    },
     {
      "date": "2026-10-24T21:00:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "W",
      "total": 50.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-09-19T23:00:00+00:00",
-     "season": 2026,
-     "opp": "Middle Tennessee",
-     "site": "A",
-     "pts": 20,
-     "opp_pts": 27,
-     "result": "L",
-     "spread": -3.5,
-     "cover": "L",
-     "total": 50.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 26.3,
+     "value": 23.0,
      "fmt": "1",
-     "rank": 86,
+     "rank": 101,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 22.0,
+     "value": 22.6,
      "fmt": "1",
-     "rank": 53,
+     "rank": 56,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 106,
-    "overall": -5.78,
-    "offense": 21.38,
-    "defense": 27.15
+    "rank": 110,
+    "overall": -6.69,
+    "offense": 20.22,
+    "defense": 26.91
    }
   }
  },

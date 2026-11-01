@@ -84,7 +84,7 @@
      "label": "Points per game",
      "value": 27.6,
      "fmt": "1",
-     "rank": 77,
+     "rank": 76,
      "better": true
     },
     {
@@ -92,7 +92,7 @@
      "label": "Points allowed per game",
      "value": 20.9,
      "fmt": "1",
-     "rank": 40,
+     "rank": 38,
      "better": false
     },
     {
@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 64,
-    "overall": 1.22,
-    "offense": 24.95,
-    "defense": 23.73
+    "rank": 62,
+    "overall": 1.25,
+    "offense": 24.94,
+    "defense": 23.69
    }
   },
   "home": {
    "team": "Utah State",
    "rank_ap": null,
    "records": {
-    "su": "2\u20135",
-    "ats": "4\u20133",
-    "ou": "1\u20136"
+    "su": "3\u20135",
+    "ats": "5\u20133",
+    "ou": "1\u20137"
    },
    "recent": [
+    {
+     "date": "2026-10-31T19:30:00+00:00",
+     "season": 2026,
+     "opp": "Colorado State",
+     "site": "H",
+     "pts": 31,
+     "opp_pts": 14,
+     "result": "W",
+     "spread": -9.5,
+     "cover": "W",
+     "total": 59.5,
+     "ou": "U"
+    },
     {
      "date": "2026-10-24T23:30:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "W",
      "total": 47.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-09-19T19:30:00+00:00",
-     "season": 2026,
-     "opp": "Utah",
-     "site": "A",
-     "pts": 0,
-     "opp_pts": 33,
-     "result": "L",
-     "spread": 26.5,
-     "cover": "L",
-     "total": 55.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 14.9,
+     "value": 16.9,
      "fmt": "1",
-     "rank": 137,
+     "rank": 134,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 23.0,
+     "value": 21.9,
      "fmt": "1",
-     "rank": 58,
+     "rank": 50,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 97,
-    "overall": -4.25,
-    "offense": 21.11,
-    "defense": 25.36
+    "rank": 89,
+    "overall": -3.47,
+    "offense": 20.85,
+    "defense": 24.32
    }
   }
  },

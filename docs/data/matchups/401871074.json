@@ -84,7 +84,7 @@
      "label": "Points per game",
      "value": 24.4,
      "fmt": "1",
-     "rank": 95,
+     "rank": 92,
      "better": true
     },
     {
@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 124,
-    "overall": -9.44,
-    "offense": 21.59,
-    "defense": 31.03
+    "rank": 122,
+    "overall": -9.4,
+    "offense": 21.57,
+    "defense": 30.98
    }
   },
   "home": {
    "team": "Florida International",
    "rank_ap": null,
    "records": {
-    "su": "3\u20134",
-    "ats": "3\u20133\u20131",
-    "ou": "3\u20134"
+    "su": "3\u20135",
+    "ats": "3\u20134\u20131",
+    "ou": "4\u20134"
    },
    "recent": [
+    {
+     "date": "2026-10-31T19:30:00+00:00",
+     "season": 2026,
+     "opp": "Liberty",
+     "site": "A",
+     "pts": 10,
+     "opp_pts": 49,
+     "result": "L",
+     "spread": 13.5,
+     "cover": "L",
+     "total": 45.5,
+     "ou": "O"
+    },
     {
      "date": "2026-10-20T23:00:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "L",
      "total": 54.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-09-19T22:00:00+00:00",
-     "season": 2026,
-     "opp": "Florida Atlantic",
-     "site": "A",
-     "pts": 10,
-     "opp_pts": 16,
-     "result": "L",
-     "spread": 5.5,
-     "cover": "L",
-     "total": 62.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 20.1,
+     "value": 18.9,
      "fmt": "1",
-     "rank": 122,
+     "rank": 128,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 16.3,
+     "value": 20.4,
      "fmt": "1",
-     "rank": 19,
+     "rank": 33,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 102,
-    "overall": -4.85,
-    "offense": 20.25,
-    "defense": 25.1
+    "rank": 111,
+    "overall": -6.97,
+    "offense": 19.79,
+    "defense": 26.76
    }
   }
  },

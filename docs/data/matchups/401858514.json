@@ -7,11 +7,24 @@
    "team": "Oregon",
    "rank_ap": 13,
    "records": {
-    "su": "4\u20133",
-    "ats": "2\u20135",
-    "ou": "4\u20133"
+    "su": "5\u20133",
+    "ats": "3\u20135",
+    "ou": "5\u20133"
    },
    "recent": [
+    {
+     "date": "2026-10-31T19:30:00+00:00",
+     "season": 2026,
+     "opp": "Northwestern",
+     "site": "H",
+     "pts": 34,
+     "opp_pts": 26,
+     "result": "W",
+     "spread": -4.0,
+     "cover": "W",
+     "total": 47.5,
+     "ou": "O"
+    },
     {
      "date": "2026-10-24T19:00:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "W",
      "total": 60.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-09-19T02:30:00+00:00",
-     "season": 2026,
-     "opp": "Portland State",
-     "site": "H",
-     "pts": 84,
-     "opp_pts": 0,
-     "result": "W",
-     "spread": -58.5,
-     "cover": "W",
-     "total": 71.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 33.1,
+     "value": 33.2,
      "fmt": "1",
-     "rank": 40,
+     "rank": 39,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 20.7,
+     "value": 21.4,
      "fmt": "1",
-     "rank": 39,
+     "rank": 48,
      "better": false
     },
     {
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 9,
-    "overall": 12.83,
-    "offense": 32.06,
-    "defense": 19.23
+    "rank": 10,
+    "overall": 12.91,
+    "offense": 32.54,
+    "defense": 19.63
    }
   },
   "home": {
@@ -368,7 +368,7 @@
      "label": "Points allowed per game",
      "value": 13.4,
      "fmt": "1",
-     "rank": 6,
+     "rank": 7,
      "better": false
     },
     {
@@ -550,9 +550,9 @@
    ],
    "rating": {
     "rank": 1,
-    "overall": 18.95,
-    "offense": 34.0,
-    "defense": 15.05
+    "overall": 18.91,
+    "offense": 33.96,
+    "defense": 15.06
    }
   }
  },

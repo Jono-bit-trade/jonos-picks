@@ -92,7 +92,7 @@
      "label": "Points allowed per game",
      "value": 12.5,
      "fmt": "1",
-     "rank": 3,
+     "rank": 4,
      "better": false
     },
     {
@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 14,
-    "overall": 9.69,
+    "rank": 15,
+    "overall": 9.75,
     "offense": 27.66,
-    "defense": 17.97
+    "defense": 17.91
    }
   },
   "home": {
    "team": "Northwestern",
    "rank_ap": 20,
    "records": {
-    "su": "6\u20131",
-    "ats": "5\u20132",
-    "ou": "5\u20132"
+    "su": "6\u20132",
+    "ats": "5\u20133",
+    "ou": "6\u20132"
    },
    "recent": [
+    {
+     "date": "2026-10-31T19:30:00+00:00",
+     "season": 2026,
+     "opp": "Oregon",
+     "site": "A",
+     "pts": 26,
+     "opp_pts": 34,
+     "result": "L",
+     "spread": 4.0,
+     "cover": "L",
+     "total": 47.5,
+     "ou": "O"
+    },
     {
      "date": "2026-10-24T16:00:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "W",
      "total": 46.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-09-26T00:00:00+00:00",
-     "season": 2026,
-     "opp": "Indiana",
-     "site": "A",
-     "pts": 23,
-     "opp_pts": 29,
-     "result": "L",
-     "spread": 20.5,
-     "cover": "W",
-     "total": 49.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 34.7,
+     "value": 33.6,
      "fmt": "1",
-     "rank": 35,
+     "rank": 36,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 16.6,
+     "value": 18.8,
      "fmt": "1",
-     "rank": 21,
+     "rank": 23,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 19,
-    "overall": 8.07,
-    "offense": 28.68,
-    "defense": 20.61
+    "rank": 20,
+    "overall": 8.09,
+    "offense": 29.11,
+    "defense": 21.01
    }
   }
  },

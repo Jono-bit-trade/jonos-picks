@@ -84,7 +84,7 @@
      "label": "Points per game",
      "value": 15.1,
      "fmt": "1",
-     "rank": 135,
+     "rank": 136,
      "better": true
     },
     {
@@ -274,20 +274,33 @@
    ],
    "rating": {
     "rank": 138,
-    "overall": -16.79,
-    "offense": 17.2,
-    "defense": 34.0
+    "overall": -16.83,
+    "offense": 17.16,
+    "defense": 33.99
    }
   },
   "home": {
    "team": "San Jos\u00e9 State",
    "rank_ap": null,
    "records": {
-    "su": "4\u20134",
-    "ats": "4\u20134",
-    "ou": "1\u20137"
+    "su": "4\u20135",
+    "ats": "5\u20134",
+    "ou": "1\u20138"
    },
    "recent": [
+    {
+     "date": "2026-10-31T20:00:00+00:00",
+     "season": 2026,
+     "opp": "New Mexico",
+     "site": "H",
+     "pts": 16,
+     "opp_pts": 21,
+     "result": "L",
+     "spread": 15.5,
+     "cover": "W",
+     "total": 43.5,
+     "ou": "U"
+    },
     {
      "date": "2026-10-24T21:00:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "W",
      "total": 51.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-09-20T03:00:00+00:00",
-     "season": 2026,
-     "opp": "Fresno State",
-     "site": "H",
-     "pts": 10,
-     "opp_pts": 26,
-     "result": "L",
-     "spread": 4.0,
-     "cover": "L",
-     "total": 47.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 20.4,
+     "value": 19.9,
      "fmt": "1",
-     "rank": 121,
+     "rank": 124,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 22.5,
+     "value": 22.3,
      "fmt": "1",
-     "rank": 56,
+     "rank": 55,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 120,
-    "overall": -8.46,
-    "offense": 19.89,
-    "defense": 28.35
+    "rank": 119,
+    "overall": -8.21,
+    "offense": 19.74,
+    "defense": 27.95
    }
   }
  },

@@ -84,7 +84,7 @@
      "label": "Points per game",
      "value": 20.8,
      "fmt": "1",
-     "rank": 119,
+     "rank": 120,
      "better": true
     },
     {
@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 100,
-    "overall": -4.63,
-    "offense": 22.77,
-    "defense": 27.41
+    "rank": 99,
+    "overall": -4.66,
+    "offense": 22.74,
+    "defense": 27.4
    }
   },
   "home": {
    "team": "UTEP",
    "rank_ap": null,
    "records": {
-    "su": "1\u20136",
-    "ats": "1\u20136",
-    "ou": "3\u20134"
+    "su": "1\u20137",
+    "ats": "1\u20137",
+    "ou": "3\u20135"
    },
    "recent": [
+    {
+     "date": "2026-10-31T19:30:00+00:00",
+     "season": 2026,
+     "opp": "North Dakota State",
+     "site": "A",
+     "pts": 7,
+     "opp_pts": 31,
+     "result": "L",
+     "spread": 23.5,
+     "cover": "L",
+     "total": 44.5,
+     "ou": "U"
+    },
     {
      "date": "2026-10-18T01:00:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "L",
      "total": 56.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-09-19T19:30:00+00:00",
-     "season": 2026,
-     "opp": "Michigan",
-     "site": "A",
-     "pts": 17,
-     "opp_pts": 52,
-     "result": "L",
-     "spread": 34.5,
-     "cover": "L",
-     "total": 48.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 15.1,
+     "value": 14.1,
      "fmt": "1",
-     "rank": 135,
+     "rank": 138,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 37.3,
+     "value": 36.5,
      "fmt": "1",
-     "rank": 134,
+     "rank": 133,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 135,
-    "overall": -14.39,
-    "offense": 18.41,
-    "defense": 32.8
+    "rank": 136,
+    "overall": -15.05,
+    "offense": 17.77,
+    "defense": 32.82
    }
   }
  },

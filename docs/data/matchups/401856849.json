@@ -7,11 +7,24 @@
    "team": "BYU",
    "rank_ap": 8,
    "records": {
-    "su": "6\u20131",
-    "ats": "6\u20131",
-    "ou": "4\u20133"
+    "su": "7\u20131",
+    "ats": "6\u20132",
+    "ou": "5\u20133"
    },
    "recent": [
+    {
+     "date": "2026-10-31T19:30:00+00:00",
+     "season": 2026,
+     "opp": "Arizona State",
+     "site": "H",
+     "pts": 27,
+     "opp_pts": 20,
+     "result": "W",
+     "spread": -17.5,
+     "cover": "L",
+     "total": 46.5,
+     "ou": "O"
+    },
     {
      "date": "2026-10-24T19:30:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "W",
      "total": 48.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-09-19T23:30:00+00:00",
-     "season": 2026,
-     "opp": "Colorado State",
-     "site": "A",
-     "pts": 41,
-     "opp_pts": 23,
-     "result": "W",
-     "spread": -17.5,
-     "cover": "W",
-     "total": 54.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 33.1,
+     "value": 32.4,
      "fmt": "1",
-     "rank": 40,
+     "rank": 45,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 18.6,
+     "value": 18.8,
      "fmt": "1",
-     "rank": 24,
+     "rank": 23,
      "better": false
     },
     {
@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 15,
-    "overall": 9.38,
-    "offense": 30.03,
-    "defense": 20.66
+    "rank": 16,
+    "overall": 8.86,
+    "offense": 29.56,
+    "defense": 20.71
    }
   },
   "home": {
    "team": "Utah",
    "rank_ap": 6,
    "records": {
-    "su": "7\u20130",
-    "ats": "6\u20131",
-    "ou": "4\u20133"
+    "su": "8\u20130",
+    "ats": "7\u20131",
+    "ou": "5\u20133"
    },
    "recent": [
+    {
+     "date": "2026-10-31T19:45:00+00:00",
+     "season": 2026,
+     "opp": "Cincinnati",
+     "site": "A",
+     "pts": 49,
+     "opp_pts": 25,
+     "result": "W",
+     "spread": -7.0,
+     "cover": "W",
+     "total": 56.5,
+     "ou": "O"
+    },
     {
      "date": "2026-10-25T02:15:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "W",
      "total": 46.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-09-19T19:30:00+00:00",
-     "season": 2026,
-     "opp": "Utah State",
-     "site": "H",
-     "pts": 33,
-     "opp_pts": 0,
-     "result": "W",
-     "spread": -26.5,
-     "cover": "W",
-     "total": 55.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 37.4,
+     "value": 38.9,
      "fmt": "1",
-     "rank": 15,
+     "rank": 12,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 14.6,
+     "value": 15.9,
      "fmt": "1",
-     "rank": 11,
+     "rank": 16,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 11,
-    "overall": 12.39,
-    "offense": 32.85,
-    "defense": 20.46
+    "rank": 8,
+    "overall": 13.71,
+    "offense": 34.14,
+    "defense": 20.43
    }
   }
  },
