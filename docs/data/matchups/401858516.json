@@ -84,7 +84,7 @@
      "label": "Points per game",
      "value": 29.0,
      "fmt": "1",
-     "rank": 67,
+     "rank": 65,
      "better": true
     },
     {
@@ -92,7 +92,7 @@
      "label": "Points allowed per game",
      "value": 18.6,
      "fmt": "1",
-     "rank": 22,
+     "rank": 24,
      "better": false
     },
     {
@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 33,
-    "overall": 5.48,
-    "offense": 27.64,
-    "defense": 22.16
+    "rank": 34,
+    "overall": 5.58,
+    "offense": 27.7,
+    "defense": 22.12
    }
   },
   "home": {
    "team": "Washington",
    "rank_ap": 19,
    "records": {
-    "su": "4\u20133",
-    "ats": "2\u20135",
-    "ou": "4\u20133"
+    "su": "5\u20133",
+    "ats": "3\u20135",
+    "ou": "4\u20134"
    },
    "recent": [
+    {
+     "date": "2026-11-01T00:00:00+00:00",
+     "season": 2026,
+     "opp": "Nebraska",
+     "site": "A",
+     "pts": 17,
+     "opp_pts": 10,
+     "result": "W",
+     "spread": 7.5,
+     "cover": "W",
+     "total": 49.5,
+     "ou": "U"
+    },
     {
      "date": "2026-10-17T00:00:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "L",
      "total": 44.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-09-19T23:15:00+00:00",
-     "season": 2026,
-     "opp": "Eastern Washington",
-     "site": "H",
-     "pts": 48,
-     "opp_pts": 16,
-     "result": "W",
-     "spread": -42.5,
-     "cover": "L",
-     "total": 58.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 27.9,
+     "value": 26.5,
      "fmt": "1",
-     "rank": 73,
+     "rank": 83,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 22.7,
+     "value": 21.1,
      "fmt": "1",
-     "rank": 57,
+     "rank": 43,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 37,
-    "overall": 4.66,
-    "offense": 28.75,
-    "defense": 24.09
+    "rank": 33,
+    "overall": 5.77,
+    "offense": 28.36,
+    "defense": 22.59
    }
   }
  },

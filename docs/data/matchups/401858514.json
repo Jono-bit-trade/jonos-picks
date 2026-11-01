@@ -84,7 +84,7 @@
      "label": "Points per game",
      "value": 33.2,
      "fmt": "1",
-     "rank": 39,
+     "rank": 38,
      "better": true
     },
     {
@@ -274,20 +274,33 @@
    ],
    "rating": {
     "rank": 10,
-    "overall": 12.91,
-    "offense": 32.54,
-    "defense": 19.63
+    "overall": 12.9,
+    "offense": 32.52,
+    "defense": 19.62
    }
   },
   "home": {
    "team": "Ohio State",
    "rank_ap": 2,
    "records": {
-    "su": "6\u20131",
-    "ats": "5\u20132",
-    "ou": "4\u20133"
+    "su": "6\u20132",
+    "ats": "5\u20133",
+    "ou": "4\u20134"
    },
    "recent": [
+    {
+     "date": "2026-10-31T23:30:00+00:00",
+     "season": 2026,
+     "opp": "USC",
+     "site": "A",
+     "pts": 18,
+     "opp_pts": 30,
+     "result": "L",
+     "spread": -6.5,
+     "cover": "L",
+     "total": 50.5,
+     "ou": "U"
+    },
     {
      "date": "2026-10-17T16:00:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "L",
      "total": 53.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-09-19T16:00:00+00:00",
-     "season": 2026,
-     "opp": "Kent State",
-     "site": "H",
-     "pts": 59,
-     "opp_pts": 3,
-     "result": "W",
-     "spread": -52.5,
-     "cover": "W",
-     "total": 58.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 39.3,
+     "value": 36.6,
      "fmt": "1",
-     "rank": 9,
+     "rank": 19,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 13.4,
+     "value": 15.5,
      "fmt": "1",
-     "rank": 7,
+     "rank": 13,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 1,
-    "overall": 18.91,
-    "offense": 33.96,
-    "defense": 15.06
+    "rank": 2,
+    "overall": 17.45,
+    "offense": 33.06,
+    "defense": 15.61
    }
   }
  },

@@ -84,7 +84,7 @@
      "label": "Points per game",
      "value": 29.2,
      "fmt": "1",
-     "rank": 64,
+     "rank": 62,
      "better": true
     },
     {
@@ -274,20 +274,33 @@
    ],
    "rating": {
     "rank": 85,
-    "overall": -3.27,
+    "overall": -3.25,
     "offense": 25.15,
-    "defense": 28.42
+    "defense": 28.4
    }
   },
   "home": {
    "team": "Army",
    "rank_ap": null,
    "records": {
-    "su": "5\u20132",
-    "ats": "3\u20133\u20131",
-    "ou": "5\u20132"
+    "su": "5\u20133",
+    "ats": "3\u20134\u20131",
+    "ou": "6\u20132"
    },
    "recent": [
+    {
+     "date": "2026-11-01T00:00:00+00:00",
+     "season": 2026,
+     "opp": "Memphis",
+     "site": "A",
+     "pts": 22,
+     "opp_pts": 49,
+     "result": "L",
+     "spread": 6.0,
+     "cover": "L",
+     "total": 59.5,
+     "ou": "O"
+    },
     {
      "date": "2026-10-24T00:30:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "L",
      "total": 46.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-09-25T20:00:00+00:00",
-     "season": 2026,
-     "opp": "Temple",
-     "site": "A",
-     "pts": 21,
-     "opp_pts": 17,
-     "result": "W",
-     "spread": -4.0,
-     "cover": "P",
-     "total": 48.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 35.3,
+     "value": 33.6,
      "fmt": "1",
-     "rank": 26,
+     "rank": 34,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 22.1,
+     "value": 25.5,
      "fmt": "1",
-     "rank": 53,
+     "rank": 83,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 53,
-    "overall": 2.04,
-    "offense": 26.74,
-    "defense": 24.7
+    "rank": 68,
+    "overall": 0.02,
+    "offense": 26.36,
+    "defense": 26.34
    }
   }
  },

@@ -84,7 +84,7 @@
      "label": "Points per game",
      "value": 33.9,
      "fmt": "1",
-     "rank": 34,
+     "rank": 32,
      "better": true
     },
     {
@@ -92,7 +92,7 @@
      "label": "Points allowed per game",
      "value": 26.6,
      "fmt": "1",
-     "rank": 94,
+     "rank": 92,
      "better": false
     },
     {
@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 102,
-    "overall": -5.11,
-    "offense": 25.56,
-    "defense": 30.67
+    "rank": 101,
+    "overall": -5.1,
+    "offense": 25.54,
+    "defense": 30.63
    }
   },
   "home": {
    "team": "App State",
    "rank_ap": null,
    "records": {
-    "su": "5\u20132",
-    "ats": "5\u20132",
-    "ou": "4\u20133"
+    "su": "5\u20133",
+    "ats": "5\u20133",
+    "ou": "4\u20134"
    },
    "recent": [
+    {
+     "date": "2026-10-31T22:30:00+00:00",
+     "season": 2026,
+     "opp": "Georgia Southern",
+     "site": "A",
+     "pts": 3,
+     "opp_pts": 19,
+     "result": "L",
+     "spread": 6.0,
+     "cover": "L",
+     "total": 54.5,
+     "ou": "U"
+    },
     {
      "date": "2026-10-22T23:00:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "W",
      "total": 56.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-09-19T22:00:00+00:00",
-     "season": 2026,
-     "opp": "Charlotte",
-     "site": "H",
-     "pts": 26,
-     "opp_pts": 21,
-     "result": "W",
-     "spread": -16.5,
-     "cover": "L",
-     "total": 52.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 30.1,
+     "value": 26.8,
      "fmt": "1",
-     "rank": 56,
+     "rank": 80,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 23.1,
+     "value": 22.6,
      "fmt": "1",
-     "rank": 60,
+     "rank": 56,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 90,
-    "overall": -3.78,
-    "offense": 24.14,
-    "defense": 27.92
+    "rank": 98,
+    "overall": -4.76,
+    "offense": 22.45,
+    "defense": 27.21
    }
   }
  },

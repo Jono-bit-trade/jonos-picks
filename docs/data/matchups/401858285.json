@@ -7,11 +7,24 @@
    "team": "Clemson",
    "rank_ap": null,
    "records": {
-    "su": "4\u20133",
-    "ats": "2\u20135",
-    "ou": "3\u20134"
+    "su": "5\u20133",
+    "ats": "3\u20135",
+    "ou": "4\u20134"
    },
    "recent": [
+    {
+     "date": "2026-10-31T23:00:00+00:00",
+     "season": 2026,
+     "opp": "Florida State",
+     "site": "A",
+     "pts": 36,
+     "opp_pts": 24,
+     "result": "W",
+     "spread": 4.5,
+     "cover": "W",
+     "total": 50.5,
+     "ou": "O"
+    },
     {
      "date": "2026-10-24T23:00:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "W",
      "total": 52.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-09-19T16:00:00+00:00",
-     "season": 2026,
-     "opp": "North Carolina",
-     "site": "H",
-     "pts": 28,
-     "opp_pts": 20,
-     "result": "W",
-     "spread": -3.0,
-     "cover": "W",
-     "total": 44.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 21.4,
+     "value": 23.2,
      "fmt": "1",
-     "rank": 113,
+     "rank": 100,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 21.3,
+     "value": 21.6,
      "fmt": "1",
-     "rank": 47,
+     "rank": 50,
      "better": false
     },
     {
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 55,
-    "overall": 1.85,
-    "offense": 23.68,
-    "defense": 21.82
+    "rank": 43,
+    "overall": 3.22,
+    "offense": 24.74,
+    "defense": 21.53
    }
   },
   "home": {
@@ -368,7 +368,7 @@
      "label": "Points allowed per game",
      "value": 26.4,
      "fmt": "1",
-     "rank": 92,
+     "rank": 90,
      "better": false
     },
     {
@@ -550,9 +550,9 @@
    ],
    "rating": {
     "rank": 73,
-    "overall": -0.96,
-    "offense": 26.47,
-    "defense": 27.42
+    "overall": -0.85,
+    "offense": 26.49,
+    "defense": 27.34
    }
   }
  },

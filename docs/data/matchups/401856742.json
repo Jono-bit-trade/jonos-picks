@@ -84,7 +84,7 @@
      "label": "Points per game",
      "value": 22.8,
      "fmt": "1",
-     "rank": 104,
+     "rank": 105,
      "better": true
     },
     {
@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 75,
-    "overall": -1.69,
-    "offense": 25.91,
-    "defense": 27.6
+    "rank": 76,
+    "overall": -1.79,
+    "offense": 25.87,
+    "defense": 27.66
    }
   },
   "home": {
    "team": "Mississippi State",
    "rank_ap": 16,
    "records": {
-    "su": "4\u20133",
-    "ats": "4\u20133",
-    "ou": "3\u20134"
+    "su": "4\u20134",
+    "ats": "4\u20134",
+    "ou": "3\u20135"
    },
    "recent": [
+    {
+     "date": "2026-10-31T23:30:00+00:00",
+     "season": 2026,
+     "opp": "Texas",
+     "site": "A",
+     "pts": 3,
+     "opp_pts": 31,
+     "result": "L",
+     "spread": 19.5,
+     "cover": "L",
+     "total": 50.5,
+     "ou": "U"
+    },
     {
      "date": "2026-10-24T19:30:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "W",
      "total": 58.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-09-19T20:15:00+00:00",
-     "season": 2026,
-     "opp": "South Carolina",
-     "site": "A",
-     "pts": 41,
-     "opp_pts": 34,
-     "result": "W",
-     "spread": 3.0,
-     "cover": "W",
-     "total": 59.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 30.0,
+     "value": 26.6,
      "fmt": "1",
-     "rank": 58,
+     "rank": 82,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 27.7,
+     "value": 28.1,
      "fmt": "1",
-     "rank": 102,
+     "rank": 103,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 52,
-    "overall": 2.05,
-    "offense": 28.92,
-    "defense": 26.87
+    "rank": 63,
+    "overall": 1.06,
+    "offense": 27.69,
+    "defense": 26.63
    }
   }
  },

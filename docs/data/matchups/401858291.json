@@ -7,11 +7,24 @@
    "team": "Miami",
    "rank_ap": 1,
    "records": {
-    "su": "7\u20130",
-    "ats": "5\u20132",
-    "ou": "6\u20131"
+    "su": "8\u20130",
+    "ats": "5\u20133",
+    "ou": "7\u20131"
    },
    "recent": [
+    {
+     "date": "2026-10-31T23:30:00+00:00",
+     "season": 2026,
+     "opp": "North Carolina",
+     "site": "A",
+     "pts": 38,
+     "opp_pts": 35,
+     "result": "W",
+     "spread": -13.5,
+     "cover": "L",
+     "total": 52.5,
+     "ou": "O"
+    },
     {
      "date": "2026-10-24T16:00:00+00:00",
      "season": 2026,
@@ -63,26 +76,13 @@
      "cover": "W",
      "total": 52.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-09-18T23:30:00+00:00",
-     "season": 2026,
-     "opp": "Wake Forest",
-     "site": "A",
-     "pts": 33,
-     "opp_pts": 20,
-     "result": "W",
-     "spread": -20.5,
-     "cover": "L",
-     "total": 55.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 49.0,
+     "value": 47.6,
      "fmt": "1",
      "rank": 1,
      "better": true
@@ -90,9 +90,9 @@
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 15.3,
+     "value": 17.8,
      "fmt": "1",
-     "rank": 14,
+     "rank": 21,
      "better": false
     },
     {
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 2,
-    "overall": 17.79,
-    "offense": 36.57,
-    "defense": 18.78
+    "rank": 4,
+    "overall": 16.99,
+    "offense": 37.01,
+    "defense": 20.02
    }
   },
   "home": {
@@ -360,7 +360,7 @@
      "label": "Points per game",
      "value": 40.4,
      "fmt": "1",
-     "rank": 5,
+     "rank": 6,
      "better": true
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 3,
-    "overall": 17.51,
-    "offense": 35.08,
-    "defense": 17.57
+    "rank": 1,
+    "overall": 17.58,
+    "offense": 35.06,
+    "defense": 17.48
    }
   }
  },

@@ -275,19 +275,32 @@
    "rating": {
     "rank": 106,
     "overall": -5.84,
-    "offense": 23.61,
-    "defense": 29.46
+    "offense": 23.58,
+    "defense": 29.42
    }
   },
   "home": {
    "team": "Georgia Southern",
    "rank_ap": null,
    "records": {
-    "su": "3\u20134",
-    "ats": "6\u20131",
-    "ou": "3\u20134"
+    "su": "4\u20134",
+    "ats": "7\u20131",
+    "ou": "3\u20135"
    },
    "recent": [
+    {
+     "date": "2026-10-31T22:30:00+00:00",
+     "season": 2026,
+     "opp": "App State",
+     "site": "H",
+     "pts": 19,
+     "opp_pts": 3,
+     "result": "W",
+     "spread": -6.0,
+     "cover": "W",
+     "total": 54.5,
+     "ou": "U"
+    },
     {
      "date": "2026-10-15T23:30:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "W",
      "total": 56.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-09-19T23:00:00+00:00",
-     "season": 2026,
-     "opp": "Jacksonville State",
-     "site": "A",
-     "pts": 27,
-     "opp_pts": 31,
-     "result": "L",
-     "spread": 3.5,
-     "cover": "L",
-     "total": 51.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 24.4,
+     "value": 23.8,
      "fmt": "1",
-     "rank": 90,
+     "rank": 96,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 23.0,
+     "value": 20.5,
      "fmt": "1",
-     "rank": 58,
+     "rank": 35,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 92,
-    "overall": -3.94,
-    "offense": 24.13,
-    "defense": 28.06
+    "rank": 81,
+    "overall": -2.85,
+    "offense": 23.44,
+    "defense": 26.28
    }
   }
  },

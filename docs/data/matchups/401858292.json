@@ -7,11 +7,24 @@
    "team": "North Carolina",
    "rank_ap": null,
    "records": {
-    "su": "4\u20133",
-    "ats": "4\u20133",
-    "ou": "3\u20134"
+    "su": "4\u20134",
+    "ats": "5\u20133",
+    "ou": "4\u20134"
    },
    "recent": [
+    {
+     "date": "2026-10-31T23:30:00+00:00",
+     "season": 2026,
+     "opp": "Miami",
+     "site": "H",
+     "pts": 35,
+     "opp_pts": 38,
+     "result": "L",
+     "spread": 13.5,
+     "cover": "W",
+     "total": 52.5,
+     "ou": "O"
+    },
     {
      "date": "2026-10-24T23:30:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "W",
      "total": 46.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-09-19T16:00:00+00:00",
-     "season": 2026,
-     "opp": "Clemson",
-     "site": "A",
-     "pts": 20,
-     "opp_pts": 28,
-     "result": "L",
-     "spread": 3.0,
-     "cover": "L",
-     "total": 44.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 24.4,
+     "value": 25.8,
      "fmt": "1",
-     "rank": 90,
+     "rank": 88,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 20.9,
+     "value": 23.0,
      "fmt": "1",
-     "rank": 38,
+     "rank": 58,
      "better": false
     },
     {
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 64,
-    "overall": 0.64,
-    "offense": 23.99,
-    "defense": 23.35
+    "rank": 58,
+    "overall": 1.63,
+    "offense": 25.34,
+    "defense": 23.71
    }
   },
   "home": {
@@ -360,7 +360,7 @@
      "label": "Points per game",
      "value": 34.4,
      "fmt": "1",
-     "rank": 32,
+     "rank": 30,
      "better": true
     },
     {
@@ -368,7 +368,7 @@
      "label": "Points allowed per game",
      "value": 25.2,
      "fmt": "1",
-     "rank": 77,
+     "rank": 74,
      "better": false
     },
     {
@@ -550,7 +550,7 @@
    ],
    "rating": {
     "rank": 82,
-    "overall": -2.87,
+    "overall": -2.88,
     "offense": 27.03,
     "defense": 29.9
    }

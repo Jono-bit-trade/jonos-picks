@@ -84,7 +84,7 @@
      "label": "Points per game",
      "value": 40.4,
      "fmt": "1",
-     "rank": 5,
+     "rank": 6,
      "better": true
     },
     {
@@ -92,7 +92,7 @@
      "label": "Points allowed per game",
      "value": 27.0,
      "fmt": "1",
-     "rank": 98,
+     "rank": 95,
      "better": false
     },
     {
@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 22,
-    "overall": 7.68,
-    "offense": 32.86,
-    "defense": 25.17
+    "rank": 23,
+    "overall": 7.58,
+    "offense": 32.78,
+    "defense": 25.2
    }
   },
   "home": {
    "team": "Georgia Tech",
    "rank_ap": null,
    "records": {
-    "su": "2\u20135",
-    "ats": "1\u20136",
-    "ou": "5\u20132"
+    "su": "2\u20136",
+    "ats": "1\u20137",
+    "ou": "5\u20133"
    },
    "recent": [
+    {
+     "date": "2026-10-31T23:30:00+00:00",
+     "season": 2026,
+     "opp": "Pittsburgh",
+     "site": "A",
+     "pts": 11,
+     "opp_pts": 34,
+     "result": "L",
+     "spread": 9.5,
+     "cover": "L",
+     "total": 54.5,
+     "ou": "U"
+    },
     {
      "date": "2026-10-24T19:30:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "L",
      "total": 48.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-09-19T16:00:00+00:00",
-     "season": 2026,
-     "opp": "Mercer",
-     "site": "H",
-     "pts": 44,
-     "opp_pts": 11,
-     "result": "W",
-     "spread": -38.5,
-     "cover": "L",
-     "total": 58.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 26.7,
+     "value": 24.8,
      "fmt": "1",
-     "rank": 83,
+     "rank": 90,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 30.3,
+     "value": 30.8,
      "fmt": "1",
-     "rank": 115,
+     "rank": 117,
      "better": false
     },
     {
@@ -549,9 +549,9 @@
     }
    ],
    "rating": {
-    "rank": 94,
-    "overall": -4.24,
-    "offense": 25.66,
+    "rank": 103,
+    "overall": -5.17,
+    "offense": 24.74,
     "defense": 29.9
    }
   }

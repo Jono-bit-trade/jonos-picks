@@ -7,11 +7,24 @@
    "team": "Nebraska",
    "rank_ap": null,
    "records": {
-    "su": "5\u20132",
-    "ats": "6\u20131",
-    "ou": "3\u20134"
+    "su": "5\u20133",
+    "ats": "6\u20132",
+    "ou": "3\u20135"
    },
    "recent": [
+    {
+     "date": "2026-11-01T00:00:00+00:00",
+     "season": 2026,
+     "opp": "Washington",
+     "site": "H",
+     "pts": 10,
+     "opp_pts": 17,
+     "result": "L",
+     "spread": -7.5,
+     "cover": "L",
+     "total": 49.5,
+     "ou": "U"
+    },
     {
      "date": "2026-10-18T03:00:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "W",
      "total": 48.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-09-19T23:15:00+00:00",
-     "season": 2026,
-     "opp": "North Dakota",
-     "site": "H",
-     "pts": 34,
-     "opp_pts": 7,
-     "result": "W",
-     "spread": -27.5,
-     "cover": "L",
-     "total": 56.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 35.6,
+     "value": 32.4,
      "fmt": "1",
-     "rank": 24,
+     "rank": 44,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 15.4,
+     "value": 15.6,
      "fmt": "1",
-     "rank": 15,
+     "rank": 14,
      "better": false
     },
     {
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 23,
-    "overall": 7.58,
-    "offense": 28.87,
-    "defense": 21.3
+    "rank": 28,
+    "overall": 6.55,
+    "offense": 27.42,
+    "defense": 20.87
    }
   },
   "home": {
@@ -360,7 +360,7 @@
      "label": "Points per game",
      "value": 29.0,
      "fmt": "1",
-     "rank": 67,
+     "rank": 65,
      "better": true
     },
     {
@@ -368,7 +368,7 @@
      "label": "Points allowed per game",
      "value": 24.2,
      "fmt": "1",
-     "rank": 69,
+     "rank": 67,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 50,
-    "overall": 2.32,
-    "offense": 26.69,
-    "defense": 24.37
+    "rank": 51,
+    "overall": 2.23,
+    "offense": 26.64,
+    "defense": 24.41
    }
   }
  },

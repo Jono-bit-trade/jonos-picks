@@ -7,11 +7,24 @@
    "team": "Oklahoma State",
    "rank_ap": 24,
    "records": {
-    "su": "5\u20132",
-    "ats": "6\u20131",
-    "ou": "5\u20132"
+    "su": "5\u20133",
+    "ats": "6\u20132",
+    "ou": "6\u20132"
    },
    "recent": [
+    {
+     "date": "2026-10-31T23:00:00+00:00",
+     "season": 2026,
+     "opp": "Iowa State",
+     "site": "A",
+     "pts": 49,
+     "opp_pts": 51,
+     "result": "L",
+     "spread": -10.0,
+     "cover": "L",
+     "total": 58.5,
+     "ou": "O"
+    },
     {
      "date": "2026-10-24T23:00:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "W",
      "total": 60.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-09-19T23:00:00+00:00",
-     "season": 2026,
-     "opp": "Murray State",
-     "site": "H",
-     "pts": 59,
-     "opp_pts": 0,
-     "result": "W",
-     "spread": -56.5,
-     "cover": "W",
-     "total": 70.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 40.0,
+     "value": 41.1,
      "fmt": "1",
-     "rank": 8,
+     "rank": 4,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 23.7,
+     "value": 27.1,
      "fmt": "1",
-     "rank": 62,
+     "rank": 96,
      "better": false
     },
     {
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 58,
-    "overall": 1.71,
-    "offense": 28.39,
-    "defense": 26.68
+    "rank": 59,
+    "overall": 1.49,
+    "offense": 30.12,
+    "defense": 28.63
    }
   },
   "home": {
@@ -360,7 +360,7 @@
      "label": "Points per game",
      "value": 31.8,
      "fmt": "1",
-     "rank": 49,
+     "rank": 50,
      "better": true
     },
     {
@@ -368,7 +368,7 @@
      "label": "Points allowed per game",
      "value": 21.9,
      "fmt": "1",
-     "rank": 50,
+     "rank": 51,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 48,
+    "rank": 49,
     "overall": 2.47,
-    "offense": 27.72,
-    "defense": 25.25
+    "offense": 27.74,
+    "defense": 25.27
    }
   }
  },

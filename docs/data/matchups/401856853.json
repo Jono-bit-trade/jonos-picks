@@ -7,11 +7,24 @@
    "team": "Iowa State",
    "rank_ap": null,
    "records": {
-    "su": "3\u20134",
-    "ats": "2\u20134\u20131",
-    "ou": "3\u20134"
+    "su": "4\u20134",
+    "ats": "3\u20134\u20131",
+    "ou": "4\u20134"
    },
    "recent": [
+    {
+     "date": "2026-10-31T23:00:00+00:00",
+     "season": 2026,
+     "opp": "Oklahoma State",
+     "site": "H",
+     "pts": 51,
+     "opp_pts": 49,
+     "result": "W",
+     "spread": 10.0,
+     "cover": "W",
+     "total": 58.5,
+     "ou": "O"
+    },
     {
      "date": "2026-10-24T23:30:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "L",
      "total": 46.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-09-19T16:00:00+00:00",
-     "season": 2026,
-     "opp": "Bowling Green",
-     "site": "H",
-     "pts": 55,
-     "opp_pts": 7,
-     "result": "W",
-     "spread": -22.5,
-     "cover": "W",
-     "total": 43.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 25.9,
+     "value": 29.0,
      "fmt": "1",
-     "rank": 88,
+     "rank": 65,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 24.1,
+     "value": 27.2,
      "fmt": "1",
-     "rank": 68,
+     "rank": 97,
      "better": false
     },
     {
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 79,
-    "overall": -2.09,
-    "offense": 23.43,
-    "defense": 25.53
+    "rank": 78,
+    "overall": -1.88,
+    "offense": 25.4,
+    "defense": 27.29
    }
   },
   "home": {
@@ -360,7 +360,7 @@
      "label": "Points per game",
      "value": 30.6,
      "fmt": "1",
-     "rank": 55,
+     "rank": 54,
      "better": true
     },
     {
@@ -368,7 +368,7 @@
      "label": "Points allowed per game",
      "value": 15.2,
      "fmt": "1",
-     "rank": 13,
+     "rank": 12,
      "better": false
     },
     {
@@ -550,9 +550,9 @@
    ],
    "rating": {
     "rank": 26,
-    "overall": 6.89,
-    "offense": 29.3,
-    "defense": 22.42
+    "overall": 6.87,
+    "offense": 29.31,
+    "defense": 22.44
    }
   }
  },
