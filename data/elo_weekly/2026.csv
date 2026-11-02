@@ -1121,3 +1121,141 @@ season,week,season_type,team,elo
 2026,8,regular,UTSA,1590.0
 2026,8,regular,New Mexico,1680.0
 2026,8,regular,North Dakota State,1631.0
+2026,9,regular,Air Force,1459.0
+2026,9,regular,Akron,849.0
+2026,9,regular,Alabama,1939.0
+2026,9,regular,App State,1282.0
+2026,9,regular,Arizona,1800.0
+2026,9,regular,Arizona State,1474.0
+2026,9,regular,Arkansas,1478.0
+2026,9,regular,Arkansas State,1331.0
+2026,9,regular,Army,1507.0
+2026,9,regular,Auburn,1619.0
+2026,9,regular,Ball State,1098.0
+2026,9,regular,Baylor,1687.0
+2026,9,regular,Boise State,1714.0
+2026,9,regular,Boston College,1357.0
+2026,9,regular,Bowling Green,1225.0
+2026,9,regular,Buffalo,1363.0
+2026,9,regular,BYU,1705.0
+2026,9,regular,California,1209.0
+2026,9,regular,Central Michigan,1224.0
+2026,9,regular,Charlotte,1046.0
+2026,9,regular,Cincinnati,1509.0
+2026,9,regular,Clemson,1566.0
+2026,9,regular,Coastal Carolina,1309.0
+2026,9,regular,Colorado,1271.0
+2026,9,regular,Colorado State,1152.0
+2026,9,regular,Delaware,1393.0
+2026,9,regular,Duke,1744.0
+2026,9,regular,East Carolina,1437.0
+2026,9,regular,Eastern Michigan,1219.0
+2026,9,regular,Florida,1629.0
+2026,9,regular,Florida Atlantic,1252.0
+2026,9,regular,Florida International,1337.0
+2026,9,regular,Florida State,1575.0
+2026,9,regular,Fresno State,1661.0
+2026,9,regular,Georgia,2037.0
+2026,9,regular,Georgia Southern,1402.0
+2026,9,regular,Georgia State,1334.0
+2026,9,regular,Georgia Tech,1374.0
+2026,9,regular,Hawai'i,1418.0
+2026,9,regular,Houston,1615.0
+2026,9,regular,Illinois,1568.0
+2026,9,regular,Indiana,2054.0
+2026,9,regular,Iowa,1909.0
+2026,9,regular,Iowa State,1550.0
+2026,9,regular,Jacksonville State,1473.0
+2026,9,regular,James Madison,1777.0
+2026,9,regular,Kansas,1588.0
+2026,9,regular,Kansas State,1595.0
+2026,9,regular,Kennesaw State,1293.0
+2026,9,regular,Kent State,972.0
+2026,9,regular,Kentucky,1634.0
+2026,9,regular,Liberty,1834.0
+2026,9,regular,Louisiana,1494.0
+2026,9,regular,Louisiana Tech,1475.0
+2026,9,regular,Louisville,1726.0
+2026,9,regular,LSU,1943.0
+2026,9,regular,Marshall,1367.0
+2026,9,regular,Maryland,1306.0
+2026,9,regular,Massachusetts,1122.0
+2026,9,regular,Memphis,1686.0
+2026,9,regular,Miami,1993.0
+2026,9,regular,Miami (OH),1258.0
+2026,9,regular,Michigan,1720.0
+2026,9,regular,Michigan State,1444.0
+2026,9,regular,Middle Tennessee,1143.0
+2026,9,regular,Minnesota,1456.0
+2026,9,regular,Mississippi State,1521.0
+2026,9,regular,Missouri,1784.0
+2026,9,regular,Missouri State,1228.0
+2026,9,regular,Navy,1496.0
+2026,9,regular,NC State,1492.0
+2026,9,regular,Nebraska,1749.0
+2026,9,regular,Nevada,1408.0
+2026,9,regular,New Mexico,1667.0
+2026,9,regular,New Mexico State,1206.0
+2026,9,regular,North Carolina,1486.0
+2026,9,regular,North Dakota State,1628.0
+2026,9,regular,Northern Illinois,1077.0
+2026,9,regular,North Texas,1662.0
+2026,9,regular,Northwestern,1746.0
+2026,9,regular,Notre Dame,2073.0
+2026,9,regular,Ohio,1427.0
+2026,9,regular,Ohio State,2019.0
+2026,9,regular,Oklahoma,1676.0
+2026,9,regular,Oklahoma State,1464.0
+2026,9,regular,Old Dominion,1159.0
+2026,9,regular,Ole Miss,1973.0
+2026,9,regular,Oregon,1797.0
+2026,9,regular,Oregon State,1578.0
+2026,9,regular,Penn State,1798.0
+2026,9,regular,Pittsburgh,1626.0
+2026,9,regular,Purdue,1425.0
+2026,9,regular,Rice,1129.0
+2026,9,regular,Rutgers,1368.0
+2026,9,regular,Sacramento State,1040.0
+2026,9,regular,Sam Houston,1063.0
+2026,9,regular,San Diego State,1261.0
+2026,9,regular,San José State,1365.0
+2026,9,regular,SMU,1752.0
+2026,9,regular,South Alabama,1329.0
+2026,9,regular,South Carolina,1745.0
+2026,9,regular,Southern Miss,1214.0
+2026,9,regular,South Florida,1638.0
+2026,9,regular,Stanford,1144.0
+2026,9,regular,Syracuse,1335.0
+2026,9,regular,TCU,1608.0
+2026,9,regular,Temple,1294.0
+2026,9,regular,Tennessee,1829.0
+2026,9,regular,Texas,1936.0
+2026,9,regular,Texas A&M,1728.0
+2026,9,regular,Texas State,1569.0
+2026,9,regular,Texas Tech,1836.0
+2026,9,regular,Toledo,1554.0
+2026,9,regular,Troy,1354.0
+2026,9,regular,Tulane,1473.0
+2026,9,regular,Tulsa,1299.0
+2026,9,regular,UAB,1371.0
+2026,9,regular,UCF,1404.0
+2026,9,regular,UCLA,1749.0
+2026,9,regular,UConn,1475.0
+2026,9,regular,UL Monroe,1019.0
+2026,9,regular,UNLV,1477.0
+2026,9,regular,USC,1802.0
+2026,9,regular,Utah,1919.0
+2026,9,regular,Utah State,1383.0
+2026,9,regular,UTEP,995.0
+2026,9,regular,UTSA,1588.0
+2026,9,regular,Vanderbilt,1542.0
+2026,9,regular,Virginia,1476.0
+2026,9,regular,Virginia Tech,1516.0
+2026,9,regular,Wake Forest,1871.0
+2026,9,regular,Washington,1722.0
+2026,9,regular,Washington State,1403.0
+2026,9,regular,Western Kentucky,1247.0
+2026,9,regular,Western Michigan,1486.0
+2026,9,regular,West Virginia,1368.0
+2026,9,regular,Wisconsin,1645.0
+2026,9,regular,Wyoming,1363.0

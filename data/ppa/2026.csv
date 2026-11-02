@@ -27,8 +27,8 @@ game_id,season,team,opponent,off_ppa,def_ppa
 401864424,2026,Delaware,Merrimack,0.35,-0.22
 401858209,2026,Duke,Tulane,-0.13,-0.13
 401856634,2026,East Carolina,Alabama,-0.2,0.24
-401866408,2026,Eastern Michigan,Sacramento State,0.06,-0.12
 401864495,2026,Eastern Michigan,San José State,-0.17,0.07
+401866408,2026,Eastern Michigan,Sacramento State,0.06,-0.12
 401856637,2026,Florida,Florida Atlantic,0.61,-0.01
 401856637,2026,Florida Atlantic,Florida,-0.01,0.61
 401862699,2026,Florida International,South Florida,-0.12,-0.06
@@ -78,8 +78,8 @@ game_id,season,team,opponent,off_ppa,def_ppa
 401858430,2026,Nebraska,Ohio,0.46,0.06
 401864432,2026,Nevada,Western Kentucky,0.5,0.03
 401864498,2026,New Mexico,Central Michigan,0.22,-0.18
-401864570,2026,New Mexico State,Florida State,0.11,0.27
 401870790,2026,New Mexico State,Mercyhurst,0.37,-0.15
+401864570,2026,New Mexico State,Florida State,0.11,0.27
 401856766,2026,North Carolina,TCU,-0.01,-0.07
 401864499,2026,North Dakota State,Fordham,0.26,-0.46
 401864577,2026,North Dakota State,Jacksonville State,0.16,-0.38
@@ -100,12 +100,12 @@ game_id,season,team,opponent,off_ppa,def_ppa
 401858435,2026,Purdue,Indiana State,0.33,0.01
 401862697,2026,Rice,Houston Christian,0.19,-0.3
 401858423,2026,Rutgers,Massachusetts,-0.02,0.33
-401866408,2026,Sacramento State,Eastern Michigan,-0.12,0.06
 401866411,2026,Sacramento State,Mississippi Valley State,0.25,-0.2
+401866408,2026,Sacramento State,Eastern Michigan,-0.12,0.06
 401870763,2026,Sam Houston,Troy,0.07,0.16
 401860879,2026,San Diego State,Portland State,0.13,-0.07
-401864495,2026,San José State,Eastern Michigan,0.07,-0.17
 401864494,2026,San José State,USC,0.21,0.34
+401864495,2026,San José State,Eastern Michigan,0.07,-0.17
 401858212,2026,SMU,Florida State,0.36,0.14
 401868316,2026,South Alabama,SE Louisiana,0.09,-0.11
 401856665,2026,South Carolina,Kent State,0.68,-0.08
@@ -130,10 +130,10 @@ game_id,season,team,opponent,off_ppa,def_ppa
 401858210,2026,UCLA,California,0.41,-0.06
 401861962,2026,UConn,Lafayette,0.55,-0.16
 401856662,2026,UL Monroe,Mississippi State,-0.08,0.64
-401862693,2026,UNLV,Memphis,0.02,0.22
 401864497,2026,UNLV,Hawai'i,0.07,-0.08
-401858436,2026,USC,Fresno State,0.23,-0.35
+401862693,2026,UNLV,Memphis,0.02,0.22
 401864494,2026,USC,San José State,0.34,0.21
+401858436,2026,USC,Fresno State,0.23,-0.35
 401856768,2026,Utah,Idaho,0.51,0.01
 401860880,2026,Utah State,Idaho State,-0.06,0.03
 401856664,2026,UTEP,Oklahoma,-0.49,0.39
@@ -1009,3 +1009,115 @@ game_id,season,team,opponent,off_ppa,def_ppa
 401856841,2026,West Virginia,TCU,0.12,0.08
 401858500,2026,Wisconsin,USC,0.03,-0.18
 401864525,2026,Wyoming,Air Force,0.38,0.07
+401861966,2026,Air Force,UConn,0.21,0.29
+401869846,2026,App State,Georgia Southern,-0.13,0.16
+401856842,2026,Arizona,Texas Tech,0.12,0.14
+401856843,2026,Arizona State,BYU,0.0,-0.07
+401856733,2026,Arkansas,Missouri,-0.17,0.2
+401862814,2026,Army,Memphis,0.13,0.43
+401856735,2026,Auburn,Ole Miss,-0.01,0.2
+401856844,2026,Baylor,UCF,0.29,-0.26
+401860908,2026,Boise State,Texas State,0.23,0.21
+401858279,2026,Boston College,Duke,-0.55,0.24
+401866452,2026,Bowling Green,Western Michigan,-0.16,-0.06
+401856843,2026,BYU,Arizona State,-0.07,0.0
+401858277,2026,California,NC State,-0.16,0.11
+401862813,2026,Charlotte,Tulane,0.21,0.31
+401856848,2026,Cincinnati,Utah,-0.05,0.09
+401858280,2026,Clemson,Florida State,0.06,0.06
+401869944,2026,Coastal Carolina,Georgia State,0.08,0.04
+401856846,2026,Colorado,Kansas State,0.35,0.16
+401860910,2026,Colorado State,Utah State,0.09,0.4
+401871071,2026,Delaware,Western Kentucky,0.3,0.04
+401858279,2026,Duke,Boston College,0.24,-0.55
+401862815,2026,East Carolina,Temple,0.06,-0.13
+401856734,2026,Florida,Georgia,-0.05,-0.06
+401862812,2026,Florida Atlantic,North Texas,0.16,0.32
+401871059,2026,Florida International,Liberty,-0.12,0.44
+401858280,2026,Florida State,Clemson,0.06,0.06
+401860924,2026,Fresno State,Oregon State,0.17,0.01
+401856734,2026,Georgia,Florida,-0.06,-0.05
+401869846,2026,Georgia Southern,App State,0.16,-0.13
+401869944,2026,Georgia State,Coastal Carolina,0.04,0.08
+401858281,2026,Georgia Tech,Pittsburgh,-0.19,-0.01
+401858503,2026,Illinois,Maryland,0.26,0.05
+401858501,2026,Indiana,Minnesota,0.15,-0.07
+401858502,2026,Iowa,Wisconsin,0.08,-0.18
+401856847,2026,Iowa State,Oklahoma State,0.39,0.38
+401871057,2026,Jacksonville State,New Mexico State,0.2,-0.14
+401869963,2026,James Madison,Troy,-0.18,-0.24
+401856845,2026,Kansas,TCU,-0.08,0.11
+401856846,2026,Kansas State,Colorado,0.16,0.35
+401871058,2026,Kennesaw State,Middle Tennessee,0.08,-0.17
+401866451,2026,Kent State,Sacramento State,-0.56,-0.04
+401871059,2026,Liberty,Florida International,0.44,-0.12
+401871097,2026,Louisiana Tech,South Alabama,0.2,-0.09
+401858283,2026,Louisville,Stanford,0.39,-0.17
+401871096,2026,Marshall,Old Dominion,-0.14,-0.17
+401858503,2026,Maryland,Illinois,0.05,0.26
+401862814,2026,Memphis,Army,0.43,0.13
+401858282,2026,Miami,North Carolina,0.41,0.36
+401858507,2026,Michigan,Rutgers,0.29,0.13
+401871058,2026,Middle Tennessee,Kennesaw State,-0.17,0.08
+401858501,2026,Minnesota,Indiana,-0.07,0.15
+401856737,2026,Mississippi State,Texas,-0.21,0.17
+401856733,2026,Missouri,Arkansas,0.2,-0.17
+401871072,2026,Missouri State,Sam Houston,0.18,-0.07
+401859185,2026,Navy,Notre Dame,0.24,0.43
+401858277,2026,NC State,California,0.11,-0.16
+401858504,2026,Nebraska,Washington,-0.09,-0.09
+401858508,2026,Nevada,UCLA,-0.39,0.14
+401864529,2026,New Mexico,San José State,-0.17,-0.18
+401871057,2026,New Mexico State,Jacksonville State,-0.14,0.2
+401858282,2026,North Carolina,Miami,0.36,0.41
+401864531,2026,North Dakota State,UTEP,0.15,-0.16
+401864530,2026,Northern Illinois,UNLV,0.15,0.3
+401862812,2026,North Texas,Florida Atlantic,0.32,0.16
+401858505,2026,Northwestern,Oregon,0.25,0.21
+401859185,2026,Notre Dame,Navy,0.43,0.24
+401858509,2026,Ohio State,USC,0.14,0.19
+401856736,2026,Oklahoma,South Carolina,0.04,0.25
+401856847,2026,Oklahoma State,Iowa State,0.38,0.39
+401871096,2026,Old Dominion,Marshall,-0.17,-0.14
+401856735,2026,Ole Miss,Auburn,0.2,-0.01
+401858505,2026,Oregon,Northwestern,0.21,0.25
+401860924,2026,Oregon State,Fresno State,0.01,0.17
+401858506,2026,Penn State,Purdue,0.22,-0.21
+401858281,2026,Pittsburgh,Georgia Tech,-0.01,-0.19
+401858506,2026,Purdue,Penn State,-0.21,0.22
+401858507,2026,Rutgers,Michigan,0.13,0.29
+401866451,2026,Sacramento State,Kent State,-0.04,-0.56
+401871072,2026,Sam Houston,Missouri State,-0.07,0.18
+401860909,2026,San Diego State,Washington State,0.25,-0.01
+401864529,2026,San José State,New Mexico,-0.18,-0.17
+401858278,2026,SMU,Syracuse,0.28,0.16
+401871097,2026,South Alabama,Louisiana Tech,-0.09,0.2
+401856736,2026,South Carolina,Oklahoma,0.25,0.04
+401871095,2026,Southern Miss,UL Monroe,0.07,-0.05
+401862816,2026,South Florida,UAB,-0.06,-0.03
+401858283,2026,Stanford,Louisville,-0.17,0.39
+401858278,2026,Syracuse,SMU,0.16,0.28
+401856845,2026,TCU,Kansas,0.11,-0.08
+401862815,2026,Temple,East Carolina,-0.13,0.06
+401856737,2026,Texas,Mississippi State,0.17,-0.21
+401860908,2026,Texas State,Boise State,0.21,0.23
+401856842,2026,Texas Tech,Arizona,0.14,0.12
+401869963,2026,Troy,James Madison,-0.24,-0.18
+401862813,2026,Tulane,Charlotte,0.31,0.21
+401862816,2026,UAB,South Florida,-0.03,-0.06
+401856844,2026,UCF,Baylor,-0.26,0.29
+401858508,2026,UCLA,Nevada,0.14,-0.39
+401861966,2026,UConn,Air Force,0.29,0.21
+401871095,2026,UL Monroe,Southern Miss,-0.05,0.07
+401864530,2026,UNLV,Northern Illinois,0.3,0.15
+401858509,2026,USC,Ohio State,0.19,0.14
+401856848,2026,Utah,Cincinnati,0.09,-0.05
+401860910,2026,Utah State,Colorado State,0.4,0.09
+401864531,2026,UTEP,North Dakota State,-0.16,0.15
+401858284,2026,Virginia,Wake Forest,-0.1,0.52
+401858284,2026,Wake Forest,Virginia,0.52,-0.1
+401858504,2026,Washington,Nebraska,-0.09,-0.09
+401860909,2026,Washington State,San Diego State,-0.01,0.25
+401871071,2026,Western Kentucky,Delaware,0.04,0.3
+401866452,2026,Western Michigan,Bowling Green,-0.06,-0.16
+401858502,2026,Wisconsin,Iowa,-0.18,0.08
