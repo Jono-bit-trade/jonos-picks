@@ -98,23 +98,23 @@
     {
      "key": "epa_off",
      "label": "Offense: points added per play",
-     "value": -0.029,
+     "value": -0.034,
      "fmt": "3",
-     "rank": 127,
+     "rank": 130,
      "better": true
     },
     {
      "key": "epa_def",
      "label": "Defense: points added per play allowed",
-     "value": 0.078,
+     "value": 0.091,
      "fmt": "3",
-     "rank": 78,
+     "rank": 80,
      "better": false
     },
     {
      "key": "succ_off",
      "label": "Offense: success rate",
-     "value": 0.3724,
+     "value": 0.3654,
      "fmt": "pct",
      "rank": 124,
      "better": true
@@ -122,39 +122,39 @@
     {
      "key": "succ_def",
      "label": "Defense: success rate allowed",
-     "value": 0.4125,
+     "value": 0.4055,
      "fmt": "pct",
-     "rank": 79,
+     "rank": 71,
      "better": false
     },
     {
      "key": "expl_off",
      "label": "Offense: explosiveness",
-     "value": 1.32,
+     "value": 1.35,
      "fmt": "2",
-     "rank": 38,
+     "rank": 27,
      "better": true
     },
     {
      "key": "expl_def",
      "label": "Defense: explosiveness allowed",
-     "value": 1.17,
+     "value": 1.22,
      "fmt": "2",
-     "rank": 38,
+     "rank": 50,
      "better": false
     },
     {
      "key": "pass_off",
      "label": "Passing: points added per pass",
-     "value": 0.082,
+     "value": 0.064,
      "fmt": "3",
-     "rank": 114,
+     "rank": 112,
      "better": true
     },
     {
      "key": "rush_off",
      "label": "Rushing: points added per rush",
-     "value": -0.191,
+     "value": -0.179,
      "fmt": "3",
      "rank": 136,
      "better": true
@@ -162,23 +162,23 @@
     {
      "key": "pass_def",
      "label": "Pass defense: per pass allowed",
-     "value": -0.004,
+     "value": 0.043,
      "fmt": "3",
-     "rank": 18,
+     "rank": 28,
      "better": false
     },
     {
      "key": "rush_def",
      "label": "Run defense: per rush allowed",
-     "value": 0.223,
+     "value": 0.2,
      "fmt": "3",
-     "rank": 129,
+     "rank": 127,
      "better": false
     },
     {
      "key": "line_off",
      "label": "Offensive line yards",
-     "value": 2.3,
+     "value": 2.33,
      "fmt": "2",
      "rank": 136,
      "better": true
@@ -186,7 +186,7 @@
     {
      "key": "stuff_def",
      "label": "Defense: stuff rate",
-     "value": 0.1788,
+     "value": 0.185,
      "fmt": "pct",
      "rank": 88,
      "better": true
@@ -226,47 +226,47 @@
     {
      "key": "ppd_off",
      "label": "Points per drive",
-     "value": 1.32,
+     "value": 1.19,
      "fmt": "2",
-     "rank": 133,
+     "rank": 135,
      "better": true
     },
     {
      "key": "ppd_def",
      "label": "Points per drive allowed",
-     "value": 1.82,
+     "value": 1.86,
      "fmt": "2",
-     "rank": 48,
+     "rank": 51,
      "better": false
     },
     {
      "key": "field_off",
      "label": "Average starting field position (yards to go)",
-     "value": 72.5,
+     "value": 72.9,
      "fmt": "1",
-     "rank": 111,
+     "rank": 120,
      "better": false
     },
     {
      "key": "to_margin",
      "label": "Turnover margin per game",
-     "value": 0.14,
+     "value": 0.0,
      "fmt": "2",
-     "rank": 63,
+     "rank": 68,
      "better": true
     },
     {
      "key": "pen",
      "label": "Penalty yards per game",
-     "value": 74.7,
+     "value": 75.9,
      "fmt": "1",
-     "rank": 127,
+     "rank": 129,
      "better": false
     },
     {
      "key": "plays",
      "label": "Plays per game (pace)",
-     "value": 64.1,
+     "value": 63.6,
      "fmt": "1",
      "rank": null,
      "better": null
@@ -274,9 +274,9 @@
    ],
    "rating": {
     "rank": 130,
-    "overall": -11.81,
-    "offense": 17.65,
-    "defense": 29.46
+    "overall": -11.79,
+    "offense": 17.71,
+    "defense": 29.5
    }
   },
   "home": {
@@ -374,97 +374,97 @@
     {
      "key": "epa_off",
      "label": "Offense: points added per play",
-     "value": 0.167,
+     "value": 0.173,
      "fmt": "3",
-     "rank": 62,
+     "rank": 56,
      "better": true
     },
     {
      "key": "epa_def",
      "label": "Defense: points added per play allowed",
-     "value": 0.074,
+     "value": 0.06,
      "fmt": "3",
-     "rank": 75,
+     "rank": 60,
      "better": false
     },
     {
      "key": "succ_off",
      "label": "Offense: success rate",
-     "value": 0.4648,
+     "value": 0.4692,
      "fmt": "pct",
-     "rank": 39,
+     "rank": 34,
      "better": true
     },
     {
      "key": "succ_def",
      "label": "Defense: success rate allowed",
-     "value": 0.4164,
+     "value": 0.4085,
      "fmt": "pct",
-     "rank": 83,
+     "rank": 75,
      "better": false
     },
     {
      "key": "expl_off",
      "label": "Offense: explosiveness",
-     "value": 1.21,
+     "value": 1.24,
      "fmt": "2",
-     "rank": 91,
+     "rank": 85,
      "better": true
     },
     {
      "key": "expl_def",
      "label": "Defense: explosiveness allowed",
-     "value": 1.19,
+     "value": 1.16,
      "fmt": "2",
-     "rank": 44,
+     "rank": 27,
      "better": false
     },
     {
      "key": "pass_off",
      "label": "Passing: points added per pass",
-     "value": 0.313,
+     "value": 0.245,
      "fmt": "3",
-     "rank": 50,
+     "rank": 69,
      "better": true
     },
     {
      "key": "rush_off",
      "label": "Rushing: points added per rush",
-     "value": 0.083,
+     "value": 0.125,
      "fmt": "3",
-     "rank": 74,
+     "rank": 47,
      "better": true
     },
     {
      "key": "pass_def",
      "label": "Pass defense: per pass allowed",
-     "value": -0.002,
+     "value": -0.105,
      "fmt": "3",
-     "rank": 19,
+     "rank": 6,
      "better": false
     },
     {
      "key": "rush_def",
      "label": "Run defense: per rush allowed",
-     "value": 0.116,
+     "value": 0.14,
      "fmt": "3",
-     "rank": 104,
+     "rank": 117,
      "better": false
     },
     {
      "key": "line_off",
      "label": "Offensive line yards",
-     "value": 2.99,
+     "value": 3.07,
      "fmt": "2",
-     "rank": 82,
+     "rank": 59,
      "better": true
     },
     {
      "key": "stuff_def",
      "label": "Defense: stuff rate",
-     "value": 0.1621,
+     "value": 0.1494,
      "fmt": "pct",
-     "rank": 106,
+     "rank": 122,
      "better": true
     },
     {
@@ -502,47 +502,47 @@
     {
      "key": "ppd_off",
      "label": "Points per drive",
-     "value": 2.55,
+     "value": 2.57,
      "fmt": "2",
-     "rank": 57,
+     "rank": 53,
      "better": true
     },
     {
      "key": "ppd_def",
      "label": "Points per drive allowed",
-     "value": 1.98,
+     "value": 1.73,
      "fmt": "2",
-     "rank": 68,
+     "rank": 41,
      "better": false
     },
     {
      "key": "field_off",
      "label": "Average starting field position (yards to go)",
-     "value": 69.3,
+     "value": 69.0,
      "fmt": "1",
-     "rank": 52,
+     "rank": 43,
      "better": false
     },
     {
      "key": "to_margin",
      "label": "Turnover margin per game",
-     "value": -0.57,
+     "value": -0.62,
      "fmt": "2",
-     "rank": 112,
+     "rank": 119,
      "better": true
     },
     {
      "key": "pen",
      "label": "Penalty yards per game",
-     "value": 61.1,
+     "value": 58.5,
      "fmt": "1",
-     "rank": 89,
+     "rank": 82,
      "better": false
     },
     {
      "key": "plays",
      "label": "Plays per game (pace)",
-     "value": 62.7,
+     "value": 63.0,
      "fmt": "1",
      "rank": null,
      "better": null
@@ -550,9 +550,9 @@
    ],
    "rating": {
     "rank": 74,
-    "overall": -1.55,
-    "offense": 24.03,
-    "defense": 25.58
+    "overall": -1.56,
+    "offense": 24.07,
+    "defense": 25.62
    }
   }
  },
