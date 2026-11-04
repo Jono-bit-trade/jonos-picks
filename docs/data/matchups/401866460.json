@@ -7,11 +7,24 @@
    "team": "Ohio",
    "rank_ap": null,
    "records": {
-    "su": "6\u20132",
-    "ats": "4\u20134",
-    "ou": "4\u20134"
+    "su": "7\u20132",
+    "ats": "4\u20135",
+    "ou": "4\u20135"
    },
    "recent": [
+    {
+     "date": "2026-11-04T00:00:00+00:00",
+     "season": 2026,
+     "opp": "Akron",
+     "site": "A",
+     "pts": 28,
+     "opp_pts": 20,
+     "result": "W",
+     "spread": -12.5,
+     "cover": "L",
+     "total": 52.5,
+     "ou": "U"
+    },
     {
      "date": "2026-10-24T20:00:00+00:00",
      "season": 2026,
@@ -63,34 +76,21 @@
      "cover": "L",
      "total": 50.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-09-26T19:30:00+00:00",
-     "season": 2026,
-     "opp": "Stonehill",
-     "site": "H",
-     "pts": 35,
-     "opp_pts": 7,
-     "result": "W",
-     "spread": -32.5,
-     "cover": "L",
-     "total": 53.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 29.6,
+     "value": 29.4,
      "fmt": "1",
-     "rank": 59,
+     "rank": 61,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 21.9,
+     "value": 21.7,
      "fmt": "1",
      "rank": 50,
      "better": false
@@ -274,20 +274,33 @@
    ],
    "rating": {
     "rank": 71,
-    "overall": -0.15,
-    "offense": 25.42,
-    "defense": 25.57
+    "overall": -0.24,
+    "offense": 25.28,
+    "defense": 25.52
    }
   },
   "home": {
    "team": "Miami (OH)",
    "rank_ap": null,
    "records": {
-    "su": "5\u20133",
-    "ats": "4\u20134",
-    "ou": "6\u20132"
+    "su": "5\u20134",
+    "ats": "4\u20135",
+    "ou": "7\u20132"
    },
    "recent": [
+    {
+     "date": "2026-11-04T01:00:00+00:00",
+     "season": 2026,
+     "opp": "Buffalo",
+     "site": "H",
+     "pts": 31,
+     "opp_pts": 34,
+     "result": "L",
+     "spread": -6.5,
+     "cover": "L",
+     "total": 45.5,
+     "ou": "O"
+    },
     {
      "date": "2026-10-24T17:00:00+00:00",
      "season": 2026,
@@ -339,26 +352,13 @@
      "cover": "L",
      "total": 41.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-09-26T19:30:00+00:00",
-     "season": 2026,
-     "opp": "UConn",
-     "site": "H",
-     "pts": 24,
-     "opp_pts": 21,
-     "result": "W",
-     "spread": -2.5,
-     "cover": "W",
-     "total": 52.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 27.0,
+     "value": 27.4,
      "fmt": "1",
      "rank": 75,
      "better": true
@@ -366,9 +366,9 @@
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 25.8,
+     "value": 26.7,
      "fmt": "1",
-     "rank": 85,
+     "rank": 93,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 100,
-    "overall": -4.88,
-    "offense": 22.72,
-    "defense": 27.6
+    "rank": 105,
+    "overall": -5.6,
+    "offense": 23.03,
+    "defense": 28.63
    }
   }
  },

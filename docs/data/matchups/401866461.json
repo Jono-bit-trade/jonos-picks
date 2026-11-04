@@ -7,11 +7,24 @@
    "team": "Buffalo",
    "rank_ap": null,
    "records": {
-    "su": "5\u20133",
-    "ats": "4\u20134",
-    "ou": "4\u20134"
+    "su": "6\u20133",
+    "ats": "5\u20134",
+    "ou": "5\u20134"
    },
    "recent": [
+    {
+     "date": "2026-11-04T01:00:00+00:00",
+     "season": 2026,
+     "opp": "Miami (OH)",
+     "site": "A",
+     "pts": 34,
+     "opp_pts": 31,
+     "result": "W",
+     "spread": 6.5,
+     "cover": "W",
+     "total": 45.5,
+     "ou": "O"
+    },
     {
      "date": "2026-10-24T19:30:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "W",
      "total": 46.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-09-26T19:30:00+00:00",
-     "season": 2026,
-     "opp": "Robert Morris",
-     "site": "H",
-     "pts": 31,
-     "opp_pts": 28,
-     "result": "W",
-     "spread": -27.5,
-     "cover": "L",
-     "total": 46.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 22.6,
+     "value": 23.9,
      "fmt": "1",
-     "rank": 106,
+     "rank": 95,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 25.4,
+     "value": 26.0,
      "fmt": "1",
-     "rank": 79,
+     "rank": 87,
      "better": false
     },
     {
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 121,
-    "overall": -8.85,
-    "offense": 20.1,
-    "defense": 28.96
+    "rank": 120,
+    "overall": -8.11,
+    "offense": 21.14,
+    "defense": 29.25
    }
   },
   "home": {
@@ -550,8 +550,8 @@
    ],
    "rating": {
     "rank": 129,
-    "overall": -11.73,
-    "offense": 20.64,
+    "overall": -11.71,
+    "offense": 20.66,
     "defense": 32.36
    }
   }
