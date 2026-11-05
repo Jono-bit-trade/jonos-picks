@@ -92,7 +92,7 @@
      "label": "Points allowed per game",
      "value": 26.0,
      "fmt": "1",
-     "rank": 87,
+     "rank": 86,
      "better": false
     },
     {
@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 120,
-    "overall": -8.11,
-    "offense": 21.14,
-    "defense": 29.25
+    "rank": 119,
+    "overall": -8.14,
+    "offense": 21.13,
+    "defense": 29.27
    }
   },
   "home": {
    "team": "Ball State",
    "rank_ap": null,
    "records": {
-    "su": "3\u20135",
-    "ats": "5\u20133",
-    "ou": "6\u20132"
+    "su": "3\u20136",
+    "ats": "6\u20133",
+    "ou": "7\u20132"
    },
    "recent": [
+    {
+     "date": "2026-11-05T00:00:00+00:00",
+     "season": 2026,
+     "opp": "Massachusetts",
+     "site": "A",
+     "pts": 30,
+     "opp_pts": 31,
+     "result": "L",
+     "spread": 2.5,
+     "cover": "W",
+     "total": 48.5,
+     "ou": "O"
+    },
     {
      "date": "2026-10-24T19:30:00+00:00",
      "season": 2026,
@@ -339,34 +352,21 @@
      "cover": "W",
      "total": 52.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-09-26T16:00:00+00:00",
-     "season": 2026,
-     "opp": "Kent State",
-     "site": "A",
-     "pts": 13,
-     "opp_pts": 26,
-     "result": "L",
-     "spread": 2.5,
-     "cover": "L",
-     "total": 51.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 22.0,
+     "value": 22.9,
      "fmt": "1",
-     "rank": 108,
+     "rank": 106,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 35.2,
+     "value": 34.8,
      "fmt": "1",
      "rank": 131,
      "better": false
@@ -550,9 +550,9 @@
    ],
    "rating": {
     "rank": 129,
-    "overall": -11.71,
-    "offense": 20.66,
-    "defense": 32.36
+    "overall": -11.57,
+    "offense": 21.21,
+    "defense": 32.77
    }
   }
  },

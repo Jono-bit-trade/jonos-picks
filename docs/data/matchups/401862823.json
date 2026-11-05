@@ -92,7 +92,7 @@
      "label": "Points allowed per game",
      "value": 21.5,
      "fmt": "1",
-     "rank": 48,
+     "rank": 47,
      "better": false
     },
     {
@@ -368,7 +368,7 @@
      "label": "Points allowed per game",
      "value": 25.5,
      "fmt": "1",
-     "rank": 82,
+     "rank": 83,
      "better": false
     },
     {
@@ -550,9 +550,9 @@
    ],
    "rating": {
     "rank": 69,
-    "overall": -0.03,
-    "offense": 26.35,
-    "defense": 26.38
+    "overall": -0.04,
+    "offense": 26.32,
+    "defense": 26.36
    }
   }
  },

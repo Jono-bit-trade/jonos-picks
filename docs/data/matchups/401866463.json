@@ -7,11 +7,24 @@
    "team": "Massachusetts",
    "rank_ap": null,
    "records": {
-    "su": "4\u20134",
-    "ats": "4\u20134",
-    "ou": "2\u20136"
+    "su": "5\u20134",
+    "ats": "4\u20135",
+    "ou": "3\u20136"
    },
    "recent": [
+    {
+     "date": "2026-11-05T00:00:00+00:00",
+     "season": 2026,
+     "opp": "Ball State",
+     "site": "H",
+     "pts": 31,
+     "opp_pts": 30,
+     "result": "W",
+     "spread": -2.5,
+     "cover": "L",
+     "total": 48.5,
+     "ou": "O"
+    },
     {
      "date": "2026-10-23T23:00:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "L",
      "total": 49.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-09-27T01:00:00+00:00",
-     "season": 2026,
-     "opp": "Sacramento State",
-     "site": "A",
-     "pts": 35,
-     "opp_pts": 6,
-     "result": "W",
-     "spread": -6.0,
-     "cover": "W",
-     "total": 49.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 26.5,
+     "value": 27.0,
      "fmt": "1",
-     "rank": 83,
+     "rank": 76,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 21.1,
+     "value": 22.1,
      "fmt": "1",
-     "rank": 42,
+     "rank": 52,
      "better": false
     },
     {
@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 131,
-    "overall": -11.97,
-    "offense": 18.28,
-    "defense": 30.26
+    "rank": 132,
+    "overall": -12.19,
+    "offense": 18.62,
+    "defense": 30.81
    }
   },
   "home": {
    "team": "Toledo",
    "rank_ap": null,
    "records": {
-    "su": "6\u20132",
-    "ats": "4\u20133\u20131",
-    "ou": "6\u20132"
+    "su": "7\u20132",
+    "ats": "4\u20134\u20131",
+    "ou": "6\u20133"
    },
    "recent": [
+    {
+     "date": "2026-11-05T00:00:00+00:00",
+     "season": 2026,
+     "opp": "Sacramento State",
+     "site": "A",
+     "pts": 20,
+     "opp_pts": 17,
+     "result": "W",
+     "spread": -25.5,
+     "cover": "L",
+     "total": 52.5,
+     "ou": "U"
+    },
     {
      "date": "2026-10-24T16:00:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "L",
      "total": 52.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-09-26T16:00:00+00:00",
-     "season": 2026,
-     "opp": "San Diego State",
-     "site": "H",
-     "pts": 41,
-     "opp_pts": 16,
-     "result": "W",
-     "spread": -2.5,
-     "cover": "W",
-     "total": 50.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 37.4,
+     "value": 35.4,
      "fmt": "1",
-     "rank": 16,
+     "rank": 25,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 25.4,
+     "value": 24.4,
      "fmt": "1",
-     "rank": 79,
+     "rank": 70,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 54,
-    "overall": 1.94,
-    "offense": 28.95,
-    "defense": 27.01
+    "rank": 61,
+    "overall": 1.06,
+    "offense": 27.83,
+    "defense": 26.77
    }
   }
  },

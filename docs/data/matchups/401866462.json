@@ -7,11 +7,24 @@
    "team": "Sacramento State",
    "rank_ap": null,
    "records": {
-    "su": "2\u20137",
-    "ats": "3\u20136",
-    "ou": "3\u20136"
+    "su": "2\u20138",
+    "ats": "4\u20136",
+    "ou": "3\u20137"
    },
    "recent": [
+    {
+     "date": "2026-11-05T00:00:00+00:00",
+     "season": 2026,
+     "opp": "Toledo",
+     "site": "H",
+     "pts": 17,
+     "opp_pts": 20,
+     "result": "L",
+     "spread": 25.5,
+     "cover": "W",
+     "total": 52.5,
+     "ou": "U"
+    },
     {
      "date": "2026-10-31T02:30:00+00:00",
      "season": 2026,
@@ -63,19 +76,6 @@
      "cover": "L",
      "total": 43.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-09-27T01:00:00+00:00",
-     "season": 2026,
-     "opp": "Massachusetts",
-     "site": "H",
-     "pts": 6,
-     "opp_pts": 35,
-     "result": "L",
-     "spread": 6.0,
-     "cover": "L",
-     "total": 49.5,
-     "ou": "U"
     }
    ],
    "stats": [
@@ -90,9 +90,9 @@
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 30.3,
+     "value": 29.3,
      "fmt": "1",
-     "rank": 114,
+     "rank": 108,
      "better": false
     },
     {
@@ -274,20 +274,33 @@
    ],
    "rating": {
     "rank": 134,
-    "overall": -14.31,
-    "offense": 17.79,
-    "defense": 32.1
+    "overall": -13.63,
+    "offense": 17.47,
+    "defense": 31.11
    }
   },
   "home": {
    "team": "Central Michigan",
    "rank_ap": null,
    "records": {
-    "su": "3\u20135",
-    "ats": "4\u20134",
-    "ou": "3\u20135"
+    "su": "4\u20135",
+    "ats": "5\u20134",
+    "ou": "3\u20136"
    },
    "recent": [
+    {
+     "date": "2026-11-05T00:30:00+00:00",
+     "season": 2026,
+     "opp": "Eastern Michigan",
+     "site": "N",
+     "pts": 35,
+     "opp_pts": 7,
+     "result": "W",
+     "spread": -2.5,
+     "cover": "W",
+     "total": 44.5,
+     "ou": "U"
+    },
     {
      "date": "2026-10-24T17:00:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "W",
      "total": 47.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-09-26T22:30:00+00:00",
-     "season": 2026,
-     "opp": "Miami",
-     "site": "A",
-     "pts": 3,
-     "opp_pts": 52,
-     "result": "L",
-     "spread": 41.5,
-     "cover": "L",
-     "total": 52.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 17.9,
+     "value": 19.8,
      "fmt": "1",
-     "rank": 131,
+     "rank": 125,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 25.9,
+     "value": 23.8,
      "fmt": "1",
-     "rank": 85,
+     "rank": 63,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 114,
-    "overall": -7.31,
-    "offense": 19.61,
-    "defense": 26.93
+    "rank": 103,
+    "overall": -5.22,
+    "offense": 20.54,
+    "defense": 25.75
    }
   }
  },
