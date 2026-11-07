@@ -274,20 +274,33 @@
    ],
    "rating": {
     "rank": 120,
-    "overall": -8.41,
-    "offense": 21.37,
-    "defense": 29.77
+    "overall": -8.4,
+    "offense": 21.38,
+    "defense": 29.78
    }
   },
   "home": {
    "team": "Virginia Tech",
    "rank_ap": null,
    "records": {
-    "su": "6\u20132",
-    "ats": "5\u20133",
-    "ou": "5\u20133"
+    "su": "6\u20133",
+    "ats": "5\u20134",
+    "ou": "6\u20133"
    },
    "recent": [
+    {
+     "date": "2026-11-07T00:00:00+00:00",
+     "season": 2026,
+     "opp": "SMU",
+     "site": "A",
+     "pts": 28,
+     "opp_pts": 51,
+     "result": "L",
+     "spread": 6.0,
+     "cover": "L",
+     "total": 57.5,
+     "ou": "O"
+    },
     {
      "date": "2026-10-24T23:00:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "L",
      "total": 53.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-09-26T16:00:00+00:00",
-     "season": 2026,
-     "opp": "Boston College",
-     "site": "A",
-     "pts": 21,
-     "opp_pts": 14,
-     "result": "W",
-     "spread": -14.5,
-     "cover": "L",
-     "total": 45.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 35.0,
+     "value": 34.2,
      "fmt": "1",
-     "rank": 27,
+     "rank": 29,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 20.5,
+     "value": 23.9,
      "fmt": "1",
-     "rank": 35,
+     "rank": 65,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 54,
-    "overall": 1.61,
-    "offense": 27.31,
-    "defense": 25.7
+    "rank": 63,
+    "overall": 0.45,
+    "offense": 27.62,
+    "defense": 27.18
    }
   }
  },

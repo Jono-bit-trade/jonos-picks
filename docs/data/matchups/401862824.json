@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 55,
-    "overall": 1.58,
-    "offense": 28.93,
-    "defense": 27.35
+    "rank": 54,
+    "overall": 1.6,
+    "offense": 28.96,
+    "defense": 27.36
    }
   },
   "home": {
    "team": "South Florida",
    "rank_ap": null,
    "records": {
-    "su": "6\u20132",
-    "ats": "4\u20134",
-    "ou": "3\u20135"
+    "su": "6\u20133",
+    "ats": "4\u20135",
+    "ou": "3\u20136"
    },
    "recent": [
+    {
+     "date": "2026-11-07T00:30:00+00:00",
+     "season": 2026,
+     "opp": "East Carolina",
+     "site": "A",
+     "pts": 17,
+     "opp_pts": 20,
+     "result": "L",
+     "spread": 1.5,
+     "cover": "L",
+     "total": 39.5,
+     "ou": "U"
+    },
     {
      "date": "2026-10-31T16:00:00+00:00",
      "season": 2026,
@@ -339,34 +352,21 @@
      "cover": "L",
      "total": 50.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-09-26T21:00:00+00:00",
-     "season": 2026,
-     "opp": "Bowling Green",
-     "site": "A",
-     "pts": 14,
-     "opp_pts": 6,
-     "result": "W",
-     "spread": -17.5,
-     "cover": "L",
-     "total": 48.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 27.0,
+     "value": 25.9,
      "fmt": "1",
-     "rank": 76,
+     "rank": 86,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 14.5,
+     "value": 15.1,
      "fmt": "1",
      "rank": 10,
      "better": false
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 58,
-    "overall": 1.29,
-    "offense": 25.11,
-    "defense": 23.82
+    "rank": 60,
+    "overall": 0.97,
+    "offense": 24.6,
+    "defense": 23.63
    }
   }
  },

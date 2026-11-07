@@ -84,7 +84,7 @@
      "label": "Points per game",
      "value": 31.8,
      "fmt": "1",
-     "rank": 50,
+     "rank": 49,
      "better": true
     },
     {
@@ -92,7 +92,7 @@
      "label": "Points allowed per game",
      "value": 21.9,
      "fmt": "1",
-     "rank": 50,
+     "rank": 49,
      "better": false
     },
     {
@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 48,
+    "rank": 49,
     "overall": 2.45,
     "offense": 27.83,
-    "defense": 25.37
+    "defense": 25.38
    }
   },
   "home": {
    "team": "TCU",
    "rank_ap": null,
    "records": {
-    "su": "4\u20134",
-    "ats": "3\u20135",
-    "ou": "1\u20137"
+    "su": "4\u20135",
+    "ats": "4\u20135",
+    "ou": "2\u20137"
    },
    "recent": [
+    {
+     "date": "2026-11-07T03:15:00+00:00",
+     "season": 2026,
+     "opp": "Arizona",
+     "site": "A",
+     "pts": 28,
+     "opp_pts": 29,
+     "result": "L",
+     "spread": 6.0,
+     "cover": "W",
+     "total": 46.5,
+     "ou": "O"
+    },
     {
      "date": "2026-10-31T19:30:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "L",
      "total": 48.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-09-26T19:30:00+00:00",
-     "season": 2026,
-     "opp": "UCF",
-     "site": "A",
-     "pts": 13,
-     "opp_pts": 21,
-     "result": "L",
-     "spread": -3.5,
-     "cover": "L",
-     "total": 48.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 23.2,
+     "value": 23.8,
      "fmt": "1",
-     "rank": 101,
+     "rank": 96,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 14.1,
+     "value": 15.8,
      "fmt": "1",
-     "rank": 8,
+     "rank": 13,
      "better": false
     },
     {
@@ -550,9 +550,9 @@
    ],
    "rating": {
     "rank": 40,
-    "overall": 3.67,
-    "offense": 24.19,
-    "defense": 20.52
+    "overall": 4.18,
+    "offense": 24.92,
+    "defense": 20.74
    }
   }
  },
