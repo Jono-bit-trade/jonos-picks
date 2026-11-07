@@ -7,11 +7,24 @@
    "team": "Boston College",
    "rank_ap": null,
    "records": {
-    "su": "4\u20134",
-    "ats": "5\u20133",
-    "ou": "2\u20136"
+    "su": "4\u20135",
+    "ats": "5\u20134",
+    "ou": "3\u20136"
    },
    "recent": [
+    {
+     "date": "2026-11-07T17:00:00+00:00",
+     "season": 2026,
+     "opp": "Florida State",
+     "site": "H",
+     "pts": 24,
+     "opp_pts": 31,
+     "result": "L",
+     "spread": 5.5,
+     "cover": "L",
+     "total": 53.5,
+     "ou": "O"
+    },
     {
      "date": "2026-10-31T16:00:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "W",
      "total": 55.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-09-26T16:00:00+00:00",
-     "season": 2026,
-     "opp": "Virginia Tech",
-     "site": "H",
-     "pts": 14,
-     "opp_pts": 21,
-     "result": "L",
-     "spread": 14.5,
-     "cover": "W",
-     "total": 45.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 21.6,
+     "value": 21.9,
      "fmt": "1",
-     "rank": 110,
+     "rank": 108,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 26.5,
+     "value": 27.0,
      "fmt": "1",
-     "rank": 88,
+     "rank": 92,
      "better": false
     },
     {
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 99,
-    "overall": -4.76,
-    "offense": 22.39,
-    "defense": 27.14
+    "rank": 97,
+    "overall": -4.74,
+    "offense": 22.5,
+    "defense": 27.24
    }
   },
   "home": {
@@ -368,7 +368,7 @@
      "label": "Points allowed per game",
      "value": 13.4,
      "fmt": "1",
-     "rank": 5,
+     "rank": 6,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 1,
-    "overall": 17.45,
-    "offense": 35.09,
-    "defense": 17.64
+    "rank": 2,
+    "overall": 17.51,
+    "offense": 35.15,
+    "defense": 17.63
    }
   }
  },

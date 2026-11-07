@@ -92,7 +92,7 @@
      "label": "Points allowed per game",
      "value": 19.3,
      "fmt": "1",
-     "rank": 29,
+     "rank": 27,
      "better": false
     },
     {
@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 26,
-    "overall": 6.76,
-    "offense": 31.76,
-    "defense": 25.0
+    "rank": 28,
+    "overall": 6.78,
+    "offense": 31.81,
+    "defense": 25.03
    }
   },
   "home": {
    "team": "UConn",
    "rank_ap": null,
    "records": {
-    "su": "4\u20134",
-    "ats": "5\u20133",
-    "ou": "4\u20134"
+    "su": "4\u20135",
+    "ats": "5\u20134",
+    "ou": "5\u20134"
    },
    "recent": [
+    {
+     "date": "2026-11-07T17:00:00+00:00",
+     "season": 2026,
+     "opp": "North Carolina",
+     "site": "H",
+     "pts": 21,
+     "opp_pts": 38,
+     "result": "L",
+     "spread": 7.5,
+     "cover": "L",
+     "total": 55.5,
+     "ou": "O"
+    },
     {
      "date": "2026-10-31T19:00:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "W",
      "total": 51.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-09-26T19:30:00+00:00",
-     "season": 2026,
-     "opp": "Miami (OH)",
-     "site": "A",
-     "pts": 21,
-     "opp_pts": 24,
-     "result": "L",
-     "spread": 2.5,
-     "cover": "L",
-     "total": 52.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 34.4,
+     "value": 32.9,
      "fmt": "1",
-     "rank": 28,
+     "rank": 41,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 25.2,
+     "value": 26.7,
      "fmt": "1",
-     "rank": 76,
+     "rank": 89,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 86,
-    "overall": -3.1,
-    "offense": 26.85,
-    "defense": 29.95
+    "rank": 92,
+    "overall": -4.22,
+    "offense": 26.54,
+    "defense": 30.76
    }
   }
  },

@@ -92,7 +92,7 @@
      "label": "Points allowed per game",
      "value": 25.2,
      "fmt": "1",
-     "rank": 76,
+     "rank": 75,
      "better": false
     },
     {
@@ -274,20 +274,33 @@
    ],
    "rating": {
     "rank": 25,
-    "overall": 7.39,
-    "offense": 30.82,
-    "defense": 23.43
+    "overall": 7.4,
+    "offense": 30.85,
+    "defense": 23.45
    }
   },
   "home": {
    "team": "Arkansas",
    "rank_ap": null,
    "records": {
-    "su": "3\u20135",
-    "ats": "3\u20135",
-    "ou": "2\u20136"
+    "su": "3\u20136",
+    "ats": "4\u20135",
+    "ou": "2\u20137"
    },
    "recent": [
+    {
+     "date": "2026-11-07T17:45:00+00:00",
+     "season": 2026,
+     "opp": "Auburn",
+     "site": "A",
+     "pts": 23,
+     "opp_pts": 26,
+     "result": "L",
+     "spread": 10.5,
+     "cover": "W",
+     "total": 53.5,
+     "ou": "U"
+    },
     {
      "date": "2026-10-31T23:45:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "L",
      "total": 51.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-09-27T00:00:00+00:00",
-     "season": 2026,
-     "opp": "Tulsa",
-     "site": "H",
-     "pts": 34,
-     "opp_pts": 6,
-     "result": "W",
-     "spread": -7.0,
-     "cover": "W",
-     "total": 51.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 19.6,
+     "value": 20.0,
      "fmt": "1",
-     "rank": 126,
+     "rank": 122,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 27.6,
+     "value": 27.4,
      "fmt": "1",
-     "rank": 100,
+     "rank": 96,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 91,
-    "overall": -3.62,
-    "offense": 24.3,
-    "defense": 27.92
+    "rank": 87,
+    "overall": -3.1,
+    "offense": 24.53,
+    "defense": 27.63
    }
   }
  },

@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 76,
-    "overall": -1.83,
-    "offense": 32.16,
-    "defense": 33.99
+    "rank": 78,
+    "overall": -1.8,
+    "offense": 32.22,
+    "defense": 34.02
    }
   },
   "home": {
    "team": "Tulsa",
    "rank_ap": null,
    "records": {
-    "su": "4\u20134",
-    "ats": "4\u20134",
-    "ou": "4\u20134"
+    "su": "5\u20134",
+    "ats": "5\u20134",
+    "ou": "5\u20134"
    },
    "recent": [
+    {
+     "date": "2026-11-07T17:00:00+00:00",
+     "season": 2026,
+     "opp": "Tulane",
+     "site": "A",
+     "pts": 60,
+     "opp_pts": 10,
+     "result": "W",
+     "spread": -3.0,
+     "cover": "W",
+     "total": 50.5,
+     "ou": "O"
+    },
     {
      "date": "2026-10-24T00:30:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "W",
      "total": 56.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-09-27T00:00:00+00:00",
-     "season": 2026,
-     "opp": "Arkansas",
-     "site": "A",
-     "pts": 6,
-     "opp_pts": 34,
-     "result": "L",
-     "spread": 7.0,
-     "cover": "L",
-     "total": 51.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 29.8,
+     "value": 33.1,
      "fmt": "1",
-     "rank": 57,
+     "rank": 38,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 24.4,
+     "value": 22.8,
      "fmt": "1",
-     "rank": 68,
+     "rank": 53,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 93,
-    "overall": -4.11,
-    "offense": 24.22,
-    "defense": 28.33
+    "rank": 73,
+    "overall": -0.84,
+    "offense": 26.19,
+    "defense": 27.02
    }
   }
  },

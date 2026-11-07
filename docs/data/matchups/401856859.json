@@ -84,7 +84,7 @@
      "label": "Points per game",
      "value": 34.1,
      "fmt": "1",
-     "rank": 31,
+     "rank": 30,
      "better": true
     },
     {
@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 70,
-    "overall": -0.18,
-    "offense": 28.78,
-    "defense": 28.96
+    "rank": 69,
+    "overall": -0.35,
+    "offense": 28.67,
+    "defense": 29.02
    }
   },
   "home": {
    "team": "Iowa State",
    "rank_ap": null,
    "records": {
-    "su": "4\u20134",
-    "ats": "3\u20134\u20131",
-    "ou": "4\u20134"
+    "su": "4\u20135",
+    "ats": "3\u20135\u20131",
+    "ou": "5\u20134"
    },
    "recent": [
+    {
+     "date": "2026-11-07T17:00:00+00:00",
+     "season": 2026,
+     "opp": "Baylor",
+     "site": "A",
+     "pts": 31,
+     "opp_pts": 42,
+     "result": "L",
+     "spread": 10.0,
+     "cover": "L",
+     "total": 50.5,
+     "ou": "O"
+    },
     {
      "date": "2026-10-31T23:00:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "P",
      "total": 53.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-09-26T19:30:00+00:00",
-     "season": 2026,
-     "opp": "Utah",
-     "site": "H",
-     "pts": 17,
-     "opp_pts": 31,
-     "result": "L",
-     "spread": 7.5,
-     "cover": "L",
-     "total": 46.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 29.0,
+     "value": 29.2,
      "fmt": "1",
-     "rank": 65,
+     "rank": 62,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 27.2,
+     "value": 28.9,
      "fmt": "1",
-     "rank": 96,
+     "rank": 103,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 78,
-    "overall": -1.97,
-    "offense": 25.37,
-    "defense": 27.35
+    "rank": 76,
+    "overall": -1.67,
+    "offense": 26.24,
+    "defense": 27.9
    }
   }
  },

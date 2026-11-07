@@ -7,11 +7,24 @@
    "team": "Baylor",
    "rank_ap": null,
    "records": {
-    "su": "5\u20133",
-    "ats": "6\u20132",
-    "ou": "3\u20135"
+    "su": "6\u20133",
+    "ats": "7\u20132",
+    "ou": "4\u20135"
    },
    "recent": [
+    {
+     "date": "2026-11-07T17:00:00+00:00",
+     "season": 2026,
+     "opp": "Iowa State",
+     "site": "H",
+     "pts": 42,
+     "opp_pts": 31,
+     "result": "W",
+     "spread": -10.0,
+     "cover": "W",
+     "total": 50.5,
+     "ou": "O"
+    },
     {
      "date": "2026-10-30T23:30:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "W",
      "total": 49.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-09-26T16:00:00+00:00",
-     "season": 2026,
-     "opp": "Colorado",
-     "site": "H",
-     "pts": 23,
-     "opp_pts": 13,
-     "result": "W",
-     "spread": -8.5,
-     "cover": "W",
-     "total": 54.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 30.6,
+     "value": 31.9,
      "fmt": "1",
-     "rank": 53,
+     "rank": 47,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 15.2,
+     "value": 17.0,
      "fmt": "1",
-     "rank": 11,
+     "rank": 18,
      "better": false
     },
     {
@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 27,
-    "overall": 6.74,
-    "offense": 29.37,
-    "defense": 22.62
+    "rank": 29,
+    "overall": 6.67,
+    "offense": 30.15,
+    "defense": 23.47
    }
   },
   "home": {
    "team": "BYU",
    "rank_ap": 7,
    "records": {
-    "su": "7\u20131",
-    "ats": "6\u20132",
-    "ou": "5\u20133"
+    "su": "7\u20132",
+    "ats": "6\u20133",
+    "ou": "5\u20134"
    },
    "recent": [
+    {
+     "date": "2026-11-07T17:00:00+00:00",
+     "season": 2026,
+     "opp": "Utah",
+     "site": "A",
+     "pts": 20,
+     "opp_pts": 28,
+     "result": "L",
+     "spread": 4.0,
+     "cover": "L",
+     "total": 49.5,
+     "ou": "U"
+    },
     {
      "date": "2026-10-31T19:30:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "W",
      "total": 46.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-03T23:00:00+00:00",
-     "season": 2026,
-     "opp": "TCU",
-     "site": "A",
-     "pts": 17,
-     "opp_pts": 10,
-     "result": "W",
-     "spread": -5.5,
-     "cover": "W",
-     "total": 48.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 32.4,
+     "value": 31.0,
      "fmt": "1",
-     "rank": 44,
+     "rank": 51,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 18.8,
+     "value": 19.8,
      "fmt": "1",
-     "rank": 25,
+     "rank": 28,
      "better": false
     },
     {
@@ -550,9 +550,9 @@
    ],
    "rating": {
     "rank": 17,
-    "overall": 8.83,
-    "offense": 29.51,
-    "defense": 20.68
+    "overall": 8.85,
+    "offense": 29.35,
+    "defense": 20.5
    }
   }
  },

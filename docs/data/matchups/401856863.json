@@ -274,20 +274,33 @@
    ],
    "rating": {
     "rank": 12,
-    "overall": 10.42,
-    "offense": 31.84,
-    "defense": 21.42
+    "overall": 10.39,
+    "offense": 31.89,
+    "defense": 21.5
    }
   },
   "home": {
    "team": "Oklahoma State",
    "rank_ap": 24,
    "records": {
-    "su": "5\u20133",
-    "ats": "6\u20132",
-    "ou": "6\u20132"
+    "su": "6\u20133",
+    "ats": "7\u20132",
+    "ou": "7\u20132"
    },
    "recent": [
+    {
+     "date": "2026-11-07T18:00:00+00:00",
+     "season": 2026,
+     "opp": "Kansas State",
+     "site": "A",
+     "pts": 66,
+     "opp_pts": 28,
+     "result": "W",
+     "spread": -7.0,
+     "cover": "W",
+     "total": 64.5,
+     "ou": "O"
+    },
     {
      "date": "2026-10-31T23:00:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "W",
      "total": 53.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-09-26T23:00:00+00:00",
-     "season": 2026,
-     "opp": "West Virginia",
-     "site": "A",
-     "pts": 41,
-     "opp_pts": 24,
-     "result": "W",
-     "spread": 1.5,
-     "cover": "W",
-     "total": 60.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 41.1,
+     "value": 43.9,
      "fmt": "1",
-     "rank": 3,
+     "rank": 2,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 27.1,
+     "value": 27.2,
      "fmt": "1",
-     "rank": 95,
+     "rank": 94,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 57,
-    "overall": 1.16,
-    "offense": 29.88,
-    "defense": 28.72
+    "rank": 39,
+    "overall": 4.42,
+    "offense": 32.75,
+    "defense": 28.34
    }
   }
  },

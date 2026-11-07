@@ -92,7 +92,7 @@
      "label": "Points allowed per game",
      "value": 27.0,
      "fmt": "1",
-     "rank": 94,
+     "rank": 92,
      "better": false
     },
     {
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 23,
-    "overall": 7.52,
-    "offense": 32.7,
-    "defense": 25.17
+    "rank": 27,
+    "overall": 7.32,
+    "offense": 32.69,
+    "defense": 25.37
    }
   },
   "home": {
@@ -360,7 +360,7 @@
      "label": "Points per game",
      "value": 24.8,
      "fmt": "1",
-     "rank": 91,
+     "rank": 89,
      "better": true
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 101,
-    "overall": -5.08,
-    "offense": 24.77,
-    "defense": 29.85
+    "rank": 99,
+    "overall": -4.87,
+    "offense": 24.93,
+    "defense": 29.8
    }
   }
  },

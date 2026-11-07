@@ -7,11 +7,24 @@
    "team": "Minnesota",
    "rank_ap": null,
    "records": {
-    "su": "5\u20133",
-    "ats": "6\u20132",
-    "ou": "3\u20135"
+    "su": "5\u20134",
+    "ats": "6\u20133",
+    "ou": "4\u20135"
    },
    "recent": [
+    {
+     "date": "2026-11-07T17:00:00+00:00",
+     "season": 2026,
+     "opp": "UCLA",
+     "site": "H",
+     "pts": 20,
+     "opp_pts": 34,
+     "result": "L",
+     "spread": 3.5,
+     "cover": "L",
+     "total": 37.5,
+     "ou": "O"
+    },
     {
      "date": "2026-10-31T19:30:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "W",
      "total": 41.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-09-27T03:00:00+00:00",
-     "season": 2026,
-     "opp": "Washington",
-     "site": "A",
-     "pts": 27,
-     "opp_pts": 24,
-     "result": "W",
-     "spread": 12.5,
-     "cover": "W",
-     "total": 44.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 25.2,
+     "value": 24.7,
      "fmt": "1",
-     "rank": 89,
+     "rank": 90,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 20.5,
+     "value": 22.0,
      "fmt": "1",
-     "rank": 35,
+     "rank": 49,
      "better": false
     },
     {
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 48,
-    "overall": 2.52,
-    "offense": 25.08,
-    "defense": 22.56
+    "rank": 54,
+    "overall": 1.5,
+    "offense": 25.0,
+    "defense": 23.5
    }
   },
   "home": {
@@ -368,7 +368,7 @@
      "label": "Points allowed per game",
      "value": 18.6,
      "fmt": "1",
-     "rank": 24,
+     "rank": 23,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 35,
-    "overall": 5.55,
-    "offense": 27.75,
-    "defense": 22.2
+    "rank": 37,
+    "overall": 5.48,
+    "offense": 27.74,
+    "defense": 22.25
    }
   }
  },

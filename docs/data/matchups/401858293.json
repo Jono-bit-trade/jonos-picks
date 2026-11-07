@@ -7,11 +7,24 @@
    "team": "Florida State",
    "rank_ap": null,
    "records": {
-    "su": "3\u20135",
-    "ats": "3\u20134\u20131",
-    "ou": "4\u20134"
+    "su": "4\u20135",
+    "ats": "4\u20134\u20131",
+    "ou": "5\u20134"
    },
    "recent": [
+    {
+     "date": "2026-11-07T17:00:00+00:00",
+     "season": 2026,
+     "opp": "Boston College",
+     "site": "A",
+     "pts": 31,
+     "opp_pts": 24,
+     "result": "W",
+     "spread": -5.5,
+     "cover": "W",
+     "total": 53.5,
+     "ou": "O"
+    },
     {
      "date": "2026-10-31T23:00:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "W",
      "total": 51.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-09-26T19:00:00+00:00",
-     "season": 2026,
-     "opp": "Central Arkansas",
-     "site": "H",
-     "pts": 34,
-     "opp_pts": 7,
-     "result": "W",
-     "spread": -45.5,
-     "cover": "L",
-     "total": 62.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 30.6,
+     "value": 30.7,
      "fmt": "1",
-     "rank": 53,
+     "rank": 52,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 28.9,
+     "value": 28.3,
      "fmt": "1",
-     "rank": 104,
+     "rank": 102,
      "better": false
     },
     {
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 47,
-    "overall": 2.58,
-    "offense": 29.26,
-    "defense": 26.68
+    "rank": 49,
+    "overall": 2.82,
+    "offense": 29.51,
+    "defense": 26.69
    }
   },
   "home": {
@@ -360,7 +360,7 @@
      "label": "Points per game",
      "value": 31.9,
      "fmt": "1",
-     "rank": 48,
+     "rank": 47,
      "better": true
     },
     {
@@ -368,7 +368,7 @@
      "label": "Points allowed per game",
      "value": 19.8,
      "fmt": "1",
-     "rank": 30,
+     "rank": 28,
      "better": false
     },
     {
@@ -549,9 +549,9 @@
     }
    ],
    "rating": {
-    "rank": 39,
-    "overall": 4.28,
-    "offense": 28.25,
+    "rank": 40,
+    "overall": 4.39,
+    "offense": 28.36,
     "defense": 23.97
    }
   }

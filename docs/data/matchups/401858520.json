@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 46,
-    "overall": 2.98,
-    "offense": 22.49,
-    "defense": 19.51
+    "rank": 47,
+    "overall": 3.05,
+    "offense": 22.54,
+    "defense": 19.49
    }
   },
   "home": {
    "team": "Maryland",
    "rank_ap": null,
    "records": {
-    "su": "2\u20136",
-    "ats": "3\u20134\u20131",
-    "ou": "6\u20132"
+    "su": "3\u20136",
+    "ats": "4\u20134\u20131",
+    "ou": "7\u20132"
    },
    "recent": [
+    {
+     "date": "2026-11-07T17:30:00+00:00",
+     "season": 2026,
+     "opp": "Purdue",
+     "site": "A",
+     "pts": 34,
+     "opp_pts": 29,
+     "result": "W",
+     "spread": 5.5,
+     "cover": "W",
+     "total": 56.5,
+     "ou": "O"
+    },
     {
      "date": "2026-10-31T16:00:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "L",
      "total": 52.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-09-26T17:30:00+00:00",
-     "season": 2026,
-     "opp": "UCLA",
-     "site": "H",
-     "pts": 3,
-     "opp_pts": 54,
-     "result": "L",
-     "spread": 2.5,
-     "cover": "L",
-     "total": 55.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 26.9,
+     "value": 27.7,
      "fmt": "1",
-     "rank": 77,
+     "rank": 74,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 31.6,
+     "value": 31.3,
      "fmt": "1",
-     "rank": 120,
+     "rank": 119,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 82,
-    "overall": -2.81,
-    "offense": 25.15,
-    "defense": 27.96
+    "rank": 80,
+    "overall": -2.12,
+    "offense": 25.71,
+    "defense": 27.83
    }
   }
  },

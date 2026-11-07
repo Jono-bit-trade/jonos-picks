@@ -7,11 +7,24 @@
    "team": "Syracuse",
    "rank_ap": null,
    "records": {
-    "su": "4\u20134",
-    "ats": "5\u20133",
-    "ou": "5\u20133"
+    "su": "4\u20135",
+    "ats": "5\u20134",
+    "ou": "5\u20134"
    },
    "recent": [
+    {
+     "date": "2026-11-07T17:00:00+00:00",
+     "season": 2026,
+     "opp": "Clemson",
+     "site": "H",
+     "pts": 13,
+     "opp_pts": 18,
+     "result": "L",
+     "spread": 1.5,
+     "cover": "L",
+     "total": 50.5,
+     "ou": "U"
+    },
     {
      "date": "2026-10-31T16:00:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "W",
      "total": 49.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-10-03T16:00:00+00:00",
-     "season": 2026,
-     "opp": "UConn",
-     "site": "A",
-     "pts": 42,
-     "opp_pts": 41,
-     "result": "W",
-     "spread": -6.5,
-     "cover": "L",
-     "total": 51.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 31.4,
+     "value": 29.3,
      "fmt": "1",
-     "rank": 51,
+     "rank": 60,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 26.4,
+     "value": 25.4,
      "fmt": "1",
-     "rank": 87,
+     "rank": 80,
      "better": false
     },
     {
@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 73,
-    "overall": -0.88,
-    "offense": 26.45,
-    "defense": 27.34
+    "rank": 74,
+    "overall": -1.14,
+    "offense": 25.69,
+    "defense": 26.83
    }
   },
   "home": {
    "team": "NC State",
    "rank_ap": null,
    "records": {
-    "su": "4\u20134",
-    "ats": "3\u20135",
-    "ou": "5\u20133"
+    "su": "4\u20135",
+    "ats": "3\u20136",
+    "ou": "5\u20134"
    },
    "recent": [
+    {
+     "date": "2026-11-07T17:30:00+00:00",
+     "season": 2026,
+     "opp": "Duke",
+     "site": "H",
+     "pts": 3,
+     "opp_pts": 41,
+     "result": "L",
+     "spread": 4.5,
+     "cover": "L",
+     "total": 53.5,
+     "ou": "U"
+    },
     {
      "date": "2026-10-31T16:00:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "W",
      "total": 56.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-09-26T23:30:00+00:00",
-     "season": 2026,
-     "opp": "App State",
-     "site": "H",
-     "pts": 41,
-     "opp_pts": 31,
-     "result": "W",
-     "spread": -12.5,
-     "cover": "L",
-     "total": 56.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 32.1,
+     "value": 28.9,
      "fmt": "1",
-     "rank": 46,
+     "rank": 66,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 25.9,
+     "value": 27.6,
      "fmt": "1",
-     "rank": 85,
+     "rank": 99,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 51,
-    "overall": 2.33,
-    "offense": 28.78,
-    "defense": 26.45
+    "rank": 71,
+    "overall": -0.53,
+    "offense": 26.95,
+    "defense": 27.48
    }
   }
  },

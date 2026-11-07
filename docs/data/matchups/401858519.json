@@ -7,11 +7,24 @@
    "team": "Purdue",
    "rank_ap": null,
    "records": {
-    "su": "3\u20135",
-    "ats": "3\u20135",
-    "ou": "6\u20132"
+    "su": "3\u20136",
+    "ats": "3\u20136",
+    "ou": "7\u20132"
    },
    "recent": [
+    {
+     "date": "2026-11-07T17:30:00+00:00",
+     "season": 2026,
+     "opp": "Maryland",
+     "site": "H",
+     "pts": 29,
+     "opp_pts": 34,
+     "result": "L",
+     "spread": -5.5,
+     "cover": "L",
+     "total": 56.5,
+     "ou": "O"
+    },
     {
      "date": "2026-10-31T20:15:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "W",
      "total": 62.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-09-26T18:00:00+00:00",
-     "season": 2026,
-     "opp": "Notre Dame",
-     "site": "H",
-     "pts": 10,
-     "opp_pts": 49,
-     "result": "L",
-     "spread": 27.5,
-     "cover": "L",
-     "total": 57.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 29.5,
+     "value": 29.4,
      "fmt": "1",
-     "rank": 59,
+     "rank": 58,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 32.1,
+     "value": 32.3,
      "fmt": "1",
-     "rank": 124,
+     "rank": 126,
      "better": false
     },
     {
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 77,
-    "overall": -1.85,
-    "offense": 26.99,
-    "defense": 28.84
+    "rank": 82,
+    "overall": -2.54,
+    "offense": 26.87,
+    "defense": 29.41
    }
   },
   "home": {
@@ -550,9 +550,9 @@
    ],
    "rating": {
     "rank": 15,
-    "overall": 9.66,
-    "offense": 27.69,
-    "defense": 18.03
+    "overall": 9.6,
+    "offense": 27.65,
+    "defense": 18.05
    }
   }
  },

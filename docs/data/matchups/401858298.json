@@ -92,7 +92,7 @@
      "label": "Points allowed per game",
      "value": 27.0,
      "fmt": "1",
-     "rank": 94,
+     "rank": 92,
      "better": false
     },
     {
@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 23,
-    "overall": 7.52,
-    "offense": 32.7,
-    "defense": 25.17
+    "rank": 27,
+    "overall": 7.32,
+    "offense": 32.69,
+    "defense": 25.37
    }
   },
   "home": {
    "team": "North Carolina",
    "rank_ap": null,
    "records": {
-    "su": "4\u20134",
-    "ats": "5\u20133",
-    "ou": "4\u20134"
+    "su": "5\u20134",
+    "ats": "6\u20133",
+    "ou": "5\u20134"
    },
    "recent": [
+    {
+     "date": "2026-11-07T17:00:00+00:00",
+     "season": 2026,
+     "opp": "UConn",
+     "site": "A",
+     "pts": 38,
+     "opp_pts": 21,
+     "result": "W",
+     "spread": -7.5,
+     "cover": "W",
+     "total": 55.5,
+     "ou": "O"
+    },
     {
      "date": "2026-10-31T23:30:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "W",
      "total": 47.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-03T16:00:00+00:00",
-     "season": 2026,
-     "opp": "Notre Dame",
-     "site": "H",
-     "pts": 26,
-     "opp_pts": 37,
-     "result": "L",
-     "spread": 21.0,
-     "cover": "W",
-     "total": 46.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 25.8,
+     "value": 27.1,
      "fmt": "1",
-     "rank": 88,
+     "rank": 77,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 23.0,
+     "value": 22.8,
      "fmt": "1",
-     "rank": 55,
+     "rank": 53,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 55,
-    "overall": 1.52,
-    "offense": 25.33,
-    "defense": 23.81
+    "rank": 48,
+    "overall": 2.83,
+    "offense": 26.3,
+    "defense": 23.47
    }
   }
  },

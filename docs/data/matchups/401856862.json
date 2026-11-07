@@ -7,11 +7,24 @@
    "team": "Kansas State",
    "rank_ap": null,
    "records": {
-    "su": "4\u20134",
-    "ats": "3\u20134\u20131",
-    "ou": "5\u20133"
+    "su": "4\u20135",
+    "ats": "3\u20135\u20131",
+    "ou": "6\u20133"
    },
    "recent": [
+    {
+     "date": "2026-11-07T18:00:00+00:00",
+     "season": 2026,
+     "opp": "Oklahoma State",
+     "site": "H",
+     "pts": 28,
+     "opp_pts": 66,
+     "result": "L",
+     "spread": 7.0,
+     "cover": "L",
+     "total": 64.5,
+     "ou": "O"
+    },
     {
      "date": "2026-10-31T18:00:00+00:00",
      "season": 2026,
@@ -63,26 +76,13 @@
      "cover": "L",
      "total": 55.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-09-26T23:00:00+00:00",
-     "season": 2026,
-     "opp": "Cincinnati",
-     "site": "A",
-     "pts": 26,
-     "opp_pts": 31,
-     "result": "L",
-     "spread": -6.0,
-     "cover": "L",
-     "total": 55.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 31.8,
+     "value": 31.3,
      "fmt": "1",
      "rank": 49,
      "better": true
@@ -90,9 +90,9 @@
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 21.9,
+     "value": 26.8,
      "fmt": "1",
-     "rank": 49,
+     "rank": 91,
      "better": false
     },
     {
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 49,
-    "overall": 2.44,
-    "offense": 27.82,
-    "defense": 25.39
+    "rank": 72,
+    "overall": -0.81,
+    "offense": 27.51,
+    "defense": 28.32
    }
   },
   "home": {
@@ -368,7 +368,7 @@
      "label": "Points allowed per game",
      "value": 15.8,
      "fmt": "1",
-     "rank": 13,
+     "rank": 12,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 40,
-    "overall": 4.19,
-    "offense": 24.93,
-    "defense": 20.74
+    "rank": 41,
+    "overall": 4.24,
+    "offense": 24.97,
+    "defense": 20.73
    }
   }
  },

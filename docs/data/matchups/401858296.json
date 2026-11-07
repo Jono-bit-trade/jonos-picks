@@ -7,11 +7,24 @@
    "team": "Duke",
    "rank_ap": null,
    "records": {
-    "su": "6\u20132",
-    "ats": "6\u20132",
-    "ou": "3\u20135"
+    "su": "7\u20132",
+    "ats": "7\u20132",
+    "ou": "3\u20136"
    },
    "recent": [
+    {
+     "date": "2026-11-07T17:30:00+00:00",
+     "season": 2026,
+     "opp": "NC State",
+     "site": "A",
+     "pts": 41,
+     "opp_pts": 3,
+     "result": "W",
+     "spread": -4.5,
+     "cover": "W",
+     "total": 53.5,
+     "ou": "U"
+    },
     {
      "date": "2026-10-31T16:00:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "L",
      "total": 45.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-09-26T19:30:00+00:00",
-     "season": 2026,
-     "opp": "William & Mary",
-     "site": "H",
-     "pts": 62,
-     "opp_pts": 7,
-     "result": "W",
-     "spread": -43.5,
-     "cover": "W",
-     "total": 61.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 32.0,
+     "value": 33.0,
      "fmt": "1",
-     "rank": 47,
+     "rank": 39,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 14.2,
+     "value": 13.0,
      "fmt": "1",
-     "rank": 8,
+     "rank": 5,
      "better": false
     },
     {
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 37,
-    "overall": 5.2,
-    "offense": 28.65,
-    "defense": 23.45
+    "rank": 22,
+    "overall": 7.94,
+    "offense": 29.6,
+    "defense": 21.66
    }
   },
   "home": {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 4,
-    "overall": 16.89,
-    "offense": 36.91,
-    "defense": 20.02
+    "rank": 3,
+    "overall": 17.03,
+    "offense": 37.02,
+    "defense": 19.99
    }
   }
  },

@@ -92,7 +92,7 @@
      "label": "Points allowed per game",
      "value": 27.2,
      "fmt": "1",
-     "rank": 96,
+     "rank": 95,
      "better": false
     },
     {
@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 92,
-    "overall": -4.05,
-    "offense": 24.24,
-    "defense": 28.29
+    "rank": 91,
+    "overall": -4.09,
+    "offense": 24.25,
+    "defense": 28.34
    }
   },
   "home": {
    "team": "Coastal Carolina",
    "rank_ap": null,
    "records": {
-    "su": "3\u20135",
-    "ats": "4\u20134",
-    "ou": "4\u20134"
+    "su": "3\u20136",
+    "ats": "4\u20135",
+    "ou": "4\u20135"
    },
    "recent": [
+    {
+     "date": "2026-11-07T18:00:00+00:00",
+     "season": 2026,
+     "opp": "Old Dominion",
+     "site": "H",
+     "pts": 8,
+     "opp_pts": 21,
+     "result": "L",
+     "spread": -6.5,
+     "cover": "L",
+     "total": 43.5,
+     "ou": "U"
+    },
     {
      "date": "2026-10-31T18:00:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "L",
      "total": 53.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-09-24T23:30:00+00:00",
-     "season": 2026,
-     "opp": "Liberty",
-     "site": "H",
-     "pts": 17,
-     "opp_pts": 34,
-     "result": "L",
-     "spread": 2.5,
-     "cover": "L",
-     "total": 50.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 26.8,
+     "value": 24.7,
      "fmt": "1",
-     "rank": 79,
+     "rank": 90,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 25.1,
+     "value": 24.7,
      "fmt": "1",
-     "rank": 74,
+     "rank": 71,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 109,
-    "overall": -6.59,
-    "offense": 22.45,
-    "defense": 29.05
+    "rank": 117,
+    "overall": -7.99,
+    "offense": 21.14,
+    "defense": 29.12
    }
   }
  },
