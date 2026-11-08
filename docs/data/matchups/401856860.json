@@ -84,7 +84,7 @@
      "label": "Points per game",
      "value": 35.4,
      "fmt": "1",
-     "rank": 24,
+     "rank": 22,
      "better": true
     },
     {
@@ -92,7 +92,7 @@
      "label": "Points allowed per game",
      "value": 21.3,
      "fmt": "1",
-     "rank": 43,
+     "rank": 41,
      "better": false
     },
     {
@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 20,
-    "overall": 7.96,
-    "offense": 30.18,
-    "defense": 22.22
+    "rank": 22,
+    "overall": 7.85,
+    "offense": 30.04,
+    "defense": 22.2
    }
   },
   "home": {
    "team": "Colorado",
    "rank_ap": null,
    "records": {
-    "su": "3\u20135",
-    "ats": "2\u20135\u20131",
-    "ou": "5\u20133"
+    "su": "3\u20136",
+    "ats": "2\u20136\u20131",
+    "ou": "5\u20134"
    },
    "recent": [
+    {
+     "date": "2026-11-08T00:30:00+00:00",
+     "season": 2026,
+     "opp": "Arizona State",
+     "site": "A",
+     "pts": 10,
+     "opp_pts": 20,
+     "result": "L",
+     "spread": 3.0,
+     "cover": "L",
+     "total": 45.5,
+     "ou": "U"
+    },
     {
      "date": "2026-10-31T18:00:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "L",
      "total": 50.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-09-26T16:00:00+00:00",
-     "season": 2026,
-     "opp": "Baylor",
-     "site": "A",
-     "pts": 13,
-     "opp_pts": 23,
-     "result": "L",
-     "spread": 8.5,
-     "cover": "L",
-     "total": 54.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 21.0,
+     "value": 19.8,
      "fmt": "1",
-     "rank": 116,
+     "rank": 123,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 29.4,
+     "value": 28.3,
      "fmt": "1",
-     "rank": 107,
+     "rank": 101,
      "better": false
     },
     {
@@ -550,9 +550,9 @@
    ],
    "rating": {
     "rank": 102,
-    "overall": -5.29,
-    "offense": 22.39,
-    "defense": 27.68
+    "overall": -5.61,
+    "offense": 21.33,
+    "defense": 26.94
    }
   }
  },

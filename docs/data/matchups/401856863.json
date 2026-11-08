@@ -7,11 +7,24 @@
    "team": "Texas Tech",
    "rank_ap": 13,
    "records": {
-    "su": "7\u20131",
-    "ats": "4\u20134",
-    "ou": "6\u20132"
+    "su": "8\u20131",
+    "ats": "4\u20135",
+    "ou": "7\u20132"
    },
    "recent": [
+    {
+     "date": "2026-11-08T02:30:00+00:00",
+     "season": 2026,
+     "opp": "West Virginia",
+     "site": "H",
+     "pts": 53,
+     "opp_pts": 48,
+     "result": "W",
+     "spread": -16.5,
+     "cover": "L",
+     "total": 68.5,
+     "ou": "O"
+    },
     {
      "date": "2026-10-31T16:00:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "W",
      "total": 50.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-09-26T16:00:00+00:00",
-     "season": 2026,
-     "opp": "Sam Houston",
-     "site": "H",
-     "pts": 49,
-     "opp_pts": 14,
-     "result": "W",
-     "spread": -34.5,
-     "cover": "W",
-     "total": 55.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 35.6,
+     "value": 37.6,
      "fmt": "1",
-     "rank": 21,
+     "rank": 14,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 21.1,
+     "value": 24.1,
      "fmt": "1",
-     "rank": 41,
+     "rank": 65,
      "better": false
     },
     {
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 13,
-    "overall": 10.37,
-    "offense": 31.97,
-    "defense": 21.59
+    "rank": 16,
+    "overall": 9.44,
+    "offense": 33.06,
+    "defense": 23.62
    }
   },
   "home": {
@@ -368,7 +368,7 @@
      "label": "Points allowed per game",
      "value": 27.2,
      "fmt": "1",
-     "rank": 94,
+     "rank": 93,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 39,
-    "overall": 4.44,
-    "offense": 32.75,
-    "defense": 28.32
+    "rank": 40,
+    "overall": 4.45,
+    "offense": 32.72,
+    "defense": 28.27
    }
   }
  },

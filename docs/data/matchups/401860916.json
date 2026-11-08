@@ -7,11 +7,24 @@
    "team": "Fresno State",
    "rank_ap": null,
    "records": {
-    "su": "5\u20133",
-    "ats": "6\u20132",
-    "ou": "5\u20133"
+    "su": "5\u20134",
+    "ats": "6\u20133",
+    "ou": "5\u20134"
    },
    "recent": [
+    {
+     "date": "2026-11-08T02:30:00+00:00",
+     "season": 2026,
+     "opp": "Utah State",
+     "site": "A",
+     "pts": 10,
+     "opp_pts": 17,
+     "result": "L",
+     "spread": 1.5,
+     "cover": "L",
+     "total": 44.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-01T03:00:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "W",
      "total": 44.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-09-27T02:00:00+00:00",
-     "season": 2026,
-     "opp": "Rice",
-     "site": "H",
-     "pts": 38,
-     "opp_pts": 24,
-     "result": "W",
-     "spread": -12.5,
-     "cover": "W",
-     "total": 43.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 28.9,
+     "value": 26.8,
      "fmt": "1",
-     "rank": 68,
+     "rank": 78,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 21.0,
+     "value": 20.6,
      "fmt": "1",
-     "rank": 40,
+     "rank": 38,
      "better": false
     },
     {
@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 51,
-    "overall": 2.28,
-    "offense": 25.86,
-    "defense": 23.58
+    "rank": 52,
+    "overall": 1.48,
+    "offense": 24.79,
+    "defense": 23.31
    }
   },
   "home": {
    "team": "Texas State",
    "rank_ap": null,
    "records": {
-    "su": "4\u20134",
-    "ats": "4\u20134",
-    "ou": "6\u20132"
+    "su": "5\u20134",
+    "ats": "5\u20134",
+    "ou": "6\u20133"
    },
    "recent": [
+    {
+     "date": "2026-11-08T03:30:00+00:00",
+     "season": 2026,
+     "opp": "Oregon State",
+     "site": "A",
+     "pts": 42,
+     "opp_pts": 21,
+     "result": "W",
+     "spread": 4.0,
+     "cover": "W",
+     "total": 72.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-01T02:00:00+00:00",
      "season": 2026,
@@ -339,26 +352,13 @@
      "cover": "L",
      "total": 57.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-09-26T22:00:00+00:00",
-     "season": 2026,
-     "opp": "Incarnate Word",
-     "site": "H",
-     "pts": 63,
-     "opp_pts": 10,
-     "result": "W",
-     "spread": -30.5,
-     "cover": "W",
-     "total": 66.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 38.1,
+     "value": 38.6,
      "fmt": "1",
      "rank": 11,
      "better": true
@@ -366,9 +366,9 @@
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 32.0,
+     "value": 30.8,
      "fmt": "1",
-     "rank": 121,
+     "rank": 115,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 45,
-    "overall": 3.45,
-    "offense": 32.48,
-    "defense": 29.03
+    "rank": 37,
+    "overall": 5.05,
+    "offense": 33.02,
+    "defense": 27.96
    }
   }
  },

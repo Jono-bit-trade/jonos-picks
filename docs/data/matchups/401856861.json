@@ -84,7 +84,7 @@
      "label": "Points per game",
      "value": 29.4,
      "fmt": "1",
-     "rank": 59,
+     "rank": 58,
      "better": true
     },
     {
@@ -92,7 +92,7 @@
      "label": "Points allowed per game",
      "value": 24.8,
      "fmt": "1",
-     "rank": 73,
+     "rank": 70,
      "better": false
     },
     {
@@ -273,7 +273,7 @@
     }
    ],
    "rating": {
-    "rank": 64,
+    "rank": 62,
     "overall": 0.1,
     "offense": 26.36,
     "defense": 26.26
@@ -283,11 +283,24 @@
    "team": "West Virginia",
    "rank_ap": null,
    "records": {
-    "su": "5\u20133",
-    "ats": "4\u20133\u20131",
-    "ou": "7\u20131"
+    "su": "5\u20134",
+    "ats": "5\u20133\u20131",
+    "ou": "8\u20131"
    },
    "recent": [
+    {
+     "date": "2026-11-08T02:30:00+00:00",
+     "season": 2026,
+     "opp": "Texas Tech",
+     "site": "A",
+     "pts": 48,
+     "opp_pts": 53,
+     "result": "L",
+     "spread": 16.5,
+     "cover": "W",
+     "total": 68.5,
+     "ou": "O"
+    },
     {
      "date": "2026-10-24T16:00:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "P",
      "total": 53.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-09-26T23:00:00+00:00",
-     "season": 2026,
-     "opp": "Oklahoma State",
-     "site": "H",
-     "pts": 24,
-     "opp_pts": 41,
-     "result": "L",
-     "spread": -1.5,
-     "cover": "L",
-     "total": 60.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 35.9,
+     "value": 37.2,
      "fmt": "1",
-     "rank": 18,
+     "rank": 17,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 32.2,
+     "value": 34.6,
      "fmt": "1",
-     "rank": 123,
+     "rank": 131,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 80,
-    "overall": -1.91,
-    "offense": 28.69,
-    "defense": 30.6
+    "rank": 76,
+    "overall": -1.14,
+    "offense": 30.57,
+    "defense": 31.72
    }
   }
  },

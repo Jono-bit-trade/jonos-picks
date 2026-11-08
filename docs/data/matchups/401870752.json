@@ -7,11 +7,24 @@
    "team": "Jacksonville State",
    "rank_ap": null,
    "records": {
-    "su": "6\u20132",
-    "ats": "4\u20133\u20131",
-    "ou": "5\u20133"
+    "su": "7\u20132",
+    "ats": "5\u20133\u20131",
+    "ou": "6\u20133"
    },
    "recent": [
+    {
+     "date": "2026-11-08T00:00:00+00:00",
+     "season": 2026,
+     "opp": "Sam Houston",
+     "site": "H",
+     "pts": 47,
+     "opp_pts": 14,
+     "result": "W",
+     "spread": -17.5,
+     "cover": "W",
+     "total": 45.5,
+     "ou": "O"
+    },
     {
      "date": "2026-10-29T00:00:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "W",
      "total": 50.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-09-19T23:00:00+00:00",
-     "season": 2026,
-     "opp": "Georgia Southern",
-     "site": "H",
-     "pts": 31,
-     "opp_pts": 27,
-     "result": "W",
-     "spread": -3.5,
-     "cover": "W",
-     "total": 51.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 26.9,
+     "value": 29.1,
      "fmt": "1",
-     "rank": 78,
+     "rank": 64,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 19.9,
+     "value": 19.2,
      "fmt": "1",
-     "rank": 31,
+     "rank": 23,
      "better": false
     },
     {
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 77,
-    "overall": -1.42,
-    "offense": 24.14,
-    "defense": 25.56
+    "rank": 63,
+    "overall": 0.07,
+    "offense": 25.49,
+    "defense": 25.42
    }
   },
   "home": {
@@ -368,7 +368,7 @@
      "label": "Points allowed per game",
      "value": 33.3,
      "fmt": "1",
-     "rank": 127,
+     "rank": 126,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 107,
-    "overall": -6.73,
-    "offense": 23.92,
-    "defense": 30.64
+    "rank": 108,
+    "overall": -6.71,
+    "offense": 23.89,
+    "defense": 30.59
    }
   }
  },

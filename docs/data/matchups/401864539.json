@@ -7,11 +7,24 @@
    "team": "UNLV",
    "rank_ap": null,
    "records": {
-    "su": "5\u20133",
-    "ats": "4\u20134",
-    "ou": "2\u20136"
+    "su": "5\u20134",
+    "ats": "4\u20135",
+    "ou": "3\u20136"
    },
    "recent": [
+    {
+     "date": "2026-11-08T03:30:00+00:00",
+     "season": 2026,
+     "opp": "Wyoming",
+     "site": "H",
+     "pts": 35,
+     "opp_pts": 41,
+     "result": "L",
+     "spread": -3.0,
+     "cover": "L",
+     "total": 50.5,
+     "ou": "O"
+    },
     {
      "date": "2026-11-01T02:30:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "W",
      "total": 51.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-09-26T16:00:00+00:00",
-     "season": 2026,
-     "opp": "Akron",
-     "site": "A",
-     "pts": 38,
-     "opp_pts": 10,
-     "result": "W",
-     "spread": -13.5,
-     "cover": "W",
-     "total": 52.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 25.0,
+     "value": 26.1,
      "fmt": "1",
-     "rank": 91,
+     "rank": 86,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 23.8,
+     "value": 25.7,
      "fmt": "1",
-     "rank": 62,
+     "rank": 74,
      "better": false
     },
     {
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 82,
-    "overall": -2.41,
-    "offense": 25.33,
-    "defense": 27.74
+    "rank": 89,
+    "overall": -3.37,
+    "offense": 26.13,
+    "defense": 29.5
    }
   },
   "home": {
@@ -360,7 +360,7 @@
      "label": "Points per game",
      "value": 34.6,
      "fmt": "1",
-     "rank": 27,
+     "rank": 25,
      "better": true
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 36,
-    "overall": 5.55,
-    "offense": 26.79,
-    "defense": 21.24
+    "rank": 34,
+    "overall": 5.59,
+    "offense": 26.92,
+    "defense": 21.33
    }
   }
  },

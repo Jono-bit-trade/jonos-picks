@@ -7,11 +7,24 @@
    "team": "Louisville",
    "rank_ap": 16,
    "records": {
-    "su": "5\u20133",
-    "ats": "5\u20133",
-    "ou": "7\u20131"
+    "su": "6\u20133",
+    "ats": "6\u20133",
+    "ou": "7\u20132"
    },
    "recent": [
+    {
+     "date": "2026-11-08T00:30:00+00:00",
+     "season": 2026,
+     "opp": "Georgia Tech",
+     "site": "A",
+     "pts": 44,
+     "opp_pts": 17,
+     "result": "W",
+     "spread": -14.5,
+     "cover": "W",
+     "total": 62.5,
+     "ou": "U"
+    },
     {
      "date": "2026-10-31T19:15:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "L",
      "total": 56.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-09-26T16:00:00+00:00",
-     "season": 2026,
-     "opp": "Wake Forest",
-     "site": "H",
-     "pts": 27,
-     "opp_pts": 30,
-     "result": "L",
-     "spread": -11.5,
-     "cover": "L",
-     "total": 57.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 40.4,
+     "value": 40.8,
      "fmt": "1",
-     "rank": 7,
+     "rank": 6,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 27.0,
+     "value": 25.9,
      "fmt": "1",
-     "rank": 91,
+     "rank": 78,
      "better": false
     },
     {
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 27,
-    "overall": 7.44,
-    "offense": 32.75,
-    "defense": 25.31
+    "rank": 18,
+    "overall": 8.66,
+    "offense": 33.35,
+    "defense": 24.7
    }
   },
   "home": {
@@ -368,7 +368,7 @@
      "label": "Points allowed per game",
      "value": 22.8,
      "fmt": "1",
-     "rank": 52,
+     "rank": 51,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 50,
+    "rank": 49,
     "overall": 2.81,
-    "offense": 26.36,
-    "defense": 23.54
+    "offense": 26.35,
+    "defense": 23.53
    }
   }
  },

@@ -7,11 +7,24 @@
    "team": "Northwestern",
    "rank_ap": 20,
    "records": {
-    "su": "6\u20132",
-    "ats": "5\u20133",
-    "ou": "6\u20132"
+    "su": "6\u20133",
+    "ats": "5\u20134",
+    "ou": "6\u20133"
    },
    "recent": [
+    {
+     "date": "2026-11-08T00:30:00+00:00",
+     "season": 2026,
+     "opp": "Iowa",
+     "site": "H",
+     "pts": 10,
+     "opp_pts": 24,
+     "result": "L",
+     "spread": 3.0,
+     "cover": "L",
+     "total": 42.5,
+     "ou": "U"
+    },
     {
      "date": "2026-10-31T19:30:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "L",
      "total": 53.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-10-03T00:00:00+00:00",
-     "season": 2026,
-     "opp": "Penn State",
-     "site": "H",
-     "pts": 34,
-     "opp_pts": 13,
-     "result": "W",
-     "spread": 3.0,
-     "cover": "W",
-     "total": 46.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 33.6,
+     "value": 31.0,
      "fmt": "1",
-     "rank": 33,
+     "rank": 49,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 18.8,
+     "value": 19.3,
      "fmt": "1",
-     "rank": 24,
+     "rank": 28,
      "better": false
     },
     {
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 19,
-    "overall": 8.02,
-    "offense": 29.15,
-    "defense": 21.13
+    "rank": 29,
+    "overall": 6.95,
+    "offense": 28.33,
+    "defense": 21.38
    }
   },
   "home": {
@@ -360,7 +360,7 @@
      "label": "Points per game",
      "value": 35.7,
      "fmt": "1",
-     "rank": 20,
+     "rank": 21,
      "better": true
     },
     {
@@ -368,7 +368,7 @@
      "label": "Points allowed per game",
      "value": 18.3,
      "fmt": "1",
-     "rank": 22,
+     "rank": 21,
      "better": false
     },
     {
@@ -550,9 +550,9 @@
    ],
    "rating": {
     "rank": 4,
-    "overall": 15.98,
-    "offense": 33.2,
-    "defense": 17.22
+    "overall": 16.03,
+    "offense": 33.21,
+    "defense": 17.18
    }
   }
  },

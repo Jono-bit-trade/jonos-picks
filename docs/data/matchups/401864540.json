@@ -7,11 +7,24 @@
    "team": "Wyoming",
    "rank_ap": null,
    "records": {
-    "su": "5\u20133",
-    "ats": "4\u20134",
-    "ou": "2\u20136"
+    "su": "6\u20133",
+    "ats": "5\u20134",
+    "ou": "3\u20136"
    },
    "recent": [
+    {
+     "date": "2026-11-08T03:30:00+00:00",
+     "season": 2026,
+     "opp": "UNLV",
+     "site": "A",
+     "pts": 41,
+     "opp_pts": 35,
+     "result": "W",
+     "spread": 3.0,
+     "cover": "W",
+     "total": 50.5,
+     "ou": "O"
+    },
     {
      "date": "2026-10-24T01:00:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "L",
      "total": 44.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-09-26T19:00:00+00:00",
-     "season": 2026,
-     "opp": "Hawai'i",
-     "site": "H",
-     "pts": 27,
-     "opp_pts": 10,
-     "result": "W",
-     "spread": 2.5,
-     "cover": "W",
-     "total": 44.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 19.5,
+     "value": 21.9,
      "fmt": "1",
-     "rank": 127,
+     "rank": 109,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 20.0,
+     "value": 21.7,
      "fmt": "1",
-     "rank": 33,
+     "rank": 43,
      "better": false
     },
     {
@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 108,
-    "overall": -6.81,
-    "offense": 17.91,
-    "defense": 24.72
+    "rank": 103,
+    "overall": -5.8,
+    "offense": 19.62,
+    "defense": 25.42
    }
   },
   "home": {
    "team": "UTEP",
    "rank_ap": null,
    "records": {
-    "su": "1\u20137",
-    "ats": "1\u20137",
-    "ou": "3\u20135"
+    "su": "1\u20138",
+    "ats": "2\u20137",
+    "ou": "3\u20136"
    },
    "recent": [
+    {
+     "date": "2026-11-08T02:30:00+00:00",
+     "season": 2026,
+     "opp": "Hawai'i",
+     "site": "H",
+     "pts": 14,
+     "opp_pts": 17,
+     "result": "L",
+     "spread": 7.0,
+     "cover": "W",
+     "total": 48.5,
+     "ou": "U"
+    },
     {
      "date": "2026-10-31T19:30:00+00:00",
      "season": 2026,
@@ -339,19 +352,6 @@
      "cover": "L",
      "total": 47.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-09-27T01:00:00+00:00",
-     "season": 2026,
-     "opp": "Oregon State",
-     "site": "H",
-     "pts": 7,
-     "opp_pts": 33,
-     "result": "L",
-     "spread": 11.5,
-     "cover": "L",
-     "total": 56.5,
-     "ou": "U"
     }
    ],
    "stats": [
@@ -366,9 +366,9 @@
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 36.5,
+     "value": 34.3,
      "fmt": "1",
-     "rank": 134,
+     "rank": 129,
      "better": false
     },
     {
@@ -550,9 +550,9 @@
    ],
    "rating": {
     "rank": 136,
-    "overall": -14.88,
-    "offense": 18.07,
-    "defense": 32.95
+    "overall": -14.63,
+    "offense": 17.56,
+    "defense": 32.19
    }
   }
  },

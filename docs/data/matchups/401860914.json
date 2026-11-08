@@ -7,11 +7,24 @@
    "team": "Oregon State",
    "rank_ap": null,
    "records": {
-    "su": "5\u20133",
-    "ats": "6\u20132",
-    "ou": "7\u20131"
+    "su": "5\u20134",
+    "ats": "6\u20133",
+    "ou": "7\u20132"
    },
    "recent": [
+    {
+     "date": "2026-11-08T03:30:00+00:00",
+     "season": 2026,
+     "opp": "Texas State",
+     "site": "H",
+     "pts": 21,
+     "opp_pts": 42,
+     "result": "L",
+     "spread": -4.0,
+     "cover": "L",
+     "total": 72.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-01T03:00:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "W",
      "total": 60.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-09-27T01:00:00+00:00",
-     "season": 2026,
-     "opp": "UTEP",
-     "site": "A",
-     "pts": 33,
-     "opp_pts": 7,
-     "result": "W",
-     "spread": -11.5,
-     "cover": "W",
-     "total": 56.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 40.1,
+     "value": 38.0,
      "fmt": "1",
-     "rank": 10,
+     "rank": 12,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 25.0,
+     "value": 26.9,
      "fmt": "1",
-     "rank": 74,
+     "rank": 90,
      "better": false
     },
     {
@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 60,
-    "overall": 0.48,
-    "offense": 28.65,
-    "defense": 28.17
+    "rank": 77,
+    "overall": -1.21,
+    "offense": 27.61,
+    "defense": 28.82
    }
   },
   "home": {
    "team": "Boise State",
    "rank_ap": 20,
    "records": {
-    "su": "7\u20131",
-    "ats": "4\u20134",
-    "ou": "6\u20132"
+    "su": "8\u20131",
+    "ats": "5\u20134",
+    "ou": "7\u20132"
    },
    "recent": [
+    {
+     "date": "2026-11-07T23:00:00+00:00",
+     "season": 2026,
+     "opp": "Colorado State",
+     "site": "A",
+     "pts": 64,
+     "opp_pts": 38,
+     "result": "W",
+     "spread": -15.5,
+     "cover": "W",
+     "total": 69.5,
+     "ou": "O"
+    },
     {
      "date": "2026-11-01T02:00:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "L",
      "total": 50.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-09-26T19:30:00+00:00",
-     "season": 2026,
-     "opp": "Western Michigan",
-     "site": "A",
-     "pts": 32,
-     "opp_pts": 7,
-     "result": "W",
-     "spread": -8.5,
-     "cover": "W",
-     "total": 50.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 35.9,
+     "value": 39.0,
      "fmt": "1",
-     "rank": 18,
+     "rank": 10,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 23.6,
+     "value": 25.2,
      "fmt": "1",
-     "rank": 61,
+     "rank": 71,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 30,
-    "overall": 6.42,
-    "offense": 31.31,
-    "defense": 24.89
+    "rank": 26,
+    "overall": 7.47,
+    "offense": 33.16,
+    "defense": 25.69
    }
   }
  },

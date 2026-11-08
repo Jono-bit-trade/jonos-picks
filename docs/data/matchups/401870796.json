@@ -7,11 +7,24 @@
    "team": "New Mexico State",
    "rank_ap": null,
    "records": {
-    "su": "3\u20135",
-    "ats": "4\u20134",
-    "ou": "3\u20135"
+    "su": "3\u20136",
+    "ats": "4\u20135",
+    "ou": "3\u20136"
    },
    "recent": [
+    {
+     "date": "2026-11-08T01:00:00+00:00",
+     "season": 2026,
+     "opp": "Liberty",
+     "site": "H",
+     "pts": 14,
+     "opp_pts": 30,
+     "result": "L",
+     "spread": 14.5,
+     "cover": "L",
+     "total": 46.5,
+     "ou": "U"
+    },
     {
      "date": "2026-10-29T00:00:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "W",
      "total": 55.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-09-26T19:30:00+00:00",
-     "season": 2026,
-     "opp": "New Mexico",
-     "site": "H",
-     "pts": 18,
-     "opp_pts": 42,
-     "result": "L",
-     "spread": 11.5,
-     "cover": "L",
-     "total": 47.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 21.5,
+     "value": 20.7,
      "fmt": "1",
-     "rank": 112,
+     "rank": 117,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 25.2,
+     "value": 25.8,
      "fmt": "1",
-     "rank": 76,
+     "rank": 75,
      "better": false
     },
     {
@@ -274,9 +274,9 @@
    ],
    "rating": {
     "rank": 125,
-    "overall": -9.62,
-    "offense": 19.43,
-    "defense": 29.05
+    "overall": -9.96,
+    "offense": 19.11,
+    "defense": 29.07
    }
   },
   "home": {
@@ -360,7 +360,7 @@
      "label": "Points per game",
      "value": 23.9,
      "fmt": "1",
-     "rank": 98,
+     "rank": 97,
      "better": true
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 123,
-    "overall": -9.23,
-    "offense": 21.4,
-    "defense": 30.64
+    "rank": 124,
+    "overall": -9.32,
+    "offense": 21.3,
+    "defense": 30.62
    }
   }
  },
