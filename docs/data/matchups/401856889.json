@@ -7,11 +7,24 @@
    "team": "Alabama",
    "rank_ap": 9,
    "records": {
-    "su": "6\u20132",
-    "ats": "4\u20134",
-    "ou": "6\u20132"
+    "su": "7\u20132",
+    "ats": "5\u20134",
+    "ou": "6\u20133"
    },
    "recent": [
+    {
+     "date": "2026-11-07T20:30:00+00:00",
+     "season": 2026,
+     "opp": "LSU",
+     "site": "A",
+     "pts": 31,
+     "opp_pts": 13,
+     "result": "W",
+     "spread": 6.0,
+     "cover": "W",
+     "total": 54.5,
+     "ou": "U"
+    },
     {
      "date": "2026-10-24T19:30:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "W",
      "total": 62.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-09-26T23:00:00+00:00",
-     "season": 2026,
-     "opp": "South Carolina",
-     "site": "H",
-     "pts": 49,
-     "opp_pts": 18,
-     "result": "W",
-     "spread": -12.5,
-     "cover": "W",
-     "total": 53.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 38.2,
+     "value": 37.4,
      "fmt": "1",
-     "rank": 12,
+     "rank": 14,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 21.2,
+     "value": 20.3,
      "fmt": "1",
-     "rank": 43,
+     "rank": 35,
      "better": false
     },
     {
@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 6,
-    "overall": 14.29,
-    "offense": 34.06,
-    "defense": 19.77
+    "rank": 5,
+    "overall": 15.65,
+    "offense": 34.59,
+    "defense": 18.94
    }
   },
   "home": {
    "team": "Vanderbilt",
    "rank_ap": null,
    "records": {
-    "su": "3\u20135",
-    "ats": "3\u20135",
-    "ou": "5\u20133"
+    "su": "4\u20135",
+    "ats": "4\u20135",
+    "ou": "5\u20134"
    },
    "recent": [
+    {
+     "date": "2026-11-07T21:15:00+00:00",
+     "season": 2026,
+     "opp": "Mississippi State",
+     "site": "A",
+     "pts": 25,
+     "opp_pts": 23,
+     "result": "W",
+     "spread": 3.0,
+     "cover": "W",
+     "total": 48.5,
+     "ou": "U"
+    },
     {
      "date": "2026-10-24T23:30:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "W",
      "total": 49.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-09-26T20:15:00+00:00",
-     "season": 2026,
-     "opp": "Auburn",
-     "site": "A",
-     "pts": 15,
-     "opp_pts": 21,
-     "result": "L",
-     "spread": 10.0,
-     "cover": "W",
-     "total": 54.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 22.8,
+     "value": 23.0,
      "fmt": "1",
-     "rank": 105,
+     "rank": 103,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 30.2,
+     "value": 29.4,
      "fmt": "1",
-     "rank": 114,
+     "rank": 108,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 77,
-    "overall": -1.73,
-    "offense": 26.08,
-    "defense": 27.81
+    "rank": 76,
+    "overall": -1.16,
+    "offense": 26.06,
+    "defense": 27.22
    }
   }
  },

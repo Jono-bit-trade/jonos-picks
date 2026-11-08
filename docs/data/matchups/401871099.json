@@ -84,7 +84,7 @@
      "label": "Points per game",
      "value": 26.4,
      "fmt": "1",
-     "rank": 83,
+     "rank": 80,
      "better": true
     },
     {
@@ -92,7 +92,7 @@
      "label": "Points allowed per game",
      "value": 33.6,
      "fmt": "1",
-     "rank": 129,
+     "rank": 128,
      "better": false
     },
     {
@@ -274,20 +274,33 @@
    ],
    "rating": {
     "rank": 116,
-    "overall": -7.95,
-    "offense": 24.54,
-    "defense": 32.49
+    "overall": -8.01,
+    "offense": 24.62,
+    "defense": 32.62
    }
   },
   "home": {
    "team": "Louisiana Tech",
    "rank_ap": null,
    "records": {
-    "su": "6\u20132",
-    "ats": "7\u20131",
-    "ou": "5\u20133"
+    "su": "7\u20132",
+    "ats": "8\u20131",
+    "ou": "6\u20133"
    },
    "recent": [
+    {
+     "date": "2026-11-07T21:00:00+00:00",
+     "season": 2026,
+     "opp": "Troy",
+     "site": "A",
+     "pts": 41,
+     "opp_pts": 17,
+     "result": "W",
+     "spread": -7.0,
+     "cover": "W",
+     "total": 48.5,
+     "ou": "O"
+    },
     {
      "date": "2026-10-31T19:00:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "L",
      "total": 48.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-10-03T23:30:00+00:00",
-     "season": 2026,
-     "opp": "Army",
-     "site": "H",
-     "pts": 31,
-     "opp_pts": 29,
-     "result": "W",
-     "spread": -1.5,
-     "cover": "W",
-     "total": 46.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 32.6,
+     "value": 33.6,
      "fmt": "1",
-     "rank": 43,
+     "rank": 35,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 20.9,
+     "value": 20.4,
      "fmt": "1",
-     "rank": 38,
+     "rank": 37,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 46,
-    "overall": 3.09,
-    "offense": 26.77,
-    "defense": 23.68
+    "rank": 40,
+    "overall": 4.42,
+    "offense": 27.95,
+    "defense": 23.53
    }
   }
  },

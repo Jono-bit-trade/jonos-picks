@@ -84,7 +84,7 @@
      "label": "Points per game",
      "value": 20.8,
      "fmt": "1",
-     "rank": 117,
+     "rank": 118,
      "better": true
     },
     {
@@ -274,20 +274,33 @@
    ],
    "rating": {
     "rank": 118,
-    "overall": -8.06,
-    "offense": 19.25,
-    "defense": 27.31
+    "overall": -8.08,
+    "offense": 19.16,
+    "defense": 27.24
    }
   },
   "home": {
    "team": "Northern Illinois",
    "rank_ap": null,
    "records": {
-    "su": "0\u20138",
-    "ats": "2\u20136",
-    "ou": "4\u20134"
+    "su": "0\u20139",
+    "ats": "3\u20136",
+    "ou": "4\u20135"
    },
    "recent": [
+    {
+     "date": "2026-11-07T21:00:00+00:00",
+     "season": 2026,
+     "opp": "San Jos\u00e9 State",
+     "site": "A",
+     "pts": 19,
+     "opp_pts": 30,
+     "result": "L",
+     "spread": 11.5,
+     "cover": "W",
+     "total": 52.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-01T02:30:00+00:00",
      "season": 2026,
@@ -339,26 +352,13 @@
      "cover": "L",
      "total": 48.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-09-26T18:00:00+00:00",
-     "season": 2026,
-     "opp": "Georgia State",
-     "site": "A",
-     "pts": 14,
-     "opp_pts": 35,
-     "result": "L",
-     "spread": 8.5,
-     "cover": "L",
-     "total": 56.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 16.2,
+     "value": 16.6,
      "fmt": "1",
      "rank": 136,
      "better": true
@@ -366,9 +366,9 @@
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 37.6,
+     "value": 36.8,
      "fmt": "1",
-     "rank": 136,
+     "rank": 135,
      "better": false
     },
     {
@@ -550,9 +550,9 @@
    ],
    "rating": {
     "rank": 138,
-    "overall": -15.67,
-    "offense": 17.86,
-    "defense": 33.54
+    "overall": -15.63,
+    "offense": 17.99,
+    "defense": 33.62
    }
   }
  },

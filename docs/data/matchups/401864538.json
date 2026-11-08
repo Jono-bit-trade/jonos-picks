@@ -7,11 +7,24 @@
    "team": "San Jos\u00e9 State",
    "rank_ap": null,
    "records": {
-    "su": "4\u20135",
-    "ats": "5\u20134",
-    "ou": "1\u20138"
+    "su": "5\u20135",
+    "ats": "5\u20135",
+    "ou": "1\u20139"
    },
    "recent": [
+    {
+     "date": "2026-11-07T21:00:00+00:00",
+     "season": 2026,
+     "opp": "Northern Illinois",
+     "site": "H",
+     "pts": 30,
+     "opp_pts": 19,
+     "result": "W",
+     "spread": -11.5,
+     "cover": "L",
+     "total": 52.5,
+     "ou": "U"
+    },
     {
      "date": "2026-10-31T20:00:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "L",
      "total": 42.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-04T03:59:00+00:00",
-     "season": 2026,
-     "opp": "Hawai'i",
-     "site": "A",
-     "pts": 20,
-     "opp_pts": 16,
-     "result": "W",
-     "spread": 2.5,
-     "cover": "W",
-     "total": 51.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 19.9,
+     "value": 20.9,
      "fmt": "1",
-     "rank": 124,
+     "rank": 117,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 22.3,
+     "value": 22.0,
      "fmt": "1",
-     "rank": 51,
+     "rank": 48,
      "better": false
     },
     {
@@ -274,9 +274,9 @@
    ],
    "rating": {
     "rank": 119,
-    "overall": -8.09,
-    "offense": 20.04,
-    "defense": 28.13
+    "overall": -8.08,
+    "offense": 20.17,
+    "defense": 28.25
    }
   },
   "home": {
@@ -360,7 +360,7 @@
      "label": "Points per game",
      "value": 29.2,
      "fmt": "1",
-     "rank": 61,
+     "rank": 63,
      "better": true
     },
     {
@@ -368,7 +368,7 @@
      "label": "Points allowed per game",
      "value": 21.5,
      "fmt": "1",
-     "rank": 46,
+     "rank": 44,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 90,
+    "rank": 89,
     "overall": -3.44,
-    "offense": 25.2,
-    "defense": 28.64
+    "offense": 25.22,
+    "defense": 28.66
    }
   }
  },

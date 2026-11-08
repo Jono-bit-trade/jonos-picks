@@ -7,11 +7,24 @@
    "team": "South Carolina",
    "rank_ap": 23,
    "records": {
-    "su": "5\u20133",
-    "ats": "4\u20134",
-    "ou": "6\u20132"
+    "su": "6\u20133",
+    "ats": "5\u20134",
+    "ou": "6\u20133"
    },
    "recent": [
+    {
+     "date": "2026-11-07T20:00:00+00:00",
+     "season": 2026,
+     "opp": "Texas A&M",
+     "site": "H",
+     "pts": 17,
+     "opp_pts": 9,
+     "result": "W",
+     "spread": -6.5,
+     "cover": "W",
+     "total": 52.5,
+     "ou": "U"
+    },
     {
      "date": "2026-10-31T20:15:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "L",
      "total": 52.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-09-26T23:00:00+00:00",
-     "season": 2026,
-     "opp": "Alabama",
-     "site": "A",
-     "pts": 18,
-     "opp_pts": 49,
-     "result": "L",
-     "spread": 12.5,
-     "cover": "L",
-     "total": 53.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 36.9,
+     "value": 34.7,
      "fmt": "1",
-     "rank": 18,
+     "rank": 26,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 25.2,
+     "value": 23.4,
      "fmt": "1",
-     "rank": 75,
+     "rank": 58,
      "better": false
     },
     {
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 25,
-    "overall": 7.4,
-    "offense": 30.85,
-    "defense": 23.45
+    "rank": 22,
+    "overall": 7.85,
+    "offense": 30.21,
+    "defense": 22.36
    }
   },
   "home": {
@@ -368,7 +368,7 @@
      "label": "Points allowed per game",
      "value": 27.4,
      "fmt": "1",
-     "rank": 96,
+     "rank": 95,
      "better": false
     },
     {
@@ -550,9 +550,9 @@
    ],
    "rating": {
     "rank": 87,
-    "overall": -3.1,
-    "offense": 24.53,
-    "defense": 27.63
+    "overall": -3.12,
+    "offense": 24.67,
+    "defense": 27.79
    }
   }
  },

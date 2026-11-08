@@ -84,7 +84,7 @@
      "label": "Points per game",
      "value": 23.6,
      "fmt": "1",
-     "rank": 100,
+     "rank": 101,
      "better": true
     },
     {
@@ -92,7 +92,7 @@
      "label": "Points allowed per game",
      "value": 23.3,
      "fmt": "1",
-     "rank": 58,
+     "rank": 57,
      "better": false
     },
     {
@@ -274,20 +274,33 @@
    ],
    "rating": {
     "rank": 84,
-    "overall": -2.82,
-    "offense": 23.04,
-    "defense": 25.87
+    "overall": -2.92,
+    "offense": 22.99,
+    "defense": 25.91
    }
   },
   "home": {
    "team": "Charlotte",
    "rank_ap": null,
    "records": {
-    "su": "1\u20137",
-    "ats": "4\u20134",
-    "ou": "5\u20133"
+    "su": "1\u20138",
+    "ats": "4\u20135",
+    "ou": "5\u20134"
    },
    "recent": [
+    {
+     "date": "2026-11-07T20:30:00+00:00",
+     "season": 2026,
+     "opp": "UAB",
+     "site": "A",
+     "pts": 12,
+     "opp_pts": 23,
+     "result": "L",
+     "spread": 7.5,
+     "cover": "L",
+     "total": 47.5,
+     "ou": "U"
+    },
     {
      "date": "2026-10-30T23:00:00+00:00",
      "season": 2026,
@@ -339,34 +352,21 @@
      "cover": "L",
      "total": 52.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-09-26T22:30:00+00:00",
-     "season": 2026,
-     "opp": "Louisiana",
-     "site": "H",
-     "pts": 7,
-     "opp_pts": 34,
-     "result": "L",
-     "spread": 9.5,
-     "cover": "L",
-     "total": 49.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 20.6,
+     "value": 19.7,
      "fmt": "1",
-     "rank": 119,
+     "rank": 126,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 40.2,
+     "value": 38.3,
      "fmt": "1",
      "rank": 137,
      "better": false
@@ -550,9 +550,9 @@
    ],
    "rating": {
     "rank": 137,
-    "overall": -15.13,
-    "offense": 19.26,
-    "defense": 34.39
+    "overall": -15.17,
+    "offense": 18.51,
+    "defense": 33.68
    }
   }
  },

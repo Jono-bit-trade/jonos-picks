@@ -84,7 +84,7 @@
      "label": "Points per game",
      "value": 26.9,
      "fmt": "1",
-     "rank": 79,
+     "rank": 78,
      "better": true
     },
     {
@@ -92,7 +92,7 @@
      "label": "Points allowed per game",
      "value": 19.9,
      "fmt": "1",
-     "rank": 30,
+     "rank": 31,
      "better": false
     },
     {
@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 75,
-    "overall": -1.53,
-    "offense": 24.17,
-    "defense": 25.69
+    "rank": 77,
+    "overall": -1.42,
+    "offense": 24.14,
+    "defense": 25.56
    }
   },
   "home": {
    "team": "Western Kentucky",
    "rank_ap": null,
    "records": {
-    "su": "3\u20135",
-    "ats": "4\u20134",
-    "ou": "4\u20134"
+    "su": "3\u20136",
+    "ats": "4\u20135",
+    "ou": "5\u20134"
    },
    "recent": [
+    {
+     "date": "2026-11-07T20:30:00+00:00",
+     "season": 2026,
+     "opp": "Middle Tennessee",
+     "site": "A",
+     "pts": 42,
+     "opp_pts": 51,
+     "result": "L",
+     "spread": -1.5,
+     "cover": "L",
+     "total": 53.5,
+     "ou": "O"
+    },
     {
      "date": "2026-10-27T23:00:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "L",
      "total": 55.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-09-26T23:00:00+00:00",
-     "season": 2026,
-     "opp": "Mercyhurst",
-     "site": "H",
-     "pts": 52,
-     "opp_pts": 7,
-     "result": "W",
-     "spread": -39.5,
-     "cover": "W",
-     "total": 58.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 21.2,
+     "value": 23.6,
      "fmt": "1",
-     "rank": 112,
+     "rank": 101,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 31.1,
+     "value": 33.3,
      "fmt": "1",
-     "rank": 118,
+     "rank": 127,
      "better": false
     },
     {
@@ -550,9 +550,9 @@
    ],
    "rating": {
     "rank": 107,
-    "overall": -5.96,
-    "offense": 22.73,
-    "defense": 28.69
+    "overall": -6.73,
+    "offense": 23.92,
+    "defense": 30.64
    }
   }
  },

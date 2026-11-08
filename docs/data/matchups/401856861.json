@@ -7,11 +7,24 @@
    "team": "Kansas",
    "rank_ap": null,
    "records": {
-    "su": "3\u20135",
-    "ats": "3\u20135",
-    "ou": "4\u20134"
+    "su": "3\u20136",
+    "ats": "3\u20136",
+    "ou": "5\u20134"
    },
    "recent": [
+    {
+     "date": "2026-11-07T20:45:00+00:00",
+     "season": 2026,
+     "opp": "UCF",
+     "site": "H",
+     "pts": 32,
+     "opp_pts": 33,
+     "result": "L",
+     "spread": -6.0,
+     "cover": "L",
+     "total": 47.5,
+     "ou": "O"
+    },
     {
      "date": "2026-10-31T19:30:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "L",
      "total": 49.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-10-03T16:00:00+00:00",
-     "season": 2026,
-     "opp": "Middle Tennessee",
-     "site": "H",
-     "pts": 55,
-     "opp_pts": 0,
-     "result": "W",
-     "spread": -21.5,
-     "cover": "W",
-     "total": 51.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 29.1,
+     "value": 29.4,
      "fmt": "1",
-     "rank": 63,
+     "rank": 59,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 23.8,
+     "value": 24.8,
      "fmt": "1",
-     "rank": 62,
+     "rank": 73,
      "better": false
     },
     {
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 61,
-    "overall": 0.41,
-    "offense": 26.04,
-    "defense": 25.63
+    "rank": 64,
+    "overall": 0.1,
+    "offense": 26.36,
+    "defense": 26.26
    }
   },
   "home": {
@@ -360,7 +360,7 @@
      "label": "Points per game",
      "value": 35.9,
      "fmt": "1",
-     "rank": 21,
+     "rank": 18,
      "better": true
     },
     {
@@ -368,7 +368,7 @@
      "label": "Points allowed per game",
      "value": 32.2,
      "fmt": "1",
-     "rank": 125,
+     "rank": 123,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 79,
+    "rank": 80,
     "overall": -1.91,
-    "offense": 28.6,
-    "defense": 30.51
+    "offense": 28.69,
+    "defense": 30.6
    }
   }
  },

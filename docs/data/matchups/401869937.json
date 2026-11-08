@@ -7,11 +7,24 @@
    "team": "Arkansas State",
    "rank_ap": null,
    "records": {
-    "su": "4\u20134",
-    "ats": "4\u20134",
-    "ou": "4\u20134"
+    "su": "4\u20135",
+    "ats": "4\u20135",
+    "ou": "4\u20135"
    },
    "recent": [
+    {
+     "date": "2026-11-07T20:00:00+00:00",
+     "season": 2026,
+     "opp": "UL Monroe",
+     "site": "H",
+     "pts": 17,
+     "opp_pts": 19,
+     "result": "L",
+     "spread": -14.5,
+     "cover": "L",
+     "total": 52.5,
+     "ou": "U"
+    },
     {
      "date": "2026-10-24T23:00:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "W",
      "total": 49.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-09-26T23:00:00+00:00",
-     "season": 2026,
-     "opp": "Kennesaw State",
-     "site": "H",
-     "pts": 17,
-     "opp_pts": 14,
-     "result": "W",
-     "spread": -6.5,
-     "cover": "L",
-     "total": 53.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 28.8,
+     "value": 27.4,
      "fmt": "1",
-     "rank": 68,
+     "rank": 73,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 27.2,
+     "value": 26.3,
      "fmt": "1",
-     "rank": 95,
+     "rank": 85,
      "better": false
     },
     {
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 91,
-    "overall": -4.09,
-    "offense": 24.25,
-    "defense": 28.34
+    "rank": 101,
+    "overall": -5.19,
+    "offense": 23.14,
+    "defense": 28.33
    }
   },
   "home": {
@@ -360,7 +360,7 @@
      "label": "Points per game",
      "value": 24.7,
      "fmt": "1",
-     "rank": 90,
+     "rank": 94,
      "better": true
     },
     {
@@ -550,9 +550,9 @@
    ],
    "rating": {
     "rank": 117,
-    "overall": -7.99,
-    "offense": 21.14,
-    "defense": 29.12
+    "overall": -8.01,
+    "offense": 21.06,
+    "defense": 29.08
    }
   }
  },

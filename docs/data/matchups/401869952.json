@@ -7,11 +7,24 @@
    "team": "Georgia Southern",
    "rank_ap": null,
    "records": {
-    "su": "4\u20134",
-    "ats": "7\u20131",
-    "ou": "3\u20135"
+    "su": "5\u20134",
+    "ats": "8\u20131",
+    "ou": "4\u20135"
    },
    "recent": [
+    {
+     "date": "2026-11-07T20:30:00+00:00",
+     "season": 2026,
+     "opp": "Marshall",
+     "site": "H",
+     "pts": 49,
+     "opp_pts": 13,
+     "result": "W",
+     "spread": -7.0,
+     "cover": "W",
+     "total": 54.5,
+     "ou": "O"
+    },
     {
      "date": "2026-10-31T22:30:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "W",
      "total": 53.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-09-26T20:00:00+00:00",
-     "season": 2026,
-     "opp": "Houston",
-     "site": "H",
-     "pts": 28,
-     "opp_pts": 42,
-     "result": "L",
-     "spread": 17.5,
-     "cover": "W",
-     "total": 56.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 23.8,
+     "value": 26.6,
      "fmt": "1",
-     "rank": 97,
+     "rank": 79,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 20.5,
+     "value": 19.7,
      "fmt": "1",
-     "rank": 35,
+     "rank": 28,
      "better": false
     },
     {
@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 83,
-    "overall": -2.77,
-    "offense": 23.74,
-    "defense": 26.51
+    "rank": 72,
+    "overall": -0.68,
+    "offense": 25.25,
+    "defense": 25.93
    }
   },
   "home": {
    "team": "Georgia State",
    "rank_ap": null,
    "records": {
-    "su": "4\u20134",
-    "ats": "5\u20133",
-    "ou": "5\u20133"
+    "su": "5\u20134",
+    "ats": "6\u20133",
+    "ou": "6\u20133"
    },
    "recent": [
+    {
+     "date": "2026-11-07T19:30:00+00:00",
+     "season": 2026,
+     "opp": "App State",
+     "site": "A",
+     "pts": 39,
+     "opp_pts": 23,
+     "result": "W",
+     "spread": 6.5,
+     "cover": "W",
+     "total": 53.5,
+     "ou": "O"
+    },
     {
      "date": "2026-10-31T18:00:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "W",
      "total": 51.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-09-26T18:00:00+00:00",
-     "season": 2026,
-     "opp": "Northern Illinois",
-     "site": "H",
-     "pts": 35,
-     "opp_pts": 14,
-     "result": "W",
-     "spread": -8.5,
-     "cover": "W",
-     "total": 56.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 33.9,
+     "value": 34.4,
      "fmt": "1",
-     "rank": 31,
+     "rank": 28,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 26.6,
+     "value": 26.2,
      "fmt": "1",
-     "rank": 87,
+     "rank": 83,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 101,
-    "overall": -4.98,
-    "offense": 25.71,
-    "defense": 30.69
+    "rank": 90,
+    "overall": -3.64,
+    "offense": 26.69,
+    "defense": 30.33
    }
   }
  },

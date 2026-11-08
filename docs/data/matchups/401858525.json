@@ -84,7 +84,7 @@
      "label": "Points per game",
      "value": 30.2,
      "fmt": "1",
-     "rank": 53,
+     "rank": 54,
      "better": true
     },
     {
@@ -274,20 +274,33 @@
    ],
    "rating": {
     "rank": 35,
-    "overall": 5.57,
-    "offense": 26.66,
-    "defense": 21.09
+    "overall": 5.61,
+    "offense": 26.7,
+    "defense": 21.1
    }
   },
   "home": {
    "team": "Rutgers",
    "rank_ap": null,
    "records": {
-    "su": "2\u20136",
-    "ats": "4\u20134",
-    "ou": "6\u20132"
+    "su": "2\u20137",
+    "ats": "4\u20135",
+    "ou": "6\u20133"
    },
    "recent": [
+    {
+     "date": "2026-11-07T21:15:00+00:00",
+     "season": 2026,
+     "opp": "Wisconsin",
+     "site": "A",
+     "pts": 10,
+     "opp_pts": 31,
+     "result": "L",
+     "spread": 19.5,
+     "cover": "L",
+     "total": 45.5,
+     "ou": "U"
+    },
     {
      "date": "2026-10-31T16:30:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "L",
      "total": 56.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-09-25T23:00:00+00:00",
-     "season": 2026,
-     "opp": "Howard",
-     "site": "H",
-     "pts": 58,
-     "opp_pts": 7,
-     "result": "W",
-     "spread": -42.5,
-     "cover": "W",
-     "total": 57.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 27.8,
+     "value": 25.8,
      "fmt": "1",
-     "rank": 73,
+     "rank": 89,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 32.6,
+     "value": 32.4,
      "fmt": "1",
-     "rank": 127,
+     "rank": 125,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 85,
-    "overall": -2.93,
-    "offense": 27.8,
-    "defense": 30.73
+    "rank": 91,
+    "overall": -3.84,
+    "offense": 27.13,
+    "defense": 30.98
    }
   }
  },

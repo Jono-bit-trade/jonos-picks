@@ -84,7 +84,7 @@
      "label": "Points per game",
      "value": 24.3,
      "fmt": "1",
-     "rank": 93,
+     "rank": 97,
      "better": true
     },
     {
@@ -274,20 +274,33 @@
    ],
    "rating": {
     "rank": 52,
-    "overall": 1.61,
-    "offense": 25.53,
-    "defense": 23.92
+    "overall": 1.53,
+    "offense": 25.58,
+    "defense": 24.05
    }
   },
   "home": {
    "team": "Mississippi State",
    "rank_ap": 16,
    "records": {
-    "su": "4\u20134",
-    "ats": "4\u20134",
-    "ou": "3\u20135"
+    "su": "4\u20135",
+    "ats": "4\u20135",
+    "ou": "3\u20136"
    },
    "recent": [
+    {
+     "date": "2026-11-07T21:15:00+00:00",
+     "season": 2026,
+     "opp": "Vanderbilt",
+     "site": "H",
+     "pts": 23,
+     "opp_pts": 25,
+     "result": "L",
+     "spread": -3.0,
+     "cover": "L",
+     "total": 48.5,
+     "ou": "U"
+    },
     {
      "date": "2026-10-31T23:30:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "L",
      "total": 62.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-09-26T23:45:00+00:00",
-     "season": 2026,
-     "opp": "Missouri",
-     "site": "H",
-     "pts": 31,
-     "opp_pts": 24,
-     "result": "W",
-     "spread": -3.5,
-     "cover": "W",
-     "total": 58.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 26.6,
+     "value": 26.2,
      "fmt": "1",
-     "rank": 81,
+     "rank": 84,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 28.1,
+     "value": 27.8,
      "fmt": "1",
-     "rank": 100,
+     "rank": 98,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 57,
-    "overall": 1.0,
-    "offense": 27.72,
-    "defense": 26.72
+    "rank": 61,
+    "overall": 0.46,
+    "offense": 27.31,
+    "defense": 26.85
    }
   }
  },

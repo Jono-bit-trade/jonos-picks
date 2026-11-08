@@ -273,9 +273,9 @@
     }
    ],
    "rating": {
-    "rank": 21,
-    "overall": 7.98,
-    "offense": 29.11,
+    "rank": 19,
+    "overall": 8.02,
+    "offense": 29.15,
     "defense": 21.13
    }
   },
@@ -283,11 +283,24 @@
    "team": "Ohio State",
    "rank_ap": 11,
    "records": {
-    "su": "6\u20132",
-    "ats": "5\u20133",
-    "ou": "4\u20134"
+    "su": "6\u20133",
+    "ats": "5\u20134",
+    "ou": "5\u20134"
    },
    "recent": [
+    {
+     "date": "2026-11-07T20:30:00+00:00",
+     "season": 2026,
+     "opp": "Oregon",
+     "site": "H",
+     "pts": 28,
+     "opp_pts": 41,
+     "result": "L",
+     "spread": -7.5,
+     "cover": "L",
+     "total": 44.5,
+     "ou": "O"
+    },
     {
      "date": "2026-10-31T23:30:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "W",
      "total": 46.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-09-26T16:00:00+00:00",
-     "season": 2026,
-     "opp": "Illinois",
-     "site": "H",
-     "pts": 42,
-     "opp_pts": 19,
-     "result": "W",
-     "spread": -25.5,
-     "cover": "L",
-     "total": 53.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 36.6,
+     "value": 35.7,
      "fmt": "1",
-     "rank": 19,
+     "rank": 20,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 15.5,
+     "value": 18.3,
      "fmt": "1",
-     "rank": 11,
+     "rank": 22,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 1,
-    "overall": 17.51,
-    "offense": 33.15,
-    "defense": 15.64
+    "rank": 4,
+    "overall": 15.98,
+    "offense": 33.2,
+    "defense": 17.22
    }
   }
  },
