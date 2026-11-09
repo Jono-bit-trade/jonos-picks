@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T02:27:54.489038+00:00",
+ "updated": "2026-11-09T23:18:38.060330+00:00",
  "season": 2026,
  "avg_points": 26.03,
  "home_edge": 3.05,
@@ -9,8 +9,8 @@
    "rank": 1,
    "conf": "SEC",
    "record": "8\u20131",
-   "overall": 19.49,
-   "offense": 35.08,
+   "overall": 19.48,
+   "offense": 35.07,
    "defense": 15.59,
    "games": 9
   },
@@ -19,9 +19,9 @@
    "rank": 2,
    "conf": "FBS Independents",
    "record": "8\u20131",
-   "overall": 17.86,
-   "offense": 35.23,
-   "defense": 17.37,
+   "overall": 17.84,
+   "offense": 35.22,
+   "defense": 17.38,
    "games": 9
   },
   {
@@ -29,8 +29,8 @@
    "rank": 3,
    "conf": "ACC",
    "record": "8\u20131",
-   "overall": 16.84,
-   "offense": 36.79,
+   "overall": 16.82,
+   "offense": 36.77,
    "defense": 19.95,
    "games": 9
   },
@@ -39,8 +39,8 @@
    "rank": 4,
    "conf": "Big Ten",
    "record": "6\u20133",
-   "overall": 16.02,
-   "offense": 33.2,
+   "overall": 16.01,
+   "offense": 33.19,
    "defense": 17.18,
    "games": 9
   },
@@ -49,9 +49,9 @@
    "rank": 5,
    "conf": "SEC",
    "record": "7\u20132",
-   "overall": 15.78,
-   "offense": 34.69,
-   "defense": 18.91,
+   "overall": 15.74,
+   "offense": 34.65,
+   "defense": 18.92,
    "games": 9
   },
   {
@@ -79,9 +79,9 @@
    "rank": 8,
    "conf": "Big 12",
    "record": "9\u20130",
-   "overall": 13.52,
-   "offense": 34.06,
-   "defense": 20.54,
+   "overall": 13.5,
+   "offense": 34.05,
+   "defense": 20.55,
    "games": 9
   },
   {
@@ -89,9 +89,9 @@
    "rank": 9,
    "conf": "Big Ten",
    "record": "8\u20131",
-   "overall": 13.44,
-   "offense": 30.34,
-   "defense": 16.9,
+   "overall": 13.43,
+   "offense": 30.35,
+   "defense": 16.93,
    "games": 9
   },
   {
@@ -99,9 +99,9 @@
    "rank": 10,
    "conf": "ACC",
    "record": "8\u20131",
-   "overall": 11.75,
-   "offense": 32.38,
-   "defense": 20.63,
+   "overall": 11.69,
+   "offense": 32.34,
+   "defense": 20.65,
    "games": 9
   },
   {
@@ -109,9 +109,9 @@
    "rank": 11,
    "conf": "SEC",
    "record": "7\u20132",
-   "overall": 11.49,
-   "offense": 31.91,
-   "defense": 20.42,
+   "overall": 11.47,
+   "offense": 31.92,
+   "defense": 20.45,
    "games": 9
   },
   {
@@ -119,9 +119,9 @@
    "rank": 12,
    "conf": "SEC",
    "record": "6\u20133",
-   "overall": 11.09,
-   "offense": 34.31,
-   "defense": 23.22,
+   "overall": 11.06,
+   "offense": 34.29,
+   "defense": 23.23,
    "games": 9
   },
   {
@@ -129,9 +129,9 @@
    "rank": 13,
    "conf": "Big Ten",
    "record": "7\u20132",
-   "overall": 10.6,
+   "overall": 10.59,
    "offense": 27.82,
-   "defense": 17.22,
+   "defense": 17.24,
    "games": 9
   },
   {
@@ -139,9 +139,9 @@
    "rank": 14,
    "conf": "SEC",
    "record": "6\u20133",
-   "overall": 10.44,
+   "overall": 10.43,
    "offense": 30.56,
-   "defense": 20.12,
+   "defense": 20.13,
    "games": 9
   },
   {
@@ -150,8 +150,8 @@
    "conf": "Big Ten",
    "record": "7\u20132",
    "overall": 10.16,
-   "offense": 32.89,
-   "defense": 22.73,
+   "offense": 32.87,
+   "defense": 22.72,
    "games": 9
   },
   {
@@ -159,9 +159,9 @@
    "rank": 16,
    "conf": "Big 12",
    "record": "8\u20131",
-   "overall": 9.44,
-   "offense": 33.06,
-   "defense": 23.62,
+   "overall": 9.45,
+   "offense": 33.05,
+   "defense": 23.6,
    "games": 9
   },
   {
@@ -170,7 +170,7 @@
    "conf": "Big 12",
    "record": "7\u20132",
    "overall": 8.81,
-   "offense": 29.36,
+   "offense": 29.37,
    "defense": 20.55,
    "games": 9
   },
@@ -179,8 +179,8 @@
    "rank": 18,
    "conf": "ACC",
    "record": "6\u20133",
-   "overall": 8.63,
-   "offense": 33.33,
+   "overall": 8.62,
+   "offense": 33.31,
    "defense": 24.69,
    "games": 9
   },
@@ -190,7 +190,7 @@
    "conf": "Big 12",
    "record": "7\u20132",
    "overall": 8.22,
-   "offense": 30.33,
+   "offense": 30.32,
    "defense": 22.1,
    "games": 9
   },
@@ -199,9 +199,9 @@
    "rank": 20,
    "conf": "SEC",
    "record": "6\u20133",
-   "overall": 7.89,
-   "offense": 30.34,
-   "defense": 22.45,
+   "overall": 7.88,
+   "offense": 30.32,
+   "defense": 22.44,
    "games": 9
   },
   {
@@ -209,9 +209,9 @@
    "rank": 21,
    "conf": "ACC",
    "record": "7\u20132",
-   "overall": 7.84,
+   "overall": 7.81,
    "offense": 29.61,
-   "defense": 21.77,
+   "defense": 21.8,
    "games": 9
   },
   {
@@ -219,9 +219,9 @@
    "rank": 22,
    "conf": "Big 12",
    "record": "7\u20132",
-   "overall": 7.82,
-   "offense": 30.03,
-   "defense": 22.22,
+   "overall": 7.79,
+   "offense": 30.02,
+   "defense": 22.23,
    "games": 9
   },
   {
@@ -229,49 +229,49 @@
    "rank": 23,
    "conf": "SEC",
    "record": "4\u20135",
-   "overall": 7.59,
-   "offense": 27.43,
-   "defense": 19.84,
-   "games": 9
-  },
-  {
-   "team": "UCLA",
-   "rank": 24,
-   "conf": "Big Ten",
-   "record": "9\u20130",
-   "overall": 7.53,
-   "offense": 28.11,
-   "defense": 20.58,
+   "overall": 7.6,
+   "offense": 27.45,
+   "defense": 19.85,
    "games": 9
   },
   {
    "team": "SMU",
-   "rank": 25,
+   "rank": 24,
    "conf": "ACC",
    "record": "7\u20132",
    "overall": 7.5,
-   "offense": 31.8,
+   "offense": 31.79,
    "defense": 24.29,
    "games": 9
   },
   {
-   "team": "Boise State",
-   "rank": 26,
-   "conf": "Pac-12",
-   "record": "8\u20131",
-   "overall": 7.46,
-   "offense": 33.14,
-   "defense": 25.68,
+   "team": "UCLA",
+   "rank": 25,
+   "conf": "Big Ten",
+   "record": "9\u20130",
+   "overall": 7.48,
+   "offense": 28.09,
+   "defense": 20.6,
    "games": 9
   },
   {
    "team": "Oklahoma",
-   "rank": 27,
+   "rank": 26,
    "conf": "SEC",
    "record": "5\u20134",
-   "overall": 7.46,
+   "overall": 7.47,
    "offense": 25.97,
-   "defense": 18.51,
+   "defense": 18.5,
+   "games": 9
+  },
+  {
+   "team": "Boise State",
+   "rank": 27,
+   "conf": "Pac-12",
+   "record": "8\u20131",
+   "overall": 7.43,
+   "offense": 33.12,
+   "defense": 25.69,
    "games": 9
   },
   {
@@ -289,8 +289,8 @@
    "rank": 29,
    "conf": "Big Ten",
    "record": "6\u20133",
-   "overall": 6.94,
-   "offense": 28.32,
+   "overall": 6.92,
+   "offense": 28.3,
    "defense": 21.38,
    "games": 9
   },
@@ -299,9 +299,9 @@
    "rank": 30,
    "conf": "Big 12",
    "record": "6\u20133",
-   "overall": 6.67,
+   "overall": 6.66,
    "offense": 30.21,
-   "defense": 23.54,
+   "defense": 23.55,
    "games": 9
   },
   {
@@ -309,8 +309,8 @@
    "rank": 31,
    "conf": "Sun Belt",
    "record": "8\u20132",
-   "overall": 6.65,
-   "offense": 31.67,
+   "overall": 6.62,
+   "offense": 31.64,
    "defense": 25.02,
    "games": 10
   },
@@ -319,9 +319,9 @@
    "rank": 32,
    "conf": "Big Ten",
    "record": "5\u20134",
-   "overall": 5.75,
+   "overall": 5.73,
    "offense": 28.07,
-   "defense": 22.33,
+   "defense": 22.34,
    "games": 9
   },
   {
@@ -329,8 +329,8 @@
    "rank": 33,
    "conf": "Big Ten",
    "record": "5\u20134",
-   "overall": 5.68,
-   "offense": 26.77,
+   "overall": 5.66,
+   "offense": 26.75,
    "defense": 21.09,
    "games": 9
   },
@@ -339,9 +339,9 @@
    "rank": 34,
    "conf": "Mountain West",
    "record": "8\u20131",
-   "overall": 5.56,
-   "offense": 26.9,
-   "defense": 21.34,
+   "overall": 5.54,
+   "offense": 26.89,
+   "defense": 21.35,
    "games": 9
   },
   {
@@ -349,9 +349,9 @@
    "rank": 35,
    "conf": "Big Ten",
    "record": "5\u20134",
-   "overall": 5.27,
-   "offense": 28.5,
-   "defense": 23.23,
+   "overall": 5.29,
+   "offense": 28.51,
+   "defense": 23.22,
    "games": 9
   },
   {
@@ -359,9 +359,9 @@
    "rank": 36,
    "conf": "Conference USA",
    "record": "8\u20131",
-   "overall": 5.11,
+   "overall": 5.08,
    "offense": 27.31,
-   "defense": 22.21,
+   "defense": 22.22,
    "games": 9
   },
   {
@@ -369,9 +369,9 @@
    "rank": 37,
    "conf": "Pac-12",
    "record": "5\u20134",
-   "overall": 5.05,
+   "overall": 5.04,
    "offense": 33.01,
-   "defense": 27.96,
+   "defense": 27.97,
    "games": 9
   },
   {
@@ -379,8 +379,8 @@
    "rank": 38,
    "conf": "Big Ten",
    "record": "5\u20134",
-   "overall": 4.7,
-   "offense": 24.34,
+   "overall": 4.69,
+   "offense": 24.33,
    "defense": 19.64,
    "games": 9
   },
@@ -389,29 +389,29 @@
    "rank": 39,
    "conf": "SEC",
    "record": "5\u20134",
-   "overall": 4.48,
-   "offense": 28.46,
-   "defense": 23.98,
-   "games": 9
-  },
-  {
-   "team": "Oklahoma State",
-   "rank": 40,
-   "conf": "Big 12",
-   "record": "6\u20133",
-   "overall": 4.38,
-   "offense": 32.66,
-   "defense": 28.28,
+   "overall": 4.47,
+   "offense": 28.44,
+   "defense": 23.97,
    "games": 9
   },
   {
    "team": "Louisiana Tech",
-   "rank": 41,
+   "rank": 40,
    "conf": "Sun Belt",
    "record": "7\u20132",
-   "overall": 4.35,
-   "offense": 27.93,
-   "defense": 23.58,
+   "overall": 4.33,
+   "offense": 27.92,
+   "defense": 23.59,
+   "games": 9
+  },
+  {
+   "team": "Oklahoma State",
+   "rank": 41,
+   "conf": "Big 12",
+   "record": "6\u20133",
+   "overall": 4.32,
+   "offense": 32.6,
+   "defense": 28.28,
    "games": 9
   },
   {
@@ -420,7 +420,7 @@
    "conf": "ACC",
    "record": "6\u20133",
    "overall": 4.24,
-   "offense": 28.32,
+   "offense": 28.31,
    "defense": 24.07,
    "games": 9
   },
@@ -429,9 +429,9 @@
    "rank": 43,
    "conf": "Big 12",
    "record": "4\u20135",
-   "overall": 4.19,
-   "offense": 24.89,
-   "defense": 20.7,
+   "overall": 4.18,
+   "offense": 24.91,
+   "defense": 20.72,
    "games": 9
   },
   {
@@ -439,9 +439,9 @@
    "rank": 44,
    "conf": "Big Ten",
    "record": "6\u20133",
-   "overall": 4.08,
-   "offense": 22.89,
-   "defense": 18.81,
+   "overall": 4.06,
+   "offense": 22.88,
+   "defense": 18.82,
    "games": 9
   },
   {
@@ -449,9 +449,9 @@
    "rank": 45,
    "conf": "ACC",
    "record": "6\u20133",
-   "overall": 3.59,
+   "overall": 3.58,
    "offense": 24.45,
-   "defense": 20.86,
+   "defense": 20.87,
    "games": 9
   },
   {
@@ -469,8 +469,8 @@
    "rank": 47,
    "conf": "American Athletic",
    "record": "7\u20132",
-   "overall": 3.01,
-   "offense": 35.17,
+   "overall": 2.99,
+   "offense": 35.15,
    "defense": 32.16,
    "games": 9
   },
@@ -480,8 +480,8 @@
    "conf": "ACC",
    "record": "4\u20135",
    "overall": 2.95,
-   "offense": 29.63,
-   "defense": 26.68,
+   "offense": 29.62,
+   "defense": 26.67,
    "games": 9
   },
   {
@@ -489,9 +489,9 @@
    "rank": 49,
    "conf": "ACC",
    "record": "5\u20134",
-   "overall": 2.79,
-   "offense": 26.33,
-   "defense": 23.54,
+   "overall": 2.76,
+   "offense": 26.32,
+   "defense": 23.56,
    "games": 9
   },
   {
@@ -499,9 +499,9 @@
    "rank": 50,
    "conf": "SEC",
    "record": "7\u20132",
-   "overall": 2.08,
-   "offense": 27.31,
-   "defense": 25.23,
+   "overall": 2.07,
+   "offense": 27.3,
+   "defense": 25.22,
    "games": 9
   },
   {
@@ -511,7 +511,7 @@
    "record": "5\u20134",
    "overall": 1.5,
    "offense": 25.63,
-   "defense": 24.13,
+   "defense": 24.12,
    "games": 9
   },
   {
@@ -519,7 +519,7 @@
    "rank": 52,
    "conf": "Pac-12",
    "record": "5\u20134",
-   "overall": 1.49,
+   "overall": 1.48,
    "offense": 24.79,
    "defense": 23.31,
    "games": 9
@@ -529,9 +529,9 @@
    "rank": 53,
    "conf": "Mid-American",
    "record": "6\u20133",
-   "overall": 1.45,
+   "overall": 1.47,
    "offense": 24.44,
-   "defense": 22.99,
+   "defense": 22.98,
    "games": 9
   },
   {
@@ -539,9 +539,9 @@
    "rank": 54,
    "conf": "Big Ten",
    "record": "5\u20134",
-   "overall": 1.44,
+   "overall": 1.43,
    "offense": 25.08,
-   "defense": 23.64,
+   "defense": 23.65,
    "games": 9
   },
   {
@@ -549,7 +549,7 @@
    "rank": 55,
    "conf": "American Athletic",
    "record": "7\u20132",
-   "overall": 1.22,
+   "overall": 1.21,
    "offense": 28.83,
    "defense": 27.61,
    "games": 9
@@ -560,8 +560,8 @@
    "conf": "Mid-American",
    "record": "7\u20132",
    "overall": 1.15,
-   "offense": 27.94,
-   "defense": 26.79,
+   "offense": 27.92,
+   "defense": 26.77,
    "games": 9
   },
   {
@@ -569,29 +569,29 @@
    "rank": 57,
    "conf": "American Athletic",
    "record": "6\u20133",
-   "overall": 0.89,
+   "overall": 0.88,
    "offense": 24.71,
-   "defense": 23.82,
-   "games": 9
-  },
-  {
-   "team": "UCF",
-   "rank": 58,
-   "conf": "Big 12",
-   "record": "5\u20134",
-   "overall": 0.54,
-   "offense": 26.7,
-   "defense": 26.16,
+   "defense": 23.83,
    "games": 9
   },
   {
    "team": "Mississippi State",
-   "rank": 59,
+   "rank": 58,
    "conf": "SEC",
    "record": "4\u20135",
-   "overall": 0.53,
+   "overall": 0.54,
    "offense": 27.34,
    "defense": 26.81,
+   "games": 9
+  },
+  {
+   "team": "UCF",
+   "rank": 59,
+   "conf": "Big 12",
+   "record": "5\u20134",
+   "overall": 0.51,
+   "offense": 26.67,
+   "defense": 26.16,
    "games": 9
   },
   {
@@ -599,9 +599,9 @@
    "rank": 60,
    "conf": "ACC",
    "record": "6\u20133",
-   "overall": 0.45,
+   "overall": 0.44,
    "offense": 27.74,
-   "defense": 27.29,
+   "defense": 27.3,
    "games": 9
   },
   {
@@ -609,9 +609,9 @@
    "rank": 61,
    "conf": "Mountain West",
    "record": "7\u20132",
-   "overall": 0.36,
-   "offense": 23.39,
-   "defense": 23.04,
+   "overall": 0.34,
+   "offense": 23.4,
+   "defense": 23.06,
    "games": 9
   },
   {
@@ -619,9 +619,9 @@
    "rank": 62,
    "conf": "Big 12",
    "record": "3\u20136",
-   "overall": 0.09,
+   "overall": 0.08,
    "offense": 26.36,
-   "defense": 26.27,
+   "defense": 26.28,
    "games": 9
   },
   {
@@ -629,7 +629,7 @@
    "rank": 63,
    "conf": "Conference USA",
    "record": "7\u20132",
-   "overall": 0.06,
+   "overall": 0.08,
    "offense": 25.49,
    "defense": 25.42,
    "games": 9
@@ -639,7 +639,7 @@
    "rank": 64,
    "conf": "American Athletic",
    "record": "7\u20132",
-   "overall": 0.04,
+   "overall": 0.05,
    "offense": 29.29,
    "defense": 29.24,
    "games": 9
@@ -649,8 +649,8 @@
    "rank": 65,
    "conf": "Big 12",
    "record": "5\u20134",
-   "overall": -0.08,
-   "offense": 28.5,
+   "overall": -0.09,
+   "offense": 28.49,
    "defense": 28.58,
    "games": 9
   },
@@ -659,9 +659,9 @@
    "rank": 66,
    "conf": "Mid-American",
    "record": "7\u20132",
-   "overall": -0.12,
-   "offense": 25.49,
-   "defense": 25.62,
+   "overall": -0.1,
+   "offense": 25.51,
+   "defense": 25.6,
    "games": 9
   },
   {
@@ -669,9 +669,9 @@
    "rank": 67,
    "conf": "ACC",
    "record": "4\u20135",
-   "overall": -0.17,
-   "offense": 23.67,
-   "defense": 23.84,
+   "overall": -0.18,
+   "offense": 23.68,
+   "defense": 23.86,
    "games": 9
   },
   {
@@ -679,9 +679,9 @@
    "rank": 68,
    "conf": "Big 12",
    "record": "5\u20134",
-   "overall": -0.25,
+   "overall": -0.23,
    "offense": 25.82,
-   "defense": 26.07,
+   "defense": 26.06,
    "games": 9
   },
   {
@@ -689,9 +689,9 @@
    "rank": 69,
    "conf": "ACC",
    "record": "4\u20135",
-   "overall": -0.34,
-   "offense": 27.04,
-   "defense": 27.38,
+   "overall": -0.32,
+   "offense": 27.05,
+   "defense": 27.37,
    "games": 9
   },
   {
@@ -699,7 +699,7 @@
    "rank": 70,
    "conf": "Sun Belt",
    "record": "6\u20133",
-   "overall": -0.38,
+   "overall": -0.39,
    "offense": 25.54,
    "defense": 25.92,
    "games": 9
@@ -709,9 +709,9 @@
    "rank": 71,
    "conf": "American Athletic",
    "record": "5\u20134",
-   "overall": -0.56,
-   "offense": 25.64,
-   "defense": 26.2,
+   "overall": -0.58,
+   "offense": 25.63,
+   "defense": 26.21,
    "games": 9
   },
   {
@@ -719,8 +719,8 @@
    "rank": 72,
    "conf": "Sun Belt",
    "record": "5\u20134",
-   "overall": -0.62,
-   "offense": 25.24,
+   "overall": -0.64,
+   "offense": 25.23,
    "defense": 25.87,
    "games": 9
   },
@@ -729,9 +729,9 @@
    "rank": 73,
    "conf": "Big 12",
    "record": "4\u20135",
-   "overall": -0.88,
-   "offense": 27.63,
-   "defense": 28.51,
+   "overall": -0.87,
+   "offense": 27.64,
+   "defense": 28.5,
    "games": 9
   },
   {
@@ -739,9 +739,9 @@
    "rank": 74,
    "conf": "American Athletic",
    "record": "5\u20134",
-   "overall": -0.98,
-   "offense": 26.04,
-   "defense": 27.02,
+   "overall": -1.02,
+   "offense": 26.03,
+   "defense": 27.05,
    "games": 9
   },
   {
@@ -749,8 +749,8 @@
    "rank": 75,
    "conf": "ACC",
    "record": "4\u20135",
-   "overall": -1.07,
-   "offense": 25.78,
+   "overall": -1.09,
+   "offense": 25.77,
    "defense": 26.85,
    "games": 9
   },
@@ -759,9 +759,9 @@
    "rank": 76,
    "conf": "Big 12",
    "record": "5\u20134",
-   "overall": -1.15,
-   "offense": 30.56,
-   "defense": 31.71,
+   "overall": -1.16,
+   "offense": 30.53,
+   "defense": 31.69,
    "games": 9
   },
   {
@@ -769,9 +769,9 @@
    "rank": 77,
    "conf": "SEC",
    "record": "4\u20135",
-   "overall": -1.2,
-   "offense": 26.08,
-   "defense": 27.29,
+   "overall": -1.18,
+   "offense": 26.1,
+   "defense": 27.28,
    "games": 9
   },
   {
@@ -779,9 +779,9 @@
    "rank": 78,
    "conf": "Pac-12",
    "record": "5\u20134",
-   "overall": -1.25,
-   "offense": 27.59,
-   "defense": 28.83,
+   "overall": -1.26,
+   "offense": 27.56,
+   "defense": 28.82,
    "games": 9
   },
   {
@@ -789,7 +789,7 @@
    "rank": 79,
    "conf": "Big Ten",
    "record": "3\u20136",
-   "overall": -1.49,
+   "overall": -1.48,
    "offense": 23.98,
    "defense": 25.47,
    "games": 9
@@ -799,9 +799,9 @@
    "rank": 80,
    "conf": "Big 12",
    "record": "4\u20135",
-   "overall": -1.6,
-   "offense": 26.25,
-   "defense": 27.84,
+   "overall": -1.62,
+   "offense": 26.21,
+   "defense": 27.83,
    "games": 9
   },
   {
@@ -809,9 +809,9 @@
    "rank": 81,
    "conf": "American Athletic",
    "record": "6\u20133",
-   "overall": -1.9,
+   "overall": -1.89,
    "offense": 32.19,
-   "defense": 34.09,
+   "defense": 34.07,
    "games": 9
   },
   {
@@ -819,9 +819,9 @@
    "rank": 82,
    "conf": "Big Ten",
    "record": "3\u20136",
-   "overall": -2.26,
+   "overall": -2.25,
    "offense": 25.65,
-   "defense": 27.91,
+   "defense": 27.9,
    "games": 9
   },
   {
@@ -830,8 +830,8 @@
    "conf": "Big Ten",
    "record": "3\u20136",
    "overall": -2.44,
-   "offense": 26.88,
-   "defense": 29.32,
+   "offense": 26.87,
+   "defense": 29.31,
    "games": 9
   },
   {
@@ -839,9 +839,9 @@
    "rank": 84,
    "conf": "Pac-12",
    "record": "4\u20135",
-   "overall": -2.61,
-   "offense": 20.81,
-   "defense": 23.41,
+   "overall": -2.59,
+   "offense": 20.83,
+   "defense": 23.43,
    "games": 9
   },
   {
@@ -849,9 +849,9 @@
    "rank": 85,
    "conf": "Mountain West",
    "record": "7\u20132",
-   "overall": -2.72,
+   "overall": -2.73,
    "offense": 25.06,
-   "defense": 27.78,
+   "defense": 27.79,
    "games": 9
   },
   {
@@ -859,9 +859,9 @@
    "rank": 86,
    "conf": "American Athletic",
    "record": "5\u20134",
-   "overall": -2.91,
-   "offense": 22.98,
-   "defense": 25.88,
+   "overall": -2.9,
+   "offense": 22.99,
+   "defense": 25.89,
    "games": 9
   },
   {
@@ -869,7 +869,7 @@
    "rank": 87,
    "conf": "SEC",
    "record": "3\u20136",
-   "overall": -2.94,
+   "overall": -2.93,
    "offense": 24.78,
    "defense": 27.71,
    "games": 9
@@ -879,9 +879,9 @@
    "rank": 88,
    "conf": "Pac-12",
    "record": "4\u20135",
-   "overall": -3.07,
+   "overall": -3.04,
    "offense": 24.87,
-   "defense": 27.94,
+   "defense": 27.91,
    "games": 9
   },
   {
@@ -889,9 +889,9 @@
    "rank": 89,
    "conf": "Mountain West",
    "record": "5\u20134",
-   "overall": -3.37,
+   "overall": -3.35,
    "offense": 26.15,
-   "defense": 29.52,
+   "defense": 29.5,
    "games": 9
   },
   {
@@ -899,8 +899,8 @@
    "rank": 90,
    "conf": "Sun Belt",
    "record": "5\u20134",
-   "overall": -3.63,
-   "offense": 26.67,
+   "overall": -3.65,
+   "offense": 26.65,
    "defense": 30.3,
    "games": 9
   },
@@ -909,9 +909,9 @@
    "rank": 91,
    "conf": "Big Ten",
    "record": "2\u20137",
-   "overall": -4.0,
+   "overall": -3.99,
    "offense": 27.1,
-   "defense": 31.1,
+   "defense": 31.09,
    "games": 9
   },
   {
@@ -919,9 +919,9 @@
    "rank": 92,
    "conf": "Sun Belt",
    "record": "4\u20135",
-   "overall": -4.15,
-   "offense": 27.46,
-   "defense": 31.61,
+   "overall": -4.14,
+   "offense": 27.45,
+   "defense": 31.59,
    "games": 9
   },
   {
@@ -929,9 +929,9 @@
    "rank": 93,
    "conf": "FBS Independents",
    "record": "4\u20135",
-   "overall": -4.23,
-   "offense": 26.54,
-   "defense": 30.78,
+   "overall": -4.24,
+   "offense": 26.53,
+   "defense": 30.77,
    "games": 9
   },
   {
@@ -939,9 +939,9 @@
    "rank": 94,
    "conf": "Pac-12",
    "record": "1\u20138",
-   "overall": -4.63,
-   "offense": 20.91,
-   "defense": 25.54,
+   "overall": -4.61,
+   "offense": 20.92,
+   "defense": 25.53,
    "games": 9
   },
   {
@@ -949,9 +949,9 @@
    "rank": 95,
    "conf": "Conference USA",
    "record": "4\u20135",
-   "overall": -4.64,
+   "overall": -4.63,
    "offense": 26.94,
-   "defense": 31.58,
+   "defense": 31.57,
    "games": 9
   },
   {
@@ -959,8 +959,8 @@
    "rank": 96,
    "conf": "Mountain West",
    "record": "3\u20136",
-   "overall": -4.66,
-   "offense": 22.19,
+   "overall": -4.64,
+   "offense": 22.2,
    "defense": 26.85,
    "games": 9
   },
@@ -970,7 +970,7 @@
    "conf": "American Athletic",
    "record": "3\u20136",
    "overall": -4.73,
-   "offense": 24.91,
+   "offense": 24.9,
    "defense": 29.63,
    "games": 9
   },
@@ -979,8 +979,8 @@
    "rank": 98,
    "conf": "ACC",
    "record": "4\u20135",
-   "overall": -4.88,
-   "offense": 22.49,
+   "overall": -4.87,
+   "offense": 22.51,
    "defense": 27.38,
    "games": 9
   },
@@ -989,9 +989,9 @@
    "rank": 99,
    "conf": "Mid-American",
    "record": "4\u20135",
-   "overall": -5.08,
-   "offense": 20.7,
-   "defense": 25.78,
+   "overall": -5.06,
+   "offense": 20.71,
+   "defense": 25.77,
    "games": 9
   },
   {
@@ -1000,8 +1000,8 @@
    "conf": "Sun Belt",
    "record": "4\u20135",
    "overall": -5.17,
-   "offense": 23.16,
-   "defense": 28.33,
+   "offense": 23.17,
+   "defense": 28.34,
    "games": 9
   },
   {
@@ -1009,9 +1009,9 @@
    "rank": 101,
    "conf": "Mid-American",
    "record": "5\u20134",
-   "overall": -5.49,
+   "overall": -5.48,
    "offense": 23.17,
-   "defense": 28.66,
+   "defense": 28.65,
    "games": 9
   },
   {
@@ -1029,9 +1029,9 @@
    "rank": 103,
    "conf": "Mountain West",
    "record": "6\u20133",
-   "overall": -5.78,
+   "overall": -5.76,
    "offense": 19.64,
-   "defense": 25.42,
+   "defense": 25.4,
    "games": 9
   },
   {
@@ -1039,9 +1039,9 @@
    "rank": 104,
    "conf": "Sun Belt",
    "record": "5\u20134",
-   "overall": -6.04,
-   "offense": 22.38,
-   "defense": 28.41,
+   "overall": -6.03,
+   "offense": 22.39,
+   "defense": 28.42,
    "games": 9
   },
   {
@@ -1049,9 +1049,9 @@
    "rank": 105,
    "conf": "ACC",
    "record": "2\u20137",
-   "overall": -6.11,
-   "offense": 24.42,
-   "defense": 30.53,
+   "overall": -6.1,
+   "offense": 24.41,
+   "defense": 30.51,
    "games": 9
   },
   {
@@ -1059,9 +1059,9 @@
    "rank": 106,
    "conf": "Sun Belt",
    "record": "4\u20135",
-   "overall": -6.64,
-   "offense": 21.33,
-   "defense": 27.97,
+   "overall": -6.6,
+   "offense": 21.35,
+   "defense": 27.95,
    "games": 9
   },
   {
@@ -1069,9 +1069,9 @@
    "rank": 107,
    "conf": "American Athletic",
    "record": "4\u20135",
-   "overall": -6.67,
-   "offense": 21.25,
-   "defense": 27.92,
+   "overall": -6.65,
+   "offense": 21.26,
+   "defense": 27.91,
    "games": 9
   },
   {
@@ -1079,9 +1079,9 @@
    "rank": 108,
    "conf": "Conference USA",
    "record": "3\u20136",
-   "overall": -6.69,
-   "offense": 23.9,
-   "defense": 30.58,
+   "overall": -6.66,
+   "offense": 23.89,
+   "defense": 30.55,
    "games": 9
   },
   {
@@ -1089,8 +1089,8 @@
    "rank": 109,
    "conf": "Conference USA",
    "record": "4\u20135",
-   "overall": -6.79,
-   "offense": 19.86,
+   "overall": -6.76,
+   "offense": 19.89,
    "defense": 26.65,
    "games": 9
   },
@@ -1099,9 +1099,9 @@
    "rank": 110,
    "conf": "American Athletic",
    "record": "2\u20137",
-   "overall": -7.3,
+   "overall": -7.28,
    "offense": 23.1,
-   "defense": 30.4,
+   "defense": 30.38,
    "games": 9
   },
   {
@@ -1109,8 +1109,8 @@
    "rank": 111,
    "conf": "American Athletic",
    "record": "5\u20134",
-   "overall": -7.35,
-   "offense": 21.43,
+   "overall": -7.33,
+   "offense": 21.45,
    "defense": 28.78,
    "games": 9
   },
@@ -1119,9 +1119,9 @@
    "rank": 112,
    "conf": "Conference USA",
    "record": "3\u20136",
-   "overall": -7.4,
+   "overall": -7.41,
    "offense": 22.42,
-   "defense": 29.83,
+   "defense": 29.82,
    "games": 9
   },
   {
@@ -1129,9 +1129,9 @@
    "rank": 113,
    "conf": "ACC",
    "record": "3\u20136",
-   "overall": -7.52,
-   "offense": 22.38,
-   "defense": 29.9,
+   "overall": -7.5,
+   "offense": 22.39,
+   "defense": 29.89,
    "games": 9
   },
   {
@@ -1139,9 +1139,9 @@
    "rank": 114,
    "conf": "Sun Belt",
    "record": "5\u20134",
-   "overall": -7.64,
-   "offense": 23.29,
-   "defense": 30.94,
+   "overall": -7.6,
+   "offense": 23.31,
+   "defense": 30.91,
    "games": 9
   },
   {
@@ -1149,9 +1149,9 @@
    "rank": 115,
    "conf": "Sun Belt",
    "record": "3\u20137",
-   "overall": -7.85,
-   "offense": 18.67,
-   "defense": 26.52,
+   "overall": -7.82,
+   "offense": 18.69,
+   "defense": 26.51,
    "games": 10
   },
   {
@@ -1160,8 +1160,8 @@
    "conf": "Sun Belt",
    "record": "3\u20136",
    "overall": -7.96,
-   "offense": 21.02,
-   "defense": 28.97,
+   "offense": 21.03,
+   "defense": 28.99,
    "games": 9
   },
   {
@@ -1169,7 +1169,7 @@
    "rank": 117,
    "conf": "Mountain West",
    "record": "3\u20136",
-   "overall": -7.97,
+   "overall": -7.98,
    "offense": 19.26,
    "defense": 27.23,
    "games": 9
@@ -1179,8 +1179,8 @@
    "rank": 118,
    "conf": "Sun Belt",
    "record": "3\u20136",
-   "overall": -8.0,
-   "offense": 24.59,
+   "overall": -8.01,
+   "offense": 24.6,
    "defense": 32.6,
    "games": 9
   },
@@ -1199,9 +1199,9 @@
    "rank": 120,
    "conf": "Mid-American",
    "record": "6\u20133",
-   "overall": -8.12,
-   "offense": 21.24,
-   "defense": 29.36,
+   "overall": -8.1,
+   "offense": 21.25,
+   "defense": 29.35,
    "games": 9
   },
   {
@@ -1210,8 +1210,8 @@
    "conf": "ACC",
    "record": "4\u20135",
    "overall": -8.27,
-   "offense": 21.56,
-   "defense": 29.83,
+   "offense": 21.55,
+   "defense": 29.82,
    "games": 9
   },
   {
@@ -1219,9 +1219,9 @@
    "rank": 122,
    "conf": "Conference USA",
    "record": "5\u20134",
-   "overall": -8.84,
+   "overall": -8.83,
    "offense": 23.32,
-   "defense": 32.16,
+   "defense": 32.15,
    "games": 9
   },
   {
@@ -1229,9 +1229,9 @@
    "rank": 123,
    "conf": "Mid-American",
    "record": "4\u20136",
-   "overall": -9.26,
-   "offense": 20.66,
-   "defense": 29.92,
+   "overall": -9.24,
+   "offense": 20.67,
+   "defense": 29.91,
    "games": 10
   },
   {
@@ -1239,9 +1239,9 @@
    "rank": 124,
    "conf": "Conference USA",
    "record": "3\u20136",
-   "overall": -9.3,
-   "offense": 21.31,
-   "defense": 30.61,
+   "overall": -9.27,
+   "offense": 21.32,
+   "defense": 30.58,
    "games": 9
   },
   {
@@ -1249,9 +1249,9 @@
    "rank": 125,
    "conf": "Conference USA",
    "record": "3\u20136",
-   "overall": -9.95,
+   "overall": -9.94,
    "offense": 19.12,
-   "defense": 29.07,
+   "defense": 29.06,
    "games": 9
   },
   {
@@ -1259,9 +1259,9 @@
    "rank": 126,
    "conf": "American Athletic",
    "record": "1\u20138",
-   "overall": -10.25,
+   "overall": -10.24,
    "offense": 20.2,
-   "defense": 30.45,
+   "defense": 30.44,
    "games": 9
   },
   {
@@ -1269,8 +1269,8 @@
    "rank": 127,
    "conf": "Mid-American",
    "record": "2\u20137",
-   "overall": -10.34,
-   "offense": 18.55,
+   "overall": -10.31,
+   "offense": 18.56,
    "defense": 28.88,
    "games": 9
   },
@@ -1280,8 +1280,8 @@
    "conf": "Pac-12",
    "record": "3\u20136",
    "overall": -10.84,
-   "offense": 27.7,
-   "defense": 38.54,
+   "offense": 27.67,
+   "defense": 38.51,
    "games": 9
   },
   {
@@ -1289,9 +1289,9 @@
    "rank": 129,
    "conf": "Mid-American",
    "record": "3\u20136",
-   "overall": -11.67,
+   "overall": -11.65,
    "offense": 21.21,
-   "defense": 32.88,
+   "defense": 32.86,
    "games": 9
   },
   {
@@ -1299,8 +1299,8 @@
    "rank": 130,
    "conf": "Mid-American",
    "record": "3\u20136",
-   "overall": -12.14,
-   "offense": 17.67,
+   "overall": -12.11,
+   "offense": 17.7,
    "defense": 29.81,
    "games": 9
   },
@@ -1309,9 +1309,9 @@
    "rank": 131,
    "conf": "Mid-American",
    "record": "1\u20138",
-   "overall": -12.37,
-   "offense": 19.53,
-   "defense": 31.9,
+   "overall": -12.33,
+   "offense": 19.54,
+   "defense": 31.87,
    "games": 9
   },
   {
@@ -1319,8 +1319,8 @@
    "rank": 132,
    "conf": "Mid-American",
    "record": "5\u20134",
-   "overall": -12.39,
-   "offense": 18.64,
+   "overall": -12.37,
+   "offense": 18.65,
    "defense": 31.03,
    "games": 9
   },
@@ -1329,7 +1329,7 @@
    "rank": 133,
    "conf": "Conference USA",
    "record": "1\u20138",
-   "overall": -13.12,
+   "overall": -13.13,
    "offense": 17.67,
    "defense": 30.79,
    "games": 9
@@ -1339,9 +1339,9 @@
    "rank": 134,
    "conf": "Mid-American",
    "record": "2\u20138",
-   "overall": -13.56,
-   "offense": 17.67,
-   "defense": 31.23,
+   "overall": -13.53,
+   "offense": 17.68,
+   "defense": 31.21,
    "games": 10
   },
   {
@@ -1349,9 +1349,9 @@
    "rank": 135,
    "conf": "Sun Belt",
    "record": "2\u20137",
-   "overall": -13.61,
+   "overall": -13.6,
    "offense": 17.63,
-   "defense": 31.24,
+   "defense": 31.23,
    "games": 9
   },
   {
@@ -1359,9 +1359,9 @@
    "rank": 136,
    "conf": "Mountain West",
    "record": "1\u20138",
-   "overall": -14.6,
-   "offense": 17.58,
-   "defense": 32.18,
+   "overall": -14.58,
+   "offense": 17.59,
+   "defense": 32.16,
    "games": 9
   },
   {
@@ -1369,9 +1369,9 @@
    "rank": 137,
    "conf": "American Athletic",
    "record": "1\u20138",
-   "overall": -15.3,
+   "overall": -15.27,
    "offense": 18.46,
-   "defense": 33.75,
+   "defense": 33.73,
    "games": 9
   },
   {
@@ -1379,9 +1379,9 @@
    "rank": 138,
    "conf": "Mountain West",
    "record": "0\u20139",
-   "overall": -15.53,
+   "overall": -15.49,
    "offense": 17.94,
-   "defense": 33.46,
+   "defense": 33.43,
    "games": 9
   }
  ]
