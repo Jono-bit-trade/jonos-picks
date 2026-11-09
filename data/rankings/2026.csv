@@ -501,6 +501,56 @@ season,season_type,week,poll,rank,team,points,first_place
 2026,regular,3,AFCA Division III Coaches Poll,23,Washington St. Louis,200,0
 2026,regular,3,AFCA Division III Coaches Poll,23,Wisconsin La Crosse,200,0
 2026,regular,3,AFCA Division III Coaches Poll,25,DePauw,113,0
+2026,regular,11,Coaches Poll,1,Georgia,1796,54
+2026,regular,11,Coaches Poll,2,Utah,1724,14
+2026,regular,11,Coaches Poll,3,Notre Dame,1613,2
+2026,regular,11,Coaches Poll,4,UCLA,1584,1
+2026,regular,11,Coaches Poll,5,Indiana,1557,2
+2026,regular,11,Coaches Poll,6,Miami,1482,0
+2026,regular,11,Coaches Poll,7,Alabama,1389,0
+2026,regular,11,Coaches Poll,8,Texas,1287,0
+2026,regular,11,Coaches Poll,9,Tennessee,1196,0
+2026,regular,11,Coaches Poll,10,Texas Tech,1116,0
+2026,regular,11,Coaches Poll,11,Wake Forest,1093,0
+2026,regular,11,Coaches Poll,12,BYU,1008,0
+2026,regular,11,Coaches Poll,13,Kentucky,913,0
+2026,regular,11,Coaches Poll,14,USC,765,0
+2026,regular,11,Coaches Poll,15,Iowa,738,0
+2026,regular,11,Coaches Poll,16,Houston,732,0
+2026,regular,11,Coaches Poll,17,Ole Miss,529,0
+2026,regular,11,Coaches Poll,18,Boise State,474,0
+2026,regular,11,Coaches Poll,19,Oregon,438,0
+2026,regular,11,Coaches Poll,20,Ohio State,398,0
+2026,regular,11,Coaches Poll,21,Arizona,377,0
+2026,regular,11,Coaches Poll,22,LSU,368,0
+2026,regular,11,Coaches Poll,23,SMU,285,0
+2026,regular,11,Coaches Poll,24,South Carolina,267,0
+2026,regular,11,Coaches Poll,25,New Mexico,191,0
+2026,regular,11,AP Top 25,1,Georgia,1729,53
+2026,regular,11,AP Top 25,2,Utah,1675,12
+2026,regular,11,AP Top 25,3,Notre Dame,1597,5
+2026,regular,11,AP Top 25,4,UCLA,1542,0
+2026,regular,11,AP Top 25,5,Miami,1430,0
+2026,regular,11,AP Top 25,6,Indiana,1376,0
+2026,regular,11,AP Top 25,7,Alabama,1334,0
+2026,regular,11,AP Top 25,8,Texas,1253,0
+2026,regular,11,AP Top 25,9,Tennessee,1177,0
+2026,regular,11,AP Top 25,10,Texas Tech,1082,0
+2026,regular,11,AP Top 25,11,Wake Forest,1067,0
+2026,regular,11,AP Top 25,12,BYU,1041,0
+2026,regular,11,AP Top 25,13,Kentucky,897,0
+2026,regular,11,AP Top 25,14,Houston,803,0
+2026,regular,11,AP Top 25,15,USC,679,0
+2026,regular,11,AP Top 25,16,Iowa,659,0
+2026,regular,11,AP Top 25,17,Boise State,563,0
+2026,regular,11,AP Top 25,18,Oregon,517,0
+2026,regular,11,AP Top 25,19,Ole Miss,415,0
+2026,regular,11,AP Top 25,20,South Carolina,399,0
+2026,regular,11,AP Top 25,21,Ohio State,349,0
+2026,regular,11,AP Top 25,22,Arizona,324,0
+2026,regular,11,AP Top 25,23,New Mexico,301,0
+2026,regular,11,AP Top 25,24,LSU,277,0
+2026,regular,11,AP Top 25,25,SMU,118,0
 2026,regular,5,Coaches Poll,1,Texas,1779,45
 2026,regular,5,Coaches Poll,2,Georgia,1735,17
 2026,regular,5,Coaches Poll,3,Notre Dame,1641,3
@@ -1251,3 +1301,28 @@ season,season_type,week,poll,rank,team,points,first_place
 2026,regular,10,AFCA Division III Coaches Poll,23,John Carroll,141,0
 2026,regular,10,AFCA Division III Coaches Poll,24,Utica,128,0
 2026,regular,10,AFCA Division III Coaches Poll,25,Linfield,94,0
+2026,regular,10,Playoff Committee Rankings,1,Miami,0,0
+2026,regular,10,Playoff Committee Rankings,2,Georgia,0,0
+2026,regular,10,Playoff Committee Rankings,3,Utah,0,0
+2026,regular,10,Playoff Committee Rankings,4,Indiana,0,0
+2026,regular,10,Playoff Committee Rankings,5,Alabama,0,0
+2026,regular,10,Playoff Committee Rankings,6,Kentucky,0,0
+2026,regular,10,Playoff Committee Rankings,7,Texas,0,0
+2026,regular,10,Playoff Committee Rankings,8,UCLA,0,0
+2026,regular,10,Playoff Committee Rankings,9,BYU,0,0
+2026,regular,10,Playoff Committee Rankings,10,Ole Miss,0,0
+2026,regular,10,Playoff Committee Rankings,11,Notre Dame,0,0
+2026,regular,10,Playoff Committee Rankings,12,Ohio State,0,0
+2026,regular,10,Playoff Committee Rankings,13,Tennessee,0,0
+2026,regular,10,Playoff Committee Rankings,14,LSU,0,0
+2026,regular,10,Playoff Committee Rankings,15,Texas Tech,0,0
+2026,regular,10,Playoff Committee Rankings,16,Wake Forest,0,0
+2026,regular,10,Playoff Committee Rankings,17,Houston,0,0
+2026,regular,10,Playoff Committee Rankings,18,Missouri,0,0
+2026,regular,10,Playoff Committee Rankings,19,Iowa,0,0
+2026,regular,10,Playoff Committee Rankings,20,USC,0,0
+2026,regular,10,Playoff Committee Rankings,21,South Carolina,0,0
+2026,regular,10,Playoff Committee Rankings,22,Arizona,0,0
+2026,regular,10,Playoff Committee Rankings,23,Oregon,0,0
+2026,regular,10,Playoff Committee Rankings,24,Florida,0,0
+2026,regular,10,Playoff Committee Rankings,25,Boise State,0,0

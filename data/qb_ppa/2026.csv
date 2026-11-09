@@ -3629,3 +3629,370 @@ season,week,season_type,team,player,player_id,ppa_all,ppa_pass
 2026,9,regular,Brown,James Murphy,5155943,0.42,0.486
 2026,9,regular,Pennsylvania,Karson Siqueiros-Lasky,5230195,0.117,0.151
 2026,9,regular,Pennsylvania,Miles Teodecki,5289943,-0.451,-0.508
+2026,10,regular,East Carolina,Mitch Griffis,4433829,-0.471,-0.123
+2026,10,regular,East Carolina,Emory Williams,5075800,0.357,0.359
+2026,10,regular,South Florida,Luke Kromenhoek,5079542,0.01,0.205
+2026,10,regular,Nevada,AJ Bianco,4819250,-0.231,-0.087
+2026,10,regular,New Mexico,Luke Moga,5122887,0.416,0.416
+2026,10,regular,New Mexico,Toa Faavae,5261479,0.14,0.109
+2026,10,regular,Arizona,Noah Fifita,4801717,0.221,0.233
+2026,10,regular,TCU,Jaden Craig,5083569,0.146,0.049
+2026,10,regular,Georgia,Gunner Stockton,4685578,0.699,0.745
+2026,10,regular,Ole Miss,Trinidad Chambliss,4911529,-0.193,-0.111
+2026,10,regular,Ole Miss,Deuce Knight,5141506,-0.016,-0.101
+2026,10,regular,Texas,Arch Manning,4870906,0.143,0.312
+2026,10,regular,Missouri,Austin Simmons,5141684,0.1,0.105
+2026,10,regular,Missouri,Matt Zollers,5195300,-0.133,-0.133
+2026,10,regular,Duke,Dan Mahan,5185699,-0.545,-0.545
+2026,10,regular,Oklahoma,John Mateer,4915980,0.363,0.406
+2026,10,regular,Florida,Tramell Jones Jr.,5295814,-0.079,-0.108
+2026,10,regular,Temple,Jaxon Smolik,5077787,0.001,0.037
+2026,10,regular,Navy,Braxton Woodson,5158343,-0.02,
+2026,10,regular,Navy,Jackson Gutierrez,5220473,0.516,0.843
+2026,10,regular,Navy,Evan Blouir,5391331,-0.061,
+2026,10,regular,Colorado State,Hauss Hejny,5079443,0.503,0.477
+2026,10,regular,Boise State,Max Cutforth,5160730,1.302,1.245
+2026,10,regular,Colorado State,Ksaan Farrar,5212610,0.557,0.595
+2026,10,regular,Jacksonville State,Caden Creel,5122157,0.154,0.049
+2026,10,regular,Sam Houston,Landyn Locke,5148427,-0.059,0.019
+2026,10,regular,Sam Houston,DJ Bailey,5220425,0.608,0.608
+2026,10,regular,Jacksonville State,Jack Moran,5222557,1.751,1.751
+2026,10,regular,Sam Houston,Brett Holloway,5384797,0.068,
+2026,10,regular,Notre Dame,C.J. Carr,5079369,0.383,0.383
+2026,10,regular,Miami,Darian Mensah,5121169,0.166,0.138
+2026,10,regular,Army,Cale Hellums,5150297,0.033,0.223
+2026,10,regular,Air Force,Kemper Hodges,5223112,0.148,
+2026,10,regular,Army,Bryson Luter,5293684,0.547,
+2026,10,regular,Air Force,Evan Medders,5306440,0.55,1.038
+2026,10,regular,Utah State,McCae Hillstead,4923285,0.222,0.289
+2026,10,regular,Fresno State,Jayden Mandal,5010409,0.236,0.397
+2026,10,regular,UNLV,Alex Orji,4685495,0.406,0.931
+2026,10,regular,Wyoming,Tyler Hughes,4838536,0.451,0.645
+2026,10,regular,UNLV,Jackson Arnold,4870607,-0.241,-0.377
+2026,10,regular,Oregon State,Maalik Murphy,4685497,0.255,1.112
+2026,10,regular,Texas State,Brad Jackson,5148803,0.511,0.326
+2026,10,regular,Oregon State,Braden Atkinson,5212654,-0.09,-0.021
+2026,10,regular,Wyoming,Landon Sims,5296625,-0.244,-0.515
+2026,10,regular,Syracuse,Steven Angeli,4685694,0.306,0.311
+2026,10,regular,Utah,Devon Dampier,5105849,0.183,0.3
+2026,10,regular,BYU,Bear Bachmeier,5141367,0.052,-0.048
+2026,10,regular,Utah,Byrd Ficklin,5294263,-0.403,
+2026,10,regular,Penn State,Rocco Becht,4801299,0.248,0.286
+2026,10,regular,Washington,Demond Williams Jr.,5079653,0.314,0.203
+2026,10,regular,Florida State,Ashton Daniels,4838679,0.236,0.16
+2026,10,regular,Boston College,Grayson Wilson,5142236,-1.465,-1.222
+2026,10,regular,Clemson,Tait Reynolds,5159078,0.122,-0.018
+2026,10,regular,Duke,Walker Eget,4694149,0.428,0.428
+2026,10,regular,NC State,Tad Hudson,4870793,-0.187,-0.179
+2026,10,regular,NC State,CJ Bailey,5079301,0.088,0.103
+2026,10,regular,Boston College,Mason McKenzie,5307005,0.092,0.214
+2026,10,regular,UCLA,Ty Dieffenbach,5092275,0.562,1.005
+2026,10,regular,Minnesota,Drake Lindsey,5144959,0.102,0.214
+2026,10,regular,Northwestern,Nicco Marchiol,4685459,-0.109,-0.249
+2026,10,regular,Iowa,Hank Brown,5089314,0.255,0.077
+2026,10,regular,Oregon,Dylan Raiola,5079572,0.333,0.333
+2026,10,regular,Ohio State,Luke Fahey,5214646,-0.024,0.026
+2026,10,regular,Rice,Jacurri Brown,4685291,0.269,0.865
+2026,10,regular,North Texas,Tayven Jackson,4801307,0.644,0.477
+2026,10,regular,Rice,Gael Ochoa,5145788,0.043,0.045
+2026,10,regular,Rice,Patrick Crayton Jr.,5265447,0.45,-0.544
+2026,10,regular,Rice,Ayden Wilhelm,5302749,-0.614,-0.614
+2026,10,regular,Tulsa,Dexter Williams II,4565355,-0.431,-1.161
+2026,10,regular,Tulane,Dagan Bruno,5219709,0.131,0.215
+2026,10,regular,Tulsa,Baylor Hayes,5224011,0.697,0.703
+2026,10,regular,Tulane,Trace Johnson,5291713,-0.423,-0.449
+2026,10,regular,Hawai'i,Micah Alejado,5101124,0.336,0.381
+2026,10,regular,UTEP,Raymond Moore III,5232049,0.173,0.148
+2026,10,regular,Northern Illinois,Taron Dickens,4881032,-0.067,-0.106
+2026,10,regular,San José State,Daniel Rolovich,5215357,0.252,0.323
+2026,10,regular,North Carolina,Billy Edwards,4592532,0.354,0.309
+2026,10,regular,Missouri State,Henry Belin IV,4685252,-0.039,-0.023
+2026,10,regular,Florida International,J.J. Kohl,4870883,0.305,0.3
+2026,10,regular,UConn,Kalieb Osborne,5079619,-0.067,-0.05
+2026,10,regular,Marshall,Zion Turner,4685697,-0.172,-0.178
+2026,10,regular,Georgia Southern,Max Johnson,4685740,0.711,0.64
+2026,10,regular,Georgia Southern,Turner Helton,4912238,-0.326,-0.34
+2026,10,regular,Marshall,Khalil Wilkins,5158251,1.035,0.498
+2026,10,regular,Georgia Southern,Weston Bryan,5212641,0.816,1.63
+2026,10,regular,South Alabama,Bishop Davenport,4869553,0.395,0.43
+2026,10,regular,Louisiana,D'Wayne' Winfield,4871091,0.136,-0.403
+2026,10,regular,Villanova,Nolan DiLucia,5402290,0.81,1.516
+2026,10,regular,Richmond,Jack Callaghan,5299849,-0.2,-0.148
+2026,10,regular,Drake,Riley Warzynski,5404620,-0.353,-0.509
+2026,10,regular,Drake,Kyle Cottee,5404622,0.452,0.664
+2026,10,regular,Drake,Braylon Wilson,5404623,-0.322,-0.055
+2026,10,regular,Colgate,Jake Stearney,5089309,-0.475,-0.252
+2026,10,regular,Colgate,Jackson Kilburg,5155751,0.314,0.264
+2026,10,regular,St. Thomas (MN),Nick Peipert,5300206,0.361,0.004
+2026,10,regular,Southeast Missouri State,Braylen Ragland,4920145,-0.881,-0.881
+2026,10,regular,Tennessee State,Marcelis Tate,5079734,-0.509,-0.167
+2026,10,regular,Southeast Missouri State,Chance Wilson,5152442,0.119,-0.292
+2026,10,regular,Tennessee State,Daylin Lee,5162467,0.254,0.403
+2026,10,regular,Youngstown State,Malachi Lewis,5300743,0.557,0.505
+2026,10,regular,Purdue,Ryan Browne,5104738,0.189,0.08
+2026,10,regular,Maryland,Malik Washington,5141695,0.806,0.752
+2026,10,regular,Kansas State,Blake Barnett,5124584,-0.592,-0.657
+2026,10,regular,Kansas State,Dillon Duff,5164321,0.019,0.002
+2026,10,regular,UL Monroe,Austin Carlisle,5207934,0.455,0.251
+2026,10,regular,Western Kentucky,Brock Glenn,4920158,0.352,0.258
+2026,10,regular,UCF,Alonza Barnett,4911929,0.257,0.334
+2026,10,regular,Liberty,Ethan Vasko,4832918,-0.346,
+2026,10,regular,SMU,Kevin Jennings,5084084,0.426,0.412
+2026,10,regular,SMU,Ty Hawkins,5141487,-1.405,
+2026,10,regular,Virginia Tech,Ethan Grunkemeyer,5144078,0.212,0.089
+2026,10,regular,Villanova,Pat McQuaide,4875733,0.531,0.542
+2026,10,regular,Stetson,Chris Stephenson,5161159,0.19,-0.434
+2026,10,regular,Davidson,Casey Bullock,5224535,0.389,0.574
+2026,10,regular,San Diego,CJ Ceron,5232445,0.056,0.108
+2026,10,regular,Mercer,Jaylen King,5152839,0.918,0.918
+2026,10,regular,Mercer,JP Pickles,5193282,0.045,0.131
+2026,10,regular,Chattanooga,Battle Alberson,5223983,0.166,-0.38
+2026,10,regular,Mercer,Adrian Parker,5234394,-2.823,
+2026,10,regular,Samford,Gabarri Johnson,4870864,0.236,0.113
+2026,10,regular,East Tennessee State,Mason Mims,5164309,0.274,0.274
+2026,10,regular,Samford,Will Shields,5441449,0.199,0.199
+2026,10,regular,Lehigh,Patrick Coan,5402237,0.514,0.47
+2026,10,regular,Valparaiso,Rowan Keefe,5089335,-0.091,0.069
+2026,10,regular,Dayton,Bryce Schondelmyer,5154881,0.277,0.509
+2026,10,regular,Valparaiso,Noah Ehrlich,5195374,-0.564,
+2026,10,regular,Marist,Marco Lainez,4870786,-0.475,-0.501
+2026,10,regular,Morehead State,Bryce Patterson,5084352,-0.009,-0.084
+2026,10,regular,Marist,Sonny Mannino,5088964,-0.007,-0.315
+2026,10,regular,Morehead State,David Parsons,5229448,-0.383,-0.5
+2026,10,regular,Mercyhurst,Alex Gevaudan,5227557,-0.18,-0.038
+2026,10,regular,Wagner,Jason Wiley,5440760,0.481,0.481
+2026,10,regular,Delaware State,Samari Collier,4606658,-1.143,-1.143
+2026,10,regular,Morgan State,Cameron Edge,4870712,-0.238,-0.291
+2026,10,regular,Delaware State,Marqui Adams,5085808,0.175,0.3
+2026,10,regular,Delaware State,Noah Brannock,5154019,-0.738,-0.738
+2026,10,regular,Fordham,Gunnar Smith,4812381,0.4,-0.023
+2026,10,regular,Bucknell,Emmett Dowling,5402059,-0.084,-0.17
+2026,10,regular,Cornell,Garrett Bass-Sulpizio,5154161,0.538,0.811
+2026,10,regular,Pennsylvania,Karson Siqueiros-Lasky,5230195,0.252,0.22
+2026,10,regular,Pennsylvania,Miles Teodecki,5289943,-0.59,
+2026,10,regular,Cornell,Michael McColgan,5443096,-0.422,-0.855
+2026,10,regular,Western Carolina,Lex Thomas,4875128,-0.026,0.197
+2026,10,regular,Wofford,JT Fayard,5156255,-0.207,-0.207
+2026,10,regular,Wofford,Kaeden Gilstrap,5439484,-0.059,-0.112
+2026,10,regular,St. Thomas (MN),Anthony Policare,5151370,-0.071,0.065
+2026,10,regular,Butler,Gabe Passini,5224468,0.047,0.019
+2026,10,regular,Central Connecticut,Brett Griffis,4711410,0.607,0.607
+2026,10,regular,Stonehill,Jack O'Connell,5106897,-0.225,-0.165
+2026,10,regular,Murray State,Collin Shannon,5083941,0.346,0.393
+2026,10,regular,Youngstown State,Beau Brungard,5109518,0.814,0.939
+2026,10,regular,Holy Cross,David Lynch,5154302,-0.057,-0.089
+2026,10,regular,Georgetown,Gavin Beard,5402159,-0.093,0.228
+2026,10,regular,Northwestern State,Zach Wilcke,4808719,-0.113,-0.089
+2026,10,regular,Northwestern State,Abram Johnston,5226585,0.789,
+2026,10,regular,UT Rio Grande Valley,Atzel Chavez Jr.,5300847,0.693,0.076
+2026,10,regular,UT Rio Grande Valley,Aidan Jakobsohn,5300880,0.629,0.738
+2026,10,regular,Furman,Jake Garcia,4432703,0.137,0.246
+2026,10,regular,The Citadel,Nick Billoups,4695602,0.235,0.032
+2026,10,regular,Charleston Southern,Jared Echols,5224320,0.568,0.47
+2026,10,regular,North Dakota,Javance Tupou'ata-Johnson,4920196,-0.534,
+2026,10,regular,North Dakota,Jerry Kaminski,5155528,0.702,0.652
+2026,10,regular,Illinois State,Beckham Pellant,5227699,-0.091,-0.025
+2026,10,regular,Illinois State,Chase Kwiatkowski,5298094,-1.52,-1.52
+2026,10,regular,Northern Iowa,Jaxon Dailey,4826635,-0.076,0.073
+2026,10,regular,South Dakota State,Chase Mason,5085784,0.453,0.617
+2026,10,regular,South Dakota State,Josh Holst,5151506,0.35,0.409
+2026,10,regular,Northern Iowa,Cale McThenia,5227968,-0.914,-1.251
+2026,10,regular,Charleston Southern,Caden Clay,5298251,-0.299,-0.398
+2026,10,regular,UT Martin,Tate Surber,5299226,0.238,0.303
+2026,10,regular,Bethune-Cookman,Tyler Jefferson,4870848,-0.154,-0.235
+2026,10,regular,Southern,Dillon Compton,5298023,-1.584,
+2026,10,regular,Southern,Christian Johnson,5442202,0.842,0.738
+2026,10,regular,Lafayette,Jason Penza,5225799,0.349,0.083
+2026,10,regular,William & Mary,Winston Watkins,5226917,-0.046,-0.227
+2026,10,regular,Lafayette,Eddie Jordan,5271361,0.229,0.277
+2026,10,regular,Texas Southern,Cam'Ron McCoy,4917305,0.465,0.215
+2026,10,regular,Alabama State,Aaron Frye,5441396,0.781,0.771
+2026,10,regular,Grambling,Jacobe Robinson,4949488,0.195,0.281
+2026,10,regular,Grambling,Ashton Frye,5085259,-0.152,-0.259
+2026,10,regular,Eastern Illinois,Jeremiah Salem,5083199,-0.066,-0.066
+2026,10,regular,Eastern Illinois,Cole Lacrue,5113896,-0.006,-0.062
+2026,10,regular,Western Illinois,Kennedy McGill,5165011,0.233,1.031
+2026,10,regular,Western Illinois,Cason Carswell,5299364,-0.463,-0.463
+2026,10,regular,Alcorn State,Jaylon Tolbert,4878822,0.786,1.019
+2026,10,regular,Florida A&M,Armond Parker,5442040,-0.347,-0.212
+2026,10,regular,Portland State,John-Keawe Sagapolutele,5075571,0.047,0.025
+2026,10,regular,Arkansas-Pine Bluff,Jack Schierholz,5163068,0.284,0.025
+2026,10,regular,Nicholls,Chase Richardson,5439307,0.315,0.037
+2026,10,regular,East Texas A&M,Reese Mooney,5441947,0.108,0.115
+2026,10,regular,Montana,Gage Sliter,5153717,1.092,1.092
+2026,10,regular,Montana,Cody Schweikert,5225218,3.841,
+2026,10,regular,Cal Poly,Bo Kelly,5083145,-0.314,-0.07
+2026,10,regular,Northern Arizona,Ty Pennington,5225414,0.295,-0.066
+2026,10,regular,Northern Arizona,Donivan Dixon,5405896,-0.193,
+2026,10,regular,West Georgia,Collin Hurst,5157481,0.184,0.23
+2026,10,regular,West Georgia,Luke Marble,5194695,-0.383,-0.846
+2026,10,regular,Central Arkansas,Donovyn Omolo,5416075,0.328,0.4
+2026,10,regular,Houston Christian,Maddox Kopp,4691966,-0.337,-0.481
+2026,10,regular,McNeese,Jake Strong,4915622,-0.056,-0.064
+2026,10,regular,Houston Christian,Cutter Stewart,5154855,-0.363,-0.831
+2026,10,regular,Houston Christian,Reilly Garcia,5301346,-0.243,-0.22
+2026,10,regular,Lamar,Aiden McCown,5154911,0.556,0.6
+2026,10,regular,Stephen F. Austin,Gavin Rutherford,5169036,0.044,0.253
+2026,10,regular,Stephen F. Austin,JT Kitna,5303186,1.077,1.043
+2026,10,regular,Idaho,Joshua Wood,4832830,0.773,0.524
+2026,10,regular,Idaho,Israel Carter,4923050,1.389,-0.928
+2026,10,regular,Eastern Washington,Jake Schakel,5146672,0.07,0.468
+2026,10,regular,Eastern Washington,Nate Bell,5152110,0.314,0.484
+2026,10,regular,Idaho,Sawyer Teeney,5298293,-0.39,-0.412
+2026,10,regular,Montana State,Justin Lamson,4684502,0.201,0.222
+2026,10,regular,Idaho State,Jordan Cooke,5158746,0.048,0.048
+2026,10,regular,Northern Colorado,Brayten Silbor,4873077,-0.175,-0.142
+2026,10,regular,Northern Colorado,Keegan Patterson,5085026,0.079,
+2026,10,regular,Southern Utah,Will Burns,5151171,0.298,0.315
+2026,10,regular,Alabama A&M,Cornelious Brown,4568411,-0.281,-0.147
+2026,10,regular,Prairie View A&M,Tevin Carter,4801301,0.404,0.54
+2026,10,regular,Alabama A&M,Eric Handley,5225612,3.556,
+2026,10,regular,North Carolina A&T,Kevin White,5164567,0.094,0.237
+2026,10,regular,Monmouth,Frankie Weaver,5226663,0.407,0.482
+2026,10,regular,Towson,Jacob Davis,5405931,0.153,0.265
+2026,10,regular,Sacred Heart,Poochie Snyder,5442382,0.31,0.28
+2026,10,regular,Yale,Dante Reno,5079683,-0.14,-0.139
+2026,10,regular,Brown,James Murphy,5155943,0.372,0.493
+2026,10,regular,Dartmouth,Grayson Saunier,5155398,0.339,0.239
+2026,10,regular,Dartmouth,Noah Trigueros,5229247,-3.877,
+2026,10,regular,Princeton,Eli Friend,5302682,1.989,
+2026,10,regular,Princeton,Ty Ciongoli,5302683,0.685,0.684
+2026,10,regular,Princeton,Wyatt Becker,5442807,0.76,0.691
+2026,10,regular,New Haven,A.J. Duffy,4685334,0.258,0.301
+2026,10,regular,Long Island University,Ethan Greenwood,5095771,-0.105,-0.272
+2026,10,regular,North Alabama,Destin Wade,4685698,0.257,0.081
+2026,10,regular,Utah Tech,CJ Tiller,4993406,-0.132,-0.109
+2026,10,regular,Utah Tech,Bronson Barben,5224562,0.176,0.12
+2026,10,regular,UC Davis,Treynor Cleeland,5298853,0.092,-0.111
+2026,10,regular,SE Louisiana,Kyle Lowe,4685440,0.2,0.225
+2026,10,regular,Incarnate Word,Emmett Brown,5085112,0.478,0.489
+2026,10,regular,SE Louisiana,Issac Mooring III,5405607,-2.026,-2.026
+2026,10,regular,Gardner-Webb,Cole Pennington,4869817,0.117,0.205
+2026,10,regular,South Carolina State,Keely Watson,5096134,0.477,0.594
+2026,10,regular,Howard,Isaiah Freeman,5098448,0.282,0.379
+2026,10,regular,South Carolina State,Ronnie Robinson,5443342,-0.274,-0.41
+2026,10,regular,Duquesne,Carson Camp,4695784,0.088,0.059
+2026,10,regular,Robert Morris,Carson Haggard,4832789,0.173,0.186
+2026,10,regular,Norfolk State,Deljay Bailey,5150426,0.398,0.588
+2026,10,regular,North Carolina Central,Joshua Jones,5159177,-0.237,-0.251
+2026,10,regular,UAlbany,Aidan Semo,5082909,-0.01,-0.45
+2026,10,regular,Bryant,Brennan Myer,5226265,1.077,1.112
+2026,10,regular,Lindenwood,Pops Battle,5225648,0.026,0.091
+2026,10,regular,Gardner-Webb,Lan Farmer,5439737,0.145,0.145
+2026,10,regular,Hampton,Tre'Von Taylor,5088851,-0.214,-0.269
+2026,10,regular,Elon,Brady Stober,5212705,-0.286,-0.321
+2026,10,regular,Elon,Elijah Guttman,5299669,0.931,0.665
+2026,10,regular,Hampton,Xavier Brookins,5405365,-0.2,-0.259
+2026,10,regular,Tennessee Tech,Jax Leatherwood,5027925,0.634,0.597
+2026,10,regular,Tennessee Tech,Zolten Osbourne,5164721,0.685,0.685
+2026,10,regular,VMI,Chandler Wilson,5168665,-0.396,-0.146
+2026,10,regular,VMI,JoJo Crump,5225341,-0.508,0.457
+2026,10,regular,VMI,Ian Reynolds,5302501,-0.93,-1.431
+2026,10,regular,Jackson State,Jared Lockhart,5298925,0.39,0.574
+2026,10,regular,Eastern Kentucky,Myles Burkett,4714009,0.5,0.57
+2026,10,regular,Austin Peay,Chris Parson,4870889,0.502,0.211
+2026,10,regular,Austin Peay,Kelvin Perkins III,5439814,0.148,
+2026,10,regular,Indiana State,Brady Allen,4685691,0.742,0.742
+2026,10,regular,Southern Illinois,DJ Williams,4697094,0.062,0.171
+2026,10,regular,Indiana State,Brock Riddle,5227733,1.355,1.355
+2026,10,regular,Southern Illinois,Jake Curry,5227786,-0.637,0.08
+2026,10,regular,Indiana State,John Bargen,5442068,-0.538,-0.033
+2026,10,regular,Tarleton State,Kaden Anderson,4899468,1.201,1.713
+2026,10,regular,Abilene Christian,Tucker Parks,5147465,0.271,0.262
+2026,10,regular,Stony Brook,Aidan Leffler,5091564,-0.799,-0.97
+2026,10,regular,Campbell,Kamden Sixkiller,5154962,0.559,0.559
+2026,10,regular,Stony Brook,Quinn Boyd,5226896,0.267,0.285
+2026,10,regular,Campbell,Grayson Harvey,5299304,-0.428,
+2026,10,regular,New Hampshire,Tommy McLeish,5226704,0.286,0.335
+2026,10,regular,Rhode Island,Alex McClelland,5226812,0.057,-0.104
+2026,10,regular,Columbia,Chase Goodwin,5154125,-0.419,-0.763
+2026,10,regular,Columbia,Xander Menapace,5154126,-0.169,-0.722
+2026,10,regular,Harvard,Dante Torres,5174062,-0.268,-0.055
+2026,10,regular,Harvard,DJ Gordon,5226850,0.8,
+2026,10,regular,Harvard,Kise Flannery,5295915,2.786,
+2026,10,regular,Columbia,Xander Eschelman,5299115,0.553,
+2026,10,regular,Harvard,Charlie Smith,5299776,0.264,0.264
+2026,10,regular,LSU,Sam Leavitt,5078810,-0.128,-0.198
+2026,10,regular,Alabama,Keelon Russell,5141629,0.436,0.407
+2026,10,regular,Akron,Brayden Roggow,5146903,-0.452,-0.452
+2026,10,regular,Akron,Cibastian Broughton,5198324,-0.265,-0.196
+2026,10,regular,Ohio,Nick Poulos,5228762,0.377,0.451
+2026,10,regular,Ohio,Levi Davis,5244755,-0.633,
+2026,10,regular,Buffalo,Jason Wright,5222591,0.221,0.139
+2026,10,regular,Miami (OH),Caleb Heavner,5388435,0.105,0.164
+2026,10,regular,Massachusetts,William Watson III,4920153,0.657,0.629
+2026,10,regular,Ball State,Keldric Luster,5075392,0.117,0.131
+2026,10,regular,Eastern Michigan,Brogan McCaughey,5094040,-0.318,-0.087
+2026,10,regular,Eastern Michigan,Jace Stuckey,5144207,0.523,0.709
+2026,10,regular,Central Michigan,Jadyn Glasser,5149056,0.569,0.5
+2026,10,regular,Central Michigan,Marcus Beamon,5295480,-0.257,-0.257
+2026,10,regular,App State,Henry Hasselbeck,5146664,0.117,
+2026,10,regular,Toledo,John Alan Richter,5082330,-0.518,-0.509
+2026,10,regular,Sacramento State,Jackson Sharman,5158748,-0.29,-0.052
+2026,10,regular,Sacramento State,Brian Salazar,5401458,-0.109,-0.238
+2026,10,regular,UTSA,Owen McCown,4775136,0.26,0.383
+2026,10,regular,Florida Atlantic,Caden Veltkamp,4869991,0.633,0.681
+2026,10,regular,UTSA,Brandon Tennison,5151316,-0.235,0.697
+2026,10,regular,UTSA,Mark Wiepert,5296013,1.559,
+2026,10,regular,App State,Malachi Singleton,4870999,0.027,0.101
+2026,10,regular,Georgia State,Ayden Pereira,5083490,0.3,0.467
+2026,10,regular,Southern Miss,John White,5079628,0.069,0.068
+2026,10,regular,James Madison,Arrington Maiden,5147757,-0.511,-0.511
+2026,10,regular,James Madison,Camden Coleman,5153978,1.642,1.642
+2026,10,regular,James Madison,JC Evans,5172036,0.535,0.524
+2026,10,regular,Baylor,D.J. Lagway,5079555,0.499,0.331
+2026,10,regular,Iowa State,Jaylen Raynor,5080403,0.343,0.177
+2026,10,regular,Baylor,Nate Bennett,5145459,-0.071,-0.071
+2026,10,regular,Oklahoma State,Drew Mestemaker,5219834,0.476,0.635
+2026,10,regular,Oklahoma State,Broderick Vehrs,5291690,2.015,2.015
+2026,10,regular,Old Dominion,Jaxon Potter,5091836,-0.141,-0.1
+2026,10,regular,Coastal Carolina,Tre Guerra,5152029,-0.693,-0.693
+2026,10,regular,Old Dominion,Quinn Henicle,5193346,0.729,0.303
+2026,10,regular,Coastal Carolina,Deuce Bailey,5296439,0.031,0.128
+2026,10,regular,Texas A&M,Marcel Reed,4870971,0.148,0.125
+2026,10,regular,South Carolina,Lanorris Sellers,4875127,0.244,0.372
+2026,10,regular,UL Monroe,Aidan Armenta,5122054,0.385,-0.093
+2026,10,regular,Arkansas State,Trey Owens,5123665,0.037,-0.01
+2026,10,regular,Auburn,Byrum Brown,4880272,0.266,0.333
+2026,10,regular,Arkansas,KJ Jackson,5079516,0.054,0.132
+2026,10,regular,Kennesaw State,Rickie Collins,4870645,-0.238,-0.653
+2026,10,regular,Delaware,Nick Minicucci,5153846,0.159,0.196
+2026,10,regular,Kennesaw State,Skyler Williams,5265536,0.007,-0.357
+2026,10,regular,Kennesaw State,Landon Varnes,5382898,0.095,0.103
+2026,10,regular,Cincinnati,JC French,4685345,0.323,0.415
+2026,10,regular,Houston,Conner Weigman,4685574,0.605,0.614
+2026,10,regular,Wake Forest,Steele Pizzella,5141634,0.797,0.806
+2026,10,regular,Merrimack,AJ Hairston,5146355,-0.538,-0.437
+2026,10,regular,Merrimack,Cole Meehan,5225304,-0.726,-1.239
+2026,10,regular,Wake Forest,Gannon Jones,5289364,1.052,1.07
+2026,10,regular,Wake Forest,Grant Lawless,5290250,1.033,1.614
+2026,10,regular,Charlotte,Conner Harrell,4801306,-0.073,-0.097
+2026,10,regular,UAB,Ryder Burton,5057381,-0.113,0.15
+2026,10,regular,Mississippi State,AJ Swann,5081405,0.017,0.017
+2026,10,regular,Vanderbilt,Jared Curtis,5158948,0.284,0.368
+2026,10,regular,Middle Tennessee,Roman Gagliano,5194626,0.452,0.471
+2026,10,regular,Western Kentucky,Rodney Tisdale Jr.,5196864,0.661,0.782
+2026,10,regular,Kansas,Isaiah Marshall,5079604,0.541,0.216
+2026,10,regular,UCF,Rocco Marriott,5209923,-0.093,
+2026,10,regular,Rutgers,AJ Surace,5079717,-0.113,-0.081
+2026,10,regular,Wisconsin,Ryan Hopkins,5210475,0.613,0.702
+2026,10,regular,Kentucky,Kenny Minchey,4918099,0.093,0.093
+2026,10,regular,Tennessee,George MacIntyre,5141571,0.249,0.221
+2026,10,regular,Tennessee,Faizon Brandon,5158973,2.554,2.681
+2026,10,regular,Michigan State,Alessio Milivojevic,5146670,-0.084,-0.064
+2026,10,regular,Michigan,Tommy Carr,5269403,-0.354,-0.237
+2026,10,regular,Colorado,Isaac Wilson,5079771,0.015,0.24
+2026,10,regular,Liberty,Deshawn Purdie,5138131,0.497,0.555
+2026,10,regular,New Mexico State,Trey Hedden,5224084,0.198,0.252
+2026,10,regular,Arizona State,Jake Fette,5209295,0.459,0.619
+2026,10,regular,Louisville,Davin Wydner,4836476,1.606,1.606
+2026,10,regular,Louisville,Lincoln Kienholz,5078278,0.436,0.449
+2026,10,regular,Georgia Tech,Alberto Mendoza,5191162,-0.156,-0.156
+2026,10,regular,Georgia Tech,Grady Adamson,5207610,-0.411,-0.085
+2026,10,regular,Texas Tech,Thomas Castellanos,4773919,0.618,0.92
+2026,10,regular,West Virginia,Michael Hawkins Jr.,5079465,0.706,0.718
+2026,10,regular,Troy,Tucker Kilcrease,4912119,-0.307,-0.125
+2026,10,regular,Louisiana Tech,Blake Baker,5150998,0.188,0.53
+2026,10,regular,Louisiana Tech,Trey Kukuk,5296376,0.492,0.463
+2026,10,regular,Illinois,Katin Houser,4795295,0.308,0.401
+2026,10,regular,Nebraska,Anthony Colandrea,5044387,0.062,0.066

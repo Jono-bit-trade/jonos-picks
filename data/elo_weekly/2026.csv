@@ -1259,3 +1259,141 @@ season,week,season_type,team,elo
 2026,9,regular,West Virginia,1368.0
 2026,9,regular,Wisconsin,1645.0
 2026,9,regular,Wyoming,1363.0
+2026,10,regular,Air Force,1466.0
+2026,10,regular,Akron,875.0
+2026,10,regular,Alabama,1984.0
+2026,10,regular,App State,1249.0
+2026,10,regular,Arizona,1795.0
+2026,10,regular,Arizona State,1477.0
+2026,10,regular,Arkansas,1479.0
+2026,10,regular,Arkansas State,1310.0
+2026,10,regular,Army,1500.0
+2026,10,regular,Auburn,1618.0
+2026,10,regular,Ball State,1098.0
+2026,10,regular,Baylor,1697.0
+2026,10,regular,Boise State,1722.0
+2026,10,regular,Boston College,1360.0
+2026,10,regular,Bowling Green,1225.0
+2026,10,regular,Buffalo,1361.0
+2026,10,regular,BYU,1706.0
+2026,10,regular,California,1209.0
+2026,10,regular,Central Michigan,1292.0
+2026,10,regular,Charlotte,1049.0
+2026,10,regular,Cincinnati,1505.0
+2026,10,regular,Clemson,1559.0
+2026,10,regular,Coastal Carolina,1265.0
+2026,10,regular,Colorado,1268.0
+2026,10,regular,Colorado State,1144.0
+2026,10,regular,Delaware,1391.0
+2026,10,regular,Duke,1822.0
+2026,10,regular,East Carolina,1441.0
+2026,10,regular,Eastern Michigan,1151.0
+2026,10,regular,Florida,1596.0
+2026,10,regular,Florida Atlantic,1383.0
+2026,10,regular,Florida International,1337.0
+2026,10,regular,Florida State,1572.0
+2026,10,regular,Fresno State,1634.0
+2026,10,regular,Georgia,2130.0
+2026,10,regular,Georgia Southern,1499.0
+2026,10,regular,Georgia State,1367.0
+2026,10,regular,Georgia Tech,1342.0
+2026,10,regular,Hawai'i,1399.0
+2026,10,regular,Houston,1619.0
+2026,10,regular,Illinois,1602.0
+2026,10,regular,Indiana,2054.0
+2026,10,regular,Iowa,1925.0
+2026,10,regular,Iowa State,1540.0
+2026,10,regular,Jacksonville State,1515.0
+2026,10,regular,James Madison,1798.0
+2026,10,regular,Kansas,1577.0
+2026,10,regular,Kansas State,1462.0
+2026,10,regular,Kennesaw State,1295.0
+2026,10,regular,Kent State,972.0
+2026,10,regular,Kentucky,1584.0
+2026,10,regular,Liberty,1815.0
+2026,10,regular,Louisiana,1492.0
+2026,10,regular,Louisiana Tech,1524.0
+2026,10,regular,Louisville,1758.0
+2026,10,regular,LSU,1898.0
+2026,10,regular,Marshall,1270.0
+2026,10,regular,Maryland,1323.0
+2026,10,regular,Massachusetts,1122.0
+2026,10,regular,Memphis,1686.0
+2026,10,regular,Miami,1988.0
+2026,10,regular,Miami (OH),1260.0
+2026,10,regular,Michigan,1677.0
+2026,10,regular,Michigan State,1487.0
+2026,10,regular,Middle Tennessee,1165.0
+2026,10,regular,Minnesota,1451.0
+2026,10,regular,Mississippi State,1519.0
+2026,10,regular,Missouri,1767.0
+2026,10,regular,Missouri State,1228.0
+2026,10,regular,Navy,1495.0
+2026,10,regular,NC State,1414.0
+2026,10,regular,Nebraska,1715.0
+2026,10,regular,Nevada,1362.0
+2026,10,regular,New Mexico,1713.0
+2026,10,regular,New Mexico State,1225.0
+2026,10,regular,North Carolina,1526.0
+2026,10,regular,North Dakota State,1628.0
+2026,10,regular,Northern Illinois,1078.0
+2026,10,regular,North Texas,1680.0
+2026,10,regular,Northwestern,1730.0
+2026,10,regular,Notre Dame,2078.0
+2026,10,regular,Ohio,1401.0
+2026,10,regular,Ohio State,1967.0
+2026,10,regular,Oklahoma,1709.0
+2026,10,regular,Oklahoma State,1597.0
+2026,10,regular,Old Dominion,1203.0
+2026,10,regular,Ole Miss,1880.0
+2026,10,regular,Oregon,1849.0
+2026,10,regular,Oregon State,1523.0
+2026,10,regular,Penn State,1798.0
+2026,10,regular,Pittsburgh,1626.0
+2026,10,regular,Purdue,1408.0
+2026,10,regular,Rice,1111.0
+2026,10,regular,Rutgers,1346.0
+2026,10,regular,Sacramento State,1063.0
+2026,10,regular,Sam Houston,1021.0
+2026,10,regular,San Diego State,1261.0
+2026,10,regular,San José State,1364.0
+2026,10,regular,SMU,1783.0
+2026,10,regular,South Alabama,1331.0
+2026,10,regular,South Carolina,1756.0
+2026,10,regular,Southern Miss,1193.0
+2026,10,regular,South Florida,1634.0
+2026,10,regular,Stanford,1144.0
+2026,10,regular,Syracuse,1342.0
+2026,10,regular,TCU,1613.0
+2026,10,regular,Temple,1295.0
+2026,10,regular,Tennessee,1879.0
+2026,10,regular,Texas,1953.0
+2026,10,regular,Texas A&M,1717.0
+2026,10,regular,Texas State,1624.0
+2026,10,regular,Texas Tech,1824.0
+2026,10,regular,Toledo,1531.0
+2026,10,regular,Troy,1305.0
+2026,10,regular,Tulane,1283.0
+2026,10,regular,Tulsa,1489.0
+2026,10,regular,UAB,1368.0
+2026,10,regular,UCF,1415.0
+2026,10,regular,UCLA,1754.0
+2026,10,regular,UConn,1435.0
+2026,10,regular,UL Monroe,1040.0
+2026,10,regular,UNLV,1457.0
+2026,10,regular,USC,1802.0
+2026,10,regular,Utah,1918.0
+2026,10,regular,Utah State,1410.0
+2026,10,regular,UTEP,1014.0
+2026,10,regular,UTSA,1457.0
+2026,10,regular,Vanderbilt,1544.0
+2026,10,regular,Virginia,1476.0
+2026,10,regular,Virginia Tech,1485.0
+2026,10,regular,Wake Forest,1877.0
+2026,10,regular,Washington,1722.0
+2026,10,regular,Washington State,1403.0
+2026,10,regular,Western Kentucky,1225.0
+2026,10,regular,Western Michigan,1486.0
+2026,10,regular,West Virginia,1380.0
+2026,10,regular,Wisconsin,1667.0
+2026,10,regular,Wyoming,1383.0
