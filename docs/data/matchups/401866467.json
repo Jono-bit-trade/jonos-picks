@@ -7,11 +7,24 @@
    "team": "Akron",
    "rank_ap": null,
    "records": {
-    "su": "1\u20138",
-    "ats": "4\u20135",
-    "ou": "5\u20134"
+    "su": "1\u20139",
+    "ats": "4\u20136",
+    "ou": "6\u20134"
    },
    "recent": [
+    {
+     "date": "2026-11-11T00:00:00+00:00",
+     "season": 2026,
+     "opp": "Western Michigan",
+     "site": "H",
+     "pts": 14,
+     "opp_pts": 42,
+     "result": "L",
+     "spread": 15.5,
+     "cover": "L",
+     "total": 50.5,
+     "ou": "O"
+    },
     {
      "date": "2026-11-04T00:00:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "W",
      "total": 51.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-03T19:30:00+00:00",
-     "season": 2026,
-     "opp": "Central Michigan",
-     "site": "A",
-     "pts": 17,
-     "opp_pts": 41,
-     "result": "L",
-     "spread": 6.5,
-     "cover": "L",
-     "total": 47.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 19.1,
+     "value": 18.6,
      "fmt": "1",
-     "rank": 129,
+     "rank": 131,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 32.2,
+     "value": 33.2,
      "fmt": "1",
-     "rank": 121,
+     "rank": 125,
      "better": false
     },
     {
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 131,
-    "overall": -12.29,
-    "offense": 19.56,
-    "defense": 31.85
+    "rank": 133,
+    "overall": -13.51,
+    "offense": 19.27,
+    "defense": 32.77
    }
   },
   "home": {
@@ -360,7 +360,7 @@
      "label": "Points per game",
      "value": 27.0,
      "fmt": "1",
-     "rank": 76,
+     "rank": 77,
      "better": true
     },
     {
@@ -368,7 +368,7 @@
      "label": "Points allowed per game",
      "value": 22.1,
      "fmt": "1",
-     "rank": 49,
+     "rank": 48,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 132,
-    "overall": -12.39,
-    "offense": 18.65,
-    "defense": 31.04
+    "rank": 131,
+    "overall": -12.29,
+    "offense": 18.75,
+    "defense": 31.03
    }
   }
  },
