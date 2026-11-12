@@ -274,20 +274,33 @@
    ],
    "rating": {
     "rank": 133,
-    "overall": -13.51,
-    "offense": 19.27,
-    "defense": 32.77
+    "overall": -13.41,
+    "offense": 19.26,
+    "defense": 32.67
    }
   },
   "home": {
    "team": "Massachusetts",
    "rank_ap": null,
    "records": {
-    "su": "5\u20134",
-    "ats": "4\u20135",
-    "ou": "3\u20136"
+    "su": "5\u20135",
+    "ats": "4\u20136",
+    "ou": "3\u20137"
    },
    "recent": [
+    {
+     "date": "2026-11-12T00:30:00+00:00",
+     "season": 2026,
+     "opp": "Toledo",
+     "site": "A",
+     "pts": 0,
+     "opp_pts": 24,
+     "result": "L",
+     "spread": 14.0,
+     "cover": "L",
+     "total": 52.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-05T00:00:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "W",
      "total": 44.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-03T19:30:00+00:00",
-     "season": 2026,
-     "opp": "Eastern Michigan",
-     "site": "H",
-     "pts": 14,
-     "opp_pts": 38,
-     "result": "L",
-     "spread": -5.5,
-     "cover": "L",
-     "total": 49.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 27.0,
+     "value": 24.3,
      "fmt": "1",
-     "rank": 77,
+     "rank": 96,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 22.1,
+     "value": 22.3,
      "fmt": "1",
-     "rank": 48,
+     "rank": 51,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 131,
-    "overall": -12.29,
-    "offense": 18.75,
-    "defense": 31.03
+    "rank": 130,
+    "overall": -12.86,
+    "offense": 17.48,
+    "defense": 30.34
    }
   }
  },

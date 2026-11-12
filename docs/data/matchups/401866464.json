@@ -7,11 +7,24 @@
    "team": "Ball State",
    "rank_ap": null,
    "records": {
-    "su": "3\u20136",
-    "ats": "6\u20133",
-    "ou": "7\u20132"
+    "su": "3\u20137",
+    "ats": "6\u20134",
+    "ou": "7\u20133"
    },
    "recent": [
+    {
+     "date": "2026-11-12T00:30:00+00:00",
+     "season": 2026,
+     "opp": "Buffalo",
+     "site": "H",
+     "pts": 7,
+     "opp_pts": 28,
+     "result": "L",
+     "spread": 1.5,
+     "cover": "L",
+     "total": 52.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-05T00:00:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "W",
      "total": 53.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-10-03T18:00:00+00:00",
-     "season": 2026,
-     "opp": "Toledo",
-     "site": "H",
-     "pts": 24,
-     "opp_pts": 39,
-     "result": "L",
-     "spread": 20.5,
-     "cover": "W",
-     "total": 52.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 22.9,
+     "value": 21.3,
      "fmt": "1",
-     "rank": 104,
+     "rank": 112,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 34.8,
+     "value": 34.1,
      "fmt": "1",
-     "rank": 132,
+     "rank": 129,
      "better": false
     },
     {
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 129,
-    "overall": -11.6,
-    "offense": 21.17,
-    "defense": 32.77
+    "rank": 132,
+    "overall": -13.1,
+    "offense": 19.87,
+    "defense": 32.96
    }
   },
   "home": {
@@ -368,7 +368,7 @@
      "label": "Points allowed per game",
      "value": 22.9,
      "fmt": "1",
-     "rank": 53,
+     "rank": 55,
      "better": false
     },
     {
@@ -550,9 +550,9 @@
    ],
    "rating": {
     "rank": 79,
-    "overall": -1.55,
-    "offense": 24.77,
-    "defense": 26.32
+    "overall": -1.52,
+    "offense": 24.75,
+    "defense": 26.27
    }
   }
  },

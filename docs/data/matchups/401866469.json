@@ -7,11 +7,24 @@
    "team": "Central Michigan",
    "rank_ap": null,
    "records": {
-    "su": "4\u20135",
-    "ats": "5\u20134",
-    "ou": "3\u20136"
+    "su": "5\u20135",
+    "ats": "6\u20134",
+    "ou": "3\u20137"
    },
    "recent": [
+    {
+     "date": "2026-11-12T00:30:00+00:00",
+     "season": 2026,
+     "opp": "Sacramento State",
+     "site": "H",
+     "pts": 28,
+     "opp_pts": 7,
+     "result": "W",
+     "spread": -17.5,
+     "cover": "W",
+     "total": 41.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-05T00:30:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "L",
      "total": 45.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-03T19:30:00+00:00",
-     "season": 2026,
-     "opp": "Akron",
-     "site": "H",
-     "pts": 41,
-     "opp_pts": 17,
-     "result": "W",
-     "spread": -6.5,
-     "cover": "W",
-     "total": 47.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 19.8,
+     "value": 20.6,
      "fmt": "1",
-     "rank": 123,
+     "rank": 118,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 23.8,
+     "value": 22.1,
      "fmt": "1",
-     "rank": 62,
+     "rank": 49,
      "better": false
     },
     {
@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 100,
-    "overall": -5.05,
-    "offense": 20.73,
-    "defense": 25.77
+    "rank": 95,
+    "overall": -4.34,
+    "offense": 20.72,
+    "defense": 25.06
    }
   },
   "home": {
    "team": "Buffalo",
    "rank_ap": null,
    "records": {
-    "su": "6\u20133",
-    "ats": "5\u20134",
-    "ou": "5\u20134"
+    "su": "7\u20133",
+    "ats": "6\u20134",
+    "ou": "5\u20135"
    },
    "recent": [
+    {
+     "date": "2026-11-12T00:30:00+00:00",
+     "season": 2026,
+     "opp": "Ball State",
+     "site": "A",
+     "pts": 28,
+     "opp_pts": 7,
+     "result": "W",
+     "spread": -1.5,
+     "cover": "W",
+     "total": 52.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-04T01:00:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "W",
      "total": 54.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-03T17:00:00+00:00",
-     "season": 2026,
-     "opp": "Western Michigan",
-     "site": "H",
-     "pts": 17,
-     "opp_pts": 20,
-     "result": "L",
-     "spread": 13.5,
-     "cover": "W",
-     "total": 46.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 23.9,
+     "value": 24.3,
      "fmt": "1",
-     "rank": 97,
+     "rank": 96,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 26.0,
+     "value": 24.1,
      "fmt": "1",
-     "rank": 80,
+     "rank": 66,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 116,
-    "overall": -7.89,
-    "offense": 21.32,
-    "defense": 29.21
+    "rank": 106,
+    "overall": -6.43,
+    "offense": 21.47,
+    "defense": 27.91
    }
   }
  },
