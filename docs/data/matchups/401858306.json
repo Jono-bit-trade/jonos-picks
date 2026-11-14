@@ -7,11 +7,24 @@
    "team": "Pittsburgh",
    "rank_ap": 25,
    "records": {
-    "su": "6\u20133",
-    "ats": "5\u20134",
-    "ou": "4\u20135"
+    "su": "6\u20134",
+    "ats": "5\u20135",
+    "ou": "4\u20136"
    },
    "recent": [
+    {
+     "date": "2026-11-14T00:00:00+00:00",
+     "season": 2026,
+     "opp": "Florida State",
+     "site": "H",
+     "pts": 10,
+     "opp_pts": 16,
+     "result": "L",
+     "spread": -3.0,
+     "cover": "L",
+     "total": 52.5,
+     "ou": "U"
+    },
     {
      "date": "2026-10-31T23:30:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "L",
      "total": 47.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-02T23:00:00+00:00",
-     "season": 2026,
-     "opp": "Virginia Tech",
-     "site": "A",
-     "pts": 35,
-     "opp_pts": 33,
-     "result": "W",
-     "spread": 1.5,
-     "cover": "W",
-     "total": 53.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 31.9,
+     "value": 29.7,
      "fmt": "1",
-     "rank": 45,
+     "rank": 56,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 19.8,
+     "value": 19.4,
      "fmt": "1",
-     "rank": 31,
+     "rank": 30,
      "better": false
     },
     {
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 41,
-    "overall": 4.27,
-    "offense": 28.38,
-    "defense": 24.11
+    "rank": 46,
+    "overall": 3.51,
+    "offense": 26.88,
+    "defense": 23.37
    }
   },
   "home": {
@@ -550,9 +550,9 @@
    ],
    "rating": {
     "rank": 18,
-    "overall": 8.53,
-    "offense": 33.24,
-    "defense": 24.71
+    "overall": 8.56,
+    "offense": 33.29,
+    "defense": 24.74
    }
   }
  },

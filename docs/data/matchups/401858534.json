@@ -1,0 +1,579 @@
+{
+ "id": 401858534,
+ "season": 2026,
+ "n_teams": 138,
+ "teams": {
+  "away": {
+   "team": "Maryland",
+   "rank_ap": null,
+   "records": {
+    "su": "3\u20136",
+    "ats": "4\u20134\u20131",
+    "ou": "7\u20132"
+   },
+   "recent": [
+    {
+     "date": "2026-11-07T17:30:00+00:00",
+     "season": 2026,
+     "opp": "Purdue",
+     "site": "A",
+     "pts": 34,
+     "opp_pts": 29,
+     "result": "W",
+     "spread": 5.5,
+     "cover": "W",
+     "total": 56.5,
+     "ou": "O"
+    },
+    {
+     "date": "2026-10-31T16:00:00+00:00",
+     "season": 2026,
+     "opp": "Illinois",
+     "site": "H",
+     "pts": 17,
+     "opp_pts": 20,
+     "result": "L",
+     "spread": 3.0,
+     "cover": "P",
+     "total": 54.5,
+     "ou": "U"
+    },
+    {
+     "date": "2026-10-17T16:30:00+00:00",
+     "season": 2026,
+     "opp": "Rutgers",
+     "site": "H",
+     "pts": 30,
+     "opp_pts": 37,
+     "result": "L",
+     "spread": -5.5,
+     "cover": "L",
+     "total": 55.5,
+     "ou": "O"
+    },
+    {
+     "date": "2026-10-10T20:15:00+00:00",
+     "season": 2026,
+     "opp": "Ohio State",
+     "site": "A",
+     "pts": 16,
+     "opp_pts": 45,
+     "result": "L",
+     "spread": 31.5,
+     "cover": "W",
+     "total": 56.5,
+     "ou": "O"
+    },
+    {
+     "date": "2026-10-03T20:00:00+00:00",
+     "season": 2026,
+     "opp": "Nebraska",
+     "site": "A",
+     "pts": 23,
+     "opp_pts": 48,
+     "result": "L",
+     "spread": 15.5,
+     "cover": "L",
+     "total": 52.5,
+     "ou": "O"
+    }
+   ],
+   "stats": [
+    {
+     "key": "ppg",
+     "label": "Points per game",
+     "value": 27.7,
+     "fmt": "1",
+     "rank": 73,
+     "better": true
+    },
+    {
+     "key": "papg",
+     "label": "Points allowed per game",
+     "value": 31.3,
+     "fmt": "1",
+     "rank": 118,
+     "better": false
+    },
+    {
+     "key": "epa_off",
+     "label": "Offense: points added per play",
+     "value": 0.067,
+     "fmt": "3",
+     "rank": 101,
+     "better": true
+    },
+    {
+     "key": "epa_def",
+     "label": "Defense: points added per play allowed",
+     "value": 0.097,
+     "fmt": "3",
+     "rank": 79,
+     "better": false
+    },
+    {
+     "key": "succ_off",
+     "label": "Offense: success rate",
+     "value": 0.3912,
+     "fmt": "pct",
+     "rank": 108,
+     "better": true
+    },
+    {
+     "key": "succ_def",
+     "label": "Defense: success rate allowed",
+     "value": 0.4085,
+     "fmt": "pct",
+     "rank": 75,
+     "better": false
+    },
+    {
+     "key": "expl_off",
+     "label": "Offense: explosiveness",
+     "value": 1.37,
+     "fmt": "2",
+     "rank": 18,
+     "better": true
+    },
+    {
+     "key": "expl_def",
+     "label": "Defense: explosiveness allowed",
+     "value": 1.33,
+     "fmt": "2",
+     "rank": 105,
+     "better": false
+    },
+    {
+     "key": "pass_off",
+     "label": "Passing: points added per pass",
+     "value": 0.078,
+     "fmt": "3",
+     "rank": 110,
+     "better": true
+    },
+    {
+     "key": "rush_off",
+     "label": "Rushing: points added per rush",
+     "value": 0.1,
+     "fmt": "3",
+     "rank": 67,
+     "better": true
+    },
+    {
+     "key": "pass_def",
+     "label": "Pass defense: per pass allowed",
+     "value": 0.148,
+     "fmt": "3",
+     "rank": 61,
+     "better": false
+    },
+    {
+     "key": "rush_def",
+     "label": "Run defense: per rush allowed",
+     "value": 0.062,
+     "fmt": "3",
+     "rank": 80,
+     "better": false
+    },
+    {
+     "key": "line_off",
+     "label": "Offensive line yards",
+     "value": 2.6,
+     "fmt": "2",
+     "rank": 125,
+     "better": true
+    },
+    {
+     "key": "stuff_def",
+     "label": "Defense: stuff rate",
+     "value": 0.227,
+     "fmt": "pct",
+     "rank": 35,
+     "better": true
+    },
+    {
+     "key": "ppo_off",
+     "label": "Points per scoring chance",
+     "value": null,
+     "fmt": "2",
+     "rank": null,
+     "better": true
+    },
+    {
+     "key": "ppo_def",
+     "label": "Points per scoring chance allowed",
+     "value": null,
+     "fmt": "2",
+     "rank": null,
+     "better": false
+    },
+    {
+     "key": "havoc_def",
+     "label": "Havoc created",
+     "value": null,
+     "fmt": "pct",
+     "rank": null,
+     "better": true
+    },
+    {
+     "key": "havoc_off",
+     "label": "Havoc allowed",
+     "value": null,
+     "fmt": "pct",
+     "rank": null,
+     "better": false
+    },
+    {
+     "key": "ppd_off",
+     "label": "Points per drive",
+     "value": 2.27,
+     "fmt": "2",
+     "rank": 74,
+     "better": true
+    },
+    {
+     "key": "ppd_def",
+     "label": "Points per drive allowed",
+     "value": 2.45,
+     "fmt": "2",
+     "rank": 113,
+     "better": false
+    },
+    {
+     "key": "field_off",
+     "label": "Average starting field position (yards to go)",
+     "value": 68.3,
+     "fmt": "1",
+     "rank": 23,
+     "better": false
+    },
+    {
+     "key": "to_margin",
+     "label": "Turnover margin per game",
+     "value": 0.22,
+     "fmt": "2",
+     "rank": 50,
+     "better": true
+    },
+    {
+     "key": "pen",
+     "label": "Penalty yards per game",
+     "value": 61.9,
+     "fmt": "1",
+     "rank": 94,
+     "better": false
+    },
+    {
+     "key": "plays",
+     "label": "Plays per game (pace)",
+     "value": 65.4,
+     "fmt": "1",
+     "rank": null,
+     "better": null
+    }
+   ],
+   "rating": {
+    "rank": 82,
+    "overall": -2.23,
+    "offense": 25.68,
+    "defense": 27.92
+   }
+  },
+  "home": {
+   "team": "USC",
+   "rank_ap": 15,
+   "records": {
+    "su": "7\u20132",
+    "ats": "3\u20136",
+    "ou": "4\u20135"
+   },
+   "recent": [
+    {
+     "date": "2026-10-31T23:30:00+00:00",
+     "season": 2026,
+     "opp": "Ohio State",
+     "site": "H",
+     "pts": 30,
+     "opp_pts": 18,
+     "result": "W",
+     "spread": 6.5,
+     "cover": "W",
+     "total": 50.5,
+     "ou": "U"
+    },
+    {
+     "date": "2026-10-24T23:30:00+00:00",
+     "season": 2026,
+     "opp": "Wisconsin",
+     "site": "A",
+     "pts": 7,
+     "opp_pts": 24,
+     "result": "L",
+     "spread": -1.5,
+     "cover": "L",
+     "total": 50.5,
+     "ou": "U"
+    },
+    {
+     "date": "2026-10-10T23:30:00+00:00",
+     "season": 2026,
+     "opp": "Penn State",
+     "site": "A",
+     "pts": 31,
+     "opp_pts": 23,
+     "result": "W",
+     "spread": -1.5,
+     "cover": "W",
+     "total": 54.5,
+     "ou": "U"
+    },
+    {
+     "date": "2026-10-03T23:30:00+00:00",
+     "season": 2026,
+     "opp": "Washington",
+     "site": "H",
+     "pts": 25,
+     "opp_pts": 21,
+     "result": "W",
+     "spread": -7.5,
+     "cover": "L",
+     "total": 58.5,
+     "ou": "U"
+    },
+    {
+     "date": "2026-09-26T23:30:00+00:00",
+     "season": 2026,
+     "opp": "Oregon",
+     "site": "H",
+     "pts": 27,
+     "opp_pts": 41,
+     "result": "L",
+     "spread": 3.5,
+     "cover": "L",
+     "total": 60.5,
+     "ou": "O"
+    }
+   ],
+   "stats": [
+    {
+     "key": "ppg",
+     "label": "Points per game",
+     "value": 32.4,
+     "fmt": "1",
+     "rank": 38,
+     "better": true
+    },
+    {
+     "key": "papg",
+     "label": "Points allowed per game",
+     "value": 24.2,
+     "fmt": "1",
+     "rank": 67,
+     "better": false
+    },
+    {
+     "key": "epa_off",
+     "label": "Offense: points added per play",
+     "value": 0.258,
+     "fmt": "3",
+     "rank": 21,
+     "better": true
+    },
+    {
+     "key": "epa_def",
+     "label": "Defense: points added per play allowed",
+     "value": 0.087,
+     "fmt": "3",
+     "rank": 74,
+     "better": false
+    },
+    {
+     "key": "succ_off",
+     "label": "Offense: success rate",
+     "value": 0.5078,
+     "fmt": "pct",
+     "rank": 12,
+     "better": true
+    },
+    {
+     "key": "succ_def",
+     "label": "Defense: success rate allowed",
+     "value": 0.3907,
+     "fmt": "pct",
+     "rank": 50,
+     "better": false
+    },
+    {
+     "key": "expl_off",
+     "label": "Offense: explosiveness",
+     "value": 1.23,
+     "fmt": "2",
+     "rank": 83,
+     "better": true
+    },
+    {
+     "key": "expl_def",
+     "label": "Defense: explosiveness allowed",
+     "value": 1.27,
+     "fmt": "2",
+     "rank": 78,
+     "better": false
+    },
+    {
+     "key": "pass_off",
+     "label": "Passing: points added per pass",
+     "value": 0.527,
+     "fmt": "3",
+     "rank": 8,
+     "better": true
+    },
+    {
+     "key": "rush_off",
+     "label": "Rushing: points added per rush",
+     "value": 0.008,
+     "fmt": "3",
+     "rank": 102,
+     "better": true
+    },
+    {
+     "key": "pass_def",
+     "label": "Pass defense: per pass allowed",
+     "value": 0.342,
+     "fmt": "3",
+     "rank": 123,
+     "better": false
+    },
+    {
+     "key": "rush_def",
+     "label": "Run defense: per rush allowed",
+     "value": -0.015,
+     "fmt": "3",
+     "rank": 53,
+     "better": false
+    },
+    {
+     "key": "line_off",
+     "label": "Offensive line yards",
+     "value": 2.95,
+     "fmt": "2",
+     "rank": 83,
+     "better": true
+    },
+    {
+     "key": "stuff_def",
+     "label": "Defense: stuff rate",
+     "value": 0.192,
+     "fmt": "pct",
+     "rank": 74,
+     "better": true
+    },
+    {
+     "key": "ppo_off",
+     "label": "Points per scoring chance",
+     "value": null,
+     "fmt": "2",
+     "rank": null,
+     "better": true
+    },
+    {
+     "key": "ppo_def",
+     "label": "Points per scoring chance allowed",
+     "value": null,
+     "fmt": "2",
+     "rank": null,
+     "better": false
+    },
+    {
+     "key": "havoc_def",
+     "label": "Havoc created",
+     "value": null,
+     "fmt": "pct",
+     "rank": null,
+     "better": true
+    },
+    {
+     "key": "havoc_off",
+     "label": "Havoc allowed",
+     "value": null,
+     "fmt": "pct",
+     "rank": null,
+     "better": false
+    },
+    {
+     "key": "ppd_off",
+     "label": "Points per drive",
+     "value": 3.44,
+     "fmt": "2",
+     "rank": 6,
+     "better": true
+    },
+    {
+     "key": "ppd_def",
+     "label": "Points per drive allowed",
+     "value": 2.42,
+     "fmt": "2",
+     "rank": 108,
+     "better": false
+    },
+    {
+     "key": "field_off",
+     "label": "Average starting field position (yards to go)",
+     "value": 71.2,
+     "fmt": "1",
+     "rank": 86,
+     "better": false
+    },
+    {
+     "key": "to_margin",
+     "label": "Turnover margin per game",
+     "value": -0.22,
+     "fmt": "2",
+     "rank": 88,
+     "better": true
+    },
+    {
+     "key": "pen",
+     "label": "Penalty yards per game",
+     "value": 53.7,
+     "fmt": "1",
+     "rank": 61,
+     "better": false
+    },
+    {
+     "key": "plays",
+     "label": "Plays per game (pace)",
+     "value": 69.2,
+     "fmt": "1",
+     "rank": null,
+     "better": null
+    }
+   ],
+   "rating": {
+    "rank": 15,
+    "overall": 10.17,
+    "offense": 32.85,
+    "defense": 22.67
+   }
+  }
+ },
+ "h2h": [
+  {
+   "date": "2024-10-19T20:00:00+00:00",
+   "season": 2024,
+   "opp": "Maryland",
+   "site": "A",
+   "pts": 28,
+   "opp_pts": 29,
+   "result": "L",
+   "spread": -6.5,
+   "cover": "L",
+   "total": 56.5,
+   "ou": "O"
+  }
+ ],
+ "h2h_record": {
+  "su": "0\u20131",
+  "ats": "0\u20131",
+  "ou": "1\u20130"
+ }
+}

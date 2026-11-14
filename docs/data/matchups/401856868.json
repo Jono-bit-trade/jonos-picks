@@ -7,11 +7,24 @@
    "team": "Houston",
    "rank_ap": 14,
    "records": {
-    "su": "7\u20132",
-    "ats": "3\u20136",
-    "ou": "5\u20134"
+    "su": "7\u20133",
+    "ats": "3\u20137",
+    "ou": "6\u20134"
    },
    "recent": [
+    {
+     "date": "2026-11-14T03:15:00+00:00",
+     "season": 2026,
+     "opp": "Colorado",
+     "site": "A",
+     "pts": 32,
+     "opp_pts": 42,
+     "result": "L",
+     "spread": -7.5,
+     "cover": "L",
+     "total": 53.5,
+     "ou": "O"
+    },
     {
      "date": "2026-11-07T20:30:00+00:00",
      "season": 2026,
@@ -63,26 +76,13 @@
      "cover": "W",
      "total": 55.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-03T16:00:00+00:00",
-     "season": 2026,
-     "opp": "UCF",
-     "site": "H",
-     "pts": 27,
-     "opp_pts": 17,
-     "result": "W",
-     "spread": -10.5,
-     "cover": "L",
-     "total": 50.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 35.4,
+     "value": 35.1,
      "fmt": "1",
      "rank": 22,
      "better": true
@@ -90,9 +90,9 @@
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 21.3,
+     "value": 23.4,
      "fmt": "1",
-     "rank": 41,
+     "rank": 59,
      "better": false
     },
     {
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 21,
-    "overall": 7.7,
-    "offense": 30.02,
-    "defense": 22.32
+    "rank": 31,
+    "overall": 6.24,
+    "offense": 30.2,
+    "defense": 23.96
    }
   },
   "home": {
@@ -550,9 +550,9 @@
    ],
    "rating": {
     "rank": 76,
-    "overall": -1.21,
-    "offense": 30.43,
-    "defense": 31.64
+    "overall": -1.23,
+    "offense": 30.41,
+    "defense": 31.63
    }
   }
  },

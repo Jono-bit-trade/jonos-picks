@@ -7,11 +7,24 @@
    "team": "UCLA",
    "rank_ap": 4,
    "records": {
-    "su": "9\u20130",
-    "ats": "9\u20130",
-    "ou": "4\u20135"
+    "su": "10\u20130",
+    "ats": "9\u20131",
+    "ou": "4\u20136"
    },
    "recent": [
+    {
+     "date": "2026-11-14T02:00:00+00:00",
+     "season": 2026,
+     "opp": "Illinois",
+     "site": "H",
+     "pts": 22,
+     "opp_pts": 14,
+     "result": "W",
+     "spread": -10.5,
+     "cover": "L",
+     "total": 48.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-07T17:00:00+00:00",
      "season": 2026,
@@ -63,28 +76,15 @@
      "cover": "W",
      "total": 42.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-10T19:30:00+00:00",
-     "season": 2026,
-     "opp": "Oregon",
-     "site": "A",
-     "pts": 17,
-     "opp_pts": 15,
-     "result": "W",
-     "spread": 10.0,
-     "cover": "W",
-     "total": 57.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 33.6,
+     "value": 32.4,
      "fmt": "1",
-     "rank": 31,
+     "rank": 43,
      "better": true
     },
     {
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 27,
-    "overall": 7.28,
-    "offense": 28.02,
-    "defense": 20.74
+    "rank": 26,
+    "overall": 7.34,
+    "offense": 27.63,
+    "defense": 20.28
    }
   },
   "home": {
@@ -550,9 +550,9 @@
    ],
    "rating": {
     "rank": 38,
-    "overall": 4.78,
+    "overall": 4.8,
     "offense": 24.43,
-    "defense": 19.65
+    "defense": 19.64
    }
   }
  },
