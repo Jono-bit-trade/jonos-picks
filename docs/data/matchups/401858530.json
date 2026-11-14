@@ -7,11 +7,24 @@
    "team": "Northwestern",
    "rank_ap": 20,
    "records": {
-    "su": "6\u20133",
-    "ats": "5\u20134",
-    "ou": "6\u20133"
+    "su": "6\u20134",
+    "ats": "6\u20134",
+    "ou": "7\u20133"
    },
    "recent": [
+    {
+     "date": "2026-11-14T17:00:00+00:00",
+     "season": 2026,
+     "opp": "Ohio State",
+     "site": "A",
+     "pts": 19,
+     "opp_pts": 28,
+     "result": "L",
+     "spread": 14.5,
+     "cover": "W",
+     "total": 45.5,
+     "ou": "O"
+    },
     {
      "date": "2026-11-08T00:30:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "L",
      "total": 50.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-10T16:30:00+00:00",
-     "season": 2026,
-     "opp": "Ball State",
-     "site": "H",
-     "pts": 45,
-     "opp_pts": 14,
-     "result": "W",
-     "spread": -34.5,
-     "cover": "L",
-     "total": 53.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 31.0,
+     "value": 29.8,
      "fmt": "1",
-     "rank": 49,
+     "rank": 56,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 19.3,
+     "value": 20.2,
      "fmt": "1",
-     "rank": 28,
+     "rank": 34,
      "better": false
     },
     {
@@ -274,9 +274,9 @@
    ],
    "rating": {
     "rank": 28,
-    "overall": 6.84,
-    "offense": 28.22,
-    "defense": 21.39
+    "overall": 6.96,
+    "offense": 28.24,
+    "defense": 21.27
    }
   },
   "home": {
@@ -360,7 +360,7 @@
      "label": "Points per game",
      "value": 24.7,
      "fmt": "1",
-     "rank": 92,
+     "rank": 91,
      "better": true
     },
     {
@@ -550,9 +550,9 @@
    ],
    "rating": {
     "rank": 56,
-    "overall": 1.39,
-    "offense": 25.08,
-    "defense": 23.7
+    "overall": 1.41,
+    "offense": 25.02,
+    "defense": 23.62
    }
   }
  },

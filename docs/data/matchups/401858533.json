@@ -7,11 +7,24 @@
    "team": "Wisconsin",
    "rank_ap": 25,
    "records": {
-    "su": "6\u20133",
-    "ats": "5\u20134",
-    "ou": "3\u20136"
+    "su": "6\u20134",
+    "ats": "5\u20135",
+    "ou": "4\u20136"
    },
    "recent": [
+    {
+     "date": "2026-11-14T17:00:00+00:00",
+     "season": 2026,
+     "opp": "Maryland",
+     "site": "A",
+     "pts": 21,
+     "opp_pts": 24,
+     "result": "L",
+     "spread": -8.5,
+     "cover": "L",
+     "total": 40.5,
+     "ou": "O"
+    },
     {
      "date": "2026-11-07T21:15:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "L",
      "total": 42.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-03T16:30:00+00:00",
-     "season": 2026,
-     "opp": "Michigan State",
-     "site": "H",
-     "pts": 31,
-     "opp_pts": 3,
-     "result": "W",
-     "spread": -8.5,
-     "cover": "W",
-     "total": 43.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 24.4,
+     "value": 24.1,
      "fmt": "1",
-     "rank": 94,
+     "rank": 95,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 16.3,
+     "value": 17.1,
      "fmt": "1",
-     "rank": 14,
+     "rank": 17,
      "better": false
     },
     {
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 43,
-    "overall": 3.97,
-    "offense": 22.89,
-    "defense": 18.92
+    "rank": 46,
+    "overall": 3.41,
+    "offense": 22.66,
+    "defense": 19.25
    }
   },
   "home": {
@@ -360,7 +360,7 @@
      "label": "Points per game",
      "value": 29.4,
      "fmt": "1",
-     "rank": 57,
+     "rank": 59,
      "better": true
     },
     {
@@ -368,7 +368,7 @@
      "label": "Points allowed per game",
      "value": 32.3,
      "fmt": "1",
-     "rank": 123,
+     "rank": 124,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 83,
-    "overall": -2.47,
-    "offense": 26.83,
-    "defense": 29.3
+    "rank": 84,
+    "overall": -2.31,
+    "offense": 26.85,
+    "defense": 29.16
    }
   }
  },

@@ -84,7 +84,7 @@
      "label": "Points per game",
      "value": 33.0,
      "fmt": "1",
-     "rank": 34,
+     "rank": 35,
      "better": true
     },
     {
@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 62,
+    "rank": 63,
     "overall": 0.07,
-    "offense": 29.21,
-    "defense": 29.14
+    "offense": 29.15,
+    "defense": 29.08
    }
   },
   "home": {
    "team": "UAB",
    "rank_ap": null,
    "records": {
-    "su": "5\u20134",
-    "ats": "4\u20134\u20131",
-    "ou": "1\u20138"
+    "su": "6\u20134",
+    "ats": "5\u20134\u20131",
+    "ou": "1\u20139"
    },
    "recent": [
+    {
+     "date": "2026-11-14T18:00:00+00:00",
+     "season": 2026,
+     "opp": "Temple",
+     "site": "A",
+     "pts": 36,
+     "opp_pts": 10,
+     "result": "W",
+     "spread": 2.5,
+     "cover": "W",
+     "total": 48.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-07T20:30:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "L",
      "total": 55.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-03T19:30:00+00:00",
-     "season": 2026,
-     "opp": "Samford",
-     "site": "H",
-     "pts": 33,
-     "opp_pts": 14,
-     "result": "W",
-     "spread": -30.5,
-     "cover": "L",
-     "total": 54.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 21.8,
+     "value": 23.2,
      "fmt": "1",
-     "rank": 112,
+     "rank": 101,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 23.8,
+     "value": 22.4,
      "fmt": "1",
-     "rank": 63,
+     "rank": 51,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 112,
-    "overall": -7.27,
-    "offense": 21.34,
-    "defense": 28.61
+    "rank": 102,
+    "overall": -5.16,
+    "offense": 22.21,
+    "defense": 27.37
    }
   }
  },

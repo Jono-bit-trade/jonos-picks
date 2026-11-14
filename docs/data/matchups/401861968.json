@@ -92,7 +92,7 @@
      "label": "Points allowed per game",
      "value": 25.8,
      "fmt": "1",
-     "rank": 79,
+     "rank": 78,
      "better": false
     },
     {
@@ -274,20 +274,33 @@
    ],
    "rating": {
     "rank": 116,
-    "overall": -7.71,
-    "offense": 18.83,
-    "defense": 26.54
+    "overall": -7.82,
+    "offense": 18.72,
+    "defense": 26.55
    }
   },
   "home": {
    "team": "UConn",
    "rank_ap": null,
    "records": {
-    "su": "4\u20135",
-    "ats": "5\u20134",
-    "ou": "5\u20134"
+    "su": "5\u20135",
+    "ats": "6\u20134",
+    "ou": "6\u20134"
    },
    "recent": [
+    {
+     "date": "2026-11-14T17:00:00+00:00",
+     "season": 2026,
+     "opp": "James Madison",
+     "site": "H",
+     "pts": 46,
+     "opp_pts": 22,
+     "result": "W",
+     "spread": 4.5,
+     "cover": "W",
+     "total": 56.5,
+     "ou": "O"
+    },
     {
      "date": "2026-11-07T17:00:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "W",
      "total": 55.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-03T16:00:00+00:00",
-     "season": 2026,
-     "opp": "Syracuse",
-     "site": "H",
-     "pts": 41,
-     "opp_pts": 42,
-     "result": "L",
-     "spread": 6.5,
-     "cover": "W",
-     "total": 51.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 32.9,
+     "value": 34.2,
      "fmt": "1",
-     "rank": 37,
+     "rank": 28,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 26.7,
+     "value": 26.2,
      "fmt": "1",
-     "rank": 89,
+     "rank": 83,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 95,
-    "overall": -4.23,
-    "offense": 26.57,
-    "defense": 30.8
+    "rank": 82,
+    "overall": -2.04,
+    "offense": 27.82,
+    "defense": 29.86
    }
   }
  },

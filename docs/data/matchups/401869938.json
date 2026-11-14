@@ -7,11 +7,24 @@
    "team": "Arkansas State",
    "rank_ap": null,
    "records": {
-    "su": "4\u20135",
-    "ats": "4\u20135",
-    "ou": "4\u20135"
+    "su": "4\u20136",
+    "ats": "4\u20136",
+    "ou": "4\u20136"
    },
    "recent": [
+    {
+     "date": "2026-11-14T18:00:00+00:00",
+     "season": 2026,
+     "opp": "Coastal Carolina",
+     "site": "A",
+     "pts": 21,
+     "opp_pts": 28,
+     "result": "L",
+     "spread": -1.5,
+     "cover": "L",
+     "total": 53.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-07T20:00:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "L",
      "total": 60.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-10-04T00:00:00+00:00",
-     "season": 2026,
-     "opp": "Louisiana",
-     "site": "A",
-     "pts": 20,
-     "opp_pts": 23,
-     "result": "L",
-     "spread": 4.5,
-     "cover": "W",
-     "total": 49.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 27.4,
+     "value": 26.8,
      "fmt": "1",
-     "rank": 74,
+     "rank": 78,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 26.3,
+     "value": 26.5,
      "fmt": "1",
-     "rank": 85,
+     "rank": 87,
      "better": false
     },
     {
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 102,
-    "overall": -5.09,
-    "offense": 23.09,
-    "defense": 28.17
+    "rank": 103,
+    "overall": -5.57,
+    "offense": 22.78,
+    "defense": 28.35
    }
   },
   "home": {
@@ -360,7 +360,7 @@
      "label": "Points per game",
      "value": 33.6,
      "fmt": "1",
-     "rank": 31,
+     "rank": 32,
      "better": true
     },
     {
@@ -368,7 +368,7 @@
      "label": "Points allowed per game",
      "value": 20.4,
      "fmt": "1",
-     "rank": 37,
+     "rank": 36,
      "better": false
     },
     {
@@ -550,9 +550,9 @@
    ],
    "rating": {
     "rank": 40,
-    "overall": 4.25,
-    "offense": 27.83,
-    "defense": 23.58
+    "overall": 4.22,
+    "offense": 27.75,
+    "defense": 23.53
    }
   }
  },

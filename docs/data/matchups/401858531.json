@@ -7,11 +7,24 @@
    "team": "Ohio State",
    "rank_ap": 21,
    "records": {
-    "su": "6\u20133",
-    "ats": "5\u20134",
-    "ou": "5\u20134"
+    "su": "7\u20133",
+    "ats": "5\u20135",
+    "ou": "6\u20134"
    },
    "recent": [
+    {
+     "date": "2026-11-14T17:00:00+00:00",
+     "season": 2026,
+     "opp": "Northwestern",
+     "site": "H",
+     "pts": 28,
+     "opp_pts": 19,
+     "result": "W",
+     "spread": -14.5,
+     "cover": "L",
+     "total": 45.5,
+     "ou": "O"
+    },
     {
      "date": "2026-11-07T20:30:00+00:00",
      "season": 2026,
@@ -63,26 +76,13 @@
      "cover": "L",
      "total": 56.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-10-03T19:30:00+00:00",
-     "season": 2026,
-     "opp": "Iowa",
-     "site": "A",
-     "pts": 31,
-     "opp_pts": 14,
-     "result": "W",
-     "spread": -14.5,
-     "cover": "W",
-     "total": 46.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 35.7,
+     "value": 34.9,
      "fmt": "1",
      "rank": 21,
      "better": true
@@ -90,7 +90,7 @@
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 18.3,
+     "value": 18.4,
      "fmt": "1",
      "rank": 20,
      "better": false
@@ -274,20 +274,33 @@
    ],
    "rating": {
     "rank": 4,
-    "overall": 15.92,
-    "offense": 33.14,
-    "defense": 17.22
+    "overall": 15.74,
+    "offense": 32.93,
+    "defense": 17.19
    }
   },
   "home": {
    "team": "Nebraska",
    "rank_ap": null,
    "records": {
-    "su": "5\u20134",
-    "ats": "6\u20133",
-    "ou": "3\u20136"
+    "su": "6\u20134",
+    "ats": "7\u20133",
+    "ou": "3\u20137"
    },
    "recent": [
+    {
+     "date": "2026-11-14T17:30:00+00:00",
+     "season": 2026,
+     "opp": "Rutgers",
+     "site": "A",
+     "pts": 31,
+     "opp_pts": 0,
+     "result": "W",
+     "spread": -15.5,
+     "cover": "W",
+     "total": 51.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-07T01:00:00+00:00",
      "season": 2026,
@@ -339,26 +352,13 @@
      "cover": "W",
      "total": 48.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-03T20:00:00+00:00",
-     "season": 2026,
-     "opp": "Maryland",
-     "site": "H",
-     "pts": 48,
-     "opp_pts": 23,
-     "result": "W",
-     "spread": -15.5,
-     "cover": "W",
-     "total": 52.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 30.2,
+     "value": 30.3,
      "fmt": "1",
      "rank": 52,
      "better": true
@@ -366,9 +366,9 @@
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 16.6,
+     "value": 14.9,
      "fmt": "1",
-     "rank": 16,
+     "rank": 9,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 33,
-    "overall": 5.54,
-    "offense": 26.74,
-    "defense": 21.2
+    "rank": 25,
+    "overall": 7.33,
+    "offense": 26.73,
+    "defense": 19.4
    }
   }
  },

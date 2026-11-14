@@ -84,7 +84,7 @@
      "label": "Points per game",
      "value": 21.2,
      "fmt": "1",
-     "rank": 114,
+     "rank": 113,
      "better": true
     },
     {
@@ -274,20 +274,33 @@
    ],
    "rating": {
     "rank": 127,
-    "overall": -10.13,
-    "offense": 20.24,
-    "defense": 30.37
+    "overall": -10.14,
+    "offense": 20.2,
+    "defense": 30.34
    }
   },
   "home": {
    "team": "Temple",
    "rank_ap": null,
    "records": {
-    "su": "2\u20137",
-    "ats": "5\u20133\u20131",
-    "ou": "4\u20135"
+    "su": "2\u20138",
+    "ats": "5\u20134\u20131",
+    "ou": "4\u20136"
    },
    "recent": [
+    {
+     "date": "2026-11-14T18:00:00+00:00",
+     "season": 2026,
+     "opp": "UAB",
+     "site": "H",
+     "pts": 10,
+     "opp_pts": 36,
+     "result": "L",
+     "spread": -2.5,
+     "cover": "L",
+     "total": 48.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-07T20:30:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "L",
      "total": 55.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-03T23:30:00+00:00",
-     "season": 2026,
-     "opp": "South Florida",
-     "site": "A",
-     "pts": 17,
-     "opp_pts": 13,
-     "result": "W",
-     "spread": 5.5,
-     "cover": "W",
-     "total": 50.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 24.9,
+     "value": 23.4,
      "fmt": "1",
-     "rank": 91,
+     "rank": 100,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 28.3,
+     "value": 29.1,
      "fmt": "1",
-     "rank": 102,
+     "rank": 106,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 111,
-    "overall": -7.21,
-    "offense": 23.15,
-    "defense": 30.36
+    "rank": 122,
+    "overall": -9.16,
+    "offense": 21.97,
+    "defense": 31.13
    }
   }
  },

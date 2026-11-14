@@ -84,7 +84,7 @@
      "label": "Points per game",
      "value": 22.0,
      "fmt": "1",
-     "rank": 108,
+     "rank": 107,
      "better": true
     },
     {
@@ -92,7 +92,7 @@
      "label": "Points allowed per game",
      "value": 28.7,
      "fmt": "1",
-     "rank": 103,
+     "rank": 104,
      "better": false
     },
     {
@@ -274,20 +274,33 @@
    ],
    "rating": {
     "rank": 94,
-    "overall": -4.14,
+    "overall": -4.07,
     "offense": 23.06,
-    "defense": 27.19
+    "defense": 27.12
    }
   },
   "home": {
    "team": "Cincinnati",
    "rank_ap": null,
    "records": {
-    "su": "5\u20134",
-    "ats": "5\u20134",
-    "ou": "6\u20133"
+    "su": "5\u20135",
+    "ats": "5\u20135",
+    "ou": "6\u20134"
    },
    "recent": [
+    {
+     "date": "2026-11-14T17:00:00+00:00",
+     "season": 2026,
+     "opp": "Iowa State",
+     "site": "A",
+     "pts": 13,
+     "opp_pts": 41,
+     "result": "L",
+     "spread": 2.5,
+     "cover": "L",
+     "total": 57.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-07T20:30:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "L",
      "total": 64.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-10-04T03:00:00+00:00",
-     "season": 2026,
-     "opp": "Arizona",
-     "site": "A",
-     "pts": 7,
-     "opp_pts": 34,
-     "result": "L",
-     "spread": 7.0,
-     "cover": "L",
-     "total": 56.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 33.0,
+     "value": 31.0,
      "fmt": "1",
-     "rank": 34,
+     "rank": 48,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 29.4,
+     "value": 30.6,
      "fmt": "1",
-     "rank": 109,
+     "rank": 115,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 68,
-    "overall": -0.17,
-    "offense": 28.37,
-    "defense": 28.54
+    "rank": 83,
+    "overall": -2.05,
+    "offense": 27.19,
+    "defense": 29.24
    }
   }
  },

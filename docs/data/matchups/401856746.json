@@ -212,11 +212,24 @@
    "team": "Alabama",
    "rank_ap": 7,
    "records": {
-    "su": "7\u20132",
-    "ats": "5\u20134",
-    "ou": "6\u20133"
+    "su": "8\u20132",
+    "ats": "5\u20135",
+    "ou": "6\u20134"
    },
    "recent": [
+    {
+     "date": "2026-11-14T17:45:00+00:00",
+     "season": 2026,
+     "opp": "Vanderbilt",
+     "site": "A",
+     "pts": 21,
+     "opp_pts": 6,
+     "result": "W",
+     "spread": -15.5,
+     "cover": "L",
+     "total": 48.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-07T20:30:00+00:00",
      "season": 2026,
@@ -268,36 +281,23 @@
      "cover": "L",
      "total": 51.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-03T16:00:00+00:00",
-     "season": 2026,
-     "opp": "Mississippi State",
-     "site": "A",
-     "pts": 56,
-     "opp_pts": 23,
-     "result": "W",
-     "spread": -5.5,
-     "cover": "W",
-     "total": 62.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 37.4,
+     "value": 35.8,
      "fmt": "1",
-     "rank": 16,
+     "rank": 18,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 20.3,
+     "value": 18.9,
      "fmt": "1",
-     "rank": 35,
+     "rank": 24,
      "better": false
     },
     {
@@ -479,9 +479,9 @@
    ],
    "rating": {
     "rank": 5,
-    "overall": 15.58,
-    "offense": 34.61,
-    "defense": 19.03
+    "overall": 15.63,
+    "offense": 33.57,
+    "defense": 17.94
    }
   }
  },

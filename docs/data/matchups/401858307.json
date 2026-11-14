@@ -7,11 +7,24 @@
    "team": "SMU",
    "rank_ap": 25,
    "records": {
-    "su": "7\u20132",
-    "ats": "3\u20134\u20132",
-    "ou": "4\u20135"
+    "su": "7\u20133",
+    "ats": "3\u20135\u20132",
+    "ou": "4\u20136"
    },
    "recent": [
+    {
+     "date": "2026-11-14T17:00:00+00:00",
+     "season": 2026,
+     "opp": "Wake Forest",
+     "site": "H",
+     "pts": 7,
+     "opp_pts": 49,
+     "result": "L",
+     "spread": -2.5,
+     "cover": "L",
+     "total": 60.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-07T00:00:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "P",
      "total": 51.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-03T16:00:00+00:00",
-     "season": 2026,
-     "opp": "Boston College",
-     "site": "H",
-     "pts": 25,
-     "opp_pts": 16,
-     "result": "W",
-     "spread": -21.5,
-     "cover": "L",
-     "total": 55.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 37.0,
+     "value": 34.0,
      "fmt": "1",
-     "rank": 19,
+     "rank": 30,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 22.9,
+     "value": 25.5,
      "fmt": "1",
-     "rank": 53,
+     "rank": 73,
      "better": false
     },
     {
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 23,
-    "overall": 7.5,
-    "offense": 31.78,
-    "defense": 24.29
+    "rank": 35,
+    "overall": 4.88,
+    "offense": 30.2,
+    "defense": 25.32
    }
   },
   "home": {
@@ -360,7 +360,7 @@
      "label": "Points per game",
      "value": 39.3,
      "fmt": "1",
-     "rank": 9,
+     "rank": 8,
      "better": true
     },
     {
@@ -368,7 +368,7 @@
      "label": "Points allowed per game",
      "value": 14.6,
      "fmt": "1",
-     "rank": 9,
+     "rank": 8,
      "better": false
     },
     {
@@ -551,8 +551,8 @@
    "rating": {
     "rank": 2,
     "overall": 17.74,
-    "offense": 35.17,
-    "defense": 17.44
+    "offense": 35.09,
+    "defense": 17.36
    }
   }
  },

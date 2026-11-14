@@ -7,11 +7,24 @@
    "team": "Iowa State",
    "rank_ap": null,
    "records": {
-    "su": "4\u20135",
-    "ats": "3\u20135\u20131",
-    "ou": "5\u20134"
+    "su": "5\u20135",
+    "ats": "4\u20135\u20131",
+    "ou": "5\u20135"
    },
    "recent": [
+    {
+     "date": "2026-11-14T17:00:00+00:00",
+     "season": 2026,
+     "opp": "Cincinnati",
+     "site": "H",
+     "pts": 41,
+     "opp_pts": 13,
+     "result": "W",
+     "spread": -2.5,
+     "cover": "W",
+     "total": 57.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-07T17:00:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "L",
      "total": 46.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-03T16:00:00+00:00",
-     "season": 2026,
-     "opp": "West Virginia",
-     "site": "H",
-     "pts": 45,
-     "opp_pts": 42,
-     "result": "W",
-     "spread": -3.0,
-     "cover": "P",
-     "total": 53.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 29.2,
+     "value": 30.4,
      "fmt": "1",
-     "rank": 60,
+     "rank": 50,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 28.9,
+     "value": 27.3,
      "fmt": "1",
-     "rank": 104,
+     "rank": 95,
      "better": false
     },
     {
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 80,
-    "overall": -1.66,
-    "offense": 26.16,
-    "defense": 27.82
+    "rank": 60,
+    "overall": 0.23,
+    "offense": 26.88,
+    "defense": 26.64
    }
   },
   "home": {
@@ -368,7 +368,7 @@
      "label": "Points allowed per game",
      "value": 26.0,
      "fmt": "1",
-     "rank": 81,
+     "rank": 80,
      "better": false
     },
     {
@@ -551,8 +551,8 @@
    "rating": {
     "rank": 59,
     "overall": 0.36,
-    "offense": 26.58,
-    "defense": 26.22
+    "offense": 26.52,
+    "defense": 26.16
    }
   }
  },

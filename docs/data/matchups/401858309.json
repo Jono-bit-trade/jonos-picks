@@ -7,11 +7,24 @@
    "team": "Syracuse",
    "rank_ap": null,
    "records": {
-    "su": "4\u20135",
-    "ats": "5\u20134",
-    "ou": "5\u20134"
+    "su": "5\u20135",
+    "ats": "5\u20134\u20131",
+    "ou": "6\u20134"
    },
    "recent": [
+    {
+     "date": "2026-11-14T17:00:00+00:00",
+     "season": 2026,
+     "opp": "NC State",
+     "site": "A",
+     "pts": 34,
+     "opp_pts": 31,
+     "result": "W",
+     "spread": -3.0,
+     "cover": "P",
+     "total": 54.5,
+     "ou": "O"
+    },
     {
      "date": "2026-11-07T17:00:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "W",
      "total": 56.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-10-10T23:30:00+00:00",
-     "season": 2026,
-     "opp": "Virginia",
-     "site": "A",
-     "pts": 25,
-     "opp_pts": 28,
-     "result": "L",
-     "spread": 14.0,
-     "cover": "W",
-     "total": 49.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 29.3,
+     "value": 29.8,
      "fmt": "1",
-     "rank": 59,
+     "rank": 56,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 25.4,
+     "value": 26.0,
      "fmt": "1",
-     "rank": 74,
+     "rank": 80,
      "better": false
     },
     {
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 75,
-    "overall": -1.18,
-    "offense": 25.74,
-    "defense": 26.92
+    "rank": 72,
+    "overall": -0.86,
+    "offense": 26.25,
+    "defense": 27.11
    }
   },
   "home": {
@@ -360,7 +360,7 @@
      "label": "Points per game",
      "value": 21.9,
      "fmt": "1",
-     "rank": 109,
+     "rank": 108,
      "better": true
     },
     {
@@ -550,9 +550,9 @@
    ],
    "rating": {
     "rank": 101,
-    "overall": -4.81,
-    "offense": 22.75,
-    "defense": 27.57
+    "overall": -5.0,
+    "offense": 22.68,
+    "defense": 27.67
    }
   }
  },

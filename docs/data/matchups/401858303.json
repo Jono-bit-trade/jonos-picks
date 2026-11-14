@@ -7,11 +7,24 @@
    "team": "Clemson",
    "rank_ap": null,
    "records": {
-    "su": "6\u20133",
-    "ats": "4\u20135",
-    "ou": "4\u20135"
+    "su": "6\u20134",
+    "ats": "4\u20136",
+    "ou": "4\u20136"
    },
    "recent": [
+    {
+     "date": "2026-11-14T17:30:00+00:00",
+     "season": 2026,
+     "opp": "Georgia Tech",
+     "site": "H",
+     "pts": 6,
+     "opp_pts": 20,
+     "result": "L",
+     "spread": -15.5,
+     "cover": "L",
+     "total": 47.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-07T17:00:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "L",
      "total": 53.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-03T23:30:00+00:00",
-     "season": 2026,
-     "opp": "Miami",
-     "site": "H",
-     "pts": 13,
-     "opp_pts": 41,
-     "result": "L",
-     "spread": 14.0,
-     "cover": "L",
-     "total": 49.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 22.7,
+     "value": 21.0,
      "fmt": "1",
-     "rank": 104,
+     "rank": 115,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 20.7,
+     "value": 20.6,
      "fmt": "1",
-     "rank": 40,
+     "rank": 39,
      "better": false
     },
     {
@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 45,
-    "overall": 3.65,
-    "offense": 24.63,
-    "defense": 20.98
+    "rank": 52,
+    "overall": 1.77,
+    "offense": 22.79,
+    "defense": 21.02
    }
   },
   "home": {
    "team": "Duke",
    "rank_ap": null,
    "records": {
-    "su": "7\u20132",
-    "ats": "7\u20132",
-    "ou": "3\u20136"
+    "su": "7\u20133",
+    "ats": "8\u20132",
+    "ou": "4\u20136"
    },
    "recent": [
+    {
+     "date": "2026-11-14T17:00:00+00:00",
+     "season": 2026,
+     "opp": "Miami",
+     "site": "A",
+     "pts": 25,
+     "opp_pts": 36,
+     "result": "L",
+     "spread": 14.0,
+     "cover": "W",
+     "total": 55.5,
+     "ou": "O"
+    },
     {
      "date": "2026-11-07T17:30:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "L",
      "total": 46.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-10T19:30:00+00:00",
-     "season": 2026,
-     "opp": "Georgia Tech",
-     "site": "A",
-     "pts": 25,
-     "opp_pts": 28,
-     "result": "L",
-     "spread": -4.5,
-     "cover": "L",
-     "total": 45.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 33.0,
+     "value": 32.2,
      "fmt": "1",
-     "rank": 34,
+     "rank": 43,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 13.0,
+     "value": 15.3,
      "fmt": "1",
-     "rank": 5,
+     "rank": 12,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 21,
-    "overall": 7.66,
-    "offense": 29.6,
-    "defense": 21.94
+    "rank": 20,
+    "overall": 7.84,
+    "offense": 29.81,
+    "defense": 21.97
    }
   }
  },
