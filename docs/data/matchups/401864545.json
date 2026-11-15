@@ -92,7 +92,7 @@
      "label": "Points allowed per game",
      "value": 34.3,
      "fmt": "1",
-     "rank": 130,
+     "rank": 129,
      "better": false
     },
     {
@@ -274,20 +274,33 @@
    ],
    "rating": {
     "rank": 137,
-    "overall": -14.42,
-    "offense": 17.63,
-    "defense": 32.05
+    "overall": -14.48,
+    "offense": 17.49,
+    "defense": 31.97
    }
   },
   "home": {
    "team": "Air Force",
    "rank_ap": null,
    "records": {
-    "su": "7\u20132",
-    "ats": "6\u20133",
-    "ou": "5\u20134"
+    "su": "8\u20132",
+    "ats": "7\u20133",
+    "ou": "5\u20135"
    },
    "recent": [
+    {
+     "date": "2026-11-15T00:00:00+00:00",
+     "season": 2026,
+     "opp": "San Jos\u00e9 State",
+     "site": "H",
+     "pts": 24,
+     "opp_pts": 3,
+     "result": "W",
+     "spread": -15.5,
+     "cover": "W",
+     "total": 50.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-08T00:30:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "W",
      "total": 49.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-10-10T23:30:00+00:00",
-     "season": 2026,
-     "opp": "Northern Illinois",
-     "site": "A",
-     "pts": 28,
-     "opp_pts": 7,
-     "result": "W",
-     "spread": -7.0,
-     "cover": "W",
-     "total": 48.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 28.7,
+     "value": 28.2,
      "fmt": "1",
-     "rank": 66,
+     "rank": 65,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 21.4,
+     "value": 19.6,
      "fmt": "1",
-     "rank": 40,
+     "rank": 30,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 86,
-    "overall": -2.6,
-    "offense": 25.1,
-    "defense": 27.7
+    "rank": 77,
+    "overall": -1.66,
+    "offense": 24.67,
+    "defense": 26.33
    }
   }
  },

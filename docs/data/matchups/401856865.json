@@ -84,7 +84,7 @@
      "label": "Points per game",
      "value": 34.2,
      "fmt": "1",
-     "rank": 26,
+     "rank": 24,
      "better": true
     },
     {
@@ -274,8 +274,8 @@
    ],
    "rating": {
     "rank": 19,
-    "overall": 8.17,
-    "offense": 30.27,
+    "overall": 8.05,
+    "offense": 30.14,
     "defense": 22.09
    }
   },
@@ -283,11 +283,24 @@
    "team": "Kansas State",
    "rank_ap": null,
    "records": {
-    "su": "4\u20135",
-    "ats": "3\u20135\u20131",
-    "ou": "6\u20133"
+    "su": "4\u20136",
+    "ats": "4\u20135\u20131",
+    "ou": "6\u20134"
    },
    "recent": [
+    {
+     "date": "2026-11-14T19:00:00+00:00",
+     "season": 2026,
+     "opp": "TCU",
+     "site": "A",
+     "pts": 10,
+     "opp_pts": 20,
+     "result": "L",
+     "spread": 14.0,
+     "cover": "W",
+     "total": 44.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-07T18:00:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "W",
      "total": 55.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-10-10T19:30:00+00:00",
-     "season": 2026,
-     "opp": "Houston",
-     "site": "H",
-     "pts": 16,
-     "opp_pts": 35,
-     "result": "L",
-     "spread": -2.5,
-     "cover": "L",
-     "total": 55.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 31.3,
+     "value": 29.2,
      "fmt": "1",
-     "rank": 45,
+     "rank": 59,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 26.8,
+     "value": 26.1,
      "fmt": "1",
-     "rank": 90,
+     "rank": 86,
      "better": false
     },
     {
@@ -550,9 +550,9 @@
    ],
    "rating": {
     "rank": 71,
-    "overall": -0.85,
-    "offense": 27.48,
-    "defense": 28.32
+    "overall": -0.82,
+    "offense": 26.68,
+    "defense": 27.51
    }
   }
  },

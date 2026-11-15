@@ -7,11 +7,24 @@
    "team": "Virginia Tech",
    "rank_ap": null,
    "records": {
-    "su": "6\u20133",
-    "ats": "5\u20134",
-    "ou": "6\u20133"
+    "su": "6\u20134",
+    "ats": "5\u20135",
+    "ou": "7\u20133"
    },
    "recent": [
+    {
+     "date": "2026-11-15T00:30:00+00:00",
+     "season": 2026,
+     "opp": "Stanford",
+     "site": "H",
+     "pts": 22,
+     "opp_pts": 40,
+     "result": "L",
+     "spread": -17.5,
+     "cover": "L",
+     "total": 57.5,
+     "ou": "O"
+    },
     {
      "date": "2026-11-07T00:00:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "L",
      "total": 51.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-02T23:00:00+00:00",
-     "season": 2026,
-     "opp": "Pittsburgh",
-     "site": "H",
-     "pts": 33,
-     "opp_pts": 35,
-     "result": "L",
-     "spread": -1.5,
-     "cover": "L",
-     "total": 53.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 34.2,
+     "value": 33.0,
      "fmt": "1",
-     "rank": 26,
+     "rank": 30,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 23.9,
+     "value": 25.5,
      "fmt": "1",
-     "rank": 63,
+     "rank": 77,
      "better": false
     },
     {
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 62,
-    "overall": 0.16,
-    "offense": 27.65,
-    "defense": 27.49
+    "rank": 81,
+    "overall": -2.06,
+    "offense": 26.65,
+    "defense": 28.71
    }
   },
   "home": {
@@ -550,9 +550,9 @@
    ],
    "rating": {
     "rank": 3,
-    "overall": 16.64,
-    "offense": 36.9,
-    "defense": 20.26
+    "overall": 16.76,
+    "offense": 36.82,
+    "defense": 20.07
    }
   }
  },

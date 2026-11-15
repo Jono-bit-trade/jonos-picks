@@ -7,11 +7,24 @@
    "team": "Iowa",
    "rank_ap": 16,
    "records": {
-    "su": "7\u20132",
-    "ats": "6\u20133",
-    "ou": "2\u20137"
+    "su": "8\u20132",
+    "ats": "7\u20133",
+    "ou": "2\u20138"
    },
    "recent": [
+    {
+     "date": "2026-11-15T00:30:00+00:00",
+     "season": 2026,
+     "opp": "Purdue",
+     "site": "H",
+     "pts": 28,
+     "opp_pts": 7,
+     "result": "W",
+     "spread": -19.5,
+     "cover": "W",
+     "total": 47.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-08T00:30:00+00:00",
      "season": 2026,
@@ -63,19 +76,6 @@
      "cover": "W",
      "total": 41.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-10-03T19:30:00+00:00",
-     "season": 2026,
-     "opp": "Ohio State",
-     "site": "H",
-     "pts": 14,
-     "opp_pts": 31,
-     "result": "L",
-     "spread": 14.5,
-     "cover": "L",
-     "total": 46.5,
-     "ou": "U"
     }
    ],
    "stats": [
@@ -84,15 +84,15 @@
      "label": "Points per game",
      "value": 27.8,
      "fmt": "1",
-     "rank": 72,
+     "rank": 70,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 12.2,
+     "value": 11.7,
      "fmt": "1",
-     "rank": 3,
+     "rank": 1,
      "better": false
     },
     {
@@ -274,9 +274,9 @@
    ],
    "rating": {
     "rank": 13,
-    "overall": 10.53,
-    "offense": 27.78,
-    "defense": 17.25
+    "overall": 10.73,
+    "offense": 27.24,
+    "defense": 16.51
    }
   },
   "home": {
@@ -360,7 +360,7 @@
      "label": "Points per game",
      "value": 27.0,
      "fmt": "1",
-     "rank": 76,
+     "rank": 77,
      "better": true
     },
     {
@@ -550,9 +550,9 @@
    ],
    "rating": {
     "rank": 44,
-    "overall": 3.47,
-    "offense": 26.62,
-    "defense": 23.15
+    "overall": 3.48,
+    "offense": 26.53,
+    "defense": 23.05
    }
   }
  },

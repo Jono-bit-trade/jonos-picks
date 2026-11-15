@@ -84,7 +84,7 @@
      "label": "Points per game",
      "value": 26.8,
      "fmt": "1",
-     "rank": 78,
+     "rank": 80,
      "better": true
     },
     {
@@ -92,7 +92,7 @@
      "label": "Points allowed per game",
      "value": 26.5,
      "fmt": "1",
-     "rank": 87,
+     "rank": 90,
      "better": false
     },
     {
@@ -274,20 +274,33 @@
    ],
    "rating": {
     "rank": 103,
-    "overall": -5.57,
-    "offense": 22.78,
-    "defense": 28.35
+    "overall": -5.65,
+    "offense": 22.59,
+    "defense": 28.24
    }
   },
   "home": {
    "team": "Louisiana Tech",
    "rank_ap": null,
    "records": {
-    "su": "7\u20132",
-    "ats": "8\u20131",
-    "ou": "6\u20133"
+    "su": "8\u20132",
+    "ats": "9\u20131",
+    "ou": "7\u20133"
    },
    "recent": [
+    {
+     "date": "2026-11-14T22:00:00+00:00",
+     "season": 2026,
+     "opp": "Southern Miss",
+     "site": "H",
+     "pts": 63,
+     "opp_pts": 31,
+     "result": "W",
+     "spread": -17.5,
+     "cover": "W",
+     "total": 55.5,
+     "ou": "O"
+    },
     {
      "date": "2026-11-07T21:00:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "W",
      "total": 55.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-10T23:30:00+00:00",
-     "season": 2026,
-     "opp": "Louisiana",
-     "site": "H",
-     "pts": 32,
-     "opp_pts": 31,
-     "result": "W",
-     "spread": -3.0,
-     "cover": "L",
-     "total": 48.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 33.6,
+     "value": 36.5,
      "fmt": "1",
-     "rank": 32,
+     "rank": 16,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 20.4,
+     "value": 21.5,
      "fmt": "1",
-     "rank": 36,
+     "rank": 40,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 40,
-    "overall": 4.22,
-    "offense": 27.75,
-    "defense": 23.53
+    "rank": 32,
+    "overall": 5.35,
+    "offense": 29.59,
+    "defense": 24.24
    }
   }
  },

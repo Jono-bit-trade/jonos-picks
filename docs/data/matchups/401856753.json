@@ -7,11 +7,24 @@
    "team": "Georgia",
    "rank_ap": 1,
    "records": {
-    "su": "8\u20131",
-    "ats": "7\u20132",
-    "ou": "6\u20133"
+    "su": "9\u20131",
+    "ats": "8\u20132",
+    "ou": "7\u20133"
    },
    "recent": [
+    {
+     "date": "2026-11-14T20:30:00+00:00",
+     "season": 2026,
+     "opp": "Missouri",
+     "site": "H",
+     "pts": 48,
+     "opp_pts": 21,
+     "result": "W",
+     "spread": -16.5,
+     "cover": "W",
+     "total": 48.5,
+     "ou": "O"
+    },
     {
      "date": "2026-11-08T00:30:00+00:00",
      "season": 2026,
@@ -63,26 +76,13 @@
      "cover": "W",
      "total": 51.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-03T16:45:00+00:00",
-     "season": 2026,
-     "opp": "Vanderbilt",
-     "site": "H",
-     "pts": 38,
-     "opp_pts": 14,
-     "result": "W",
-     "spread": -25.5,
-     "cover": "L",
-     "total": 49.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 41.1,
+     "value": 41.8,
      "fmt": "1",
      "rank": 5,
      "better": true
@@ -90,9 +90,9 @@
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 14.0,
+     "value": 14.7,
      "fmt": "1",
-     "rank": 6,
+     "rank": 9,
      "better": false
     },
     {
@@ -274,20 +274,33 @@
    ],
    "rating": {
     "rank": 1,
-    "overall": 19.34,
-    "offense": 35.05,
-    "defense": 15.71
+    "overall": 20.51,
+    "offense": 36.25,
+    "defense": 15.74
    }
   },
   "home": {
    "team": "South Carolina",
    "rank_ap": 20,
    "records": {
-    "su": "6\u20133",
-    "ats": "5\u20134",
-    "ou": "6\u20133"
+    "su": "6\u20134",
+    "ats": "5\u20135",
+    "ou": "6\u20134"
    },
    "recent": [
+    {
+     "date": "2026-11-15T00:45:00+00:00",
+     "season": 2026,
+     "opp": "Arkansas",
+     "site": "A",
+     "pts": 6,
+     "opp_pts": 34,
+     "result": "L",
+     "spread": -6.5,
+     "cover": "L",
+     "total": 51.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-07T20:00:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "W",
      "total": 59.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-03T20:15:00+00:00",
-     "season": 2026,
-     "opp": "Kentucky",
-     "site": "H",
-     "pts": 34,
-     "opp_pts": 35,
-     "result": "L",
-     "spread": -2.5,
-     "cover": "L",
-     "total": 52.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 34.7,
+     "value": 31.8,
      "fmt": "1",
-     "rank": 22,
+     "rank": 40,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 23.4,
+     "value": 24.5,
      "fmt": "1",
-     "rank": 60,
+     "rank": 67,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 21,
-    "overall": 7.8,
-    "offense": 30.18,
-    "defense": 22.38
+    "rank": 33,
+    "overall": 5.15,
+    "offense": 28.37,
+    "defense": 23.22
    }
   }
  },

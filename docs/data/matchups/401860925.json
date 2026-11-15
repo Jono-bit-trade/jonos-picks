@@ -84,7 +84,7 @@
      "label": "Points per game",
      "value": 26.4,
      "fmt": "1",
-     "rank": 81,
+     "rank": 82,
      "better": true
     },
     {
@@ -92,7 +92,7 @@
      "label": "Points allowed per game",
      "value": 34.3,
      "fmt": "1",
-     "rank": 130,
+     "rank": 129,
      "better": false
     },
     {
@@ -274,20 +274,33 @@
    ],
    "rating": {
     "rank": 88,
-    "overall": -2.97,
-    "offense": 24.88,
-    "defense": 27.85
+    "overall": -2.94,
+    "offense": 24.63,
+    "defense": 27.57
    }
   },
   "home": {
    "team": "Boise State",
    "rank_ap": 17,
    "records": {
-    "su": "8\u20131",
-    "ats": "5\u20134",
-    "ou": "7\u20132"
+    "su": "9\u20131",
+    "ats": "5\u20135",
+    "ou": "8\u20132"
    },
    "recent": [
+    {
+     "date": "2026-11-14T23:00:00+00:00",
+     "season": 2026,
+     "opp": "Oregon State",
+     "site": "H",
+     "pts": 46,
+     "opp_pts": 41,
+     "result": "W",
+     "spread": -17.5,
+     "cover": "L",
+     "total": 65.5,
+     "ou": "O"
+    },
     {
      "date": "2026-11-07T23:00:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "L",
      "total": 48.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-10-03T23:30:00+00:00",
-     "season": 2026,
-     "opp": "Utah State",
-     "site": "H",
-     "pts": 37,
-     "opp_pts": 18,
-     "result": "W",
-     "spread": -19.5,
-     "cover": "L",
-     "total": 50.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 39.0,
+     "value": 39.7,
      "fmt": "1",
-     "rank": 9,
+     "rank": 6,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 25.2,
+     "value": 26.8,
      "fmt": "1",
-     "rank": 70,
+     "rank": 93,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 24,
-    "overall": 7.47,
-    "offense": 32.93,
-    "defense": 25.46
+    "rank": 26,
+    "overall": 7.0,
+    "offense": 33.36,
+    "defense": 26.36
    }
   }
  },

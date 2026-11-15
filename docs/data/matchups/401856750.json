@@ -212,11 +212,24 @@
    "team": "Mississippi State",
    "rank_ap": 16,
    "records": {
-    "su": "4\u20135",
-    "ats": "4\u20135",
-    "ou": "3\u20136"
+    "su": "4\u20136",
+    "ats": "4\u20136",
+    "ou": "3\u20137"
    },
    "recent": [
+    {
+     "date": "2026-11-14T21:15:00+00:00",
+     "season": 2026,
+     "opp": "Auburn",
+     "site": "H",
+     "pts": 9,
+     "opp_pts": 41,
+     "result": "L",
+     "spread": 2.5,
+     "cover": "L",
+     "total": 51.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-07T21:15:00+00:00",
      "season": 2026,
@@ -268,36 +281,23 @@
      "cover": "L",
      "total": 56.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-03T16:00:00+00:00",
-     "season": 2026,
-     "opp": "Alabama",
-     "site": "H",
-     "pts": 23,
-     "opp_pts": 56,
-     "result": "L",
-     "spread": 5.5,
-     "cover": "L",
-     "total": 62.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 26.2,
+     "value": 24.5,
      "fmt": "1",
-     "rank": 85,
+     "rank": 91,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 27.8,
+     "value": 29.1,
      "fmt": "1",
-     "rank": 101,
+     "rank": 107,
      "better": false
     },
     {
@@ -478,10 +478,10 @@
     }
    ],
    "rating": {
-    "rank": 57,
-    "overall": 0.49,
-    "offense": 27.39,
-    "defense": 26.9
+    "rank": 82,
+    "overall": -2.14,
+    "offense": 25.82,
+    "defense": 27.96
    }
   }
  },

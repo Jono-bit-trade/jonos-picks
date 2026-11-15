@@ -84,7 +84,7 @@
      "label": "Points per game",
      "value": 19.3,
      "fmt": "1",
-     "rank": 128,
+     "rank": 124,
      "better": true
     },
     {
@@ -92,7 +92,7 @@
      "label": "Points allowed per game",
      "value": 36.2,
      "fmt": "1",
-     "rank": 135,
+     "rank": 136,
      "better": false
     },
     {
@@ -274,20 +274,33 @@
    ],
    "rating": {
     "rank": 136,
-    "overall": -14.4,
-    "offense": 18.2,
-    "defense": 32.6
+    "overall": -14.34,
+    "offense": 18.12,
+    "defense": 32.47
    }
   },
   "home": {
    "team": "Tulsa",
    "rank_ap": null,
    "records": {
-    "su": "5\u20134",
-    "ats": "5\u20134",
-    "ou": "5\u20134"
+    "su": "6\u20134",
+    "ats": "6\u20134",
+    "ou": "5\u20135"
    },
    "recent": [
+    {
+     "date": "2026-11-15T00:15:00+00:00",
+     "season": 2026,
+     "opp": "Florida Atlantic",
+     "site": "H",
+     "pts": 38,
+     "opp_pts": 21,
+     "result": "W",
+     "spread": -6.5,
+     "cover": "W",
+     "total": 72.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-07T17:00:00+00:00",
      "season": 2026,
@@ -339,34 +352,21 @@
      "cover": "L",
      "total": 47.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-10-02T01:00:00+00:00",
-     "season": 2026,
-     "opp": "North Texas",
-     "site": "H",
-     "pts": 44,
-     "opp_pts": 45,
-     "result": "L",
-     "spread": 3.0,
-     "cover": "W",
-     "total": 56.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 33.1,
+     "value": 33.6,
      "fmt": "1",
-     "rank": 34,
+     "rank": 29,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 22.8,
+     "value": 22.6,
      "fmt": "1",
      "rank": 53,
      "better": false
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 74,
-    "overall": -1.12,
-    "offense": 25.92,
-    "defense": 27.04
+    "rank": 65,
+    "overall": -0.06,
+    "offense": 26.09,
+    "defense": 26.16
    }
   }
  },

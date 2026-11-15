@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 16,
-    "overall": 9.35,
-    "offense": 32.8,
-    "defense": 23.45
+    "rank": 17,
+    "overall": 9.25,
+    "offense": 32.63,
+    "defense": 23.37
    }
   },
   "home": {
    "team": "Baylor",
    "rank_ap": null,
    "records": {
-    "su": "6\u20133",
-    "ats": "7\u20132",
-    "ou": "4\u20135"
+    "su": "6\u20134",
+    "ats": "7\u20133",
+    "ou": "4\u20136"
    },
    "recent": [
+    {
+     "date": "2026-11-15T00:00:00+00:00",
+     "season": 2026,
+     "opp": "BYU",
+     "site": "A",
+     "pts": 7,
+     "opp_pts": 28,
+     "result": "L",
+     "spread": 8.5,
+     "cover": "L",
+     "total": 49.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-07T17:00:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "L",
      "total": 50.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-04T02:30:00+00:00",
-     "season": 2026,
-     "opp": "Arizona State",
-     "site": "A",
-     "pts": 55,
-     "opp_pts": 19,
-     "result": "W",
-     "spread": 3.5,
-     "cover": "W",
-     "total": 49.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 31.9,
+     "value": 29.4,
      "fmt": "1",
-     "rank": 44,
+     "rank": 56,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 17.0,
+     "value": 18.1,
      "fmt": "1",
-     "rank": 16,
+     "rank": 18,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 29,
-    "overall": 6.74,
-    "offense": 30.19,
-    "defense": 23.46
+    "rank": 30,
+    "overall": 5.86,
+    "offense": 29.04,
+    "defense": 23.18
    }
   }
  },

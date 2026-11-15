@@ -7,11 +7,24 @@
    "team": "Middle Tennessee",
    "rank_ap": null,
    "records": {
-    "su": "5\u20134",
-    "ats": "6\u20133",
-    "ou": "5\u20134"
+    "su": "5\u20135",
+    "ats": "7\u20133",
+    "ou": "5\u20135"
    },
    "recent": [
+    {
+     "date": "2026-11-14T20:30:00+00:00",
+     "season": 2026,
+     "opp": "Liberty",
+     "site": "A",
+     "pts": 23,
+     "opp_pts": 28,
+     "result": "L",
+     "spread": 22.5,
+     "cover": "W",
+     "total": 53.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-07T20:30:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "W",
      "total": 49.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-10-03T16:00:00+00:00",
-     "season": 2026,
-     "opp": "Kansas",
-     "site": "A",
-     "pts": 0,
-     "opp_pts": 55,
-     "result": "L",
-     "spread": 21.5,
-     "cover": "L",
-     "total": 51.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 26.9,
+     "value": 26.5,
      "fmt": "1",
-     "rank": 77,
+     "rank": 81,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 31.0,
+     "value": 30.7,
      "fmt": "1",
-     "rank": 119,
+     "rank": 117,
      "better": false
     },
     {
@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 121,
-    "overall": -8.76,
-    "offense": 23.26,
-    "defense": 32.02
+    "rank": 116,
+    "overall": -7.7,
+    "offense": 23.68,
+    "defense": 31.37
    }
   },
   "home": {
    "team": "Sam Houston",
    "rank_ap": null,
    "records": {
-    "su": "1\u20138",
-    "ats": "3\u20136",
-    "ou": "4\u20135"
+    "su": "1\u20139",
+    "ats": "3\u20137",
+    "ou": "4\u20136"
    },
    "recent": [
+    {
+     "date": "2026-11-14T19:00:00+00:00",
+     "season": 2026,
+     "opp": "Kennesaw State",
+     "site": "H",
+     "pts": 7,
+     "opp_pts": 26,
+     "result": "L",
+     "spread": 9.5,
+     "cover": "L",
+     "total": 44.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-08T00:00:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "L",
      "total": 53.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-08T23:00:00+00:00",
-     "season": 2026,
-     "opp": "Liberty",
-     "site": "A",
-     "pts": 3,
-     "opp_pts": 35,
-     "result": "L",
-     "spread": 13.5,
-     "cover": "L",
-     "total": 52.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 17.6,
+     "value": 16.5,
      "fmt": "1",
-     "rank": 132,
+     "rank": 134,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 27.6,
+     "value": 27.4,
      "fmt": "1",
-     "rank": 99,
+     "rank": 97,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 131,
-    "overall": -13.02,
-    "offense": 17.71,
-    "defense": 30.74
+    "rank": 134,
+    "overall": -14.21,
+    "offense": 16.41,
+    "defense": 30.63
    }
   }
  },

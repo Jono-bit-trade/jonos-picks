@@ -84,7 +84,7 @@
      "label": "Points per game",
      "value": 24.1,
      "fmt": "1",
-     "rank": 95,
+     "rank": 96,
      "better": true
     },
     {
@@ -92,7 +92,7 @@
      "label": "Points allowed per game",
      "value": 17.1,
      "fmt": "1",
-     "rank": 17,
+     "rank": 15,
      "better": false
     },
     {
@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 46,
-    "overall": 3.41,
-    "offense": 22.66,
-    "defense": 19.25
+    "rank": 45,
+    "overall": 3.45,
+    "offense": 22.59,
+    "defense": 19.14
    }
   },
   "home": {
    "team": "Purdue",
    "rank_ap": null,
    "records": {
-    "su": "3\u20136",
-    "ats": "3\u20136",
-    "ou": "7\u20132"
+    "su": "3\u20137",
+    "ats": "3\u20137",
+    "ou": "7\u20133"
    },
    "recent": [
+    {
+     "date": "2026-11-15T00:30:00+00:00",
+     "season": 2026,
+     "opp": "Iowa",
+     "site": "A",
+     "pts": 7,
+     "opp_pts": 28,
+     "result": "L",
+     "spread": 19.5,
+     "cover": "L",
+     "total": 47.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-07T17:30:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "W",
      "total": 48.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-10-03T20:15:00+00:00",
-     "season": 2026,
-     "opp": "Illinois",
-     "site": "A",
-     "pts": 24,
-     "opp_pts": 17,
-     "result": "W",
-     "spread": 9.5,
-     "cover": "W",
-     "total": 62.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 29.4,
+     "value": 27.2,
      "fmt": "1",
-     "rank": 59,
+     "rank": 76,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 32.3,
+     "value": 31.9,
      "fmt": "1",
-     "rank": 124,
+     "rank": 122,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 84,
-    "overall": -2.31,
-    "offense": 26.85,
-    "defense": 29.16
+    "rank": 86,
+    "overall": -2.64,
+    "offense": 25.99,
+    "defense": 28.63
    }
   }
  },

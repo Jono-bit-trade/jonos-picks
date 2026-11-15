@@ -84,7 +84,7 @@
      "label": "Points per game",
      "value": 34.0,
      "fmt": "1",
-     "rank": 30,
+     "rank": 26,
      "better": true
     },
     {
@@ -92,7 +92,7 @@
      "label": "Points allowed per game",
      "value": 25.5,
      "fmt": "1",
-     "rank": 73,
+     "rank": 77,
      "better": false
     },
     {
@@ -274,20 +274,33 @@
    ],
    "rating": {
     "rank": 35,
-    "overall": 4.88,
-    "offense": 30.2,
-    "defense": 25.32
+    "overall": 4.69,
+    "offense": 29.98,
+    "defense": 25.29
    }
   },
   "home": {
    "team": "Notre Dame",
    "rank_ap": 3,
    "records": {
-    "su": "8\u20131",
-    "ats": "4\u20135",
-    "ou": "6\u20133"
+    "su": "9\u20131",
+    "ats": "5\u20135",
+    "ou": "6\u20134"
    },
    "recent": [
+    {
+     "date": "2026-11-14T20:30:00+00:00",
+     "season": 2026,
+     "opp": "Boston College",
+     "site": "H",
+     "pts": 41,
+     "opp_pts": 7,
+     "result": "W",
+     "spread": -29.5,
+     "cover": "W",
+     "total": 51.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-08T00:30:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "W",
      "total": 55.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-10-03T16:00:00+00:00",
-     "season": 2026,
-     "opp": "North Carolina",
-     "site": "A",
-     "pts": 37,
-     "opp_pts": 26,
-     "result": "W",
-     "spread": -21.0,
-     "cover": "L",
-     "total": 46.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 39.3,
+     "value": 39.5,
      "fmt": "1",
-     "rank": 8,
+     "rank": 7,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 14.6,
+     "value": 13.8,
      "fmt": "1",
-     "rank": 8,
+     "rank": 5,
      "better": false
     },
     {
@@ -550,9 +550,9 @@
    ],
    "rating": {
     "rank": 2,
-    "overall": 17.74,
-    "offense": 35.09,
-    "defense": 17.36
+    "overall": 18.49,
+    "offense": 35.34,
+    "defense": 16.85
    }
   }
  },

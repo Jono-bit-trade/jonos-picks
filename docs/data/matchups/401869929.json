@@ -92,7 +92,7 @@
      "label": "Points allowed per game",
      "value": 35.5,
      "fmt": "1",
-     "rank": 134,
+     "rank": 133,
      "better": false
     },
     {
@@ -274,20 +274,33 @@
    ],
    "rating": {
     "rank": 135,
-    "overall": -14.18,
-    "offense": 17.85,
-    "defense": 32.03
+    "overall": -14.32,
+    "offense": 17.53,
+    "defense": 31.85
    }
   },
   "home": {
    "team": "App State",
    "rank_ap": null,
    "records": {
-    "su": "5\u20134",
-    "ats": "5\u20134",
-    "ou": "5\u20134"
+    "su": "6\u20134",
+    "ats": "6\u20134",
+    "ou": "5\u20135"
    },
    "recent": [
+    {
+     "date": "2026-11-14T23:00:00+00:00",
+     "season": 2026,
+     "opp": "Marshall",
+     "site": "A",
+     "pts": 20,
+     "opp_pts": 16,
+     "result": "W",
+     "spread": 1.5,
+     "cover": "W",
+     "total": 54.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-07T19:30:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "W",
      "total": 48.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-10-10T17:00:00+00:00",
-     "season": 2026,
-     "opp": "Old Dominion",
-     "site": "H",
-     "pts": 3,
-     "opp_pts": 10,
-     "result": "L",
-     "spread": -8.5,
-     "cover": "L",
-     "total": 45.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 26.3,
+     "value": 25.7,
      "fmt": "1",
-     "rank": 83,
+     "rank": 86,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 24.4,
+     "value": 23.6,
      "fmt": "1",
-     "rank": 68,
+     "rank": 61,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 106,
-    "overall": -6.16,
-    "offense": 22.31,
-    "defense": 28.46
+    "rank": 107,
+    "overall": -5.77,
+    "offense": 21.75,
+    "defense": 27.52
    }
   }
  },

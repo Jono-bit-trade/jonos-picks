@@ -84,7 +84,7 @@
      "label": "Points per game",
      "value": 20.3,
      "fmt": "1",
-     "rank": 120,
+     "rank": 121,
      "better": true
     },
     {
@@ -92,7 +92,7 @@
      "label": "Points allowed per game",
      "value": 23.3,
      "fmt": "1",
-     "rank": 58,
+     "rank": 59,
      "better": false
     },
     {
@@ -275,19 +275,32 @@
    "rating": {
     "rank": 98,
     "overall": -4.51,
-    "offense": 22.27,
-    "defense": 26.78
+    "offense": 22.23,
+    "defense": 26.74
    }
   },
   "home": {
    "team": "Nevada",
    "rank_ap": null,
    "records": {
-    "su": "3\u20136",
-    "ats": "5\u20134",
-    "ou": "3\u20136"
+    "su": "4\u20136",
+    "ats": "6\u20134",
+    "ou": "3\u20137"
    },
    "recent": [
+    {
+     "date": "2026-11-14T20:30:00+00:00",
+     "season": 2026,
+     "opp": "Northern Illinois",
+     "site": "A",
+     "pts": 28,
+     "opp_pts": 7,
+     "result": "W",
+     "spread": -6.5,
+     "cover": "W",
+     "total": 48.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-07T02:00:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "W",
      "total": 42.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-10-10T23:00:00+00:00",
-     "season": 2026,
-     "opp": "UTEP",
-     "site": "A",
-     "pts": 30,
-     "opp_pts": 13,
-     "result": "W",
-     "spread": -10.0,
-     "cover": "W",
-     "total": 48.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 20.8,
+     "value": 21.5,
      "fmt": "1",
-     "rank": 117,
+     "rank": 109,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 23.6,
+     "value": 21.9,
      "fmt": "1",
-     "rank": 61,
+     "rank": 45,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 117,
-    "overall": -7.91,
-    "offense": 19.29,
-    "defense": 27.19
+    "rank": 112,
+    "overall": -6.74,
+    "offense": 19.42,
+    "defense": 26.16
    }
   }
  },

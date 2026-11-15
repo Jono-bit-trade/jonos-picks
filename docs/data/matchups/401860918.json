@@ -84,7 +84,7 @@
      "label": "Points per game",
      "value": 35.8,
      "fmt": "1",
-     "rank": 19,
+     "rank": 18,
      "better": true
     },
     {
@@ -274,20 +274,33 @@
    ],
    "rating": {
     "rank": 128,
-    "overall": -10.74,
-    "offense": 27.52,
-    "defense": 38.26
+    "overall": -10.71,
+    "offense": 27.24,
+    "defense": 37.95
    }
   },
   "home": {
    "team": "Fresno State",
    "rank_ap": null,
    "records": {
-    "su": "5\u20134",
-    "ats": "6\u20133",
-    "ou": "5\u20134"
+    "su": "5\u20135",
+    "ats": "7\u20133",
+    "ou": "6\u20134"
    },
    "recent": [
+    {
+     "date": "2026-11-14T21:00:00+00:00",
+     "season": 2026,
+     "opp": "Texas State",
+     "site": "A",
+     "pts": 35,
+     "opp_pts": 37,
+     "result": "L",
+     "spread": 11.5,
+     "cover": "W",
+     "total": 60.5,
+     "ou": "O"
+    },
     {
      "date": "2026-11-08T02:30:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "W",
      "total": 48.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-10-04T01:30:00+00:00",
-     "season": 2026,
-     "opp": "Washington State",
-     "site": "A",
-     "pts": 26,
-     "opp_pts": 6,
-     "result": "W",
-     "spread": 2.5,
-     "cover": "W",
-     "total": 44.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 26.8,
+     "value": 27.6,
      "fmt": "1",
-     "rank": 79,
+     "rank": 72,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 20.6,
+     "value": 22.2,
      "fmt": "1",
-     "rank": 37,
+     "rank": 50,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 55,
-    "overall": 1.43,
-    "offense": 24.73,
-    "defense": 23.3
+    "rank": 53,
+    "overall": 1.69,
+    "offense": 25.23,
+    "defense": 23.55
    }
   }
  },

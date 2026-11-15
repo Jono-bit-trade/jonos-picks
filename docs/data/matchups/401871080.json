@@ -7,11 +7,24 @@
    "team": "Western Kentucky",
    "rank_ap": null,
    "records": {
-    "su": "3\u20136",
-    "ats": "4\u20135",
-    "ou": "5\u20134"
+    "su": "4\u20136",
+    "ats": "5\u20135",
+    "ou": "6\u20134"
    },
    "recent": [
+    {
+     "date": "2026-11-14T20:30:00+00:00",
+     "season": 2026,
+     "opp": "Jacksonville State",
+     "site": "H",
+     "pts": 34,
+     "opp_pts": 24,
+     "result": "W",
+     "spread": 7.5,
+     "cover": "W",
+     "total": 54.5,
+     "ou": "O"
+    },
     {
      "date": "2026-11-07T20:30:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "W",
      "total": 56.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-02T00:00:00+00:00",
-     "season": 2026,
-     "opp": "New Mexico State",
-     "site": "A",
-     "pts": 13,
-     "opp_pts": 34,
-     "result": "L",
-     "spread": 1.5,
-     "cover": "L",
-     "total": 55.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 23.6,
+     "value": 24.6,
      "fmt": "1",
-     "rank": 98,
+     "rank": 90,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 33.3,
+     "value": 32.4,
      "fmt": "1",
-     "rank": 126,
+     "rank": 125,
      "better": false
     },
     {
@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 109,
-    "overall": -6.49,
-    "offense": 23.88,
-    "defense": 30.37
+    "rank": 102,
+    "overall": -5.38,
+    "offense": 24.5,
+    "defense": 29.88
    }
   },
   "home": {
    "team": "Liberty",
    "rank_ap": null,
    "records": {
-    "su": "8\u20131",
-    "ats": "7\u20132",
-    "ou": "3\u20136"
+    "su": "9\u20131",
+    "ats": "7\u20133",
+    "ou": "3\u20137"
    },
    "recent": [
+    {
+     "date": "2026-11-14T20:30:00+00:00",
+     "season": 2026,
+     "opp": "Middle Tennessee",
+     "site": "H",
+     "pts": 28,
+     "opp_pts": 23,
+     "result": "W",
+     "spread": -22.5,
+     "cover": "L",
+     "total": 53.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-08T01:00:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "W",
      "total": 52.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-02T23:00:00+00:00",
-     "season": 2026,
-     "opp": "Delaware",
-     "site": "A",
-     "pts": 30,
-     "opp_pts": 14,
-     "result": "W",
-     "spread": -7.0,
-     "cover": "W",
-     "total": 51.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 33.3,
+     "value": 32.8,
      "fmt": "1",
-     "rank": 33,
+     "rank": 32,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 13.6,
+     "value": 14.5,
      "fmt": "1",
-     "rank": 5,
+     "rank": 8,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 36,
-    "overall": 4.81,
-    "offense": 27.15,
-    "defense": 22.34
+    "rank": 42,
+    "overall": 3.95,
+    "offense": 26.6,
+    "defense": 22.65
    }
   }
  },

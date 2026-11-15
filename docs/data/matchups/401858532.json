@@ -92,7 +92,7 @@
      "label": "Points allowed per game",
      "value": 32.3,
      "fmt": "1",
-     "rank": 123,
+     "rank": 124,
      "better": false
     },
     {
@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 104,
-    "overall": -5.63,
-    "offense": 25.39,
-    "defense": 31.02
+    "rank": 106,
+    "overall": -5.7,
+    "offense": 25.24,
+    "defense": 30.94
    }
   },
   "home": {
    "team": "Penn State",
    "rank_ap": 13,
    "records": {
-    "su": "5\u20134",
-    "ats": "5\u20134",
-    "ou": "4\u20135"
+    "su": "6\u20134",
+    "ats": "6\u20134",
+    "ou": "5\u20135"
    },
    "recent": [
+    {
+     "date": "2026-11-15T00:00:00+00:00",
+     "season": 2026,
+     "opp": "Minnesota",
+     "site": "H",
+     "pts": 42,
+     "opp_pts": 14,
+     "result": "W",
+     "spread": -12.5,
+     "cover": "W",
+     "total": 42.5,
+     "ou": "O"
+    },
     {
      "date": "2026-11-07T20:30:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "L",
      "total": 54.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-03T00:00:00+00:00",
-     "season": 2026,
-     "opp": "Northwestern",
-     "site": "A",
-     "pts": 13,
-     "opp_pts": 34,
-     "result": "L",
-     "spread": -3.0,
-     "cover": "L",
-     "total": 46.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 28.9,
+     "value": 30.2,
      "fmt": "1",
-     "rank": 65,
+     "rank": 49,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 19.3,
+     "value": 18.8,
      "fmt": "1",
-     "rank": 27,
+     "rank": 23,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 31,
-    "overall": 5.66,
-    "offense": 28.02,
-    "defense": 22.36
+    "rank": 24,
+    "overall": 7.05,
+    "offense": 29.0,
+    "defense": 21.95
    }
   }
  },

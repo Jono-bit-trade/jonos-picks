@@ -7,11 +7,24 @@
    "team": "Northern Illinois",
    "rank_ap": null,
    "records": {
-    "su": "0\u20139",
-    "ats": "3\u20136",
-    "ou": "4\u20135"
+    "su": "0\u201310",
+    "ats": "3\u20137",
+    "ou": "4\u20136"
    },
    "recent": [
+    {
+     "date": "2026-11-14T20:30:00+00:00",
+     "season": 2026,
+     "opp": "Nevada",
+     "site": "H",
+     "pts": 7,
+     "opp_pts": 28,
+     "result": "L",
+     "spread": 6.5,
+     "cover": "L",
+     "total": 48.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-07T21:00:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "L",
      "total": 42.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-10-10T23:30:00+00:00",
-     "season": 2026,
-     "opp": "Air Force",
-     "site": "H",
-     "pts": 7,
-     "opp_pts": 28,
-     "result": "L",
-     "spread": 7.0,
-     "cover": "L",
-     "total": 48.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 16.6,
+     "value": 15.6,
      "fmt": "1",
-     "rank": 135,
+     "rank": 137,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 36.8,
+     "value": 35.9,
      "fmt": "1",
-     "rank": 136,
+     "rank": 135,
      "better": false
     },
     {
@@ -274,9 +274,9 @@
    ],
    "rating": {
     "rank": 138,
-    "overall": -15.28,
-    "offense": 17.94,
-    "defense": 33.22
+    "overall": -16.44,
+    "offense": 16.95,
+    "defense": 33.4
    }
   },
   "home": {
@@ -360,7 +360,7 @@
      "label": "Points per game",
      "value": 28.1,
      "fmt": "1",
-     "rank": 69,
+     "rank": 68,
      "better": true
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 61,
-    "overall": 0.17,
-    "offense": 23.32,
-    "defense": 23.16
+    "rank": 60,
+    "overall": 0.22,
+    "offense": 23.28,
+    "defense": 23.06
    }
   }
  },

@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 80,
-    "overall": -1.7,
-    "offense": 26.02,
-    "defense": 27.72
+    "rank": 79,
+    "overall": -1.82,
+    "offense": 25.8,
+    "defense": 27.63
    }
   },
   "home": {
    "team": "USC",
    "rank_ap": 15,
    "records": {
-    "su": "7\u20132",
-    "ats": "3\u20136",
-    "ou": "4\u20135"
+    "su": "7\u20133",
+    "ats": "3\u20137",
+    "ou": "4\u20136"
    },
    "recent": [
+    {
+     "date": "2026-11-14T20:30:00+00:00",
+     "season": 2026,
+     "opp": "Indiana",
+     "site": "A",
+     "pts": 13,
+     "opp_pts": 27,
+     "result": "L",
+     "spread": 9.5,
+     "cover": "L",
+     "total": 51.5,
+     "ou": "U"
+    },
     {
      "date": "2026-10-31T23:30:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "L",
      "total": 58.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-09-26T23:30:00+00:00",
-     "season": 2026,
-     "opp": "Oregon",
-     "site": "H",
-     "pts": 27,
-     "opp_pts": 41,
-     "result": "L",
-     "spread": 3.5,
-     "cover": "L",
-     "total": 60.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 32.4,
+     "value": 30.5,
      "fmt": "1",
-     "rank": 36,
+     "rank": 46,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 24.2,
+     "value": 24.5,
      "fmt": "1",
-     "rank": 66,
+     "rank": 67,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 15,
-    "overall": 10.05,
-    "offense": 32.74,
-    "defense": 22.69
+    "rank": 16,
+    "overall": 9.58,
+    "offense": 31.98,
+    "defense": 22.4
    }
   }
  },

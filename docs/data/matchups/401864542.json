@@ -7,11 +7,24 @@
    "team": "New Mexico",
    "rank_ap": 23,
    "records": {
-    "su": "8\u20131",
-    "ats": "7\u20132",
-    "ou": "3\u20136"
+    "su": "8\u20132",
+    "ats": "7\u20133",
+    "ou": "3\u20137"
    },
    "recent": [
+    {
+     "date": "2026-11-15T00:30:00+00:00",
+     "season": 2026,
+     "opp": "UNLV",
+     "site": "H",
+     "pts": 17,
+     "opp_pts": 21,
+     "result": "L",
+     "spread": -19.5,
+     "cover": "L",
+     "total": 46.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-07T02:00:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "L",
      "total": 46.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-03T20:00:00+00:00",
-     "season": 2026,
-     "opp": "UTEP",
-     "site": "H",
-     "pts": 61,
-     "opp_pts": 7,
-     "result": "W",
-     "spread": -23.5,
-     "cover": "W",
-     "total": 47.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 34.6,
+     "value": 32.8,
      "fmt": "1",
-     "rank": 23,
+     "rank": 32,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 10.9,
+     "value": 11.9,
      "fmt": "1",
-     "rank": 1,
+     "rank": 3,
      "better": false
     },
     {
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 33,
-    "overall": 5.4,
-    "offense": 26.79,
-    "defense": 21.39
+    "rank": 37,
+    "overall": 4.25,
+    "offense": 25.64,
+    "defense": 21.38
    }
   },
   "home": {
@@ -360,7 +360,7 @@
      "label": "Points per game",
      "value": 21.9,
      "fmt": "1",
-     "rank": 108,
+     "rank": 107,
      "better": true
     },
     {
@@ -368,7 +368,7 @@
      "label": "Points allowed per game",
      "value": 21.7,
      "fmt": "1",
-     "rank": 41,
+     "rank": 42,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 105,
+    "rank": 104,
     "overall": -5.67,
-    "offense": 19.65,
-    "defense": 25.32
+    "offense": 19.62,
+    "defense": 25.29
    }
   }
  },

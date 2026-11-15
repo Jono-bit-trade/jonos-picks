@@ -84,7 +84,7 @@
      "label": "Points per game",
      "value": 29.7,
      "fmt": "1",
-     "rank": 58,
+     "rank": 54,
      "better": true
     },
     {
@@ -273,9 +273,9 @@
     }
    ],
    "rating": {
-    "rank": 43,
-    "overall": 3.62,
-    "offense": 26.88,
+    "rank": 47,
+    "overall": 3.43,
+    "offense": 26.69,
     "defense": 23.26
    }
   },
@@ -283,11 +283,24 @@
    "team": "Louisville",
    "rank_ap": 16,
    "records": {
-    "su": "6\u20133",
-    "ats": "6\u20133",
-    "ou": "7\u20132"
+    "su": "7\u20133",
+    "ats": "6\u20134",
+    "ou": "7\u20133"
    },
    "recent": [
+    {
+     "date": "2026-11-15T00:00:00+00:00",
+     "season": 2026,
+     "opp": "North Carolina",
+     "site": "A",
+     "pts": 16,
+     "opp_pts": 14,
+     "result": "W",
+     "spread": -3.5,
+     "cover": "L",
+     "total": 57.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-08T00:30:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "W",
      "total": 60.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-10-03T19:30:00+00:00",
-     "season": 2026,
-     "opp": "NC State",
-     "site": "A",
-     "pts": 28,
-     "opp_pts": 31,
-     "result": "L",
-     "spread": -5.5,
-     "cover": "L",
-     "total": 56.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 40.8,
+     "value": 38.3,
      "fmt": "1",
-     "rank": 6,
+     "rank": 11,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 25.9,
+     "value": 24.7,
      "fmt": "1",
-     "rank": 79,
+     "rank": 70,
      "better": false
     },
     {
@@ -550,9 +550,9 @@
    ],
    "rating": {
     "rank": 18,
-    "overall": 8.72,
-    "offense": 33.33,
-    "defense": 24.62
+    "overall": 8.78,
+    "offense": 32.25,
+    "defense": 23.47
    }
   }
  },
