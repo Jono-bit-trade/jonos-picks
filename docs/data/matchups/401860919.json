@@ -7,11 +7,24 @@
    "team": "Utah State",
    "rank_ap": null,
    "records": {
-    "su": "4\u20135",
-    "ats": "6\u20133",
-    "ou": "1\u20138"
+    "su": "4\u20136",
+    "ats": "6\u20134",
+    "ou": "1\u20139"
    },
    "recent": [
+    {
+     "date": "2026-11-15T02:30:00+00:00",
+     "season": 2026,
+     "opp": "San Diego State",
+     "site": "A",
+     "pts": 13,
+     "opp_pts": 30,
+     "result": "L",
+     "spread": -3.0,
+     "cover": "L",
+     "total": 43.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-08T02:30:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "L",
      "total": 44.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-03T23:30:00+00:00",
-     "season": 2026,
-     "opp": "Boise State",
-     "site": "A",
-     "pts": 18,
-     "opp_pts": 37,
-     "result": "L",
-     "spread": 19.5,
-     "cover": "W",
-     "total": 50.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 16.9,
+     "value": 16.5,
      "fmt": "1",
-     "rank": 132,
+     "rank": 133,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 20.6,
+     "value": 21.5,
      "fmt": "1",
-     "rank": 34,
+     "rank": 39,
      "better": false
     },
     {
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 85,
-    "overall": -2.57,
-    "offense": 20.75,
-    "defense": 23.33
+    "rank": 92,
+    "overall": -3.6,
+    "offense": 20.15,
+    "defense": 23.76
    }
   },
   "home": {
@@ -360,7 +360,7 @@
      "label": "Points per game",
      "value": 38.3,
      "fmt": "1",
-     "rank": 11,
+     "rank": 12,
      "better": true
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 73,
-    "overall": -0.94,
-    "offense": 28.24,
-    "defense": 29.17
+    "rank": 71,
+    "overall": -0.82,
+    "offense": 28.3,
+    "defense": 29.12
    }
   }
  },

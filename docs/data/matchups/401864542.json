@@ -92,7 +92,7 @@
      "label": "Points allowed per game",
      "value": 11.9,
      "fmt": "1",
-     "rank": 3,
+     "rank": 2,
      "better": false
     },
     {
@@ -274,20 +274,33 @@
    ],
    "rating": {
     "rank": 37,
-    "overall": 4.25,
-    "offense": 25.64,
-    "defense": 21.38
+    "overall": 4.23,
+    "offense": 25.65,
+    "defense": 21.43
    }
   },
   "home": {
    "team": "Wyoming",
    "rank_ap": null,
    "records": {
-    "su": "6\u20133",
-    "ats": "5\u20134",
-    "ou": "3\u20136"
+    "su": "7\u20133",
+    "ats": "6\u20134",
+    "ou": "4\u20136"
    },
    "recent": [
+    {
+     "date": "2026-11-15T03:00:00+00:00",
+     "season": 2026,
+     "opp": "UTEP",
+     "site": "A",
+     "pts": 27,
+     "opp_pts": 15,
+     "result": "W",
+     "spread": -7.0,
+     "cover": "W",
+     "total": 40.5,
+     "ou": "O"
+    },
     {
      "date": "2026-11-08T03:30:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "W",
      "total": 42.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-03T19:30:00+00:00",
-     "season": 2026,
-     "opp": "North Dakota State",
-     "site": "A",
-     "pts": 0,
-     "opp_pts": 28,
-     "result": "L",
-     "spread": 17.5,
-     "cover": "L",
-     "total": 44.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 21.9,
+     "value": 22.4,
      "fmt": "1",
-     "rank": 107,
+     "rank": 105,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 21.7,
+     "value": 21.0,
      "fmt": "1",
-     "rank": 42,
+     "rank": 37,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 104,
-    "overall": -5.67,
-    "offense": 19.62,
-    "defense": 25.29
+    "rank": 102,
+    "overall": -5.3,
+    "offense": 19.8,
+    "defense": 25.1
    }
   }
  },

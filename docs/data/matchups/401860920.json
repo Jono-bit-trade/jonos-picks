@@ -7,11 +7,24 @@
    "team": "Washington State",
    "rank_ap": null,
    "records": {
-    "su": "1\u20138",
-    "ats": "5\u20134",
-    "ou": "3\u20136"
+    "su": "2\u20138",
+    "ats": "6\u20134",
+    "ou": "4\u20136"
    },
    "recent": [
+    {
+     "date": "2026-11-15T03:30:00+00:00",
+     "season": 2026,
+     "opp": "Colorado State",
+     "site": "H",
+     "pts": 73,
+     "opp_pts": 7,
+     "result": "W",
+     "spread": -7.5,
+     "cover": "W",
+     "total": 64.5,
+     "ou": "O"
+    },
     {
      "date": "2026-10-31T23:00:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "W",
      "total": 44.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-04T01:30:00+00:00",
-     "season": 2026,
-     "opp": "Fresno State",
-     "site": "H",
-     "pts": 6,
-     "opp_pts": 26,
-     "result": "L",
-     "spread": -2.5,
-     "cover": "L",
-     "total": 44.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 19.0,
+     "value": 24.4,
      "fmt": "1",
-     "rank": 127,
+     "rank": 92,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 27.4,
+     "value": 25.4,
      "fmt": "1",
-     "rank": 98,
+     "rank": 77,
      "better": false
     },
     {
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 97,
-    "overall": -4.43,
-    "offense": 20.73,
-    "defense": 25.16
+    "rank": 86,
+    "overall": -2.34,
+    "offense": 21.46,
+    "defense": 23.8
    }
   },
   "home": {
@@ -360,7 +360,7 @@
      "label": "Points per game",
      "value": 38.4,
      "fmt": "1",
-     "rank": 10,
+     "rank": 11,
      "better": true
     },
     {
@@ -368,7 +368,7 @@
      "label": "Points allowed per game",
      "value": 31.2,
      "fmt": "1",
-     "rank": 121,
+     "rank": 120,
      "better": false
     },
     {
@@ -550,9 +550,9 @@
    ],
    "rating": {
     "rank": 36,
-    "overall": 4.63,
-    "offense": 33.01,
-    "defense": 28.38
+    "overall": 4.51,
+    "offense": 33.03,
+    "defense": 28.52
    }
   }
  },

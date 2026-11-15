@@ -7,11 +7,24 @@
    "team": "Hawai'i",
    "rank_ap": null,
    "records": {
-    "su": "3\u20136",
-    "ats": "4\u20135",
-    "ou": "2\u20137"
+    "su": "3\u20137",
+    "ats": "5\u20135",
+    "ou": "2\u20138"
    },
    "recent": [
+    {
+     "date": "2026-11-15T04:00:00+00:00",
+     "season": 2026,
+     "opp": "North Dakota State",
+     "site": "H",
+     "pts": 13,
+     "opp_pts": 21,
+     "result": "L",
+     "spread": 8.5,
+     "cover": "W",
+     "total": 39.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-08T02:30:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "W",
      "total": 51.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-04T03:59:00+00:00",
-     "season": 2026,
-     "opp": "San Jos\u00e9 State",
-     "site": "H",
-     "pts": 16,
-     "opp_pts": 20,
-     "result": "L",
-     "spread": -2.5,
-     "cover": "L",
-     "total": 51.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 20.3,
+     "value": 19.6,
      "fmt": "1",
-     "rank": 121,
+     "rank": 124,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 23.3,
+     "value": 23.1,
      "fmt": "1",
-     "rank": 59,
+     "rank": 58,
      "better": false
     },
     {
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 98,
-    "overall": -4.51,
-    "offense": 22.23,
-    "defense": 26.74
+    "rank": 99,
+    "overall": -4.98,
+    "offense": 21.63,
+    "defense": 26.61
    }
   },
   "home": {
@@ -360,7 +360,7 @@
      "label": "Points per game",
      "value": 21.5,
      "fmt": "1",
-     "rank": 109,
+     "rank": 110,
      "better": true
     },
     {
@@ -368,7 +368,7 @@
      "label": "Points allowed per game",
      "value": 21.9,
      "fmt": "1",
-     "rank": 45,
+     "rank": 44,
      "better": false
     },
     {
@@ -551,8 +551,8 @@
    "rating": {
     "rank": 112,
     "overall": -6.74,
-    "offense": 19.42,
-    "defense": 26.16
+    "offense": 19.43,
+    "defense": 26.17
    }
   }
  },

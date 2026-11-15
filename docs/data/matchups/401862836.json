@@ -7,11 +7,24 @@
    "team": "UTSA",
    "rank_ap": null,
    "records": {
-    "su": "7\u20132",
-    "ats": "5\u20134",
-    "ou": "6\u20133"
+    "su": "8\u20132",
+    "ats": "6\u20134",
+    "ou": "6\u20134"
    },
    "recent": [
+    {
+     "date": "2026-11-15T02:00:00+00:00",
+     "season": 2026,
+     "opp": "North Texas",
+     "site": "H",
+     "pts": 35,
+     "opp_pts": 16,
+     "result": "W",
+     "spread": 3.0,
+     "cover": "W",
+     "total": 76.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-06T00:30:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "W",
      "total": 49.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-10-03T23:00:00+00:00",
-     "season": 2026,
-     "opp": "Rice",
-     "site": "A",
-     "pts": 16,
-     "opp_pts": 14,
-     "result": "W",
-     "spread": -11.5,
-     "cover": "L",
-     "total": 56.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 33.0,
+     "value": 33.2,
      "fmt": "1",
-     "rank": 30,
+     "rank": 29,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 29.8,
+     "value": 28.4,
      "fmt": "1",
-     "rank": 112,
+     "rank": 101,
      "better": false
     },
     {
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 63,
-    "overall": 0.01,
-    "offense": 29.01,
-    "defense": 29.0
+    "rank": 57,
+    "overall": 1.26,
+    "offense": 28.82,
+    "defense": 27.56
    }
   },
   "home": {
@@ -360,7 +360,7 @@
      "label": "Points per game",
      "value": 23.2,
      "fmt": "1",
-     "rank": 101,
+     "rank": 102,
      "better": true
     },
     {
@@ -551,8 +551,8 @@
    "rating": {
     "rank": 101,
     "overall": -5.15,
-    "offense": 22.06,
-    "defense": 27.21
+    "offense": 22.05,
+    "defense": 27.2
    }
   }
  },

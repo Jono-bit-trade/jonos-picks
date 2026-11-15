@@ -7,11 +7,24 @@
    "team": "UTEP",
    "rank_ap": null,
    "records": {
-    "su": "1\u20138",
-    "ats": "2\u20137",
-    "ou": "3\u20136"
+    "su": "1\u20139",
+    "ats": "2\u20138",
+    "ou": "4\u20136"
    },
    "recent": [
+    {
+     "date": "2026-11-15T03:00:00+00:00",
+     "season": 2026,
+     "opp": "Wyoming",
+     "site": "H",
+     "pts": 15,
+     "opp_pts": 27,
+     "result": "L",
+     "spread": 7.0,
+     "cover": "L",
+     "total": 40.5,
+     "ou": "O"
+    },
     {
      "date": "2026-11-08T02:30:00+00:00",
      "season": 2026,
@@ -63,26 +76,13 @@
      "cover": "L",
      "total": 48.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-03T20:00:00+00:00",
-     "season": 2026,
-     "opp": "New Mexico",
-     "site": "A",
-     "pts": 7,
-     "opp_pts": 61,
-     "result": "L",
-     "spread": 23.5,
-     "cover": "L",
-     "total": 47.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 14.1,
+     "value": 14.2,
      "fmt": "1",
      "rank": 138,
      "better": true
@@ -90,7 +90,7 @@
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 34.3,
+     "value": 33.6,
      "fmt": "1",
      "rank": 129,
      "better": false
@@ -274,9 +274,9 @@
    ],
    "rating": {
     "rank": 137,
-    "overall": -14.48,
-    "offense": 17.49,
-    "defense": 31.97
+    "overall": -14.93,
+    "offense": 17.27,
+    "defense": 32.2
    }
   },
   "home": {
@@ -550,9 +550,9 @@
    ],
    "rating": {
     "rank": 77,
-    "overall": -1.66,
-    "offense": 24.67,
-    "defense": 26.33
+    "overall": -1.63,
+    "offense": 24.69,
+    "defense": 26.31
    }
   }
  },

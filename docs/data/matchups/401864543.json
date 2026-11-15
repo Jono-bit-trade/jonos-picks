@@ -275,19 +275,32 @@
    "rating": {
     "rank": 138,
     "overall": -16.44,
-    "offense": 16.95,
-    "defense": 33.4
+    "offense": 16.93,
+    "defense": 33.37
    }
   },
   "home": {
    "team": "North Dakota State",
    "rank_ap": null,
    "records": {
-    "su": "7\u20132",
-    "ats": "4\u20135",
-    "ou": "2\u20137"
+    "su": "8\u20132",
+    "ats": "4\u20136",
+    "ou": "2\u20138"
    },
    "recent": [
+    {
+     "date": "2026-11-15T04:00:00+00:00",
+     "season": 2026,
+     "opp": "Hawai'i",
+     "site": "A",
+     "pts": 21,
+     "opp_pts": 13,
+     "result": "W",
+     "spread": -8.5,
+     "cover": "L",
+     "total": 39.5,
+     "ou": "U"
+    },
     {
      "date": "2026-10-31T19:30:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "L",
      "total": 47.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-03T19:30:00+00:00",
-     "season": 2026,
-     "opp": "Wyoming",
-     "site": "H",
-     "pts": 28,
-     "opp_pts": 0,
-     "result": "W",
-     "spread": -17.5,
-     "cover": "W",
-     "total": 44.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 28.1,
+     "value": 27.4,
      "fmt": "1",
-     "rank": 68,
+     "rank": 72,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 11.9,
+     "value": 12.0,
      "fmt": "1",
-     "rank": 2,
+     "rank": 3,
      "better": false
     },
     {
@@ -550,9 +550,9 @@
    ],
    "rating": {
     "rank": 60,
-    "overall": 0.22,
-    "offense": 23.28,
-    "defense": 23.06
+    "overall": 0.66,
+    "offense": 23.13,
+    "defense": 22.47
    }
   }
  },

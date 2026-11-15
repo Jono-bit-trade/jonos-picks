@@ -7,11 +7,24 @@
    "team": "Arizona",
    "rank_ap": 22,
    "records": {
-    "su": "7\u20132",
-    "ats": "3\u20136",
-    "ou": "5\u20134"
+    "su": "7\u20133",
+    "ats": "4\u20136",
+    "ou": "6\u20134"
    },
    "recent": [
+    {
+     "date": "2026-11-15T03:30:00+00:00",
+     "season": 2026,
+     "opp": "Utah",
+     "site": "H",
+     "pts": 39,
+     "opp_pts": 40,
+     "result": "L",
+     "spread": 2.5,
+     "cover": "W",
+     "total": 56.5,
+     "ou": "O"
+    },
     {
      "date": "2026-11-07T03:15:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "W",
      "total": 61.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-10-04T03:00:00+00:00",
-     "season": 2026,
-     "opp": "Cincinnati",
-     "site": "H",
-     "pts": 34,
-     "opp_pts": 7,
-     "result": "W",
-     "spread": -7.0,
-     "cover": "W",
-     "total": 56.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 34.2,
+     "value": 34.7,
      "fmt": "1",
-     "rank": 24,
+     "rank": 22,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 19.9,
+     "value": 21.9,
      "fmt": "1",
-     "rank": 32,
+     "rank": 44,
      "better": false
     },
     {
@@ -274,9 +274,9 @@
    ],
    "rating": {
     "rank": 19,
-    "overall": 8.05,
-    "offense": 30.14,
-    "defense": 22.09
+    "overall": 8.36,
+    "offense": 31.15,
+    "defense": 22.79
    }
   },
   "home": {
@@ -368,7 +368,7 @@
      "label": "Points allowed per game",
      "value": 26.1,
      "fmt": "1",
-     "rank": 86,
+     "rank": 87,
      "better": false
     },
     {
@@ -549,9 +549,9 @@
     }
    ],
    "rating": {
-    "rank": 71,
-    "overall": -0.82,
-    "offense": 26.68,
+    "rank": 72,
+    "overall": -0.85,
+    "offense": 26.66,
     "defense": 27.51
    }
   }
