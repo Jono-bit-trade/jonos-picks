@@ -274,14 +274,14 @@
    ],
    "rating": {
     "rank": 75,
-    "overall": -1.0,
+    "overall": -0.99,
     "offense": 25.06,
     "defense": 26.05
    }
   },
   "home": {
    "team": "Florida",
-   "rank_ap": 25,
+   "rank_ap": 23,
    "records": {
     "su": "6\u20134",
     "ats": "5\u20135",
@@ -551,8 +551,8 @@
    "rating": {
     "rank": 34,
     "overall": 4.9,
-    "offense": 27.69,
-    "defense": 22.79
+    "offense": 27.7,
+    "defense": 22.8
    }
   }
  },

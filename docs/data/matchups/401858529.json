@@ -5,7 +5,7 @@
  "teams": {
   "away": {
    "team": "Oregon",
-   "rank_ap": 18,
+   "rank_ap": 14,
    "records": {
     "su": "7\u20133",
     "ats": "5\u20135",
@@ -274,8 +274,8 @@
    ],
    "rating": {
     "rank": 6,
-    "overall": 15.31,
-    "offense": 34.05,
+    "overall": 15.3,
+    "offense": 34.04,
     "defense": 18.74
    }
   },
@@ -550,9 +550,9 @@
    ],
    "rating": {
     "rank": 78,
-    "overall": -1.72,
+    "overall": -1.73,
     "offense": 23.31,
-    "defense": 25.02
+    "defense": 25.04
    }
   }
  },

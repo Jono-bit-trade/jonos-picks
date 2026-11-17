@@ -281,7 +281,7 @@
   },
   "home": {
    "team": "Boise State",
-   "rank_ap": 17,
+   "rank_ap": 15,
    "records": {
     "su": "9\u20131",
     "ats": "5\u20135",
@@ -550,9 +550,9 @@
    ],
    "rating": {
     "rank": 26,
-    "overall": 6.9,
+    "overall": 6.91,
     "offense": 33.31,
-    "defense": 26.41
+    "defense": 26.4
    }
   }
  },

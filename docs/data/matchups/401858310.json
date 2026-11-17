@@ -5,7 +5,7 @@
  "teams": {
   "away": {
    "team": "Wake Forest",
-   "rank_ap": 11,
+   "rank_ap": 10,
    "records": {
     "su": "9\u20131",
     "ats": "8\u20132",
@@ -274,9 +274,9 @@
    ],
    "rating": {
     "rank": 8,
-    "overall": 13.98,
+    "overall": 13.97,
     "offense": 33.07,
-    "defense": 19.09
+    "defense": 19.1
    }
   },
   "home": {
@@ -550,9 +550,9 @@
    ],
    "rating": {
     "rank": 95,
-    "overall": -4.06,
-    "offense": 24.47,
-    "defense": 28.53
+    "overall": -4.03,
+    "offense": 24.49,
+    "defense": 28.52
    }
   }
  },

@@ -5,7 +5,7 @@
  "teams": {
   "away": {
    "team": "Arizona",
-   "rank_ap": 22,
+   "rank_ap": 19,
    "records": {
     "su": "7\u20133",
     "ats": "4\u20136",
@@ -274,8 +274,8 @@
    ],
    "rating": {
     "rank": 19,
-    "overall": 8.35,
-    "offense": 31.12,
+    "overall": 8.33,
+    "offense": 31.11,
     "defense": 22.78
    }
   },
@@ -551,7 +551,7 @@
    "rating": {
     "rank": 70,
     "overall": -0.82,
-    "offense": 26.66,
+    "offense": 26.67,
     "defense": 27.49
    }
   }

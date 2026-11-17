@@ -5,7 +5,7 @@
  "teams": {
   "away": {
    "team": "Kentucky",
-   "rank_ap": 13,
+   "rank_ap": 17,
    "records": {
     "su": "7\u20133",
     "ats": "7\u20133",
@@ -274,9 +274,9 @@
    ],
    "rating": {
     "rank": 56,
-    "overall": 1.29,
-    "offense": 26.24,
-    "defense": 24.95
+    "overall": 1.28,
+    "offense": 26.25,
+    "defense": 24.96
    }
   },
   "home": {
@@ -550,9 +550,9 @@
    ],
    "rating": {
     "rank": 28,
-    "overall": 6.44,
-    "offense": 28.74,
-    "defense": 22.29
+    "overall": 6.43,
+    "offense": 28.73,
+    "defense": 22.3
    }
   }
  },

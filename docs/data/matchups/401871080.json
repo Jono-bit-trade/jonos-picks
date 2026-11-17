@@ -274,14 +274,14 @@
    ],
    "rating": {
     "rank": 103,
-    "overall": -5.35,
-    "offense": 24.49,
+    "overall": -5.33,
+    "offense": 24.5,
     "defense": 29.83
    }
   },
   "home": {
    "team": "Liberty",
-   "rank_ap": null,
+   "rank_ap": 22,
    "records": {
     "su": "9\u20131",
     "ats": "7\u20133",
@@ -551,8 +551,8 @@
    "rating": {
     "rank": 42,
     "overall": 3.91,
-    "offense": 26.59,
-    "defense": 22.67
+    "offense": 26.58,
+    "defense": 22.68
    }
   }
  },

@@ -281,7 +281,7 @@
   },
   "home": {
    "team": "USC",
-   "rank_ap": 15,
+   "rank_ap": 18,
    "records": {
     "su": "7\u20133",
     "ats": "3\u20137",
@@ -552,7 +552,7 @@
     "rank": 17,
     "overall": 9.58,
     "offense": 31.96,
-    "defense": 22.38
+    "defense": 22.39
    }
   }
  },

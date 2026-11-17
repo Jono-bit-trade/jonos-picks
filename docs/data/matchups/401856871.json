@@ -5,7 +5,7 @@
  "teams": {
   "away": {
    "team": "Texas Tech",
-   "rank_ap": 10,
+   "rank_ap": 11,
    "records": {
     "su": "9\u20131",
     "ats": "5\u20135",
@@ -275,7 +275,7 @@
    "rating": {
     "rank": 12,
     "overall": 10.89,
-    "offense": 33.89,
+    "offense": 33.88,
     "defense": 22.99
    }
   },
@@ -550,9 +550,9 @@
    ],
    "rating": {
     "rank": 30,
-    "overall": 5.81,
+    "overall": 5.79,
     "offense": 29.04,
-    "defense": 23.23
+    "defense": 23.25
    }
   }
  },

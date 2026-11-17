@@ -274,14 +274,14 @@
    ],
    "rating": {
     "rank": 46,
-    "overall": 3.42,
-    "offense": 26.68,
-    "defense": 23.26
+    "overall": 3.41,
+    "offense": 26.7,
+    "defense": 23.28
    }
   },
   "home": {
    "team": "Louisville",
-   "rank_ap": 16,
+   "rank_ap": 21,
    "records": {
     "su": "7\u20133",
     "ats": "6\u20134",
@@ -550,9 +550,9 @@
    ],
    "rating": {
     "rank": 18,
-    "overall": 8.72,
+    "overall": 8.7,
     "offense": 32.2,
-    "defense": 23.48
+    "defense": 23.49
    }
   }
  },

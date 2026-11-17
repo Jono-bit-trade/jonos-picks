@@ -5,7 +5,7 @@
  "teams": {
   "away": {
    "team": "Iowa",
-   "rank_ap": 16,
+   "rank_ap": 13,
    "records": {
     "su": "8\u20132",
     "ats": "7\u20133",
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 13,
-    "overall": 10.7,
+    "rank": 14,
+    "overall": 10.68,
     "offense": 27.23,
-    "defense": 16.53
+    "defense": 16.55
    }
   },
   "home": {
@@ -550,9 +550,9 @@
    ],
    "rating": {
     "rank": 43,
-    "overall": 3.46,
+    "overall": 3.45,
     "offense": 26.51,
-    "defense": 23.05
+    "defense": 23.06
    }
   }
  },
