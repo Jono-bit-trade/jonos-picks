@@ -84,7 +84,7 @@
      "label": "Points per game",
      "value": 31.4,
      "fmt": "1",
-     "rank": 40,
+     "rank": 41,
      "better": true
     },
     {
@@ -92,7 +92,7 @@
      "label": "Points allowed per game",
      "value": 30.4,
      "fmt": "1",
-     "rank": 115,
+     "rank": 114,
      "better": false
     },
     {
@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 83,
-    "overall": -2.05,
-    "offense": 27.22,
-    "defense": 29.27
+    "rank": 80,
+    "overall": -1.98,
+    "offense": 27.33,
+    "defense": 29.32
    }
   },
   "home": {
    "team": "BYU",
    "rank_ap": 12,
    "records": {
-    "su": "8\u20132",
-    "ats": "7\u20133",
-    "ou": "5\u20135"
+    "su": "9\u20132",
+    "ats": "7\u20134",
+    "ou": "6\u20135"
    },
    "recent": [
+    {
+     "date": "2026-11-21T17:00:00+00:00",
+     "season": 2026,
+     "opp": "Kansas",
+     "site": "A",
+     "pts": 31,
+     "opp_pts": 29,
+     "result": "W",
+     "spread": -4.5,
+     "cover": "L",
+     "total": 46.5,
+     "ou": "O"
+    },
     {
      "date": "2026-11-15T00:00:00+00:00",
      "season": 2026,
@@ -339,19 +352,6 @@
      "cover": "L",
      "total": 43.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-10-17T23:30:00+00:00",
-     "season": 2026,
-     "opp": "Notre Dame",
-     "site": "H",
-     "pts": 28,
-     "opp_pts": 24,
-     "result": "W",
-     "spread": 10.5,
-     "cover": "W",
-     "total": 47.5,
-     "ou": "O"
     }
    ],
    "stats": [
@@ -366,9 +366,9 @@
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 18.5,
+     "value": 19.5,
      "fmt": "1",
-     "rank": 21,
+     "rank": 29,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 15,
-    "overall": 9.91,
-    "offense": 29.13,
-    "defense": 19.22
+    "rank": 17,
+    "overall": 9.73,
+    "offense": 29.5,
+    "defense": 19.77
    }
   }
  },

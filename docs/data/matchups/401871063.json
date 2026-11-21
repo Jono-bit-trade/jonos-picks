@@ -7,11 +7,24 @@
    "team": "Liberty",
    "rank_ap": 22,
    "records": {
-    "su": "9\u20131",
-    "ats": "7\u20133",
-    "ou": "3\u20137"
+    "su": "10\u20131",
+    "ats": "8\u20133",
+    "ou": "4\u20137"
    },
    "recent": [
+    {
+     "date": "2026-11-21T18:00:00+00:00",
+     "season": 2026,
+     "opp": "Western Kentucky",
+     "site": "H",
+     "pts": 45,
+     "opp_pts": 14,
+     "result": "W",
+     "spread": -18.5,
+     "cover": "W",
+     "total": 53.5,
+     "ou": "O"
+    },
     {
      "date": "2026-11-14T20:30:00+00:00",
      "season": 2026,
@@ -63,28 +76,15 @@
      "cover": "W",
      "total": 50.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-08T23:00:00+00:00",
-     "season": 2026,
-     "opp": "Sam Houston",
-     "site": "H",
-     "pts": 35,
-     "opp_pts": 3,
-     "result": "W",
-     "spread": -13.5,
-     "cover": "W",
-     "total": 52.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 32.8,
+     "value": 33.9,
      "fmt": "1",
-     "rank": 31,
+     "rank": 28,
      "better": true
     },
     {
@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 42,
-    "overall": 3.84,
-    "offense": 26.53,
-    "defense": 22.69
+    "rank": 34,
+    "overall": 5.18,
+    "offense": 27.47,
+    "defense": 22.28
    }
   },
   "home": {
    "team": "Missouri State",
    "rank_ap": null,
    "records": {
-    "su": "4\u20136",
-    "ats": "6\u20134",
-    "ou": "3\u20137"
+    "su": "4\u20137",
+    "ats": "7\u20134",
+    "ou": "3\u20138"
    },
    "recent": [
+    {
+     "date": "2026-11-21T19:00:00+00:00",
+     "season": 2026,
+     "opp": "Jacksonville State",
+     "site": "A",
+     "pts": 20,
+     "opp_pts": 25,
+     "result": "L",
+     "spread": 12.5,
+     "cover": "W",
+     "total": 52.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-14T20:00:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "L",
      "total": 54.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-10-14T23:30:00+00:00",
-     "season": 2026,
-     "opp": "Kennesaw State",
-     "site": "H",
-     "pts": 24,
-     "opp_pts": 21,
-     "result": "W",
-     "spread": 2.5,
-     "cover": "W",
-     "total": 52.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 24.2,
+     "value": 23.8,
      "fmt": "1",
-     "rank": 95,
+     "rank": 97,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 29.1,
+     "value": 28.7,
      "fmt": "1",
-     "rank": 105,
+     "rank": 104,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 123,
-    "overall": -9.08,
-    "offense": 21.32,
-    "defense": 30.4
+    "rank": 121,
+    "overall": -8.67,
+    "offense": 21.35,
+    "defense": 30.03
    }
   }
  },

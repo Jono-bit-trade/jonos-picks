@@ -84,7 +84,7 @@
      "label": "Points per game",
      "value": 30.2,
      "fmt": "1",
-     "rank": 50,
+     "rank": 49,
      "better": true
     },
     {
@@ -92,7 +92,7 @@
      "label": "Points allowed per game",
      "value": 15.7,
      "fmt": "1",
-     "rank": 13,
+     "rank": 11,
      "better": false
     },
     {
@@ -274,20 +274,33 @@
    ],
    "rating": {
     "rank": 27,
-    "overall": 6.47,
+    "overall": 6.53,
     "offense": 28.62,
-    "defense": 22.14
+    "defense": 22.09
    }
   },
   "home": {
    "team": "Wake Forest",
    "rank_ap": 10,
    "records": {
-    "su": "9\u20131",
-    "ats": "8\u20132",
-    "ou": "5\u20135"
+    "su": "10\u20131",
+    "ats": "8\u20133",
+    "ou": "6\u20135"
    },
    "recent": [
+    {
+     "date": "2026-11-21T17:00:00+00:00",
+     "season": 2026,
+     "opp": "Georgia Tech",
+     "site": "A",
+     "pts": 50,
+     "opp_pts": 29,
+     "result": "W",
+     "spread": -22.5,
+     "cover": "L",
+     "total": 55.5,
+     "ou": "O"
+    },
     {
      "date": "2026-11-14T17:00:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "W",
      "total": 54.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-10T16:00:00+00:00",
-     "season": 2026,
-     "opp": "NC State",
-     "site": "A",
-     "pts": 38,
-     "opp_pts": 14,
-     "result": "W",
-     "spread": -4.0,
-     "cover": "W",
-     "total": 56.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 43.9,
+     "value": 44.5,
      "fmt": "1",
-     "rank": 2,
+     "rank": 1,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 15.0,
+     "value": 16.3,
      "fmt": "1",
-     "rank": 11,
+     "rank": 13,
      "better": false
     },
     {
@@ -550,9 +550,9 @@
    ],
    "rating": {
     "rank": 8,
-    "overall": 13.67,
-    "offense": 32.86,
-    "defense": 19.18
+    "overall": 14.13,
+    "offense": 33.97,
+    "defense": 19.84
    }
   }
  },

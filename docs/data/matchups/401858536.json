@@ -7,11 +7,24 @@
    "team": "Nebraska",
    "rank_ap": null,
    "records": {
-    "su": "6\u20134",
-    "ats": "7\u20133",
-    "ou": "3\u20137"
+    "su": "7\u20134",
+    "ats": "8\u20133",
+    "ou": "4\u20137"
    },
    "recent": [
+    {
+     "date": "2026-11-21T17:00:00+00:00",
+     "season": 2026,
+     "opp": "Ohio State",
+     "site": "H",
+     "pts": 31,
+     "opp_pts": 28,
+     "result": "W",
+     "spread": 3.5,
+     "cover": "W",
+     "total": 42.5,
+     "ou": "O"
+    },
     {
      "date": "2026-11-14T17:30:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "W",
      "total": 50.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-10T16:00:00+00:00",
-     "season": 2026,
-     "opp": "Indiana",
-     "site": "H",
-     "pts": 17,
-     "opp_pts": 20,
-     "result": "L",
-     "spread": 9.5,
-     "cover": "W",
-     "total": 48.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 30.3,
+     "value": 30.4,
      "fmt": "1",
-     "rank": 46,
+     "rank": 45,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 14.9,
+     "value": 16.1,
      "fmt": "1",
-     "rank": 10,
+     "rank": 12,
      "better": false
     },
     {
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 21,
-    "overall": 7.22,
-    "offense": 26.67,
-    "defense": 19.45
+    "rank": 20,
+    "overall": 7.84,
+    "offense": 27.55,
+    "defense": 19.71
    }
   },
   "home": {
@@ -360,7 +360,7 @@
      "label": "Points per game",
      "value": 27.8,
      "fmt": "1",
-     "rank": 69,
+     "rank": 70,
      "better": true
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 14,
-    "overall": 10.51,
+    "rank": 13,
+    "overall": 10.48,
     "offense": 27.2,
-    "defense": 16.69
+    "defense": 16.71
    }
   }
  },

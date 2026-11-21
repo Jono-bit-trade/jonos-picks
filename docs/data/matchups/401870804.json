@@ -84,7 +84,7 @@
      "label": "Points per game",
      "value": 25.2,
      "fmt": "1",
-     "rank": 89,
+     "rank": 90,
      "better": true
     },
     {
@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 111,
-    "overall": -6.3,
-    "offense": 22.23,
-    "defense": 28.52
+    "rank": 109,
+    "overall": -6.19,
+    "offense": 22.33,
+    "defense": 28.51
    }
   },
   "home": {
    "team": "Western Kentucky",
    "rank_ap": null,
    "records": {
-    "su": "4\u20136",
-    "ats": "5\u20135",
-    "ou": "6\u20134"
+    "su": "4\u20137",
+    "ats": "5\u20136",
+    "ou": "7\u20134"
    },
    "recent": [
+    {
+     "date": "2026-11-21T18:00:00+00:00",
+     "season": 2026,
+     "opp": "Liberty",
+     "site": "A",
+     "pts": 14,
+     "opp_pts": 45,
+     "result": "L",
+     "spread": 18.5,
+     "cover": "L",
+     "total": 53.5,
+     "ou": "O"
+    },
     {
      "date": "2026-11-14T20:30:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "W",
      "total": 53.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-08T23:00:00+00:00",
-     "season": 2026,
-     "opp": "Missouri State",
-     "site": "H",
-     "pts": 34,
-     "opp_pts": 13,
-     "result": "W",
-     "spread": 1.5,
-     "cover": "W",
-     "total": 56.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 24.6,
+     "value": 23.6,
      "fmt": "1",
-     "rank": 92,
+     "rank": 99,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 32.4,
+     "value": 33.5,
      "fmt": "1",
-     "rank": 127,
+     "rank": 128,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 102,
-    "overall": -5.21,
-    "offense": 24.51,
-    "defense": 29.72
+    "rank": 111,
+    "overall": -6.48,
+    "offense": 24.17,
+    "defense": 30.65
    }
   }
  },

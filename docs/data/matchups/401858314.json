@@ -274,20 +274,33 @@
    ],
    "rating": {
     "rank": 2,
-    "overall": 18.25,
-    "offense": 35.18,
-    "defense": 16.93
+    "overall": 18.29,
+    "offense": 35.2,
+    "defense": 16.9
    }
   },
   "home": {
    "team": "Syracuse",
    "rank_ap": null,
    "records": {
-    "su": "5\u20135",
-    "ats": "5\u20134\u20131",
-    "ou": "6\u20134"
+    "su": "5\u20136",
+    "ats": "5\u20135\u20131",
+    "ou": "6\u20135"
    },
    "recent": [
+    {
+     "date": "2026-11-21T17:00:00+00:00",
+     "season": 2026,
+     "opp": "Boston College",
+     "site": "A",
+     "pts": 15,
+     "opp_pts": 27,
+     "result": "L",
+     "spread": -3.0,
+     "cover": "L",
+     "total": 52.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-14T17:00:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "W",
      "total": 49.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-10-17T23:30:00+00:00",
-     "season": 2026,
-     "opp": "Louisville",
-     "site": "H",
-     "pts": 26,
-     "opp_pts": 34,
-     "result": "L",
-     "spread": 14.5,
-     "cover": "W",
-     "total": 56.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 29.8,
+     "value": 28.5,
      "fmt": "1",
-     "rank": 52,
+     "rank": 64,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 26.0,
+     "value": 26.1,
      "fmt": "1",
-     "rank": 86,
+     "rank": 85,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 71,
-    "overall": -0.85,
-    "offense": 26.17,
-    "defense": 27.02
+    "rank": 78,
+    "overall": -1.78,
+    "offense": 25.39,
+    "defense": 27.16
    }
   }
  },

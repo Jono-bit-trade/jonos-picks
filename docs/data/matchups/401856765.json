@@ -84,7 +84,7 @@
      "label": "Points per game",
      "value": 31.4,
      "fmt": "1",
-     "rank": 39,
+     "rank": 40,
      "better": true
     },
     {
@@ -274,20 +274,33 @@
    ],
    "rating": {
     "rank": 11,
-    "overall": 12.35,
-    "offense": 31.83,
-    "defense": 19.48
+    "overall": 12.3,
+    "offense": 31.86,
+    "defense": 19.56
    }
   },
   "home": {
    "team": "Vanderbilt",
    "rank_ap": null,
    "records": {
-    "su": "4\u20136",
-    "ats": "5\u20135",
-    "ou": "5\u20135"
+    "su": "4\u20137",
+    "ats": "6\u20135",
+    "ou": "6\u20135"
    },
    "recent": [
+    {
+     "date": "2026-11-21T17:00:00+00:00",
+     "season": 2026,
+     "opp": "Florida",
+     "site": "A",
+     "pts": 27,
+     "opp_pts": 34,
+     "result": "L",
+     "spread": 13.5,
+     "cover": "W",
+     "total": 47.5,
+     "ou": "O"
+    },
     {
      "date": "2026-11-14T17:45:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "L",
      "total": 48.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-10-10T19:30:00+00:00",
-     "season": 2026,
-     "opp": "Ole Miss",
-     "site": "H",
-     "pts": 17,
-     "opp_pts": 52,
-     "result": "L",
-     "spread": 9.5,
-     "cover": "L",
-     "total": 54.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 21.3,
+     "value": 21.8,
      "fmt": "1",
-     "rank": 116,
+     "rank": 109,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 28.6,
+     "value": 29.1,
      "fmt": "1",
-     "rank": 103,
+     "rank": 106,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 72,
-    "overall": -0.88,
-    "offense": 25.14,
-    "defense": 26.02
+    "rank": 71,
+    "overall": -0.91,
+    "offense": 25.59,
+    "defense": 26.5
    }
   }
  },

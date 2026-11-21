@@ -7,11 +7,24 @@
    "team": "Georgia Tech",
    "rank_ap": null,
    "records": {
-    "su": "3\u20137",
-    "ats": "2\u20138",
-    "ou": "5\u20135"
+    "su": "3\u20138",
+    "ats": "3\u20138",
+    "ou": "6\u20135"
    },
    "recent": [
+    {
+     "date": "2026-11-21T17:00:00+00:00",
+     "season": 2026,
+     "opp": "Wake Forest",
+     "site": "H",
+     "pts": 29,
+     "opp_pts": 50,
+     "result": "L",
+     "spread": 22.5,
+     "cover": "W",
+     "total": 55.5,
+     "ou": "O"
+    },
     {
      "date": "2026-11-14T17:30:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "L",
      "total": 50.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-10-17T19:30:00+00:00",
-     "season": 2026,
-     "opp": "Virginia Tech",
-     "site": "A",
-     "pts": 24,
-     "opp_pts": 34,
-     "result": "L",
-     "spread": 8.5,
-     "cover": "L",
-     "total": 55.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 23.5,
+     "value": 24.0,
      "fmt": "1",
-     "rank": 99,
+     "rank": 96,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 29.6,
+     "value": 31.5,
      "fmt": "1",
-     "rank": 111,
+     "rank": 121,
      "better": false
     },
     {
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 94,
-    "overall": -3.93,
-    "offense": 24.55,
-    "defense": 28.48
+    "rank": 96,
+    "overall": -4.3,
+    "offense": 25.33,
+    "defense": 29.63
    }
   },
   "home": {
@@ -550,9 +550,9 @@
    ],
    "rating": {
     "rank": 1,
-    "overall": 20.27,
-    "offense": 36.1,
-    "defense": 15.82
+    "overall": 20.13,
+    "offense": 36.03,
+    "defense": 15.9
    }
   }
  },

@@ -7,11 +7,24 @@
    "team": "Tulsa",
    "rank_ap": null,
    "records": {
-    "su": "6\u20134",
-    "ats": "6\u20134",
-    "ou": "5\u20135"
+    "su": "7\u20134",
+    "ats": "7\u20134",
+    "ou": "6\u20135"
    },
    "recent": [
+    {
+     "date": "2026-11-21T19:00:00+00:00",
+     "season": 2026,
+     "opp": "Charlotte",
+     "site": "H",
+     "pts": 42,
+     "opp_pts": 14,
+     "result": "W",
+     "spread": -22.5,
+     "cover": "W",
+     "total": 51.5,
+     "ou": "O"
+    },
     {
      "date": "2026-11-15T00:15:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "W",
      "total": 47.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-10-10T19:30:00+00:00",
-     "season": 2026,
-     "opp": "Navy",
-     "site": "A",
-     "pts": 26,
-     "opp_pts": 34,
-     "result": "L",
-     "spread": 3.0,
-     "cover": "L",
-     "total": 47.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 33.6,
+     "value": 34.4,
      "fmt": "1",
-     "rank": 26,
+     "rank": 24,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 22.6,
+     "value": 21.8,
      "fmt": "1",
-     "rank": 52,
+     "rank": 46,
      "better": false
     },
     {
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 68,
-    "overall": -0.36,
-    "offense": 26.01,
-    "defense": 26.37
+    "rank": 62,
+    "overall": 0.46,
+    "offense": 26.6,
+    "defense": 26.14
    }
   },
   "home": {
@@ -360,7 +360,7 @@
      "label": "Points per game",
      "value": 33.2,
      "fmt": "1",
-     "rank": 27,
+     "rank": 29,
      "better": true
     },
     {
@@ -368,7 +368,7 @@
      "label": "Points allowed per game",
      "value": 28.4,
      "fmt": "1",
-     "rank": 101,
+     "rank": 103,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 55,
-    "overall": 1.32,
-    "offense": 28.85,
-    "defense": 27.52
+    "rank": 56,
+    "overall": 1.39,
+    "offense": 28.93,
+    "defense": 27.54
    }
   }
  },

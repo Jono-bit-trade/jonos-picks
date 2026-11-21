@@ -7,11 +7,24 @@
    "team": "Sam Houston",
    "rank_ap": null,
    "records": {
-    "su": "1\u20139",
-    "ats": "3\u20137",
-    "ou": "4\u20136"
+    "su": "1\u201310",
+    "ats": "4\u20137",
+    "ou": "5\u20136"
    },
    "recent": [
+    {
+     "date": "2026-11-21T19:00:00+00:00",
+     "season": 2026,
+     "opp": "Middle Tennessee",
+     "site": "H",
+     "pts": 28,
+     "opp_pts": 31,
+     "result": "L",
+     "spread": 6.0,
+     "cover": "W",
+     "total": 47.5,
+     "ou": "O"
+    },
     {
      "date": "2026-11-14T19:00:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "L",
      "total": 46.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-10-15T00:00:00+00:00",
-     "season": 2026,
-     "opp": "Western Kentucky",
-     "site": "H",
-     "pts": 3,
-     "opp_pts": 16,
-     "result": "L",
-     "spread": 1.5,
-     "cover": "L",
-     "total": 53.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 16.5,
+     "value": 17.5,
      "fmt": "1",
-     "rank": 133,
+     "rank": 131,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 27.4,
+     "value": 27.7,
      "fmt": "1",
-     "rank": 96,
+     "rank": 98,
      "better": false
     },
     {
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 134,
-    "overall": -13.95,
-    "offense": 16.56,
-    "defense": 30.51
+    "rank": 135,
+    "overall": -13.87,
+    "offense": 16.95,
+    "defense": 30.83
    }
   },
   "home": {
@@ -360,7 +360,7 @@
      "label": "Points per game",
      "value": 19.0,
      "fmt": "1",
-     "rank": 128,
+     "rank": 127,
      "better": true
     },
     {
@@ -368,7 +368,7 @@
      "label": "Points allowed per game",
      "value": 20.7,
      "fmt": "1",
-     "rank": 36,
+     "rank": 37,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 113,
-    "overall": -6.79,
-    "offense": 19.28,
-    "defense": 26.07
+    "rank": 112,
+    "overall": -6.66,
+    "offense": 19.43,
+    "defense": 26.09
    }
   }
  },

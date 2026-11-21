@@ -7,11 +7,24 @@
    "team": "Navy",
    "rank_ap": null,
    "records": {
-    "su": "3\u20136",
-    "ats": "3\u20136",
-    "ou": "6\u20133"
+    "su": "4\u20136",
+    "ats": "4\u20136",
+    "ou": "7\u20133"
    },
    "recent": [
+    {
+     "date": "2026-11-21T17:00:00+00:00",
+     "season": 2026,
+     "opp": "Memphis",
+     "site": "H",
+     "pts": 38,
+     "opp_pts": 34,
+     "result": "W",
+     "spread": 1.5,
+     "cover": "W",
+     "total": 68.5,
+     "ou": "O"
+    },
     {
      "date": "2026-11-07T20:30:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "W",
      "total": 52.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-10-10T19:30:00+00:00",
-     "season": 2026,
-     "opp": "Tulsa",
-     "site": "H",
-     "pts": 34,
-     "opp_pts": 26,
-     "result": "W",
-     "spread": -3.0,
-     "cover": "W",
-     "total": 47.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 29.2,
+     "value": 30.1,
      "fmt": "1",
-     "rank": 58,
+     "rank": 51,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 30.4,
+     "value": 30.8,
      "fmt": "1",
-     "rank": 117,
+     "rank": 118,
      "better": false
     },
     {
@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 97,
-    "overall": -4.68,
-    "offense": 24.8,
-    "defense": 29.49
+    "rank": 94,
+    "overall": -4.05,
+    "offense": 25.55,
+    "defense": 29.59
    }
   },
   "home": {
    "team": "Charlotte",
    "rank_ap": null,
    "records": {
-    "su": "1\u20139",
-    "ats": "5\u20135",
-    "ou": "5\u20135"
+    "su": "1\u201310",
+    "ats": "5\u20136",
+    "ou": "6\u20135"
    },
    "recent": [
+    {
+     "date": "2026-11-21T19:00:00+00:00",
+     "season": 2026,
+     "opp": "Tulsa",
+     "site": "A",
+     "pts": 14,
+     "opp_pts": 42,
+     "result": "L",
+     "spread": 22.5,
+     "cover": "L",
+     "total": 51.5,
+     "ou": "O"
+    },
     {
      "date": "2026-11-14T18:00:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "W",
      "total": 47.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-10-10T19:30:00+00:00",
-     "season": 2026,
-     "opp": "North Texas",
-     "site": "A",
-     "pts": 10,
-     "opp_pts": 50,
-     "result": "L",
-     "spread": 27.5,
-     "cover": "L",
-     "total": 58.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 19.3,
+     "value": 18.8,
      "fmt": "1",
-     "rank": 126,
+     "rank": 128,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 36.2,
+     "value": 36.7,
      "fmt": "1",
-     "rank": 136,
+     "rank": 137,
      "better": false
     },
     {
@@ -550,9 +550,9 @@
    ],
    "rating": {
     "rank": 136,
-    "overall": -14.23,
-    "offense": 18.29,
-    "defense": 32.51
+    "overall": -15.03,
+    "offense": 18.08,
+    "defense": 33.12
    }
   }
  },

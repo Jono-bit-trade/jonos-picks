@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 63,
-    "overall": 0.36,
-    "offense": 24.36,
-    "defense": 24.0
+    "rank": 64,
+    "overall": 0.23,
+    "offense": 24.37,
+    "defense": 24.14
    }
   },
   "home": {
    "team": "Wisconsin",
    "rank_ap": 25,
    "records": {
-    "su": "6\u20134",
-    "ats": "5\u20135",
-    "ou": "4\u20136"
+    "su": "7\u20134",
+    "ats": "6\u20135",
+    "ou": "5\u20136"
    },
    "recent": [
+    {
+     "date": "2026-11-21T17:00:00+00:00",
+     "season": 2026,
+     "opp": "Purdue",
+     "site": "A",
+     "pts": 42,
+     "opp_pts": 10,
+     "result": "W",
+     "spread": -4.5,
+     "cover": "W",
+     "total": 46.5,
+     "ou": "O"
+    },
     {
      "date": "2026-11-14T17:00:00+00:00",
      "season": 2026,
@@ -339,34 +352,21 @@
      "cover": "W",
      "total": 50.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-17T23:30:00+00:00",
-     "season": 2026,
-     "opp": "UCLA",
-     "site": "A",
-     "pts": 7,
-     "opp_pts": 17,
-     "result": "L",
-     "spread": 1.5,
-     "cover": "L",
-     "total": 42.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 24.1,
+     "value": 25.7,
      "fmt": "1",
-     "rank": 97,
+     "rank": 84,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 17.1,
+     "value": 16.5,
      "fmt": "1",
      "rank": 14,
      "better": false
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 46,
-    "overall": 3.29,
-    "offense": 22.48,
-    "defense": 19.19
+    "rank": 32,
+    "overall": 5.3,
+    "offense": 23.81,
+    "defense": 18.51
    }
   }
  },

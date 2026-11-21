@@ -84,7 +84,7 @@
      "label": "Points per game",
      "value": 29.1,
      "fmt": "1",
-     "rank": 62,
+     "rank": 61,
      "better": true
     },
     {
@@ -92,7 +92,7 @@
      "label": "Points allowed per game",
      "value": 28.2,
      "fmt": "1",
-     "rank": 100,
+     "rank": 102,
      "better": false
     },
     {
@@ -274,20 +274,33 @@
    ],
    "rating": {
     "rank": 69,
-    "overall": -0.41,
-    "offense": 27.21,
-    "defense": 27.62
+    "overall": -0.43,
+    "offense": 27.25,
+    "defense": 27.68
    }
   },
   "home": {
    "team": "North Carolina",
    "rank_ap": null,
    "records": {
-    "su": "5\u20135",
-    "ats": "7\u20133",
-    "ou": "5\u20135"
+    "su": "5\u20136",
+    "ats": "7\u20134",
+    "ou": "6\u20135"
    },
    "recent": [
+    {
+     "date": "2026-11-21T17:30:00+00:00",
+     "season": 2026,
+     "opp": "Virginia",
+     "site": "A",
+     "pts": 24,
+     "opp_pts": 41,
+     "result": "L",
+     "spread": -1.5,
+     "cover": "L",
+     "total": 42.5,
+     "ou": "O"
+    },
     {
      "date": "2026-11-15T00:00:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "L",
      "total": 49.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-10-17T19:30:00+00:00",
-     "season": 2026,
-     "opp": "Duke",
-     "site": "A",
-     "pts": 24,
-     "opp_pts": 20,
-     "result": "W",
-     "spread": 3.0,
-     "cover": "W",
-     "total": 46.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 25.8,
+     "value": 25.6,
      "fmt": "1",
-     "rank": 84,
+     "rank": 86,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 22.1,
+     "value": 23.8,
      "fmt": "1",
-     "rank": 48,
+     "rank": 62,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 48,
-    "overall": 2.62,
-    "offense": 25.15,
-    "defense": 22.52
+    "rank": 55,
+    "overall": 1.53,
+    "offense": 25.44,
+    "defense": 23.91
    }
   }
  },

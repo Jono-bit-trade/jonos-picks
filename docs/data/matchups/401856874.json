@@ -92,7 +92,7 @@
      "label": "Points allowed per game",
      "value": 18.1,
      "fmt": "1",
-     "rank": 18,
+     "rank": 19,
      "better": false
     },
     {
@@ -274,20 +274,33 @@
    ],
    "rating": {
     "rank": 30,
-    "overall": 5.69,
-    "offense": 28.94,
-    "defense": 23.24
+    "overall": 5.71,
+    "offense": 28.97,
+    "defense": 23.26
    }
   },
   "home": {
    "team": "Houston",
    "rank_ap": 20,
    "records": {
-    "su": "7\u20133",
-    "ats": "3\u20137",
-    "ou": "6\u20134"
+    "su": "8\u20133",
+    "ats": "3\u20138",
+    "ou": "6\u20135"
    },
    "recent": [
+    {
+     "date": "2026-11-21T18:00:00+00:00",
+     "season": 2026,
+     "opp": "West Virginia",
+     "site": "A",
+     "pts": 34,
+     "opp_pts": 31,
+     "result": "W",
+     "spread": -6.5,
+     "cover": "L",
+     "total": 71.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-14T03:15:00+00:00",
      "season": 2026,
@@ -339,26 +352,13 @@
      "cover": "L",
      "total": 62.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-10-10T19:30:00+00:00",
-     "season": 2026,
-     "opp": "Kansas State",
-     "site": "A",
-     "pts": 35,
-     "opp_pts": 16,
-     "result": "W",
-     "spread": 2.5,
-     "cover": "W",
-     "total": 55.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 35.1,
+     "value": 35.0,
      "fmt": "1",
      "rank": 19,
      "better": true
@@ -366,9 +366,9 @@
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 23.4,
+     "value": 24.1,
      "fmt": "1",
-     "rank": 59,
+     "rank": 64,
      "better": false
     },
     {
@@ -550,9 +550,9 @@
    ],
    "rating": {
     "rank": 29,
-    "overall": 6.04,
-    "offense": 29.72,
-    "defense": 23.68
+    "overall": 5.88,
+    "offense": 29.8,
+    "defense": 23.93
    }
   }
  },
