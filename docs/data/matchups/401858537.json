@@ -274,20 +274,33 @@
    ],
    "rating": {
     "rank": 45,
-    "overall": 3.35,
-    "offense": 26.48,
-    "defense": 23.14
+    "overall": 3.34,
+    "offense": 26.45,
+    "defense": 23.11
    }
   },
   "home": {
    "team": "Northwestern",
    "rank_ap": 20,
    "records": {
-    "su": "6\u20134",
-    "ats": "6\u20134",
-    "ou": "7\u20133"
+    "su": "6\u20135",
+    "ats": "6\u20135",
+    "ou": "7\u20134"
    },
    "recent": [
+    {
+     "date": "2026-11-21T17:00:00+00:00",
+     "season": 2026,
+     "opp": "Minnesota",
+     "site": "A",
+     "pts": 17,
+     "opp_pts": 20,
+     "result": "L",
+     "spread": -3.0,
+     "cover": "L",
+     "total": 41.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-14T17:00:00+00:00",
      "season": 2026,
@@ -339,28 +352,15 @@
      "cover": "W",
      "total": 58.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-17T16:00:00+00:00",
-     "season": 2026,
-     "opp": "Michigan State",
-     "site": "A",
-     "pts": 24,
-     "opp_pts": 21,
-     "result": "W",
-     "spread": -7.5,
-     "cover": "L",
-     "total": 50.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 29.8,
+     "value": 28.6,
      "fmt": "1",
-     "rank": 53,
+     "rank": 64,
      "better": true
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 22,
-    "overall": 7.06,
-    "offense": 28.15,
-    "defense": 21.1
+    "rank": 26,
+    "overall": 6.55,
+    "offense": 27.51,
+    "defense": 20.96
    }
   }
  },

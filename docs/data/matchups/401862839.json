@@ -7,11 +7,24 @@
    "team": "Tulane",
    "rank_ap": null,
    "records": {
-    "su": "5\u20135",
-    "ats": "4\u20136",
-    "ou": "5\u20135"
+    "su": "6\u20135",
+    "ats": "5\u20136",
+    "ou": "5\u20136"
    },
    "recent": [
+    {
+     "date": "2026-11-21T17:00:00+00:00",
+     "season": 2026,
+     "opp": "North Texas",
+     "site": "H",
+     "pts": 28,
+     "opp_pts": 24,
+     "result": "W",
+     "spread": 7.5,
+     "cover": "W",
+     "total": 56.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-14T21:30:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "L",
      "total": 52.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-10-16T23:30:00+00:00",
-     "season": 2026,
-     "opp": "Memphis",
-     "site": "H",
-     "pts": 31,
-     "opp_pts": 17,
-     "result": "W",
-     "spread": 6.5,
-     "cover": "W",
-     "total": 55.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 21.0,
+     "value": 21.6,
      "fmt": "1",
-     "rank": 116,
+     "rank": 112,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 28.0,
+     "value": 27.6,
      "fmt": "1",
-     "rank": 98,
+     "rank": 97,
      "better": false
     },
     {
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 110,
-    "overall": -6.0,
-    "offense": 21.08,
-    "defense": 27.08
+    "rank": 104,
+    "overall": -5.44,
+    "offense": 21.04,
+    "defense": 26.47
    }
   },
   "home": {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 64,
-    "overall": -0.03,
-    "offense": 25.75,
-    "defense": 25.78
+    "rank": 65,
+    "overall": -0.01,
+    "offense": 25.83,
+    "defense": 25.84
    }
   }
  },

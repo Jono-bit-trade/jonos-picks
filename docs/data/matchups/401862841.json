@@ -7,11 +7,24 @@
    "team": "Army",
    "rank_ap": null,
    "records": {
-    "su": "5\u20134",
-    "ats": "3\u20135\u20131",
-    "ou": "7\u20132"
+    "su": "5\u20135",
+    "ats": "3\u20136\u20131",
+    "ou": "7\u20133"
    },
    "recent": [
+    {
+     "date": "2026-11-21T17:00:00+00:00",
+     "season": 2026,
+     "opp": "East Carolina",
+     "site": "H",
+     "pts": 6,
+     "opp_pts": 10,
+     "result": "L",
+     "spread": -4.5,
+     "cover": "L",
+     "total": 45.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-08T00:30:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "W",
      "total": 55.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-10-10T16:00:00+00:00",
-     "season": 2026,
-     "opp": "Tulane",
-     "site": "H",
-     "pts": 20,
-     "opp_pts": 17,
-     "result": "W",
-     "spread": -5.5,
-     "cover": "L",
-     "total": 48.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 32.2,
+     "value": 29.6,
      "fmt": "1",
-     "rank": 34,
+     "rank": 55,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 25.3,
+     "value": 23.8,
      "fmt": "1",
-     "rank": 78,
+     "rank": 64,
      "better": false
     },
     {
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 69,
-    "overall": -0.43,
-    "offense": 25.24,
-    "defense": 25.67
+    "rank": 75,
+    "overall": -1.14,
+    "offense": 23.74,
+    "defense": 24.87
    }
   },
   "home": {
@@ -360,7 +360,7 @@
      "label": "Points per game",
      "value": 21.7,
      "fmt": "1",
-     "rank": 110,
+     "rank": 109,
      "better": true
     },
     {
@@ -550,9 +550,9 @@
    ],
    "rating": {
     "rank": 125,
-    "overall": -9.66,
-    "offense": 20.2,
-    "defense": 29.86
+    "overall": -9.63,
+    "offense": 20.26,
+    "defense": 29.89
    }
   }
  },
