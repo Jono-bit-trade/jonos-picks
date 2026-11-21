@@ -84,7 +84,7 @@
      "label": "Points per game",
      "value": 29.2,
      "fmt": "1",
-     "rank": 59,
+     "rank": 60,
      "better": true
     },
     {
@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 70,
-    "overall": -0.76,
-    "offense": 26.72,
-    "defense": 27.48
+    "rank": 71,
+    "overall": -0.75,
+    "offense": 26.71,
+    "defense": 27.46
    }
   },
   "home": {
    "team": "Iowa State",
    "rank_ap": null,
    "records": {
-    "su": "5\u20135",
-    "ats": "4\u20135\u20131",
-    "ou": "5\u20135"
+    "su": "5\u20136",
+    "ats": "4\u20136\u20131",
+    "ou": "6\u20135"
    },
    "recent": [
+    {
+     "date": "2026-11-20T23:00:00+00:00",
+     "season": 2026,
+     "opp": "UCF",
+     "site": "A",
+     "pts": 17,
+     "opp_pts": 48,
+     "result": "L",
+     "spread": -1.5,
+     "cover": "L",
+     "total": 50.5,
+     "ou": "O"
+    },
     {
      "date": "2026-11-14T17:00:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "L",
      "total": 51.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-10T02:15:00+00:00",
-     "season": 2026,
-     "opp": "BYU",
-     "site": "A",
-     "pts": 10,
-     "opp_pts": 24,
-     "result": "L",
-     "spread": 11.5,
-     "cover": "L",
-     "total": 46.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 30.4,
+     "value": 29.2,
      "fmt": "1",
-     "rank": 47,
+     "rank": 62,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 27.3,
+     "value": 29.2,
      "fmt": "1",
-     "rank": 96,
+     "rank": 108,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 64,
-    "overall": -0.03,
-    "offense": 26.55,
-    "defense": 26.58
+    "rank": 80,
+    "overall": -2.01,
+    "offense": 25.99,
+    "defense": 28.0
    }
   }
  },

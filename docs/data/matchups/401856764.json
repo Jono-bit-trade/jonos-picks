@@ -84,7 +84,7 @@
      "label": "Points per game",
      "value": 31.8,
      "fmt": "1",
-     "rank": 40,
+     "rank": 39,
      "better": true
     },
     {
@@ -92,7 +92,7 @@
      "label": "Points allowed per game",
      "value": 24.5,
      "fmt": "1",
-     "rank": 68,
+     "rank": 67,
      "better": false
     },
     {
@@ -274,20 +274,33 @@
    ],
    "rating": {
     "rank": 33,
-    "overall": 5.13,
-    "offense": 28.38,
-    "defense": 23.24
+    "overall": 5.16,
+    "offense": 28.36,
+    "defense": 23.2
    }
   },
   "home": {
    "team": "Clemson",
    "rank_ap": null,
    "records": {
-    "su": "6\u20134",
-    "ats": "4\u20136",
-    "ou": "4\u20136"
+    "su": "7\u20134",
+    "ats": "5\u20136",
+    "ou": "4\u20137"
    },
    "recent": [
+    {
+     "date": "2026-11-21T00:30:00+00:00",
+     "season": 2026,
+     "opp": "Duke",
+     "site": "A",
+     "pts": 20,
+     "opp_pts": 10,
+     "result": "W",
+     "spread": 11.5,
+     "cover": "W",
+     "total": 41.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-14T17:30:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "L",
      "total": 50.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-17T16:00:00+00:00",
-     "season": 2026,
-     "opp": "Charleston Southern",
-     "site": "H",
-     "pts": 37,
-     "opp_pts": 0,
-     "result": "W",
-     "spread": -42.5,
-     "cover": "L",
-     "total": 53.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 21.0,
+     "value": 20.9,
      "fmt": "1",
-     "rank": 116,
+     "rank": 117,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 20.6,
+     "value": 19.6,
      "fmt": "1",
-     "rank": 33,
+     "rank": 32,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 53,
-    "overall": 1.71,
-    "offense": 22.75,
-    "defense": 21.04
+    "rank": 47,
+    "overall": 3.03,
+    "offense": 22.9,
+    "defense": 19.87
    }
   }
  },

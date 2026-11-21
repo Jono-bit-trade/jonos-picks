@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 30,
-    "overall": 5.77,
-    "offense": 28.17,
-    "defense": 22.4
+    "rank": 31,
+    "overall": 5.65,
+    "offense": 28.08,
+    "defense": 22.43
    }
   },
   "home": {
    "team": "Oregon",
    "rank_ap": 14,
    "records": {
-    "su": "7\u20133",
-    "ats": "5\u20135",
-    "ou": "6\u20134"
+    "su": "8\u20133",
+    "ats": "6\u20135",
+    "ou": "7\u20134"
    },
    "recent": [
+    {
+     "date": "2026-11-21T01:00:00+00:00",
+     "season": 2026,
+     "opp": "Michigan State",
+     "site": "A",
+     "pts": 45,
+     "opp_pts": 7,
+     "result": "W",
+     "spread": -19.5,
+     "cover": "W",
+     "total": 42.5,
+     "ou": "O"
+    },
     {
      "date": "2026-11-14T20:30:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "L",
      "total": 49.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-18T03:00:00+00:00",
-     "season": 2026,
-     "opp": "Nebraska",
-     "site": "H",
-     "pts": 17,
-     "opp_pts": 14,
-     "result": "W",
-     "spread": -6.5,
-     "cover": "L",
-     "total": 50.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 33.8,
+     "value": 34.8,
      "fmt": "1",
-     "rank": 26,
+     "rank": 22,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 20.6,
+     "value": 19.4,
      "fmt": "1",
-     "rank": 33,
+     "rank": 28,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 5,
-    "overall": 15.27,
-    "offense": 34.06,
-    "defense": 18.79
+    "rank": 3,
+    "overall": 16.88,
+    "offense": 34.91,
+    "defense": 18.03
    }
   }
  },

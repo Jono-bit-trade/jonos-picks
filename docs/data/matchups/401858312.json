@@ -7,11 +7,24 @@
    "team": "Duke",
    "rank_ap": null,
    "records": {
-    "su": "7\u20133",
-    "ats": "8\u20132",
-    "ou": "4\u20136"
+    "su": "7\u20134",
+    "ats": "8\u20133",
+    "ou": "4\u20137"
    },
    "recent": [
+    {
+     "date": "2026-11-21T00:30:00+00:00",
+     "season": 2026,
+     "opp": "Clemson",
+     "site": "H",
+     "pts": 10,
+     "opp_pts": 20,
+     "result": "L",
+     "spread": -11.5,
+     "cover": "L",
+     "total": 41.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-14T17:00:00+00:00",
      "season": 2026,
@@ -63,34 +76,21 @@
      "cover": "W",
      "total": 47.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-17T19:30:00+00:00",
-     "season": 2026,
-     "opp": "North Carolina",
-     "site": "H",
-     "pts": 20,
-     "opp_pts": 24,
-     "result": "L",
-     "spread": -3.0,
-     "cover": "L",
-     "total": 46.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 32.2,
+     "value": 30.2,
      "fmt": "1",
-     "rank": 36,
+     "rank": 51,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 15.3,
+     "value": 15.7,
      "fmt": "1",
      "rank": 13,
      "better": false
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 20,
-    "overall": 7.79,
-    "offense": 29.8,
-    "defense": 22.0
+    "rank": 27,
+    "overall": 6.49,
+    "offense": 28.64,
+    "defense": 22.15
    }
   },
   "home": {
@@ -550,9 +550,9 @@
    ],
    "rating": {
     "rank": 8,
-    "overall": 13.73,
-    "offense": 32.94,
-    "defense": 19.21
+    "overall": 13.71,
+    "offense": 32.91,
+    "defense": 19.19
    }
   }
  },

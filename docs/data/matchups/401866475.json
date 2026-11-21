@@ -92,7 +92,7 @@
      "label": "Points allowed per game",
      "value": 23.4,
      "fmt": "1",
-     "rank": 57,
+     "rank": 56,
      "better": false
     },
     {
@@ -274,20 +274,33 @@
    ],
    "rating": {
     "rank": 131,
-    "overall": -12.92,
-    "offense": 18.01,
-    "defense": 30.93
+    "overall": -12.91,
+    "offense": 18.04,
+    "defense": 30.96
    }
   },
   "home": {
    "team": "Bowling Green",
    "rank_ap": null,
    "records": {
-    "su": "3\u20137",
-    "ats": "5\u20135",
-    "ou": "7\u20133"
+    "su": "3\u20138",
+    "ats": "5\u20136",
+    "ou": "7\u20134"
    },
    "recent": [
+    {
+     "date": "2026-11-21T00:30:00+00:00",
+     "season": 2026,
+     "opp": "Toledo",
+     "site": "A",
+     "pts": 0,
+     "opp_pts": 19,
+     "result": "L",
+     "spread": 16.5,
+     "cover": "L",
+     "total": 45.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-11T00:00:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "L",
      "total": 46.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-10-10T16:00:00+00:00",
-     "season": 2026,
-     "opp": "Sacramento State",
-     "site": "H",
-     "pts": 38,
-     "opp_pts": 10,
-     "result": "W",
-     "spread": -9.5,
-     "cover": "W",
-     "total": 43.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 19.3,
+     "value": 17.5,
      "fmt": "1",
-     "rank": 126,
+     "rank": 131,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 28.9,
+     "value": 28.0,
      "fmt": "1",
-     "rank": 106,
+     "rank": 98,
      "better": false
     },
     {
@@ -550,9 +550,9 @@
    ],
    "rating": {
     "rank": 126,
-    "overall": -9.78,
-    "offense": 19.35,
-    "defense": 29.13
+    "overall": -10.16,
+    "offense": 18.05,
+    "defense": 28.21
    }
   }
  },

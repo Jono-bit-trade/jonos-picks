@@ -84,7 +84,7 @@
      "label": "Points per game",
      "value": 33.2,
      "fmt": "1",
-     "rank": 28,
+     "rank": 27,
      "better": true
     },
     {
@@ -274,9 +274,9 @@
    ],
    "rating": {
     "rank": 56,
-    "overall": 1.33,
-    "offense": 28.87,
-    "defense": 27.54
+    "overall": 1.34,
+    "offense": 28.86,
+    "defense": 27.52
    }
   },
   "home": {
@@ -550,9 +550,9 @@
    ],
    "rating": {
     "rank": 101,
-    "overall": -5.17,
-    "offense": 22.13,
-    "defense": 27.3
+    "overall": -5.16,
+    "offense": 22.11,
+    "defense": 27.27
    }
   }
  },

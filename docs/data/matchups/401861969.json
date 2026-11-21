@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 84,
-    "overall": -2.13,
-    "offense": 27.66,
-    "defense": 29.79
+    "rank": 81,
+    "overall": -2.04,
+    "offense": 27.68,
+    "defense": 29.72
    }
   },
   "home": {
    "team": "Wyoming",
    "rank_ap": null,
    "records": {
-    "su": "7\u20133",
-    "ats": "6\u20134",
-    "ou": "4\u20136"
+    "su": "7\u20134",
+    "ats": "7\u20134",
+    "ou": "5\u20136"
    },
    "recent": [
+    {
+     "date": "2026-11-21T02:00:00+00:00",
+     "season": 2026,
+     "opp": "New Mexico",
+     "site": "H",
+     "pts": 17,
+     "opp_pts": 24,
+     "result": "L",
+     "spread": 10.5,
+     "cover": "W",
+     "total": 37.5,
+     "ou": "O"
+    },
     {
      "date": "2026-11-15T03:00:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "W",
      "total": 42.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-10-10T01:00:00+00:00",
-     "season": 2026,
-     "opp": "San Jos\u00e9 State",
-     "site": "A",
-     "pts": 16,
-     "opp_pts": 13,
-     "result": "W",
-     "spread": 4.5,
-     "cover": "W",
-     "total": 42.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 22.4,
+     "value": 21.9,
      "fmt": "1",
-     "rank": 105,
+     "rank": 108,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 21.0,
+     "value": 21.3,
      "fmt": "1",
-     "rank": 37,
+     "rank": 39,
      "better": false
     },
     {
@@ -550,9 +550,9 @@
    ],
    "rating": {
     "rank": 103,
-    "overall": -5.29,
-    "offense": 19.8,
-    "defense": 25.09
+    "overall": -5.37,
+    "offense": 19.77,
+    "defense": 25.14
    }
   }
  },
