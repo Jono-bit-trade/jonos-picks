@@ -84,7 +84,7 @@
      "label": "Points per game",
      "value": 24.0,
      "fmt": "1",
-     "rank": 96,
+     "rank": 95,
      "better": true
     },
     {
@@ -274,20 +274,33 @@
    ],
    "rating": {
     "rank": 96,
-    "overall": -4.3,
-    "offense": 25.33,
-    "defense": 29.63
+    "overall": -4.16,
+    "offense": 25.35,
+    "defense": 29.51
    }
   },
   "home": {
    "team": "Georgia",
    "rank_ap": 1,
    "records": {
-    "su": "9\u20131",
-    "ats": "8\u20132",
-    "ou": "7\u20133"
+    "su": "10\u20131",
+    "ats": "9\u20132",
+    "ou": "7\u20134"
    },
    "recent": [
+    {
+     "date": "2026-11-22T00:30:00+00:00",
+     "season": 2026,
+     "opp": "South Carolina",
+     "site": "A",
+     "pts": 34,
+     "opp_pts": 6,
+     "result": "W",
+     "spread": -16.5,
+     "cover": "W",
+     "total": 51.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-14T20:30:00+00:00",
      "season": 2026,
@@ -339,26 +352,13 @@
      "cover": "L",
      "total": 50.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-10-10T23:30:00+00:00",
-     "season": 2026,
-     "opp": "Alabama",
-     "site": "A",
-     "pts": 20,
-     "opp_pts": 17,
-     "result": "W",
-     "spread": 2.5,
-     "cover": "W",
-     "total": 51.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 41.8,
+     "value": 41.1,
      "fmt": "1",
      "rank": 4,
      "better": true
@@ -366,9 +366,9 @@
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 14.7,
+     "value": 13.9,
      "fmt": "1",
-     "rank": 9,
+     "rank": 6,
      "better": false
     },
     {
@@ -550,9 +550,9 @@
    ],
    "rating": {
     "rank": 1,
-    "overall": 20.13,
-    "offense": 36.03,
-    "defense": 15.9
+    "overall": 21.24,
+    "offense": 36.12,
+    "defense": 14.87
    }
   }
  },

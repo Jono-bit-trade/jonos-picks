@@ -7,11 +7,24 @@
    "team": "Tennessee",
    "rank_ap": 9,
    "records": {
-    "su": "8\u20132",
-    "ats": "6\u20134",
-    "ou": "2\u20138"
+    "su": "9\u20132",
+    "ats": "7\u20134",
+    "ou": "2\u20139"
    },
    "recent": [
+    {
+     "date": "2026-11-21T20:30:00+00:00",
+     "season": 2026,
+     "opp": "LSU",
+     "site": "H",
+     "pts": 27,
+     "opp_pts": 13,
+     "result": "W",
+     "spread": 2.5,
+     "cover": "W",
+     "total": 45.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-14T20:00:00+00:00",
      "season": 2026,
@@ -63,34 +76,21 @@
      "cover": "W",
      "total": 50.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-10T20:15:00+00:00",
-     "season": 2026,
-     "opp": "Arkansas",
-     "site": "A",
-     "pts": 24,
-     "opp_pts": 17,
-     "result": "W",
-     "spread": -13.5,
-     "cover": "L",
-     "total": 51.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 31.4,
+     "value": 31.0,
      "fmt": "1",
-     "rank": 40,
+     "rank": 41,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 14.3,
+     "value": 14.2,
      "fmt": "1",
      "rank": 7,
      "better": false
@@ -274,9 +274,9 @@
    ],
    "rating": {
     "rank": 11,
-    "overall": 12.3,
-    "offense": 31.86,
-    "defense": 19.56
+    "overall": 12.69,
+    "offense": 31.66,
+    "defense": 18.97
    }
   },
   "home": {
@@ -360,7 +360,7 @@
      "label": "Points per game",
      "value": 21.8,
      "fmt": "1",
-     "rank": 109,
+     "rank": 110,
      "better": true
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 71,
-    "overall": -0.91,
-    "offense": 25.59,
-    "defense": 26.5
+    "rank": 69,
+    "overall": -0.82,
+    "offense": 25.61,
+    "defense": 26.43
    }
   }
  },

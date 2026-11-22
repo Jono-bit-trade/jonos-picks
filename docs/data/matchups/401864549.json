@@ -7,11 +7,24 @@
    "team": "North Dakota State",
    "rank_ap": null,
    "records": {
-    "su": "8\u20132",
-    "ats": "4\u20136",
-    "ou": "2\u20138"
+    "su": "9\u20132",
+    "ats": "4\u20137",
+    "ou": "3\u20138"
    },
    "recent": [
+    {
+     "date": "2026-11-21T21:00:00+00:00",
+     "season": 2026,
+     "opp": "Northern Illinois",
+     "site": "H",
+     "pts": 31,
+     "opp_pts": 25,
+     "result": "W",
+     "spread": -25.5,
+     "cover": "L",
+     "total": 46.5,
+     "ou": "O"
+    },
     {
      "date": "2026-11-15T04:00:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "L",
      "total": 42.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-10-10T23:00:00+00:00",
-     "season": 2026,
-     "opp": "UNLV",
-     "site": "A",
-     "pts": 7,
-     "opp_pts": 13,
-     "result": "L",
-     "spread": -3.0,
-     "cover": "L",
-     "total": 47.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 27.4,
+     "value": 27.7,
      "fmt": "1",
-     "rank": 72,
+     "rank": 71,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 12.0,
+     "value": 13.2,
      "fmt": "1",
-     "rank": 2,
+     "rank": 4,
      "better": false
     },
     {
@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 63,
-    "overall": 0.43,
-    "offense": 23.16,
-    "defense": 22.72
+    "rank": 67,
+    "overall": -0.52,
+    "offense": 23.07,
+    "defense": 23.59
    }
   },
   "home": {
    "team": "San Jos\u00e9 State",
    "rank_ap": null,
    "records": {
-    "su": "5\u20136",
-    "ats": "5\u20136",
-    "ou": "1\u201310"
+    "su": "5\u20137",
+    "ats": "6\u20136",
+    "ou": "1\u201311"
    },
    "recent": [
+    {
+     "date": "2026-11-22T00:00:00+00:00",
+     "season": 2026,
+     "opp": "UNLV",
+     "site": "H",
+     "pts": 22,
+     "opp_pts": 24,
+     "result": "L",
+     "spread": 6.5,
+     "cover": "W",
+     "total": 48.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-15T00:00:00+00:00",
      "season": 2026,
@@ -339,26 +352,13 @@
      "cover": "L",
      "total": 46.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-18T01:00:00+00:00",
-     "season": 2026,
-     "opp": "UTEP",
-     "site": "A",
-     "pts": 24,
-     "opp_pts": 11,
-     "result": "W",
-     "spread": -6.5,
-     "cover": "W",
-     "total": 46.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 19.3,
+     "value": 19.5,
      "fmt": "1",
      "rank": 126,
      "better": true
@@ -366,9 +366,9 @@
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 22.2,
+     "value": 22.3,
      "fmt": "1",
-     "rank": 49,
+     "rank": 50,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 123,
-    "overall": -8.82,
-    "offense": 19.08,
-    "defense": 27.9
+    "rank": 119,
+    "overall": -8.67,
+    "offense": 18.96,
+    "defense": 27.63
    }
   }
  },

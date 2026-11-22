@@ -92,7 +92,7 @@
      "label": "Points allowed per game",
      "value": 25.3,
      "fmt": "1",
-     "rank": 76,
+     "rank": 74,
      "better": false
     },
     {
@@ -275,19 +275,32 @@
    "rating": {
     "rank": 89,
     "overall": -3.31,
-    "offense": 22.69,
-    "defense": 26.0
+    "offense": 22.71,
+    "defense": 26.02
    }
   },
   "home": {
    "team": "Rutgers",
    "rank_ap": null,
    "records": {
-    "su": "2\u20138",
-    "ats": "4\u20136",
-    "ou": "6\u20134"
+    "su": "3\u20138",
+    "ats": "5\u20136",
+    "ou": "7\u20134"
    },
    "recent": [
+    {
+     "date": "2026-11-21T20:30:00+00:00",
+     "season": 2026,
+     "opp": "Penn State",
+     "site": "A",
+     "pts": 25,
+     "opp_pts": 24,
+     "result": "W",
+     "spread": 24.5,
+     "cover": "W",
+     "total": 48.5,
+     "ou": "O"
+    },
     {
      "date": "2026-11-14T17:30:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "L",
      "total": 58.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-17T16:30:00+00:00",
-     "season": 2026,
-     "opp": "Maryland",
-     "site": "A",
-     "pts": 37,
-     "opp_pts": 30,
-     "result": "W",
-     "spread": 5.5,
-     "cover": "W",
-     "total": 55.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 23.2,
+     "value": 23.4,
      "fmt": "1",
-     "rank": 102,
+     "rank": 101,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 32.3,
+     "value": 31.5,
      "fmt": "1",
-     "rank": 125,
+     "rank": 122,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 103,
-    "overall": -5.3,
-    "offense": 25.41,
-    "defense": 30.72
+    "rank": 97,
+    "overall": -4.2,
+    "offense": 25.7,
+    "defense": 29.89
    }
   }
  },

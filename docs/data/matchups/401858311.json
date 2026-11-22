@@ -92,7 +92,7 @@
      "label": "Points allowed per game",
      "value": 27.2,
      "fmt": "1",
-     "rank": 95,
+     "rank": 93,
      "better": false
     },
     {
@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 98,
-    "overall": -4.72,
-    "offense": 22.27,
-    "defense": 26.99
+    "rank": 100,
+    "overall": -4.83,
+    "offense": 22.35,
+    "defense": 27.18
    }
   },
   "home": {
    "team": "Miami",
    "rank_ap": 5,
    "records": {
-    "su": "9\u20131",
-    "ats": "6\u20134",
-    "ou": "9\u20131"
+    "su": "10\u20131",
+    "ats": "6\u20135",
+    "ou": "9\u20132"
    },
    "recent": [
+    {
+     "date": "2026-11-22T00:00:00+00:00",
+     "season": 2026,
+     "opp": "Virginia Tech",
+     "site": "H",
+     "pts": 28,
+     "opp_pts": 20,
+     "result": "W",
+     "spread": -21.5,
+     "cover": "L",
+     "total": 62.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-14T17:00:00+00:00",
      "season": 2026,
@@ -339,26 +352,13 @@
      "cover": "W",
      "total": 50.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-10-17T23:00:00+00:00",
-     "season": 2026,
-     "opp": "Florida State",
-     "site": "H",
-     "pts": 43,
-     "opp_pts": 35,
-     "result": "W",
-     "spread": -20.5,
-     "cover": "L",
-     "total": 57.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 44.1,
+     "value": 42.6,
      "fmt": "1",
      "rank": 2,
      "better": true
@@ -368,7 +368,7 @@
      "label": "Points allowed per game",
      "value": 19.8,
      "fmt": "1",
-     "rank": 33,
+     "rank": 30,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 4,
-    "overall": 16.42,
-    "offense": 36.51,
-    "defense": 20.09
+    "rank": 5,
+    "overall": 15.37,
+    "offense": 35.58,
+    "defense": 20.22
    }
   }
  },

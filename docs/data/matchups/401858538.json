@@ -92,7 +92,7 @@
      "label": "Points allowed per game",
      "value": 32.8,
      "fmt": "1",
-     "rank": 126,
+     "rank": 125,
      "better": false
     },
     {
@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 97,
+    "rank": 99,
     "overall": -4.63,
-    "offense": 25.21,
-    "defense": 29.83
+    "offense": 25.18,
+    "defense": 29.81
    }
   },
   "home": {
    "team": "Indiana",
    "rank_ap": 6,
    "records": {
-    "su": "9\u20131",
-    "ats": "2\u20138",
-    "ou": "3\u20137"
+    "su": "9\u20132",
+    "ats": "2\u20139",
+    "ou": "4\u20137"
    },
    "recent": [
+    {
+     "date": "2026-11-21T20:30:00+00:00",
+     "season": 2026,
+     "opp": "Washington",
+     "site": "A",
+     "pts": 24,
+     "opp_pts": 27,
+     "result": "L",
+     "spread": -9.5,
+     "cover": "L",
+     "total": 44.5,
+     "ou": "O"
+    },
     {
      "date": "2026-11-14T20:30:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "L",
      "total": 49.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-10T16:00:00+00:00",
-     "season": 2026,
-     "opp": "Nebraska",
-     "site": "A",
-     "pts": 20,
-     "opp_pts": 17,
-     "result": "W",
-     "spread": -9.5,
-     "cover": "L",
-     "total": 48.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 31.9,
+     "value": 31.2,
      "fmt": "1",
-     "rank": 36,
+     "rank": 39,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 12.5,
+     "value": 13.8,
      "fmt": "1",
-     "rank": 4,
+     "rank": 5,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 9,
-    "overall": 13.59,
-    "offense": 30.08,
-    "defense": 16.49
+    "rank": 10,
+    "overall": 13.11,
+    "offense": 30.01,
+    "defense": 16.9
    }
   }
  },

@@ -274,20 +274,33 @@
    ],
    "rating": {
     "rank": 74,
-    "overall": -1.44,
-    "offense": 24.55,
-    "defense": 25.99
+    "overall": -1.45,
+    "offense": 24.42,
+    "defense": 25.87
    }
   },
   "home": {
    "team": "Delaware",
    "rank_ap": null,
    "records": {
-    "su": "5\u20135",
-    "ats": "6\u20134",
-    "ou": "5\u20135"
+    "su": "6\u20135",
+    "ats": "7\u20134",
+    "ou": "6\u20135"
    },
    "recent": [
+    {
+     "date": "2026-11-21T20:00:00+00:00",
+     "season": 2026,
+     "opp": "New Mexico State",
+     "site": "A",
+     "pts": 42,
+     "opp_pts": 30,
+     "result": "W",
+     "spread": -1.5,
+     "cover": "W",
+     "total": 53.5,
+     "ou": "O"
+    },
     {
      "date": "2026-11-14T20:00:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "W",
      "total": 54.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-10-13T23:00:00+00:00",
-     "season": 2026,
-     "opp": "Middle Tennessee",
-     "site": "A",
-     "pts": 30,
-     "opp_pts": 33,
-     "result": "L",
-     "spread": -1.5,
-     "cover": "L",
-     "total": 49.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 29.7,
+     "value": 30.8,
      "fmt": "1",
-     "rank": 53,
+     "rank": 44,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 27.8,
+     "value": 28.0,
      "fmt": "1",
-     "rank": 99,
+     "rank": 100,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 93,
-    "overall": -4.01,
-    "offense": 26.51,
-    "defense": 30.52
+    "rank": 92,
+    "overall": -3.43,
+    "offense": 27.32,
+    "defense": 30.75
    }
   }
  },

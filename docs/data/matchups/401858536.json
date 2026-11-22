@@ -84,7 +84,7 @@
      "label": "Points per game",
      "value": 30.4,
      "fmt": "1",
-     "rank": 45,
+     "rank": 46,
      "better": true
     },
     {
@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 20,
-    "overall": 7.84,
-    "offense": 27.55,
-    "defense": 19.71
+    "rank": 21,
+    "overall": 7.88,
+    "offense": 27.52,
+    "defense": 19.64
    }
   },
   "home": {
    "team": "Iowa",
    "rank_ap": 13,
    "records": {
-    "su": "8\u20132",
-    "ats": "7\u20133",
-    "ou": "2\u20138"
+    "su": "9\u20132",
+    "ats": "8\u20133",
+    "ou": "3\u20138"
    },
    "recent": [
+    {
+     "date": "2026-11-21T19:30:00+00:00",
+     "season": 2026,
+     "opp": "Illinois",
+     "site": "A",
+     "pts": 34,
+     "opp_pts": 17,
+     "result": "W",
+     "spread": -7.5,
+     "cover": "W",
+     "total": 42.5,
+     "ou": "O"
+    },
     {
      "date": "2026-11-15T00:30:00+00:00",
      "season": 2026,
@@ -339,34 +352,21 @@
      "cover": "L",
      "total": 40.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-10T01:00:00+00:00",
-     "season": 2026,
-     "opp": "Washington",
-     "site": "A",
-     "pts": 41,
-     "opp_pts": 24,
-     "result": "W",
-     "spread": 3.0,
-     "cover": "W",
-     "total": 41.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 27.8,
+     "value": 28.4,
      "fmt": "1",
-     "rank": 70,
+     "rank": 65,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 11.7,
+     "value": 12.2,
      "fmt": "1",
      "rank": 1,
      "better": false
@@ -550,9 +550,9 @@
    ],
    "rating": {
     "rank": 13,
-    "overall": 10.48,
-    "offense": 27.2,
-    "defense": 16.71
+    "overall": 11.42,
+    "offense": 27.92,
+    "defense": 16.5
    }
   }
  },

@@ -92,7 +92,7 @@
      "label": "Points allowed per game",
      "value": 25.9,
      "fmt": "1",
-     "rank": 83,
+     "rank": 81,
      "better": false
     },
     {
@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 57,
-    "overall": 1.33,
-    "offense": 25.89,
-    "defense": 24.56
+    "rank": 58,
+    "overall": 1.27,
+    "offense": 25.9,
+    "defense": 24.63
    }
   },
   "home": {
    "team": "Arizona",
    "rank_ap": 19,
    "records": {
-    "su": "7\u20133",
-    "ats": "4\u20136",
-    "ou": "6\u20134"
+    "su": "8\u20133",
+    "ats": "4\u20137",
+    "ou": "7\u20134"
    },
    "recent": [
+    {
+     "date": "2026-11-22T00:00:00+00:00",
+     "season": 2026,
+     "opp": "Kansas State",
+     "site": "A",
+     "pts": 35,
+     "opp_pts": 28,
+     "result": "W",
+     "spread": -10.0,
+     "cover": "L",
+     "total": 53.5,
+     "ou": "O"
+    },
     {
      "date": "2026-11-15T03:30:00+00:00",
      "season": 2026,
@@ -339,19 +352,6 @@
      "cover": "W",
      "total": 51.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-10T16:00:00+00:00",
-     "season": 2026,
-     "opp": "West Virginia",
-     "site": "A",
-     "pts": 52,
-     "opp_pts": 31,
-     "result": "W",
-     "spread": -3.5,
-     "cover": "W",
-     "total": 61.5,
-     "ou": "O"
     }
    ],
    "stats": [
@@ -360,15 +360,15 @@
      "label": "Points per game",
      "value": 34.7,
      "fmt": "1",
-     "rank": 21,
+     "rank": 20,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 21.9,
+     "value": 22.5,
      "fmt": "1",
-     "rank": 47,
+     "rank": 51,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 19,
-    "overall": 8.19,
-    "offense": 31.01,
-    "defense": 22.82
+    "rank": 20,
+    "overall": 8.26,
+    "offense": 31.28,
+    "defense": 23.01
    }
   }
  },

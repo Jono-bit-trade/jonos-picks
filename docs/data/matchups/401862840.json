@@ -84,7 +84,7 @@
      "label": "Points per game",
      "value": 34.4,
      "fmt": "1",
-     "rank": 24,
+     "rank": 23,
      "better": true
     },
     {
@@ -92,7 +92,7 @@
      "label": "Points allowed per game",
      "value": 21.8,
      "fmt": "1",
-     "rank": 46,
+     "rank": 44,
      "better": false
     },
     {
@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 62,
-    "overall": 0.46,
-    "offense": 26.6,
-    "defense": 26.14
+    "rank": 64,
+    "overall": 0.52,
+    "offense": 26.62,
+    "defense": 26.1
    }
   },
   "home": {
    "team": "UTSA",
    "rank_ap": null,
    "records": {
-    "su": "8\u20132",
-    "ats": "6\u20134",
-    "ou": "6\u20134"
+    "su": "9\u20132",
+    "ats": "6\u20135",
+    "ou": "6\u20135"
    },
    "recent": [
+    {
+     "date": "2026-11-22T01:00:00+00:00",
+     "season": 2026,
+     "opp": "UAB",
+     "site": "A",
+     "pts": 19,
+     "opp_pts": 17,
+     "result": "W",
+     "spread": -4.0,
+     "cover": "L",
+     "total": 49.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-15T02:00:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "L",
      "total": 52.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-10-08T23:30:00+00:00",
-     "season": 2026,
-     "opp": "South Florida",
-     "site": "H",
-     "pts": 31,
-     "opp_pts": 24,
-     "result": "W",
-     "spread": -5.5,
-     "cover": "W",
-     "total": 49.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 33.2,
+     "value": 31.9,
      "fmt": "1",
-     "rank": 29,
+     "rank": 33,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 28.4,
+     "value": 27.4,
      "fmt": "1",
-     "rank": 103,
+     "rank": 95,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 56,
-    "overall": 1.39,
-    "offense": 28.93,
-    "defense": 27.54
+    "rank": 55,
+    "overall": 1.46,
+    "offense": 28.31,
+    "defense": 26.86
    }
   }
  },

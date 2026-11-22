@@ -7,11 +7,24 @@
    "team": "Kennesaw State",
    "rank_ap": null,
    "records": {
-    "su": "4\u20136",
-    "ats": "7\u20133",
-    "ou": "3\u20137"
+    "su": "5\u20136",
+    "ats": "8\u20133",
+    "ou": "4\u20137"
    },
    "recent": [
+    {
+     "date": "2026-11-21T20:00:00+00:00",
+     "season": 2026,
+     "opp": "Florida International",
+     "site": "H",
+     "pts": 35,
+     "opp_pts": 24,
+     "result": "W",
+     "spread": -1.5,
+     "cover": "W",
+     "total": 44.5,
+     "ou": "O"
+    },
     {
      "date": "2026-11-14T19:00:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "L",
      "total": 50.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-14T23:30:00+00:00",
-     "season": 2026,
-     "opp": "Missouri State",
-     "site": "A",
-     "pts": 21,
-     "opp_pts": 24,
-     "result": "L",
-     "spread": -2.5,
-     "cover": "L",
-     "total": 52.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 25.2,
+     "value": 26.1,
      "fmt": "1",
-     "rank": 90,
+     "rank": 81,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 25.0,
+     "value": 24.9,
      "fmt": "1",
-     "rank": 73,
+     "rank": 71,
      "better": false
     },
     {
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 109,
-    "overall": -6.19,
-    "offense": 22.33,
-    "defense": 28.51
+    "rank": 108,
+    "overall": -5.7,
+    "offense": 23.04,
+    "defense": 28.74
    }
   },
   "home": {
@@ -360,7 +360,7 @@
      "label": "Points per game",
      "value": 23.6,
      "fmt": "1",
-     "rank": 99,
+     "rank": 98,
      "better": true
     },
     {
@@ -368,7 +368,7 @@
      "label": "Points allowed per game",
      "value": 33.5,
      "fmt": "1",
-     "rank": 128,
+     "rank": 129,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 111,
-    "overall": -6.48,
-    "offense": 24.17,
-    "defense": 30.65
+    "rank": 110,
+    "overall": -6.45,
+    "offense": 24.13,
+    "defense": 30.59
    }
   }
  },

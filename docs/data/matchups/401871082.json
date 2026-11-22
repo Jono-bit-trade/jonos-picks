@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 135,
-    "overall": -13.87,
-    "offense": 16.95,
-    "defense": 30.83
+    "rank": 134,
+    "overall": -13.92,
+    "offense": 16.89,
+    "defense": 30.81
    }
   },
   "home": {
    "team": "Florida International",
    "rank_ap": null,
    "records": {
-    "su": "4\u20136",
-    "ats": "3\u20136\u20131",
-    "ou": "4\u20136"
+    "su": "4\u20137",
+    "ats": "3\u20137\u20131",
+    "ou": "5\u20136"
    },
    "recent": [
+    {
+     "date": "2026-11-21T20:00:00+00:00",
+     "season": 2026,
+     "opp": "Kennesaw State",
+     "site": "A",
+     "pts": 24,
+     "opp_pts": 35,
+     "result": "L",
+     "spread": 1.5,
+     "cover": "L",
+     "total": 44.5,
+     "ou": "O"
+    },
     {
      "date": "2026-11-14T20:00:00+00:00",
      "season": 2026,
@@ -339,26 +352,13 @@
      "cover": "L",
      "total": 46.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-10-14T00:00:00+00:00",
-     "season": 2026,
-     "opp": "Jacksonville State",
-     "site": "A",
-     "pts": 24,
-     "opp_pts": 27,
-     "result": "L",
-     "spread": 3.0,
-     "cover": "P",
-     "total": 44.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 19.0,
+     "value": 19.5,
      "fmt": "1",
      "rank": 127,
      "better": true
@@ -366,9 +366,9 @@
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 20.7,
+     "value": 22.0,
      "fmt": "1",
-     "rank": 37,
+     "rank": 47,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 112,
-    "overall": -6.66,
-    "offense": 19.43,
-    "defense": 26.09
+    "rank": 113,
+    "overall": -7.17,
+    "offense": 19.62,
+    "defense": 26.79
    }
   }
  },

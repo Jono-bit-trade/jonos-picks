@@ -7,11 +7,24 @@
    "team": "Coastal Carolina",
    "rank_ap": null,
    "records": {
-    "su": "4\u20136",
-    "ats": "5\u20135",
-    "ou": "4\u20136"
+    "su": "4\u20137",
+    "ats": "5\u20136",
+    "ou": "5\u20136"
    },
    "recent": [
+    {
+     "date": "2026-11-21T20:00:00+00:00",
+     "season": 2026,
+     "opp": "Louisiana",
+     "site": "A",
+     "pts": 24,
+     "opp_pts": 38,
+     "result": "L",
+     "spread": 10.5,
+     "cover": "L",
+     "total": 49.5,
+     "ou": "O"
+    },
     {
      "date": "2026-11-14T18:00:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "L",
      "total": 48.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-10-10T23:00:00+00:00",
-     "season": 2026,
-     "opp": "Marshall",
-     "site": "A",
-     "pts": 27,
-     "opp_pts": 21,
-     "result": "W",
-     "spread": 4.5,
-     "cover": "W",
-     "total": 57.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 25.0,
+     "value": 24.9,
      "fmt": "1",
-     "rank": 92,
+     "rank": 91,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 24.3,
+     "value": 25.5,
      "fmt": "1",
-     "rank": 65,
+     "rank": 77,
      "better": false
     },
     {
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 116,
-    "overall": -7.58,
-    "offense": 21.23,
-    "defense": 28.8
+    "rank": 117,
+    "overall": -7.72,
+    "offense": 21.51,
+    "defense": 29.24
    }
   },
   "home": {
@@ -360,7 +360,7 @@
      "label": "Points per game",
      "value": 38.9,
      "fmt": "1",
-     "rank": 9,
+     "rank": 7,
      "better": true
     },
     {
@@ -368,7 +368,7 @@
      "label": "Points allowed per game",
      "value": 21.7,
      "fmt": "1",
-     "rank": 44,
+     "rank": 42,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 40,
+    "rank": 39,
     "overall": 4.14,
-    "offense": 30.37,
-    "defense": 26.23
+    "offense": 30.32,
+    "defense": 26.18
    }
   }
  },

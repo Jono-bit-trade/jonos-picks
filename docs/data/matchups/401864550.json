@@ -92,7 +92,7 @@
      "label": "Points allowed per game",
      "value": 35.3,
      "fmt": "1",
-     "rank": 132,
+     "rank": 134,
      "better": false
     },
     {
@@ -274,20 +274,33 @@
    ],
    "rating": {
     "rank": 138,
-    "overall": -16.18,
+    "overall": -16.15,
     "offense": 16.52,
-    "defense": 32.7
+    "defense": 32.67
    }
   },
   "home": {
    "team": "Northern Illinois",
    "rank_ap": null,
    "records": {
-    "su": "0\u201310",
-    "ats": "3\u20137",
-    "ou": "4\u20136"
+    "su": "0\u201311",
+    "ats": "4\u20137",
+    "ou": "5\u20136"
    },
    "recent": [
+    {
+     "date": "2026-11-21T21:00:00+00:00",
+     "season": 2026,
+     "opp": "North Dakota State",
+     "site": "A",
+     "pts": 25,
+     "opp_pts": 31,
+     "result": "L",
+     "spread": 25.5,
+     "cover": "W",
+     "total": 46.5,
+     "ou": "O"
+    },
     {
      "date": "2026-11-14T20:30:00+00:00",
      "season": 2026,
@@ -339,34 +352,21 @@
      "cover": "L",
      "total": 48.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-10-17T19:30:00+00:00",
-     "season": 2026,
-     "opp": "Wyoming",
-     "site": "A",
-     "pts": 23,
-     "opp_pts": 41,
-     "result": "L",
-     "spread": 7.0,
-     "cover": "L",
-     "total": 42.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 15.6,
+     "value": 16.5,
      "fmt": "1",
-     "rank": 136,
+     "rank": 135,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 35.9,
+     "value": 35.5,
      "fmt": "1",
      "rank": 135,
      "better": false
@@ -550,9 +550,9 @@
    ],
    "rating": {
     "rank": 137,
-    "overall": -16.05,
-    "offense": 17.1,
-    "defense": 33.15
+    "overall": -15.09,
+    "offense": 17.95,
+    "defense": 33.04
    }
   }
  },

@@ -7,11 +7,24 @@
    "team": "NC State",
    "rank_ap": null,
    "records": {
-    "su": "4\u20136",
-    "ats": "3\u20136\u20131",
-    "ou": "6\u20134"
+    "su": "5\u20136",
+    "ats": "4\u20136\u20131",
+    "ou": "6\u20135"
    },
    "recent": [
+    {
+     "date": "2026-11-21T20:30:00+00:00",
+     "season": 2026,
+     "opp": "Florida State",
+     "site": "A",
+     "pts": 28,
+     "opp_pts": 10,
+     "result": "W",
+     "spread": 10.5,
+     "cover": "W",
+     "total": 56.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-14T17:00:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "L",
      "total": 54.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-10-10T16:00:00+00:00",
-     "season": 2026,
-     "opp": "Wake Forest",
-     "site": "H",
-     "pts": 14,
-     "opp_pts": 38,
-     "result": "L",
-     "spread": 4.0,
-     "cover": "L",
-     "total": 56.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 29.1,
+     "value": 29.0,
      "fmt": "1",
-     "rank": 61,
+     "rank": 59,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 28.2,
+     "value": 26.5,
      "fmt": "1",
-     "rank": 102,
+     "rank": 86,
      "better": false
     },
     {
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 69,
-    "overall": -0.43,
-    "offense": 27.25,
-    "defense": 27.68
+    "rank": 57,
+    "overall": 1.38,
+    "offense": 27.35,
+    "defense": 25.97
    }
   },
   "home": {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 55,
-    "overall": 1.53,
-    "offense": 25.44,
-    "defense": 23.91
+    "rank": 54,
+    "overall": 1.5,
+    "offense": 25.45,
+    "defense": 23.95
    }
   }
  },

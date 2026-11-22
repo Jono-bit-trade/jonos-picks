@@ -7,11 +7,24 @@
    "team": "USC",
    "rank_ap": 18,
    "records": {
-    "su": "7\u20133",
-    "ats": "3\u20137",
-    "ou": "4\u20136"
+    "su": "8\u20133",
+    "ats": "3\u20138",
+    "ou": "4\u20137"
    },
    "recent": [
+    {
+     "date": "2026-11-21T23:15:00+00:00",
+     "season": 2026,
+     "opp": "Maryland",
+     "site": "H",
+     "pts": 35,
+     "opp_pts": 21,
+     "result": "W",
+     "spread": -18.5,
+     "cover": "L",
+     "total": 57.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-14T20:30:00+00:00",
      "season": 2026,
@@ -63,34 +76,21 @@
      "cover": "W",
      "total": 54.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-03T23:30:00+00:00",
-     "season": 2026,
-     "opp": "Washington",
-     "site": "H",
-     "pts": 25,
-     "opp_pts": 21,
-     "result": "W",
-     "spread": -7.5,
-     "cover": "L",
-     "total": 58.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 30.5,
+     "value": 30.9,
      "fmt": "1",
-     "rank": 44,
+     "rank": 42,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 24.5,
+     "value": 24.2,
      "fmt": "1",
      "rank": 68,
      "better": false
@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 15,
-    "overall": 9.75,
-    "offense": 32.02,
-    "defense": 22.28
+    "rank": 17,
+    "overall": 9.67,
+    "offense": 31.91,
+    "defense": 22.23
    }
   },
   "home": {
    "team": "UCLA",
    "rank_ap": 4,
    "records": {
-    "su": "10\u20130",
-    "ats": "9\u20131",
-    "ou": "4\u20136"
+    "su": "10\u20131",
+    "ats": "9\u20132",
+    "ou": "4\u20137"
    },
    "recent": [
+    {
+     "date": "2026-11-21T20:30:00+00:00",
+     "season": 2026,
+     "opp": "Michigan",
+     "site": "A",
+     "pts": 16,
+     "opp_pts": 18,
+     "result": "L",
+     "spread": -3.5,
+     "cover": "L",
+     "total": 36.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-14T02:00:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "W",
      "total": 43.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-17T23:30:00+00:00",
-     "season": 2026,
-     "opp": "Wisconsin",
-     "site": "H",
-     "pts": 17,
-     "opp_pts": 7,
-     "result": "W",
-     "spread": -1.5,
-     "cover": "W",
-     "total": 42.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 32.4,
+     "value": 30.9,
      "fmt": "1",
-     "rank": 34,
+     "rank": 42,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 14.1,
+     "value": 14.5,
      "fmt": "1",
-     "rank": 6,
+     "rank": 8,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 22,
-    "overall": 7.01,
-    "offense": 27.39,
-    "defense": 20.38
+    "rank": 23,
+    "overall": 6.78,
+    "offense": 26.99,
+    "defense": 20.22
    }
   }
  },

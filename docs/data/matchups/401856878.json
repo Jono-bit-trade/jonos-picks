@@ -7,11 +7,24 @@
    "team": "Kansas State",
    "rank_ap": null,
    "records": {
-    "su": "4\u20136",
-    "ats": "4\u20135\u20131",
-    "ou": "6\u20134"
+    "su": "4\u20137",
+    "ats": "5\u20135\u20131",
+    "ou": "7\u20134"
    },
    "recent": [
+    {
+     "date": "2026-11-22T00:00:00+00:00",
+     "season": 2026,
+     "opp": "Arizona",
+     "site": "H",
+     "pts": 28,
+     "opp_pts": 35,
+     "result": "L",
+     "spread": 10.0,
+     "cover": "W",
+     "total": 53.5,
+     "ou": "O"
+    },
     {
      "date": "2026-11-14T19:00:00+00:00",
      "season": 2026,
@@ -63,26 +76,13 @@
      "cover": "L",
      "total": 51.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-17T16:00:00+00:00",
-     "season": 2026,
-     "opp": "Kansas",
-     "site": "H",
-     "pts": 35,
-     "opp_pts": 24,
-     "result": "W",
-     "spread": -3.0,
-     "cover": "W",
-     "total": 55.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 29.2,
+     "value": 29.1,
      "fmt": "1",
      "rank": 58,
      "better": true
@@ -90,9 +90,9 @@
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 26.1,
+     "value": 26.9,
      "fmt": "1",
-     "rank": 86,
+     "rank": 89,
      "better": false
     },
     {
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 70,
-    "overall": -0.68,
-    "offense": 26.74,
-    "defense": 27.42
+    "rank": 68,
+    "overall": -0.82,
+    "offense": 26.84,
+    "defense": 27.66
    }
   },
   "home": {
@@ -360,7 +360,7 @@
      "label": "Points per game",
      "value": 29.2,
      "fmt": "1",
-     "rank": 60,
+     "rank": 56,
      "better": true
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 81,
-    "overall": -1.99,
+    "rank": 82,
+    "overall": -1.97,
     "offense": 26.0,
-    "defense": 27.99
+    "defense": 27.97
    }
   }
  },

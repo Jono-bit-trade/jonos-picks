@@ -274,20 +274,33 @@
    ],
    "rating": {
     "rank": 106,
-    "overall": -5.44,
-    "offense": 21.07,
-    "defense": 26.51
+    "overall": -5.43,
+    "offense": 21.02,
+    "defense": 26.46
    }
   },
   "home": {
    "team": "South Florida",
    "rank_ap": null,
    "records": {
-    "su": "6\u20134",
-    "ats": "4\u20136",
-    "ou": "4\u20136"
+    "su": "6\u20135",
+    "ats": "4\u20137",
+    "ou": "4\u20137"
    },
    "recent": [
+    {
+     "date": "2026-11-21T19:30:00+00:00",
+     "season": 2026,
+     "opp": "Florida Atlantic",
+     "site": "A",
+     "pts": 14,
+     "opp_pts": 35,
+     "result": "L",
+     "spread": -2.5,
+     "cover": "L",
+     "total": 62.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-13T01:00:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "W",
      "total": 46.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-08T23:30:00+00:00",
-     "season": 2026,
-     "opp": "UTSA",
-     "site": "A",
-     "pts": 24,
-     "opp_pts": 31,
-     "result": "L",
-     "spread": 5.5,
-     "cover": "L",
-     "total": 49.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 27.4,
+     "value": 26.2,
      "fmt": "1",
-     "rank": 72,
+     "rank": 80,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 18.8,
+     "value": 20.3,
      "fmt": "1",
-     "rank": 22,
+     "rank": 35,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 66,
-    "overall": -0.03,
-    "offense": 25.87,
-    "defense": 25.9
+    "rank": 75,
+    "overall": -1.47,
+    "offense": 24.58,
+    "defense": 26.06
    }
   }
  },

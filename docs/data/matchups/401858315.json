@@ -7,11 +7,24 @@
    "team": "Pittsburgh",
    "rank_ap": 25,
    "records": {
-    "su": "6\u20134",
-    "ats": "5\u20135",
-    "ou": "4\u20136"
+    "su": "6\u20135",
+    "ats": "5\u20136",
+    "ou": "5\u20136"
    },
    "recent": [
+    {
+     "date": "2026-11-22T00:30:00+00:00",
+     "season": 2026,
+     "opp": "Louisville",
+     "site": "A",
+     "pts": 10,
+     "opp_pts": 42,
+     "result": "L",
+     "spread": 10.0,
+     "cover": "L",
+     "total": 50.5,
+     "ou": "O"
+    },
     {
      "date": "2026-11-14T00:00:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "L",
      "total": 42.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-10-10T16:00:00+00:00",
-     "season": 2026,
-     "opp": "North Carolina",
-     "site": "H",
-     "pts": 17,
-     "opp_pts": 21,
-     "result": "L",
-     "spread": -3.5,
-     "cover": "L",
-     "total": 47.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 29.7,
+     "value": 27.9,
      "fmt": "1",
-     "rank": 53,
+     "rank": 70,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 19.4,
+     "value": 21.5,
      "fmt": "1",
-     "rank": 27,
+     "rank": 40,
      "better": false
     },
     {
@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 45,
-    "overall": 3.47,
-    "offense": 26.77,
-    "defense": 23.29
+    "rank": 53,
+    "overall": 1.68,
+    "offense": 25.85,
+    "defense": 24.17
    }
   },
   "home": {
    "team": "California",
    "rank_ap": null,
    "records": {
-    "su": "3\u20137",
-    "ats": "2\u20138",
-    "ou": "3\u20137"
+    "su": "3\u20138",
+    "ats": "2\u20139",
+    "ou": "4\u20137"
    },
    "recent": [
+    {
+     "date": "2026-11-22T00:30:00+00:00",
+     "season": 2026,
+     "opp": "Stanford",
+     "site": "H",
+     "pts": 28,
+     "opp_pts": 44,
+     "result": "L",
+     "spread": 2.5,
+     "cover": "L",
+     "total": 55.5,
+     "ou": "O"
+    },
     {
      "date": "2026-11-14T20:30:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "L",
      "total": 54.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-10T19:30:00+00:00",
-     "season": 2026,
-     "opp": "Virginia Tech",
-     "site": "H",
-     "pts": 25,
-     "opp_pts": 20,
-     "result": "W",
-     "spread": 11.5,
-     "cover": "W",
-     "total": 51.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 20.4,
+     "value": 21.1,
      "fmt": "1",
-     "rank": 122,
+     "rank": 116,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 32.0,
+     "value": 33.1,
      "fmt": "1",
-     "rank": 122,
+     "rank": 126,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 120,
-    "overall": -8.6,
-    "offense": 21.46,
-    "defense": 30.05
+    "rank": 125,
+    "overall": -9.56,
+    "offense": 21.77,
+    "defense": 31.33
    }
   }
  },

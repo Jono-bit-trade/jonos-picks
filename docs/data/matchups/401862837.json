@@ -7,11 +7,24 @@
    "team": "Florida Atlantic",
    "rank_ap": null,
    "records": {
-    "su": "6\u20134",
-    "ats": "6\u20134",
-    "ou": "8\u20132"
+    "su": "7\u20134",
+    "ats": "7\u20134",
+    "ou": "8\u20133"
    },
    "recent": [
+    {
+     "date": "2026-11-21T19:30:00+00:00",
+     "season": 2026,
+     "opp": "South Florida",
+     "site": "H",
+     "pts": 35,
+     "opp_pts": 14,
+     "result": "W",
+     "spread": 2.5,
+     "cover": "W",
+     "total": 62.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-15T00:15:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "L",
      "total": 55.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-10-17T16:00:00+00:00",
-     "season": 2026,
-     "opp": "Army",
-     "site": "A",
-     "pts": 24,
-     "opp_pts": 56,
-     "result": "L",
-     "spread": 2.5,
-     "cover": "L",
-     "total": 55.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 38.3,
+     "value": 38.0,
      "fmt": "1",
-     "rank": 12,
+     "rank": 13,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 35.3,
+     "value": 33.4,
      "fmt": "1",
-     "rank": 133,
+     "rank": 128,
      "better": false
     },
     {
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 87,
-    "overall": -2.79,
-    "offense": 31.25,
-    "defense": 34.04
+    "rank": 73,
+    "overall": -1.39,
+    "offense": 31.35,
+    "defense": 32.73
    }
   },
   "home": {
@@ -360,7 +360,7 @@
      "label": "Points per game",
      "value": 21.7,
      "fmt": "1",
-     "rank": 110,
+     "rank": 111,
      "better": true
     },
     {
@@ -368,7 +368,7 @@
      "label": "Points allowed per game",
      "value": 21.1,
      "fmt": "1",
-     "rank": 38,
+     "rank": 37,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 85,
-    "overall": -2.7,
-    "offense": 21.24,
-    "defense": 23.94
+    "rank": 86,
+    "overall": -2.78,
+    "offense": 21.21,
+    "defense": 23.99
    }
   }
  },

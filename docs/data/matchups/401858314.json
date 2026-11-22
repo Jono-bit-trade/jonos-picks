@@ -7,11 +7,24 @@
    "team": "Notre Dame",
    "rank_ap": 3,
    "records": {
-    "su": "9\u20131",
-    "ats": "5\u20135",
-    "ou": "6\u20134"
+    "su": "10\u20131",
+    "ats": "6\u20135",
+    "ou": "6\u20135"
    },
    "recent": [
+    {
+     "date": "2026-11-22T00:30:00+00:00",
+     "season": 2026,
+     "opp": "SMU",
+     "site": "H",
+     "pts": 24,
+     "opp_pts": 3,
+     "result": "W",
+     "spread": -20.5,
+     "cover": "W",
+     "total": 55.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-14T20:30:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "L",
      "total": 47.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-10-10T19:30:00+00:00",
-     "season": 2026,
-     "opp": "Stanford",
-     "site": "H",
-     "pts": 58,
-     "opp_pts": 7,
-     "result": "W",
-     "spread": -40.5,
-     "cover": "W",
-     "total": 55.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 39.5,
+     "value": 38.1,
      "fmt": "1",
-     "rank": 7,
+     "rank": 12,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 13.8,
+     "value": 12.8,
      "fmt": "1",
-     "rank": 5,
+     "rank": 3,
      "better": false
     },
     {
@@ -274,9 +274,9 @@
    ],
    "rating": {
     "rank": 2,
-    "overall": 18.29,
-    "offense": 35.2,
-    "defense": 16.9
+    "overall": 18.6,
+    "offense": 34.29,
+    "defense": 15.69
    }
   },
   "home": {
@@ -368,7 +368,7 @@
      "label": "Points allowed per game",
      "value": 26.1,
      "fmt": "1",
-     "rank": 85,
+     "rank": 82,
      "better": false
     },
     {
@@ -549,9 +549,9 @@
     }
    ],
    "rating": {
-    "rank": 78,
-    "overall": -1.78,
-    "offense": 25.39,
+    "rank": 79,
+    "overall": -1.71,
+    "offense": 25.45,
     "defense": 27.16
    }
   }

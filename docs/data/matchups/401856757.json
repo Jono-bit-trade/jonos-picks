@@ -7,11 +7,24 @@
    "team": "Auburn",
    "rank_ap": null,
    "records": {
-    "su": "6\u20134",
-    "ats": "3\u20137",
-    "ou": "4\u20136"
+    "su": "7\u20134",
+    "ats": "3\u20138",
+    "ou": "5\u20136"
    },
    "recent": [
+    {
+     "date": "2026-11-21T20:30:00+00:00",
+     "season": 2026,
+     "opp": "Samford",
+     "site": "H",
+     "pts": 59,
+     "opp_pts": 17,
+     "result": "W",
+     "spread": -48.5,
+     "cover": "L",
+     "total": 59.5,
+     "ou": "O"
+    },
     {
      "date": "2026-11-14T21:15:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "L",
      "total": 51.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-10-17T19:30:00+00:00",
-     "season": 2026,
-     "opp": "Georgia",
-     "site": "A",
-     "pts": 27,
-     "opp_pts": 24,
-     "result": "W",
-     "spread": 19.5,
-     "cover": "W",
-     "total": 50.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 26.0,
+     "value": 29.0,
      "fmt": "1",
-     "rank": 82,
+     "rank": 59,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 24.6,
+     "value": 23.9,
      "fmt": "1",
-     "rank": 70,
+     "rank": 64,
      "better": false
     },
     {
@@ -274,9 +274,9 @@
    ],
    "rating": {
     "rank": 43,
-    "overall": 3.81,
-    "offense": 26.57,
-    "defense": 22.76
+    "overall": 3.79,
+    "offense": 27.36,
+    "defense": 23.57
    }
   },
   "home": {
@@ -360,7 +360,7 @@
      "label": "Points per game",
      "value": 36.8,
      "fmt": "1",
-     "rank": 16,
+     "rank": 17,
      "better": true
     },
     {
@@ -368,7 +368,7 @@
      "label": "Points allowed per game",
      "value": 17.2,
      "fmt": "1",
-     "rank": 15,
+     "rank": 16,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 6,
-    "overall": 14.67,
-    "offense": 32.66,
-    "defense": 17.99
+    "rank": 7,
+    "overall": 14.5,
+    "offense": 32.65,
+    "defense": 18.15
    }
   }
  },

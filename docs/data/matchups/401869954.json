@@ -7,11 +7,24 @@
    "team": "Louisiana Tech",
    "rank_ap": null,
    "records": {
-    "su": "8\u20132",
-    "ats": "9\u20131",
-    "ou": "7\u20133"
+    "su": "9\u20132",
+    "ats": "10\u20131",
+    "ou": "7\u20134"
    },
    "recent": [
+    {
+     "date": "2026-11-22T00:00:00+00:00",
+     "season": 2026,
+     "opp": "Arkansas State",
+     "site": "H",
+     "pts": 48,
+     "opp_pts": 3,
+     "result": "W",
+     "spread": -14.5,
+     "cover": "W",
+     "total": 54.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-14T22:00:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "W",
      "total": 43.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-18T00:00:00+00:00",
-     "season": 2026,
-     "opp": "UL Monroe",
-     "site": "A",
-     "pts": 24,
-     "opp_pts": 0,
-     "result": "W",
-     "spread": -13.5,
-     "cover": "W",
-     "total": 55.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 36.5,
+     "value": 37.5,
      "fmt": "1",
-     "rank": 17,
+     "rank": 15,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 21.5,
+     "value": 19.8,
      "fmt": "1",
-     "rank": 41,
+     "rank": 30,
      "better": false
     },
     {
@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 33,
-    "overall": 5.25,
-    "offense": 29.59,
-    "defense": 24.34
+    "rank": 24,
+    "overall": 6.7,
+    "offense": 29.95,
+    "defense": 23.25
    }
   },
   "home": {
    "team": "Georgia Southern",
    "rank_ap": null,
    "records": {
-    "su": "6\u20134",
-    "ats": "9\u20131",
-    "ou": "4\u20136"
+    "su": "7\u20134",
+    "ats": "10\u20131",
+    "ou": "5\u20136"
    },
    "recent": [
+    {
+     "date": "2026-11-21T21:00:00+00:00",
+     "season": 2026,
+     "opp": "Troy",
+     "site": "A",
+     "pts": 45,
+     "opp_pts": 7,
+     "result": "W",
+     "spread": -7.5,
+     "cover": "W",
+     "total": 47.5,
+     "ou": "O"
+    },
     {
      "date": "2026-11-14T20:30:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "W",
      "total": 44.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-10T23:30:00+00:00",
-     "season": 2026,
-     "opp": "James Madison",
-     "site": "H",
-     "pts": 24,
-     "opp_pts": 27,
-     "result": "L",
-     "spread": 7.0,
-     "cover": "W",
-     "total": 51.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 27.3,
+     "value": 28.9,
      "fmt": "1",
-     "rank": 75,
+     "rank": 61,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 19.4,
+     "value": 18.3,
      "fmt": "1",
-     "rank": 27,
+     "rank": 20,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 65,
-    "overall": 0.02,
-    "offense": 25.41,
-    "defense": 25.39
+    "rank": 46,
+    "overall": 2.39,
+    "offense": 26.75,
+    "defense": 24.36
    }
   }
  },

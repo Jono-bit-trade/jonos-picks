@@ -84,7 +84,7 @@
      "label": "Points per game",
      "value": 21.5,
      "fmt": "1",
-     "rank": 114,
+     "rank": 115,
      "better": true
     },
     {
@@ -92,7 +92,7 @@
      "label": "Points allowed per game",
      "value": 21.9,
      "fmt": "1",
-     "rank": 47,
+     "rank": 45,
      "better": false
     },
     {
@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 113,
-    "overall": -6.73,
-    "offense": 19.5,
-    "defense": 26.23
+    "rank": 111,
+    "overall": -6.7,
+    "offense": 19.45,
+    "defense": 26.15
    }
   },
   "home": {
    "team": "UNLV",
    "rank_ap": null,
    "records": {
-    "su": "6\u20134",
-    "ats": "5\u20135",
-    "ou": "3\u20137"
+    "su": "7\u20134",
+    "ats": "5\u20136",
+    "ou": "3\u20138"
    },
    "recent": [
+    {
+     "date": "2026-11-22T00:00:00+00:00",
+     "season": 2026,
+     "opp": "San Jos\u00e9 State",
+     "site": "A",
+     "pts": 24,
+     "opp_pts": 22,
+     "result": "W",
+     "spread": -6.5,
+     "cover": "L",
+     "total": 48.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-15T00:30:00+00:00",
      "season": 2026,
@@ -339,26 +352,13 @@
      "cover": "L",
      "total": 49.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-10-10T23:00:00+00:00",
-     "season": 2026,
-     "opp": "North Dakota State",
-     "site": "H",
-     "pts": 13,
-     "opp_pts": 7,
-     "result": "W",
-     "spread": 3.0,
-     "cover": "W",
-     "total": 47.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 25.6,
+     "value": 25.5,
      "fmt": "1",
      "rank": 88,
      "better": true
@@ -366,9 +366,9 @@
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 24.8,
+     "value": 24.5,
      "fmt": "1",
-     "rank": 72,
+     "rank": 70,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 83,
-    "overall": -2.15,
-    "offense": 26.15,
-    "defense": 28.3
+    "rank": 84,
+    "overall": -2.29,
+    "offense": 25.84,
+    "defense": 28.14
    }
   }
  },

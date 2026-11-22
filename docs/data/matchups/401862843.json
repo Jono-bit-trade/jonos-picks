@@ -7,11 +7,24 @@
    "team": "UAB",
    "rank_ap": null,
    "records": {
-    "su": "6\u20134",
-    "ats": "5\u20134\u20131",
-    "ou": "1\u20139"
+    "su": "6\u20135",
+    "ats": "6\u20134\u20131",
+    "ou": "1\u201310"
    },
    "recent": [
+    {
+     "date": "2026-11-22T01:00:00+00:00",
+     "season": 2026,
+     "opp": "UTSA",
+     "site": "H",
+     "pts": 17,
+     "opp_pts": 19,
+     "result": "L",
+     "spread": 4.0,
+     "cover": "W",
+     "total": 49.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-14T18:00:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "W",
      "total": 49.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-10T23:00:00+00:00",
-     "season": 2026,
-     "opp": "Memphis",
-     "site": "A",
-     "pts": 13,
-     "opp_pts": 38,
-     "result": "L",
-     "spread": 15.5,
-     "cover": "L",
-     "total": 55.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 23.2,
+     "value": 22.6,
      "fmt": "1",
-     "rank": 102,
+     "rank": 104,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 22.4,
+     "value": 22.1,
      "fmt": "1",
-     "rank": 51,
+     "rank": 48,
      "better": false
     },
     {
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 102,
-    "overall": -5.12,
-    "offense": 22.18,
-    "defense": 27.31
+    "rank": 104,
+    "overall": -5.14,
+    "offense": 21.5,
+    "defense": 26.64
    }
   },
   "home": {
@@ -368,7 +368,7 @@
      "label": "Points allowed per game",
      "value": 31.0,
      "fmt": "1",
-     "rank": 119,
+     "rank": 120,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 60,
-    "overall": 0.99,
-    "offense": 32.71,
-    "defense": 31.72
+    "rank": 59,
+    "overall": 1.12,
+    "offense": 32.8,
+    "defense": 31.68
    }
   }
  },

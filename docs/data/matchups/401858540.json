@@ -7,11 +7,24 @@
    "team": "Michigan",
    "rank_ap": 18,
    "records": {
-    "su": "5\u20135",
-    "ats": "3\u20137",
-    "ou": "2\u20138"
+    "su": "6\u20135",
+    "ats": "4\u20137",
+    "ou": "2\u20139"
    },
    "recent": [
+    {
+     "date": "2026-11-21T20:30:00+00:00",
+     "season": 2026,
+     "opp": "UCLA",
+     "site": "H",
+     "pts": 18,
+     "opp_pts": 16,
+     "result": "W",
+     "spread": 3.5,
+     "cover": "W",
+     "total": 36.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-14T20:30:00+00:00",
      "season": 2026,
@@ -63,19 +76,6 @@
      "cover": "W",
      "total": 43.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-17T19:30:00+00:00",
-     "season": 2026,
-     "opp": "Penn State",
-     "site": "H",
-     "pts": 21,
-     "opp_pts": 18,
-     "result": "W",
-     "spread": -6.0,
-     "cover": "L",
-     "total": 43.5,
-     "ou": "U"
     }
    ],
    "stats": [
@@ -90,9 +90,9 @@
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 17.7,
+     "value": 17.5,
      "fmt": "1",
-     "rank": 16,
+     "rank": 17,
      "better": false
     },
     {
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 42,
-    "overall": 3.92,
-    "offense": 23.74,
-    "defense": 19.82
+    "rank": 40,
+    "overall": 4.13,
+    "offense": 23.63,
+    "defense": 19.5
    }
   },
   "home": {
@@ -360,7 +360,7 @@
      "label": "Points per game",
      "value": 34.3,
      "fmt": "1",
-     "rank": 25,
+     "rank": 24,
      "better": true
     },
     {
@@ -368,7 +368,7 @@
      "label": "Points allowed per game",
      "value": 19.5,
      "fmt": "1",
-     "rank": 31,
+     "rank": 28,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 5,
-    "overall": 15.24,
-    "offense": 33.16,
-    "defense": 17.92
+    "rank": 6,
+    "overall": 15.28,
+    "offense": 33.11,
+    "defense": 17.83
    }
   }
  },

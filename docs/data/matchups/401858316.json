@@ -7,11 +7,24 @@
    "team": "SMU",
    "rank_ap": 25,
    "records": {
-    "su": "7\u20133",
-    "ats": "3\u20135\u20132",
-    "ou": "4\u20136"
+    "su": "7\u20134",
+    "ats": "3\u20136\u20132",
+    "ou": "4\u20137"
    },
    "recent": [
+    {
+     "date": "2026-11-22T00:30:00+00:00",
+     "season": 2026,
+     "opp": "Notre Dame",
+     "site": "A",
+     "pts": 3,
+     "opp_pts": 24,
+     "result": "L",
+     "spread": 20.5,
+     "cover": "L",
+     "total": 55.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-14T17:00:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "W",
      "total": 55.5,
      "ou": "O"
-    },
-    {
-     "date": "2026-10-17T16:00:00+00:00",
-     "season": 2026,
-     "opp": "Virginia",
-     "site": "H",
-     "pts": 23,
-     "opp_pts": 13,
-     "result": "W",
-     "spread": -10.0,
-     "cover": "P",
-     "total": 51.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 34.0,
+     "value": 31.2,
      "fmt": "1",
-     "rank": 27,
+     "rank": 39,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 25.5,
+     "value": 25.4,
      "fmt": "1",
-     "rank": 80,
+     "rank": 75,
      "better": false
     },
     {
@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 36,
-    "overall": 4.86,
-    "offense": 30.01,
-    "defense": 25.15
+    "rank": 37,
+    "overall": 4.55,
+    "offense": 28.84,
+    "defense": 24.29
    }
   },
   "home": {
    "team": "Stanford",
    "rank_ap": null,
    "records": {
-    "su": "5\u20135",
-    "ats": "4\u20136",
-    "ou": "8\u20132"
+    "su": "6\u20135",
+    "ats": "5\u20136",
+    "ou": "9\u20132"
    },
    "recent": [
+    {
+     "date": "2026-11-22T00:30:00+00:00",
+     "season": 2026,
+     "opp": "California",
+     "site": "A",
+     "pts": 44,
+     "opp_pts": 28,
+     "result": "W",
+     "spread": -2.5,
+     "cover": "W",
+     "total": 55.5,
+     "ou": "O"
+    },
     {
      "date": "2026-11-15T00:30:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "L",
      "total": 55.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-10T19:30:00+00:00",
-     "season": 2026,
-     "opp": "Notre Dame",
-     "site": "A",
-     "pts": 7,
-     "opp_pts": 58,
-     "result": "L",
-     "spread": 40.5,
-     "cover": "L",
-     "total": 55.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 22.3,
+     "value": 24.3,
      "fmt": "1",
-     "rank": 105,
+     "rank": 94,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 35.8,
+     "value": 35.1,
      "fmt": "1",
-     "rank": 134,
+     "rank": 133,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 108,
-    "overall": -5.82,
-    "offense": 22.85,
-    "defense": 28.68
+    "rank": 98,
+    "overall": -4.45,
+    "offense": 24.34,
+    "defense": 28.79
    }
   }
  },

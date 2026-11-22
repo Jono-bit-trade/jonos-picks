@@ -7,11 +7,24 @@
    "team": "Marshall",
    "rank_ap": null,
    "records": {
-    "su": "5\u20135",
-    "ats": "3\u20137",
-    "ou": "5\u20135"
+    "su": "6\u20135",
+    "ats": "3\u20138",
+    "ou": "5\u20136"
    },
    "recent": [
+    {
+     "date": "2026-11-21T21:00:00+00:00",
+     "season": 2026,
+     "opp": "Georgia State",
+     "site": "H",
+     "pts": 28,
+     "opp_pts": 27,
+     "result": "W",
+     "spread": -3.0,
+     "cover": "L",
+     "total": 56.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-14T23:00:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "W",
      "total": 66.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-10T23:00:00+00:00",
-     "season": 2026,
-     "opp": "Coastal Carolina",
-     "site": "H",
-     "pts": 21,
-     "opp_pts": 27,
-     "result": "L",
-     "spread": -4.5,
-     "cover": "L",
-     "total": 57.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 21.7,
+     "value": 22.3,
      "fmt": "1",
-     "rank": 112,
+     "rank": 107,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 30.7,
+     "value": 30.4,
      "fmt": "1",
-     "rank": 117,
+     "rank": 114,
      "better": false
     },
     {
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 115,
-    "overall": -7.49,
-    "offense": 22.65,
-    "defense": 30.14
+    "rank": 114,
+    "overall": -7.31,
+    "offense": 22.61,
+    "defense": 29.91
    }
   },
   "home": {
@@ -360,7 +360,7 @@
      "label": "Points per game",
      "value": 19.8,
      "fmt": "1",
-     "rank": 124,
+     "rank": 123,
      "better": true
     },
     {
@@ -368,7 +368,7 @@
      "label": "Points allowed per game",
      "value": 33.8,
      "fmt": "1",
-     "rank": 129,
+     "rank": 130,
      "better": false
     },
     {
@@ -550,9 +550,9 @@
    ],
    "rating": {
     "rank": 133,
-    "overall": -13.42,
-    "offense": 17.53,
-    "defense": 30.94
+    "overall": -13.47,
+    "offense": 17.48,
+    "defense": 30.95
    }
   }
  },

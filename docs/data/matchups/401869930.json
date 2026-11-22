@@ -84,7 +84,7 @@
      "label": "Points per game",
      "value": 24.9,
      "fmt": "1",
-     "rank": 93,
+     "rank": 91,
      "better": true
     },
     {
@@ -92,7 +92,7 @@
      "label": "Points allowed per game",
      "value": 22.9,
      "fmt": "1",
-     "rank": 54,
+     "rank": 52,
      "better": false
     },
     {
@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 110,
-    "overall": -6.38,
-    "offense": 21.05,
-    "defense": 27.43
+    "rank": 109,
+    "overall": -6.16,
+    "offense": 21.13,
+    "defense": 27.29
    }
   },
   "home": {
    "team": "South Alabama",
    "rank_ap": null,
    "records": {
-    "su": "5\u20135",
-    "ats": "6\u20134",
-    "ou": "5\u20135"
+    "su": "6\u20135",
+    "ats": "6\u20135",
+    "ou": "6\u20135"
    },
    "recent": [
+    {
+     "date": "2026-11-21T21:00:00+00:00",
+     "season": 2026,
+     "opp": "Southern Miss",
+     "site": "A",
+     "pts": 40,
+     "opp_pts": 35,
+     "result": "W",
+     "spread": -5.5,
+     "cover": "L",
+     "total": 65.5,
+     "ou": "O"
+    },
     {
      "date": "2026-11-15T00:00:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "L",
      "total": 66.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-08T23:30:00+00:00",
-     "season": 2026,
-     "opp": "Arkansas State",
-     "site": "A",
-     "pts": 56,
-     "opp_pts": 49,
-     "result": "W",
-     "spread": 3.0,
-     "cover": "W",
-     "total": 60.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 31.9,
+     "value": 32.6,
      "fmt": "1",
-     "rank": 36,
+     "rank": 30,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 30.4,
+     "value": 30.8,
      "fmt": "1",
-     "rank": 115,
+     "rank": 119,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 91,
-    "overall": -3.43,
-    "offense": 26.93,
-    "defense": 30.36
+    "rank": 90,
+    "overall": -3.4,
+    "offense": 27.26,
+    "defense": 30.66
    }
   }
  },

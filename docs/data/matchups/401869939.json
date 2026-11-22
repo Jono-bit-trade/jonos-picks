@@ -7,11 +7,24 @@
    "team": "Troy",
    "rank_ap": null,
    "records": {
-    "su": "4\u20136",
-    "ats": "3\u20137",
-    "ou": "2\u20138"
+    "su": "4\u20137",
+    "ats": "3\u20138",
+    "ou": "3\u20138"
    },
    "recent": [
+    {
+     "date": "2026-11-21T21:00:00+00:00",
+     "season": 2026,
+     "opp": "Georgia Southern",
+     "site": "H",
+     "pts": 7,
+     "opp_pts": 45,
+     "result": "L",
+     "spread": 7.5,
+     "cover": "L",
+     "total": 47.5,
+     "ou": "O"
+    },
     {
      "date": "2026-11-15T00:00:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "L",
      "total": 50.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-17T21:00:00+00:00",
-     "season": 2026,
-     "opp": "Louisiana",
-     "site": "A",
-     "pts": 6,
-     "opp_pts": 33,
-     "result": "L",
-     "spread": 3.0,
-     "cover": "L",
-     "total": 49.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 21.5,
+     "value": 20.2,
      "fmt": "1",
-     "rank": 114,
+     "rank": 121,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 26.3,
+     "value": 28.0,
      "fmt": "1",
-     "rank": 89,
+     "rank": 100,
      "better": false
     },
     {
@@ -273,21 +273,34 @@
     }
    ],
    "rating": {
-    "rank": 114,
-    "overall": -7.03,
-    "offense": 20.23,
-    "defense": 27.26
+    "rank": 122,
+    "overall": -9.25,
+    "offense": 19.24,
+    "defense": 28.49
    }
   },
   "home": {
    "team": "Arkansas State",
    "rank_ap": null,
    "records": {
-    "su": "4\u20136",
-    "ats": "4\u20136",
-    "ou": "4\u20136"
+    "su": "4\u20137",
+    "ats": "4\u20137",
+    "ou": "4\u20137"
    },
    "recent": [
+    {
+     "date": "2026-11-22T00:00:00+00:00",
+     "season": 2026,
+     "opp": "Louisiana Tech",
+     "site": "A",
+     "pts": 3,
+     "opp_pts": 48,
+     "result": "L",
+     "spread": 14.5,
+     "cover": "L",
+     "total": 54.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-14T18:00:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "W",
      "total": 61.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-08T23:30:00+00:00",
-     "season": 2026,
-     "opp": "South Alabama",
-     "site": "H",
-     "pts": 49,
-     "opp_pts": 56,
-     "result": "L",
-     "spread": -3.0,
-     "cover": "L",
-     "total": 60.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 26.8,
+     "value": 24.6,
      "fmt": "1",
-     "rank": 80,
+     "rank": 93,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 26.5,
+     "value": 28.5,
      "fmt": "1",
-     "rank": 91,
+     "rank": 103,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 107,
-    "overall": -5.47,
-    "offense": 22.74,
-    "defense": 28.21
+    "rank": 112,
+    "overall": -7.15,
+    "offense": 21.44,
+    "defense": 28.59
    }
   }
  },
