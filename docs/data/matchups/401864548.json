@@ -7,11 +7,24 @@
    "team": "Nevada",
    "rank_ap": null,
    "records": {
-    "su": "4\u20136",
-    "ats": "6\u20134",
-    "ou": "3\u20137"
+    "su": "5\u20136",
+    "ats": "7\u20134",
+    "ou": "3\u20138"
    },
    "recent": [
+    {
+     "date": "2026-11-22T03:30:00+00:00",
+     "season": 2026,
+     "opp": "Hawai'i",
+     "site": "H",
+     "pts": 16,
+     "opp_pts": 8,
+     "result": "W",
+     "spread": -7.0,
+     "cover": "W",
+     "total": 40.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-14T20:30:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "W",
      "total": 46.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-17T23:00:00+00:00",
-     "season": 2026,
-     "opp": "North Dakota State",
-     "site": "A",
-     "pts": 17,
-     "opp_pts": 31,
-     "result": "L",
-     "spread": 14.5,
-     "cover": "W",
-     "total": 42.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 21.5,
+     "value": 21.0,
      "fmt": "1",
-     "rank": 115,
+     "rank": 116,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 21.9,
+     "value": 20.6,
      "fmt": "1",
-     "rank": 45,
+     "rank": 36,
      "better": false
     },
     {
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 111,
-    "overall": -6.7,
-    "offense": 19.45,
-    "defense": 26.15
+    "rank": 110,
+    "overall": -6.24,
+    "offense": 19.02,
+    "defense": 25.27
    }
   },
   "home": {
@@ -550,9 +550,9 @@
    ],
    "rating": {
     "rank": 84,
-    "overall": -2.29,
-    "offense": 25.84,
-    "defense": 28.14
+    "overall": -2.31,
+    "offense": 25.82,
+    "defense": 28.13
    }
   }
  },

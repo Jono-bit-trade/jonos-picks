@@ -274,20 +274,33 @@
    ],
    "rating": {
     "rank": 135,
-    "overall": -13.94,
-    "offense": 17.13,
-    "defense": 31.06
+    "overall": -13.93,
+    "offense": 17.11,
+    "defense": 31.04
    }
   },
   "home": {
    "team": "Hawai'i",
    "rank_ap": null,
    "records": {
-    "su": "3\u20137",
-    "ats": "5\u20135",
-    "ou": "2\u20138"
+    "su": "3\u20138",
+    "ats": "5\u20136",
+    "ou": "2\u20139"
    },
    "recent": [
+    {
+     "date": "2026-11-22T03:30:00+00:00",
+     "season": 2026,
+     "opp": "Nevada",
+     "site": "A",
+     "pts": 8,
+     "opp_pts": 16,
+     "result": "L",
+     "spread": 7.0,
+     "cover": "L",
+     "total": 40.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-15T04:00:00+00:00",
      "season": 2026,
@@ -339,36 +352,23 @@
      "cover": "W",
      "total": 46.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-11T02:30:00+00:00",
-     "season": 2026,
-     "opp": "Arizona State",
-     "site": "A",
-     "pts": 12,
-     "opp_pts": 30,
-     "result": "L",
-     "spread": 20.5,
-     "cover": "W",
-     "total": 51.5,
-     "ou": "U"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 19.6,
+     "value": 18.5,
      "fmt": "1",
-     "rank": 125,
+     "rank": 128,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 23.1,
+     "value": 22.5,
      "fmt": "1",
-     "rank": 54,
+     "rank": 51,
      "better": false
     },
     {
@@ -549,10 +549,10 @@
     }
    ],
    "rating": {
-    "rank": 101,
-    "overall": -4.91,
-    "offense": 21.64,
-    "defense": 26.55
+    "rank": 105,
+    "overall": -5.4,
+    "offense": 20.73,
+    "defense": 26.13
    }
   }
  },

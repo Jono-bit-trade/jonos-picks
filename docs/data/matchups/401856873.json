@@ -7,11 +7,24 @@
    "team": "Arizona State",
    "rank_ap": null,
    "records": {
-    "su": "6\u20134",
-    "ats": "6\u20134",
-    "ou": "5\u20135"
+    "su": "6\u20135",
+    "ats": "7\u20134",
+    "ou": "5\u20136"
    },
    "recent": [
+    {
+     "date": "2026-11-22T03:15:00+00:00",
+     "season": 2026,
+     "opp": "Oklahoma State",
+     "site": "H",
+     "pts": 27,
+     "opp_pts": 30,
+     "result": "L",
+     "spread": 3.5,
+     "cover": "W",
+     "total": 62.5,
+     "ou": "U"
+    },
     {
      "date": "2026-11-14T22:30:00+00:00",
      "season": 2026,
@@ -63,36 +76,23 @@
      "cover": "W",
      "total": 51.5,
      "ou": "U"
-    },
-    {
-     "date": "2026-10-17T19:30:00+00:00",
-     "season": 2026,
-     "opp": "Texas Tech",
-     "site": "A",
-     "pts": 25,
-     "opp_pts": 53,
-     "result": "L",
-     "spread": 16.5,
-     "cover": "L",
-     "total": 50.5,
-     "ou": "O"
     }
    ],
    "stats": [
     {
      "key": "ppg",
      "label": "Points per game",
-     "value": 28.2,
+     "value": 28.1,
      "fmt": "1",
-     "rank": 68,
+     "rank": 69,
      "better": true
     },
     {
      "key": "papg",
      "label": "Points allowed per game",
-     "value": 25.9,
+     "value": 26.3,
      "fmt": "1",
-     "rank": 81,
+     "rank": 83,
      "better": false
     },
     {
@@ -273,10 +273,10 @@
     }
    ],
    "rating": {
-    "rank": 58,
-    "overall": 1.27,
-    "offense": 25.9,
-    "defense": 24.63
+    "rank": 61,
+    "overall": 0.9,
+    "offense": 25.63,
+    "defense": 24.74
    }
   },
   "home": {
@@ -550,9 +550,9 @@
    ],
    "rating": {
     "rank": 20,
-    "overall": 8.26,
-    "offense": 31.28,
-    "defense": 23.01
+    "overall": 8.27,
+    "offense": 31.23,
+    "defense": 22.96
    }
   }
  },
