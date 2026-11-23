@@ -1151,6 +1151,31 @@ season,season_type,week,poll,rank,team,points,first_place
 2026,regular,12,AFCA Division III Coaches Poll,23,John Carroll,171,0
 2026,regular,12,AFCA Division III Coaches Poll,24,Washington & Jefferson,137,0
 2026,regular,12,AFCA Division III Coaches Poll,25,Hampden Sydney,97,0
+2026,regular,12,Playoff Committee Rankings,1,Georgia,0,0
+2026,regular,12,Playoff Committee Rankings,2,Utah,0,0
+2026,regular,12,Playoff Committee Rankings,3,Alabama,0,0
+2026,regular,12,Playoff Committee Rankings,4,UCLA,0,0
+2026,regular,12,Playoff Committee Rankings,5,Texas,0,0
+2026,regular,12,Playoff Committee Rankings,6,Notre Dame,0,0
+2026,regular,12,Playoff Committee Rankings,7,Miami,0,0
+2026,regular,12,Playoff Committee Rankings,8,Indiana,0,0
+2026,regular,12,Playoff Committee Rankings,9,Tennessee,0,0
+2026,regular,12,Playoff Committee Rankings,10,BYU,0,0
+2026,regular,12,Playoff Committee Rankings,11,Wake Forest,0,0
+2026,regular,12,Playoff Committee Rankings,12,Texas Tech,0,0
+2026,regular,12,Playoff Committee Rankings,13,Oregon,0,0
+2026,regular,12,Playoff Committee Rankings,14,Ohio State,0,0
+2026,regular,12,Playoff Committee Rankings,15,Iowa,0,0
+2026,regular,12,Playoff Committee Rankings,16,Kentucky,0,0
+2026,regular,12,Playoff Committee Rankings,17,Boise State,0,0
+2026,regular,12,Playoff Committee Rankings,18,USC,0,0
+2026,regular,12,Playoff Committee Rankings,19,Arizona,0,0
+2026,regular,12,Playoff Committee Rankings,20,Houston,0,0
+2026,regular,12,Playoff Committee Rankings,21,South Carolina,0,0
+2026,regular,12,Playoff Committee Rankings,22,Oklahoma,0,0
+2026,regular,12,Playoff Committee Rankings,23,Louisville,0,0
+2026,regular,12,Playoff Committee Rankings,24,Florida,0,0
+2026,regular,12,Playoff Committee Rankings,25,Ole Miss,0,0
 2026,regular,8,Coaches Poll,1,Miami,1791,50
 2026,regular,8,Coaches Poll,2,Ohio State,1725,13
 2026,regular,8,Coaches Poll,3,BYU,1698,10
@@ -1551,3 +1576,53 @@ season,season_type,week,poll,rank,team,points,first_place
 2026,regular,10,Playoff Committee Rankings,23,Oregon,0,0
 2026,regular,10,Playoff Committee Rankings,24,Florida,0,0
 2026,regular,10,Playoff Committee Rankings,25,Boise State,0,0
+2026,regular,13,Coaches Poll,1,Georgia,1811,60
+2026,regular,13,Coaches Poll,2,Utah,1755,12
+2026,regular,13,Coaches Poll,3,Notre Dame,1668,1
+2026,regular,13,Coaches Poll,4,Miami,1569,0
+2026,regular,13,Coaches Poll,5,Alabama,1465,0
+2026,regular,13,Coaches Poll,6,Texas,1444,0
+2026,regular,13,Coaches Poll,7,Tennessee,1345,0
+2026,regular,13,Coaches Poll,8,Wake Forest,1320,0
+2026,regular,13,Coaches Poll,9,Texas Tech,1230,0
+2026,regular,13,Coaches Poll,10,UCLA,1211,0
+2026,regular,13,Coaches Poll,11,BYU,1094,0
+2026,regular,13,Coaches Poll,12,Indiana,1058,0
+2026,regular,13,Coaches Poll,13,Iowa,993,0
+2026,regular,13,Coaches Poll,14,Oregon,905,0
+2026,regular,13,Coaches Poll,15,USC,720,0
+2026,regular,13,Coaches Poll,16,Arizona,659,0
+2026,regular,13,Coaches Poll,17,Houston,571,0
+2026,regular,13,Coaches Poll,18,Louisville,564,0
+2026,regular,13,Coaches Poll,19,Ole Miss,485,0
+2026,regular,13,Coaches Poll,20,Florida,294,0
+2026,regular,13,Coaches Poll,21,Boise State,230,0
+2026,regular,13,Coaches Poll,22,Oklahoma,207,0
+2026,regular,13,Coaches Poll,23,Missouri,187,0
+2026,regular,13,Coaches Poll,24,Liberty,171,0
+2026,regular,13,Coaches Poll,25,Kentucky,155,0
+2026,regular,13,AP Top 25,1,Georgia,1711,56
+2026,regular,13,AP Top 25,2,Utah,1662,12
+2026,regular,13,AP Top 25,3,Notre Dame,1591,1
+2026,regular,13,AP Top 25,4,Miami,1491,0
+2026,regular,13,AP Top 25,5,Texas,1392,0
+2026,regular,13,AP Top 25,6,Alabama,1352,0
+2026,regular,13,AP Top 25,7,Tennessee,1317,0
+2026,regular,13,AP Top 25,8,Wake Forest,1264,0
+2026,regular,13,AP Top 25,9,Texas Tech,1166,0
+2026,regular,13,AP Top 25,10,UCLA,1156,0
+2026,regular,13,AP Top 25,11,BYU,1030,0
+2026,regular,13,AP Top 25,12,Indiana,958,0
+2026,regular,13,AP Top 25,13,Iowa,912,0
+2026,regular,13,AP Top 25,14,Oregon,865,0
+2026,regular,13,AP Top 25,15,USC,699,0
+2026,regular,13,AP Top 25,16,Arizona,665,0
+2026,regular,13,AP Top 25,17,Houston,570,0
+2026,regular,13,AP Top 25,18,Louisville,565,0
+2026,regular,13,AP Top 25,19,Oklahoma,341,0
+2026,regular,13,AP Top 25,20,Florida,310,0
+2026,regular,13,AP Top 25,21,Liberty,294,0
+2026,regular,13,AP Top 25,22,Boise State,207,0
+2026,regular,13,AP Top 25,23,Ole Miss,200,0
+2026,regular,13,AP Top 25,24,Missouri,125,0
+2026,regular,13,AP Top 25,25,Ohio State,112,0
