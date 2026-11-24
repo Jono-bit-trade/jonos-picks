@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T13:03:59.672993+00:00",
+ "updated": "2026-11-24T23:24:26.320595+00:00",
  "season": 2026,
  "label": "Week 13",
  "games": [
@@ -14,41 +14,37 @@
    "home": {
     "team": "Eastern Michigan",
     "record": "4\u20137",
-    "proj": 27.8,
+    "proj": 28.0,
     "rating": -8.4,
     "conf": "Mid-American"
    },
    "away": {
     "team": "Kent State",
     "record": "3\u20138",
-    "proj": 18.8,
+    "proj": 18.6,
     "rating": -12.9,
     "conf": "Mid-American"
    },
    "market": {
-    "spread": -5.5,
+    "spread": -7.0,
     "spread_open": -6.5,
     "total": 46.5,
-    "line_move": -1.0,
+    "line_move": 0.5,
     "total_open": 46.5,
     "provider": "DraftKings",
-    "line_text": "Eastern Michigan \u22125.5"
+    "line_text": "Eastern Michigan \u22127.0"
    },
    "model": {
-    "margin": 8.9,
+    "margin": 9.3,
     "total": 46.6,
-    "line_text": "Eastern Michigan \u22128.9",
+    "line_text": "Eastern Michigan \u22129.3",
     "rating_margin": 7.5
    },
    "moneyline": {
-    "home": -225.0,
-    "away": 185.0,
-    "win_chance": 70.5,
-    "value": {
-     "team": "Eastern Michigan",
-     "odds": -225.0,
-     "gap": 4.1
-    }
+    "home": -258.0,
+    "away": 210.0,
+    "win_chance": 71.3,
+    "value": null
    },
    "splits": null,
    "bet_early": false,
@@ -80,9 +76,15 @@
      "total": 45.5
     },
     {
+     "t": "2026-11-24T01:31:01.241455+00:00",
+     "label": "Mon",
+     "spread": -5.5,
+     "total": 46.5
+    },
+    {
      "t": "now",
      "label": "Now",
-     "spread": -5.5,
+     "spread": -7.0,
      "total": 46.5
     }
    ],
@@ -92,13 +94,13 @@
     "edge": 2.9,
     "line_text": "Eastern Michigan \u22126.5"
    },
-   "edge": 3.4,
+   "edge": 2.3,
    "our_pick": null,
    "pick": {
     "team": "Eastern Michigan",
-    "line": -5.5,
-    "text": "Eastern Michigan \u22125.5",
-    "strong": true,
+    "line": -7.0,
+    "text": "Eastern Michigan \u22127.0",
+    "strong": false,
     "caution": false
    },
    "winner": "Eastern Michigan",
@@ -144,37 +146,41 @@
    "home": {
     "team": "Western Michigan",
     "record": "8\u20133",
-    "proj": 28.7,
+    "proj": 28.5,
     "rating": 2.4,
     "conf": "Mid-American"
    },
    "away": {
     "team": "Miami (OH)",
     "record": "7\u20134",
-    "proj": 19.2,
+    "proj": 19.4,
     "rating": -3.2,
     "conf": "Mid-American"
    },
    "market": {
-    "spread": -6.5,
+    "spread": -4.5,
     "spread_open": -7.5,
     "total": 45.5,
-    "line_move": -1.0,
+    "line_move": -3.0,
     "total_open": 46.5,
     "provider": "DraftKings",
-    "line_text": "Western Michigan \u22126.5"
+    "line_text": "Western Michigan \u22124.5"
    },
    "model": {
-    "margin": 9.6,
+    "margin": 9.2,
     "total": 47.9,
-    "line_text": "Western Michigan \u22129.6",
+    "line_text": "Western Michigan \u22129.2",
     "rating_margin": 8.6
    },
    "moneyline": {
-    "home": -270.0,
-    "away": 220.0,
-    "win_chance": 71.8,
-    "value": null
+    "home": -225.0,
+    "away": 185.0,
+    "win_chance": 70.9,
+    "value": {
+     "team": "Western Michigan",
+     "odds": -225.0,
+     "gap": 4.6
+    }
    },
    "splits": null,
    "bet_early": false,
@@ -206,9 +212,15 @@
      "total": 45.5
     },
     {
+     "t": "2026-11-24T01:31:01.241455+00:00",
+     "label": "Mon",
+     "spread": -6.5,
+     "total": 45.5
+    },
+    {
      "t": "now",
      "label": "Now",
-     "spread": -6.5,
+     "spread": -4.5,
      "total": 45.5
     }
    ],
@@ -218,12 +230,12 @@
     "edge": 2.0,
     "line_text": "Western Michigan \u22127.5"
    },
-   "edge": 3.1,
+   "edge": 4.7,
    "our_pick": null,
    "pick": {
     "team": "Western Michigan",
-    "line": -6.5,
-    "text": "Western Michigan \u22126.5",
+    "line": -4.5,
+    "text": "Western Michigan \u22124.5",
     "strong": true,
     "caution": false
    },
@@ -292,7 +304,7 @@
    },
    "model": {
     "margin": 14.1,
-    "total": 49.6,
+    "total": 49.7,
     "line_text": "Texas Tech \u221214.1",
     "rating_margin": 11.4
    },
@@ -386,384 +398,6 @@
    }
   },
   {
-   "id": 401858536,
-   "kickoff": "2026-11-27T17:00:00+00:00",
-   "time_tbd": false,
-   "week": 13,
-   "venue": "Kinnick Stadium",
-   "neutral": false,
-   "network": "CBS",
-   "home": {
-    "team": "Iowa",
-    "record": "9\u20132",
-    "proj": 24.5,
-    "rating": 11.4,
-    "conf": "Big Ten"
-   },
-   "away": {
-    "team": "Nebraska",
-    "record": "7\u20134",
-    "proj": 16.2,
-    "rating": 7.8,
-    "conf": "Big Ten"
-   },
-   "market": {
-    "spread": -4.5,
-    "spread_open": -6.5,
-    "total": 40.5,
-    "line_move": -2.0,
-    "total_open": 38.5,
-    "provider": "DraftKings",
-    "line_text": "Iowa \u22124.5"
-   },
-   "model": {
-    "margin": 8.3,
-    "total": 40.8,
-    "line_text": "Iowa \u22128.3",
-    "rating_margin": 6.6
-   },
-   "moneyline": {
-    "home": -205.0,
-    "away": 170.0,
-    "win_chance": 69.2,
-    "value": {
-     "team": "Iowa",
-     "odds": -205.0,
-     "gap": 4.7
-    }
-   },
-   "splits": null,
-   "bet_early": false,
-   "total_move": 2.0,
-   "total_bet_early": false,
-   "line_history": [
-    {
-     "t": null,
-     "label": "Open",
-     "spread": -6.5,
-     "total": 38.5
-    },
-    {
-     "t": "2026-11-22T04:56:43.892762+00:00",
-     "label": "Sat",
-     "spread": -6.0,
-     "total": 38.5
-    },
-    {
-     "t": "2026-11-23T03:35:52.524998+00:00",
-     "label": "Sun",
-     "spread": -4.5,
-     "total": 39.5
-    },
-    {
-     "t": "now",
-     "label": "Now",
-     "spread": -4.5,
-     "total": 40.5
-    }
-   ],
-   "locked": {
-    "text": "Iowa \u22126.0",
-    "at": "2026-11-22T14:00:13.747279+00:00",
-    "edge": 2.2,
-    "line_text": "Iowa \u22126.0"
-   },
-   "edge": 3.8,
-   "our_pick": null,
-   "pick": {
-    "team": "Iowa",
-    "line": -4.5,
-    "text": "Iowa \u22124.5",
-    "strong": true,
-    "caution": false
-   },
-   "winner": "Iowa",
-   "total_pick": "Over 40.5",
-   "weather": {
-    "dome": false,
-    "temp": 42.8,
-    "wind": 5.8,
-    "gust": 5.8,
-    "rain": 0.0,
-    "code": 3,
-    "night": false,
-    "kind": "actual",
-    "updated": "cfbd"
-   },
-   "qb": {
-    "home": {
-     "name": "Hank Brown",
-     "status": "unknown",
-     "note": null,
-     "if_out": null,
-     "auto": false,
-     "news": null
-    },
-    "away": {
-     "name": "Anthony Colandrea",
-     "status": "unknown",
-     "note": null,
-     "if_out": null,
-     "auto": false,
-     "news": null
-    }
-   }
-  },
-  {
-   "id": 401866472,
-   "kickoff": "2026-11-27T17:00:00+00:00",
-   "time_tbd": false,
-   "week": 13,
-   "venue": "InfoCision Stadium",
-   "neutral": false,
-   "network": "CBSSN",
-   "home": {
-    "team": "Akron",
-    "record": "2\u20139",
-    "proj": 22.6,
-    "rating": -12.6,
-    "conf": "Mid-American"
-   },
-   "away": {
-    "team": "Buffalo",
-    "record": "8\u20133",
-    "proj": 29.0,
-    "rating": -5.1,
-    "conf": "Mid-American"
-   },
-   "market": {
-    "spread": 7.5,
-    "spread_open": 10.0,
-    "total": 50.5,
-    "line_move": 2.5,
-    "total_open": 49.5,
-    "provider": "DraftKings",
-    "line_text": "Akron +7.5"
-   },
-   "model": {
-    "margin": -6.4,
-    "total": 51.6,
-    "line_text": "Akron +6.4",
-    "rating_margin": -4.5
-   },
-   "moneyline": {
-    "home": 250.0,
-    "away": -310.0,
-    "win_chance": 65.0,
-    "value": {
-     "team": "Akron",
-     "odds": 250.0,
-     "gap": 7.6
-    }
-   },
-   "splits": null,
-   "bet_early": false,
-   "total_move": 1.0,
-   "total_bet_early": false,
-   "line_history": [
-    {
-     "t": null,
-     "label": "Open",
-     "spread": 10.0,
-     "total": 49.5
-    },
-    {
-     "t": "2026-11-19T21:59:57.185680+00:00",
-     "label": "Thu",
-     "spread": null,
-     "total": null
-    },
-    {
-     "t": "2026-11-22T04:56:43.892762+00:00",
-     "label": "Sat",
-     "spread": 10.0,
-     "total": 49.5
-    },
-    {
-     "t": "now",
-     "label": "Now",
-     "spread": 7.5,
-     "total": 50.5
-    }
-   ],
-   "locked": {
-    "text": "Akron +10.0",
-    "at": "2026-11-22T14:00:13.747279+00:00",
-    "edge": 2.9,
-    "line_text": "Akron +10.0"
-   },
-   "edge": 1.1,
-   "our_pick": null,
-   "pick": {
-    "team": "Akron",
-    "line": 7.5,
-    "text": "Akron +7.5",
-    "strong": false,
-    "caution": false
-   },
-   "winner": "Buffalo",
-   "total_pick": "Over 50.5",
-   "weather": {
-    "dome": false,
-    "temp": 45.1,
-    "wind": 8.7,
-    "gust": 8.7,
-    "rain": 0.0,
-    "code": 53,
-    "night": false,
-    "kind": "actual",
-    "updated": "cfbd"
-   },
-   "qb": {
-    "home": {
-     "name": "Cibastian Broughton",
-     "status": "unknown",
-     "note": null,
-     "if_out": null,
-     "auto": false,
-     "news": null
-    },
-    "away": {
-     "name": "Jason Wright",
-     "status": "unknown",
-     "note": null,
-     "if_out": null,
-     "auto": false,
-     "news": null
-    }
-   }
-  },
-  {
-   "id": 401866473,
-   "kickoff": "2026-11-27T17:00:00+00:00",
-   "time_tbd": false,
-   "week": 13,
-   "venue": "Peden Stadium",
-   "neutral": false,
-   "network": "ESPNU",
-   "home": {
-    "team": "Ohio",
-    "record": "8\u20133",
-    "proj": 23.1,
-    "rating": -1.7,
-    "conf": "Mid-American"
-   },
-   "away": {
-    "team": "Toledo",
-    "record": "9\u20132",
-    "proj": 24.9,
-    "rating": 2.2,
-    "conf": "Mid-American"
-   },
-   "market": {
-    "spread": 3.0,
-    "spread_open": 4.5,
-    "total": 48.5,
-    "line_move": 1.5,
-    "total_open": 48.5,
-    "provider": "DraftKings",
-    "line_text": "Ohio +3.0"
-   },
-   "model": {
-    "margin": -1.8,
-    "total": 48.0,
-    "line_text": "Ohio +1.8",
-    "rating_margin": -0.9
-   },
-   "moneyline": {
-    "home": 130.0,
-    "away": -155.0,
-    "win_chance": 54.2,
-    "value": {
-     "team": "Ohio",
-     "odds": 130.0,
-     "gap": 4.1
-    }
-   },
-   "splits": null,
-   "bet_early": false,
-   "total_move": 0.0,
-   "total_bet_early": false,
-   "line_history": [
-    {
-     "t": null,
-     "label": "Open",
-     "spread": 4.5,
-     "total": 48.5
-    },
-    {
-     "t": "2026-11-19T21:59:57.185680+00:00",
-     "label": "Thu",
-     "spread": null,
-     "total": null
-    },
-    {
-     "t": "2026-11-23T03:35:52.524998+00:00",
-     "label": "Sun",
-     "spread": 3.5,
-     "total": 49.5
-    },
-    {
-     "t": "2026-11-24T01:31:01.241455+00:00",
-     "label": "Mon",
-     "spread": 3.0,
-     "total": 49.5
-    },
-    {
-     "t": "now",
-     "label": "Now",
-     "spread": 3.0,
-     "total": 48.5
-    }
-   ],
-   "locked": {
-    "text": "Ohio +3.5",
-    "at": "2026-11-23T03:35:52.524998+00:00",
-    "edge": 1.6,
-    "line_text": "Ohio +3.5"
-   },
-   "edge": 1.2,
-   "our_pick": null,
-   "pick": {
-    "team": "Ohio",
-    "line": 3.0,
-    "text": "Ohio +3.0",
-    "strong": false,
-    "caution": false
-   },
-   "winner": "Toledo",
-   "total_pick": "Under 48.5",
-   "weather": {
-    "dome": false,
-    "temp": 44.4,
-    "wind": 15.0,
-    "gust": 15.0,
-    "rain": 0.0,
-    "code": 51,
-    "night": false,
-    "kind": "actual",
-    "updated": "cfbd"
-   },
-   "qb": {
-    "home": {
-     "name": "Nick Poulos",
-     "status": "unknown",
-     "note": null,
-     "if_out": null,
-     "auto": false,
-     "news": null
-    },
-    "away": {
-     "name": "John Alan Richter",
-     "status": "unknown",
-     "note": null,
-     "if_out": null,
-     "auto": false,
-     "news": null
-    }
-   }
-  },
-  {
    "id": 401862840,
    "kickoff": "2026-11-27T17:00:00+00:00",
    "time_tbd": false,
@@ -774,41 +408,41 @@
    "home": {
     "team": "UTSA",
     "record": "9\u20132",
-    "proj": 29.4,
+    "proj": 29.5,
     "rating": 1.5,
     "conf": "American Athletic"
    },
    "away": {
     "team": "Tulsa",
     "record": "7\u20134",
-    "proj": 27.8,
+    "proj": 27.7,
     "rating": 0.5,
     "conf": "American Athletic"
    },
    "market": {
     "spread": -1.5,
     "spread_open": -2.5,
-    "total": 58.5,
+    "total": 57.5,
     "line_move": -1.0,
     "total_open": 58.5,
     "provider": "DraftKings",
     "line_text": "UTSA \u22121.5"
    },
    "model": {
-    "margin": 1.6,
+    "margin": 1.8,
     "total": 57.3,
-    "line_text": "UTSA \u22121.6",
-    "rating_margin": 4.0
+    "line_text": "UTSA \u22121.8",
+    "rating_margin": 4.1
    },
    "moneyline": {
-    "home": -118.0,
-    "away": -102.0,
-    "win_chance": 53.8,
+    "home": -115.0,
+    "away": -105.0,
+    "win_chance": 54.3,
     "value": null
    },
    "splits": null,
    "bet_early": false,
-   "total_move": 0.0,
+   "total_move": -1.0,
    "total_bet_early": false,
    "line_history": [
     {
@@ -824,10 +458,16 @@
      "total": null
     },
     {
+     "t": "2026-11-23T03:35:52.524998+00:00",
+     "label": "Sun",
+     "spread": -1.5,
+     "total": 58.5
+    },
+    {
      "t": "now",
      "label": "Now",
      "spread": -1.5,
-     "total": 58.5
+     "total": 57.5
     }
    ],
    "locked": {
@@ -836,7 +476,7 @@
     "edge": 0.0,
     "line_text": "UTSA \u22121.5"
    },
-   "edge": 0.1,
+   "edge": 0.3,
    "our_pick": null,
    "pick": {
     "team": "UTSA",
@@ -846,7 +486,7 @@
     "caution": false
    },
    "winner": "UTSA",
-   "total_pick": "Under 58.5",
+   "total_pick": "Under 57.5",
    "weather": {
     "dome": true,
     "temp": 70.0,
@@ -878,6 +518,268 @@
    }
   },
   {
+   "id": 401866473,
+   "kickoff": "2026-11-27T17:00:00+00:00",
+   "time_tbd": false,
+   "week": 13,
+   "venue": "Peden Stadium",
+   "neutral": false,
+   "network": "ESPNU",
+   "home": {
+    "team": "Ohio",
+    "record": "8\u20133",
+    "proj": 23.0,
+    "rating": -1.7,
+    "conf": "Mid-American"
+   },
+   "away": {
+    "team": "Toledo",
+    "record": "9\u20132",
+    "proj": 25.1,
+    "rating": 2.2,
+    "conf": "Mid-American"
+   },
+   "market": {
+    "spread": 3.0,
+    "spread_open": 4.5,
+    "total": 45.5,
+    "line_move": 1.5,
+    "total_open": 48.5,
+    "provider": "DraftKings",
+    "line_text": "Ohio +3.0"
+   },
+   "model": {
+    "margin": -2.0,
+    "total": 48.1,
+    "line_text": "Ohio +2.0",
+    "rating_margin": -0.8
+   },
+   "moneyline": {
+    "home": 130.0,
+    "away": -155.0,
+    "win_chance": 54.9,
+    "value": null
+   },
+   "splits": null,
+   "bet_early": false,
+   "total_move": -3.0,
+   "total_bet_early": false,
+   "line_history": [
+    {
+     "t": null,
+     "label": "Open",
+     "spread": 4.5,
+     "total": 48.5
+    },
+    {
+     "t": "2026-11-19T21:59:57.185680+00:00",
+     "label": "Thu",
+     "spread": null,
+     "total": null
+    },
+    {
+     "t": "2026-11-23T03:35:52.524998+00:00",
+     "label": "Sun",
+     "spread": 3.5,
+     "total": 49.5
+    },
+    {
+     "t": "2026-11-24T01:31:01.241455+00:00",
+     "label": "Mon",
+     "spread": 3.0,
+     "total": 49.5
+    },
+    {
+     "t": "2026-11-24T13:03:59.672993+00:00",
+     "label": "Tue",
+     "spread": 3.0,
+     "total": 48.5
+    },
+    {
+     "t": "now",
+     "label": "Now",
+     "spread": 3.0,
+     "total": 45.5
+    }
+   ],
+   "locked": {
+    "text": "Ohio +3.5",
+    "at": "2026-11-23T03:35:52.524998+00:00",
+    "edge": 1.6,
+    "line_text": "Ohio +3.5"
+   },
+   "edge": 1.0,
+   "our_pick": null,
+   "pick": {
+    "team": "Ohio",
+    "line": 3.0,
+    "text": "Ohio +3.0",
+    "strong": false,
+    "caution": false
+   },
+   "winner": "Toledo",
+   "total_pick": "Over 45.5",
+   "weather": {
+    "dome": false,
+    "temp": 44.4,
+    "wind": 15.0,
+    "gust": 15.0,
+    "rain": 0.0,
+    "code": 45,
+    "night": false,
+    "kind": "actual",
+    "updated": "cfbd"
+   },
+   "qb": {
+    "home": {
+     "name": "Nick Poulos",
+     "status": "unknown",
+     "note": null,
+     "if_out": null,
+     "auto": false,
+     "news": null
+    },
+    "away": {
+     "name": "John Alan Richter",
+     "status": "unknown",
+     "note": null,
+     "if_out": null,
+     "auto": false,
+     "news": null
+    }
+   }
+  },
+  {
+   "id": 401866472,
+   "kickoff": "2026-11-27T17:00:00+00:00",
+   "time_tbd": false,
+   "week": 13,
+   "venue": "InfoCision Stadium",
+   "neutral": false,
+   "network": "CBSSN",
+   "home": {
+    "team": "Akron",
+    "record": "2\u20139",
+    "proj": 22.8,
+    "rating": -12.6,
+    "conf": "Mid-American"
+   },
+   "away": {
+    "team": "Buffalo",
+    "record": "8\u20133",
+    "proj": 28.8,
+    "rating": -5.0,
+    "conf": "Mid-American"
+   },
+   "market": {
+    "spread": 7.5,
+    "spread_open": 10.0,
+    "total": 48.5,
+    "line_move": 2.5,
+    "total_open": 49.5,
+    "provider": "DraftKings",
+    "line_text": "Akron +7.5"
+   },
+   "model": {
+    "margin": -6.0,
+    "total": 51.6,
+    "line_text": "Akron +6.0",
+    "rating_margin": -4.5
+   },
+   "moneyline": {
+    "home": 245.0,
+    "away": -305.0,
+    "win_chance": 64.2,
+    "value": {
+     "team": "Akron",
+     "odds": 245.0,
+     "gap": 8.0
+    }
+   },
+   "splits": null,
+   "bet_early": false,
+   "total_move": -1.0,
+   "total_bet_early": false,
+   "line_history": [
+    {
+     "t": null,
+     "label": "Open",
+     "spread": 10.0,
+     "total": 49.5
+    },
+    {
+     "t": "2026-11-19T21:59:57.185680+00:00",
+     "label": "Thu",
+     "spread": null,
+     "total": null
+    },
+    {
+     "t": "2026-11-22T04:56:43.892762+00:00",
+     "label": "Sat",
+     "spread": 10.0,
+     "total": 49.5
+    },
+    {
+     "t": "2026-11-23T03:35:52.524998+00:00",
+     "label": "Sun",
+     "spread": 7.5,
+     "total": 50.5
+    },
+    {
+     "t": "now",
+     "label": "Now",
+     "spread": 7.5,
+     "total": 48.5
+    }
+   ],
+   "locked": {
+    "text": "Akron +10.0",
+    "at": "2026-11-22T14:00:13.747279+00:00",
+    "edge": 2.9,
+    "line_text": "Akron +10.0"
+   },
+   "edge": 1.5,
+   "our_pick": null,
+   "pick": {
+    "team": "Akron",
+    "line": 7.5,
+    "text": "Akron +7.5",
+    "strong": false,
+    "caution": false
+   },
+   "winner": "Buffalo",
+   "total_pick": "Over 48.5",
+   "weather": {
+    "dome": false,
+    "temp": 45.1,
+    "wind": 8.7,
+    "gust": 8.7,
+    "rain": 0.0,
+    "code": 51,
+    "night": false,
+    "kind": "actual",
+    "updated": "cfbd"
+   },
+   "qb": {
+    "home": {
+     "name": "Cibastian Broughton",
+     "status": "unknown",
+     "note": null,
+     "if_out": null,
+     "auto": false,
+     "news": null
+    },
+    "away": {
+     "name": "Jason Wright",
+     "status": "unknown",
+     "note": null,
+     "if_out": null,
+     "auto": false,
+     "news": null
+    }
+   }
+  },
+  {
    "id": 401856762,
    "kickoff": "2026-11-27T17:00:00+00:00",
    "time_tbd": false,
@@ -888,14 +790,14 @@
    "home": {
     "team": "Ole Miss",
     "record": "7\u20134",
-    "proj": 37.0,
-    "rating": 10.4,
+    "proj": 37.8,
+    "rating": 10.3,
     "conf": "SEC"
    },
    "away": {
     "team": "Mississippi State",
     "record": "5\u20136",
-    "proj": 16.9,
+    "proj": 17.7,
     "rating": -3.2,
     "conf": "SEC"
    },
@@ -909,15 +811,15 @@
     "line_text": "Ole Miss \u221218.5"
    },
    "model": {
-    "margin": 20.2,
-    "total": 53.9,
-    "line_text": "Ole Miss \u221220.2",
+    "margin": 20.1,
+    "total": 55.5,
+    "line_text": "Ole Miss \u221220.1",
     "rating_margin": 16.6
    },
    "moneyline": {
-    "home": -1100.0,
-    "away": 700.0,
-    "win_chance": 88.8,
+    "home": -1050.0,
+    "away": 675.0,
+    "win_chance": 88.7,
     "value": null
    },
    "splits": null,
@@ -962,7 +864,7 @@
     "edge": 0.2,
     "line_text": "Ole Miss \u221220.5"
    },
-   "edge": 1.7,
+   "edge": 1.6,
    "our_pick": null,
    "pick": {
     "team": "Ole Miss",
@@ -995,23 +897,152 @@
     },
     "away": {
      "name": "AJ Swann",
-     "status": "out",
-     "note": "confirmed by news: Wisevoter",
-     "if_out": null,
-     "auto": true,
+     "status": "unknown",
+     "note": null,
+     "if_out": {
+      "home": 37.0,
+      "away": 16.9
+     },
+     "auto": false,
      "news": {
-      "suggested": "out",
+      "suggested": "questionable",
       "qb": "AJ Swann",
-      "headline": "Swann Remains Out for Mississippi State",
-      "confirmed": true,
+      "headline": "Lebby\u2019s lectures: AJ Swann \u2018day-to-day,\u2019 new coaches find success",
+      "confirmed": false,
       "evidence": [
-       "Wisevoter: Swann Remains Out for Mississippi State"
+       "Commercial Dispatch: Lebby\u2019s lectures: AJ Swann \u2018day-to-day,\u2019 new coaches find success",
+       "The Clarion-Ledger: Coach Jeff Lebby gives the latest on AJ Swann's injury status for the Egg Bowl",
+       "The Clarion-Ledger: Jeff Lebby on Mississippi State QB AJ Swann injury status for Egg Bowl"
       ],
       "missed_last": true,
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVmI2SHdFMVBmUG5RaVRVM3ItUC1vWWZnaVB1aWJZSjJEN3BGUnRLa3ljZDJmYy0wX3V1bTVOZGZoUEZmWnpocFBIVG45RlNwUDNHT09VU1k2M3JTY2U4MFU2TjNjZFhiYlJoZXdMNnE1WFhyMHdTRzR3cWlwRVpOZVh4MktzdjlJd05uaDRYVTJqN1pUSU14TGVoYzgxWFU?oc=5",
-      "source": "Wisevoter",
-      "published": "2026-11-23T03:54:46+00:00"
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdVR0ZG9DMzN2MFEwcjI1bFd4OUQybVpSMktwZEZhbXhwc0gzc3M1Z1I4ZDYzbkMwRjBZaHQ2VXAtOTBWblZNeXVtRDFCYzhzZUR1c0x0OUdUX2Y0aTQ0X0dnOE1pVkloODRxaUJRVXFJOVBFVktNbi1HbW5waTlBbFdkb1dYS203ME42bjJqci1ENHpN?oc=5",
+      "source": "Commercial Dispatch",
+      "published": "2026-11-24T13:09:06+00:00"
      }
+    }
+   }
+  },
+  {
+   "id": 401858536,
+   "kickoff": "2026-11-27T17:00:00+00:00",
+   "time_tbd": false,
+   "week": 13,
+   "venue": "Kinnick Stadium",
+   "neutral": false,
+   "network": "CBS",
+   "home": {
+    "team": "Iowa",
+    "record": "9\u20132",
+    "proj": 24.4,
+    "rating": 11.4,
+    "conf": "Big Ten"
+   },
+   "away": {
+    "team": "Nebraska",
+    "record": "7\u20134",
+    "proj": 16.4,
+    "rating": 7.8,
+    "conf": "Big Ten"
+   },
+   "market": {
+    "spread": -4.5,
+    "spread_open": -6.5,
+    "total": 40.5,
+    "line_move": -2.0,
+    "total_open": 38.5,
+    "provider": "DraftKings",
+    "line_text": "Iowa \u22124.5"
+   },
+   "model": {
+    "margin": 8.0,
+    "total": 40.8,
+    "line_text": "Iowa \u22128.0",
+    "rating_margin": 6.6
+   },
+   "moneyline": {
+    "home": -205.0,
+    "away": 170.0,
+    "win_chance": 68.5,
+    "value": {
+     "team": "Iowa",
+     "odds": -205.0,
+     "gap": 4.1
+    }
+   },
+   "splits": null,
+   "bet_early": false,
+   "total_move": 2.0,
+   "total_bet_early": false,
+   "line_history": [
+    {
+     "t": null,
+     "label": "Open",
+     "spread": -6.5,
+     "total": 38.5
+    },
+    {
+     "t": "2026-11-22T04:56:43.892762+00:00",
+     "label": "Sat",
+     "spread": -6.0,
+     "total": 38.5
+    },
+    {
+     "t": "2026-11-23T03:35:52.524998+00:00",
+     "label": "Sun",
+     "spread": -4.5,
+     "total": 39.5
+    },
+    {
+     "t": "now",
+     "label": "Now",
+     "spread": -4.5,
+     "total": 40.5
+    }
+   ],
+   "locked": {
+    "text": "Iowa \u22126.0",
+    "at": "2026-11-22T14:00:13.747279+00:00",
+    "edge": 2.2,
+    "line_text": "Iowa \u22126.0"
+   },
+   "edge": 3.5,
+   "our_pick": null,
+   "pick": {
+    "team": "Iowa",
+    "line": -4.5,
+    "text": "Iowa \u22124.5",
+    "strong": true,
+    "caution": false
+   },
+   "winner": "Iowa",
+   "total_pick": "Over 40.5",
+   "weather": {
+    "dome": false,
+    "temp": 42.8,
+    "wind": 5.8,
+    "gust": 5.8,
+    "rain": 0.0,
+    "code": 0,
+    "night": false,
+    "kind": "actual",
+    "updated": "cfbd"
+   },
+   "qb": {
+    "home": {
+     "name": "Hank Brown",
+     "status": "unknown",
+     "note": null,
+     "if_out": null,
+     "auto": false,
+     "news": null
+    },
+    "away": {
+     "name": "Anthony Colandrea",
+     "status": "unknown",
+     "note": null,
+     "if_out": null,
+     "auto": false,
+     "news": null
     }
    }
   },
@@ -1026,14 +1057,14 @@
    "home": {
     "team": "South Alabama",
     "record": "6\u20135",
-    "proj": 30.6,
+    "proj": 30.7,
     "rating": -3.4,
     "conf": "Sun Belt"
    },
    "away": {
     "team": "App State",
     "record": "7\u20134",
-    "proj": 24.6,
+    "proj": 24.5,
     "rating": -6.1,
     "conf": "Sun Belt"
    },
@@ -1055,11 +1086,11 @@
    "moneyline": {
     "home": -166.0,
     "away": 140.0,
-    "win_chance": 64.2,
+    "win_chance": 64.4,
     "value": {
      "team": "South Alabama",
      "odds": -166.0,
-     "gap": 4.3
+     "gap": 4.5
     }
    },
    "splits": null,
@@ -1140,126 +1171,6 @@
    }
   },
   {
-   "id": 401862838,
-   "kickoff": "2026-11-27T20:30:00+00:00",
-   "time_tbd": false,
-   "week": 13,
-   "venue": "Simmons Bank Liberty Stadium",
-   "neutral": false,
-   "network": "ESPN",
-   "home": {
-    "team": "Memphis",
-    "record": "8\u20133",
-    "proj": 40.1,
-    "rating": 1.4,
-    "conf": "American Athletic"
-   },
-   "away": {
-    "team": "Temple",
-    "record": "2\u20139",
-    "proj": 20.9,
-    "rating": -9.5,
-    "conf": "American Athletic"
-   },
-   "market": {
-    "spread": -17.5,
-    "spread_open": -17.5,
-    "total": 66.5,
-    "line_move": 0.0,
-    "total_open": 64.5,
-    "provider": "DraftKings",
-    "line_text": "Memphis \u221217.5"
-   },
-   "model": {
-    "margin": 19.1,
-    "total": 61.0,
-    "line_text": "Memphis \u221219.1",
-    "rating_margin": 13.9
-   },
-   "moneyline": {
-    "home": -950.0,
-    "away": 625.0,
-    "win_chance": 87.6,
-    "value": null
-   },
-   "splits": null,
-   "bet_early": false,
-   "total_move": 2.0,
-   "total_bet_early": false,
-   "line_history": [
-    {
-     "t": null,
-     "label": "Open",
-     "spread": -17.5,
-     "total": 64.5
-    },
-    {
-     "t": "2026-11-19T21:59:57.185680+00:00",
-     "label": "Thu",
-     "spread": null,
-     "total": null
-    },
-    {
-     "t": "2026-11-23T03:35:52.524998+00:00",
-     "label": "Sun",
-     "spread": -17.5,
-     "total": 64.5
-    },
-    {
-     "t": "now",
-     "label": "Now",
-     "spread": -17.5,
-     "total": 66.5
-    }
-   ],
-   "locked": {
-    "text": "Memphis \u221217.5",
-    "at": "2026-11-23T03:35:52.524998+00:00",
-    "edge": 1.9,
-    "line_text": "Memphis \u221217.5"
-   },
-   "edge": 1.6,
-   "our_pick": null,
-   "pick": {
-    "team": "Memphis",
-    "line": -17.5,
-    "text": "Memphis \u221217.5",
-    "strong": false,
-    "caution": false
-   },
-   "winner": "Memphis",
-   "total_pick": "Under 66.5",
-   "weather": {
-    "dome": false,
-    "temp": 52.5,
-    "wind": 9.2,
-    "gust": 9.2,
-    "rain": 0.0,
-    "code": 0,
-    "night": false,
-    "kind": "actual",
-    "updated": "cfbd"
-   },
-   "qb": {
-    "home": {
-     "name": "Marcus Stokes",
-     "status": "unknown",
-     "note": null,
-     "if_out": null,
-     "auto": false,
-     "news": null
-    },
-    "away": {
-     "name": "Jaxon Smolik",
-     "status": "unknown",
-     "note": null,
-     "if_out": null,
-     "auto": false,
-     "news": null
-    }
-   }
-  },
-  {
    "id": 401856759,
    "kickoff": "2026-11-27T20:30:00+00:00",
    "time_tbd": false,
@@ -1270,7 +1181,7 @@
    "home": {
     "team": "Florida State",
     "record": "5\u20136",
-    "proj": 25.3,
+    "proj": 25.1,
     "rating": 1.8,
     "conf": "ACC"
    },
@@ -1284,7 +1195,7 @@
    "market": {
     "spread": 6.0,
     "spread_open": 4.5,
-    "total": 52.5,
+    "total": 53.5,
     "line_move": -1.5,
     "total_open": 52.5,
     "provider": "DraftKings",
@@ -1292,23 +1203,23 @@
    },
    "model": {
     "margin": -0.9,
-    "total": 51.4,
+    "total": 51.2,
     "line_text": "Florida State +0.9",
     "rating_margin": -0.0
    },
    "moneyline": {
-    "home": 180.0,
-    "away": -218.0,
-    "win_chance": 52.1,
+    "home": 190.0,
+    "away": -230.0,
+    "win_chance": 52.3,
     "value": {
      "team": "Florida State",
-     "odds": 180.0,
-     "gap": 13.7
+     "odds": 190.0,
+     "gap": 14.6
     }
    },
    "splits": null,
    "bet_early": false,
-   "total_move": 0.0,
+   "total_move": 1.0,
    "total_bet_early": false,
    "line_history": [
     {
@@ -1330,10 +1241,16 @@
      "total": 52.5
     },
     {
+     "t": "2026-11-24T01:31:01.241455+00:00",
+     "label": "Mon",
+     "spread": 6.0,
+     "total": 52.5
+    },
+    {
      "t": "now",
      "label": "Now",
      "spread": 6.0,
-     "total": 52.5
+     "total": 53.5
     }
    ],
    "locked": {
@@ -1356,7 +1273,7 @@
     "caution": false
    },
    "winner": "Florida",
-   "total_pick": "Under 52.5",
+   "total_pick": "Under 53.5",
    "weather": {
     "dome": false,
     "temp": 57.6,
@@ -1398,8 +1315,8 @@
    "home": {
     "team": "San Jos\u00e9 State",
     "record": "5\u20137",
-    "proj": 19.3,
-    "rating": -8.7,
+    "proj": 19.2,
+    "rating": -8.6,
     "conf": "Mountain West"
    },
    "away": {
@@ -1419,19 +1336,19 @@
     "line_text": "San Jos\u00e9 State +8.5"
    },
    "model": {
-    "margin": -5.5,
+    "margin": -5.6,
     "total": 44.0,
-    "line_text": "San Jos\u00e9 State +5.5",
+    "line_text": "San Jos\u00e9 State +5.6",
     "rating_margin": -5.0
    },
    "moneyline": {
     "home": 285.0,
     "away": -360.0,
-    "win_chance": 62.9,
+    "win_chance": 63.3,
     "value": {
      "team": "San Jos\u00e9 State",
      "odds": 285.0,
-     "gap": 12.2
+     "gap": 11.8
     }
    },
    "splits": null,
@@ -1470,13 +1387,13 @@
     "edge": 4.0,
     "line_text": "San Jos\u00e9 State +9.5"
    },
-   "edge": 3.0,
+   "edge": 2.9,
    "our_pick": null,
    "pick": {
     "team": "San Jos\u00e9 State",
     "line": 8.5,
     "text": "San Jos\u00e9 State +8.5",
-    "strong": true,
+    "strong": false,
     "caution": false
    },
    "winner": "North Dakota State",
@@ -1512,6 +1429,126 @@
    }
   },
   {
+   "id": 401862838,
+   "kickoff": "2026-11-27T20:30:00+00:00",
+   "time_tbd": false,
+   "week": 13,
+   "venue": "Simmons Bank Liberty Stadium",
+   "neutral": false,
+   "network": "ESPN",
+   "home": {
+    "team": "Memphis",
+    "record": "8\u20133",
+    "proj": 39.9,
+    "rating": 1.4,
+    "conf": "American Athletic"
+   },
+   "away": {
+    "team": "Temple",
+    "record": "2\u20139",
+    "proj": 21.1,
+    "rating": -9.5,
+    "conf": "American Athletic"
+   },
+   "market": {
+    "spread": -17.5,
+    "spread_open": -17.5,
+    "total": 66.5,
+    "line_move": 0.0,
+    "total_open": 64.5,
+    "provider": "DraftKings",
+    "line_text": "Memphis \u221217.5"
+   },
+   "model": {
+    "margin": 18.8,
+    "total": 61.0,
+    "line_text": "Memphis \u221218.8",
+    "rating_margin": 13.9
+   },
+   "moneyline": {
+    "home": -950.0,
+    "away": 625.0,
+    "win_chance": 87.1,
+    "value": null
+   },
+   "splits": null,
+   "bet_early": false,
+   "total_move": 2.0,
+   "total_bet_early": false,
+   "line_history": [
+    {
+     "t": null,
+     "label": "Open",
+     "spread": -17.5,
+     "total": 64.5
+    },
+    {
+     "t": "2026-11-19T21:59:57.185680+00:00",
+     "label": "Thu",
+     "spread": null,
+     "total": null
+    },
+    {
+     "t": "2026-11-23T03:35:52.524998+00:00",
+     "label": "Sun",
+     "spread": -17.5,
+     "total": 64.5
+    },
+    {
+     "t": "now",
+     "label": "Now",
+     "spread": -17.5,
+     "total": 66.5
+    }
+   ],
+   "locked": {
+    "text": "Memphis \u221217.5",
+    "at": "2026-11-23T03:35:52.524998+00:00",
+    "edge": 1.9,
+    "line_text": "Memphis \u221217.5"
+   },
+   "edge": 1.3,
+   "our_pick": null,
+   "pick": {
+    "team": "Memphis",
+    "line": -17.5,
+    "text": "Memphis \u221217.5",
+    "strong": false,
+    "caution": false
+   },
+   "winner": "Memphis",
+   "total_pick": "Under 66.5",
+   "weather": {
+    "dome": false,
+    "temp": 52.5,
+    "wind": 9.2,
+    "gust": 9.2,
+    "rain": 0.0,
+    "code": 0,
+    "night": false,
+    "kind": "actual",
+    "updated": "cfbd"
+   },
+   "qb": {
+    "home": {
+     "name": "Marcus Stokes",
+     "status": "unknown",
+     "note": null,
+     "if_out": null,
+     "auto": false,
+     "news": null
+    },
+    "away": {
+     "name": "Jaxon Smolik",
+     "status": "unknown",
+     "note": null,
+     "if_out": null,
+     "auto": false,
+     "news": null
+    }
+   }
+  },
+  {
    "id": 401864546,
    "kickoff": "2026-11-27T21:30:00+00:00",
    "time_tbd": false,
@@ -1529,7 +1566,7 @@
    "away": {
     "team": "Air Force",
     "record": "9\u20132",
-    "proj": 19.5,
+    "proj": 19.4,
     "rating": -0.2,
     "conf": "Mountain West"
    },
@@ -1543,15 +1580,15 @@
     "line_text": "New Mexico \u22126.5"
    },
    "model": {
-    "margin": 9.4,
+    "margin": 9.5,
     "total": 48.4,
-    "line_text": "New Mexico \u22129.4",
+    "line_text": "New Mexico \u22129.5",
     "rating_margin": 7.2
    },
    "moneyline": {
     "home": -258.0,
     "away": 210.0,
-    "win_chance": 71.5,
+    "win_chance": 71.6,
     "value": null
    },
    "splits": null,
@@ -1584,7 +1621,7 @@
     "edge": 3.0,
     "line_text": "New Mexico \u22126.5"
    },
-   "edge": 2.9,
+   "edge": 3.0,
    "our_pick": null,
    "pick": {
     "team": "New Mexico",
@@ -1636,14 +1673,14 @@
    "home": {
     "team": "Wisconsin",
     "record": "7\u20134",
-    "proj": 25.1,
+    "proj": 24.9,
     "rating": 5.3,
     "conf": "Big Ten"
    },
    "away": {
     "team": "Minnesota",
     "record": "6\u20135",
-    "proj": 11.7,
+    "proj": 11.8,
     "rating": 0.2,
     "conf": "Big Ten"
    },
@@ -1657,19 +1694,19 @@
     "line_text": "Wisconsin \u22127.5"
    },
    "model": {
-    "margin": 13.4,
+    "margin": 13.1,
     "total": 36.7,
-    "line_text": "Wisconsin \u221213.4",
-    "rating_margin": 8.2
+    "line_text": "Wisconsin \u221213.1",
+    "rating_margin": 8.1
    },
    "moneyline": {
-    "home": -290.0,
-    "away": 235.0,
-    "win_chance": 79.0,
+    "home": -305.0,
+    "away": 245.0,
+    "win_chance": 78.5,
     "value": {
      "team": "Wisconsin",
-     "odds": -290.0,
-     "gap": 7.7
+     "odds": -305.0,
+     "gap": 6.3
     }
    },
    "splits": null,
@@ -1702,7 +1739,7 @@
     "edge": 5.8,
     "line_text": "Wisconsin \u22127.5"
    },
-   "edge": 5.9,
+   "edge": 5.6,
    "our_pick": {
     "text": "Wisconsin \u22127.5",
     "edge": 5.8,
@@ -1723,7 +1760,7 @@
     "wind": 4.9,
     "gust": 4.9,
     "rain": 0.0,
-    "code": 3,
+    "code": 0,
     "night": true,
     "kind": "actual",
     "updated": "cfbd"
@@ -1734,8 +1771,8 @@
      "status": "unknown",
      "note": null,
      "if_out": {
-      "home": 23.8,
-      "away": 12.3
+      "home": 23.7,
+      "away": 12.4
      },
      "auto": false,
      "news": {
@@ -1862,7 +1899,7 @@
     "wind": 6.0,
     "gust": 6.0,
     "rain": 0.0,
-    "code": 3,
+    "code": 0,
     "night": true,
     "kind": "actual",
     "updated": "cfbd"
@@ -1897,36 +1934,36 @@
    "home": {
     "team": "Utah",
     "record": "11\u20130",
-    "proj": 44.1,
+    "proj": 44.3,
     "rating": 14.2,
     "conf": "Big 12"
    },
    "away": {
     "team": "West Virginia",
     "record": "5\u20136",
-    "proj": 17.6,
+    "proj": 17.3,
     "rating": -2.7,
     "conf": "Big 12"
    },
    "market": {
-    "spread": -22.5,
+    "spread": -25.5,
     "spread_open": -20.5,
     "total": 68.5,
-    "line_move": 2.0,
+    "line_move": 5.0,
     "total_open": 68.5,
     "provider": "DraftKings",
-    "line_text": "Utah \u221222.5"
+    "line_text": "Utah \u221225.5"
    },
    "model": {
-    "margin": 26.5,
+    "margin": 27.0,
     "total": 61.7,
-    "line_text": "Utah \u221226.5",
+    "line_text": "Utah \u221227.0",
     "rating_margin": 20.0
    },
    "moneyline": {
-    "home": -1800.0,
-    "away": 1000.0,
-    "win_chance": 94.5,
+    "home": -2400.0,
+    "away": 1200.0,
+    "win_chance": 94.8,
     "value": null
    },
    "splits": null,
@@ -1953,9 +1990,15 @@
      "total": 68.5
     },
     {
+     "t": "2026-11-24T01:31:01.241455+00:00",
+     "label": "Mon",
+     "spread": -22.5,
+     "total": 68.5
+    },
+    {
      "t": "now",
      "label": "Now",
-     "spread": -22.5,
+     "spread": -25.5,
      "total": 68.5
     }
    ],
@@ -1965,7 +2008,7 @@
     "edge": 5.1,
     "line_text": "Utah \u221221.0"
    },
-   "edge": 4.0,
+   "edge": 1.5,
    "our_pick": {
     "text": "Utah \u221221.0",
     "edge": 5.1,
@@ -1973,9 +2016,9 @@
    },
    "pick": {
     "team": "Utah",
-    "line": -22.5,
-    "text": "Utah \u221222.5",
-    "strong": true,
+    "line": -25.5,
+    "text": "Utah \u221225.5",
+    "strong": false,
     "caution": false
    },
    "winner": "Utah",
@@ -2011,490 +2054,6 @@
    }
   },
   {
-   "id": 401858313,
-   "kickoff": "2026-11-28T17:00:00+00:00",
-   "time_tbd": false,
-   "week": 13,
-   "venue": "Kenan Stadium",
-   "neutral": false,
-   "network": "ACC Network",
-   "home": {
-    "team": "North Carolina",
-    "record": "5\u20136",
-    "proj": 29.0,
-    "rating": 1.4,
-    "conf": "ACC"
-   },
-   "away": {
-    "team": "NC State",
-    "record": "5\u20136",
-    "proj": 24.4,
-    "rating": 1.4,
-    "conf": "ACC"
-   },
-   "market": {
-    "spread": -5.5,
-    "spread_open": 1.5,
-    "total": 53.5,
-    "line_move": 7.0,
-    "total_open": 55.5,
-    "provider": "DraftKings",
-    "line_text": "North Carolina \u22125.5"
-   },
-   "model": {
-    "margin": 4.6,
-    "total": 53.4,
-    "line_text": "North Carolina \u22124.6",
-    "rating_margin": 3.1
-   },
-   "moneyline": {
-    "home": -218.0,
-    "away": 180.0,
-    "win_chance": 60.8,
-    "value": {
-     "team": "NC State",
-     "odds": 180.0,
-     "gap": 4.9
-    }
-   },
-   "splits": null,
-   "bet_early": false,
-   "total_move": -2.0,
-   "total_bet_early": false,
-   "line_history": [
-    {
-     "t": null,
-     "label": "Open",
-     "spread": 1.5,
-     "total": 55.5
-    },
-    {
-     "t": "2026-11-23T03:35:52.524998+00:00",
-     "label": "Sun",
-     "spread": -5.5,
-     "total": 54.5
-    },
-    {
-     "t": "now",
-     "label": "Now",
-     "spread": -5.5,
-     "total": 53.5
-    }
-   ],
-   "locked": {
-    "text": "North Carolina +1.5",
-    "at": "2026-11-22T14:00:13.747279+00:00",
-    "edge": 4.9,
-    "line_text": "North Carolina +1.5"
-   },
-   "edge": 0.9,
-   "our_pick": null,
-   "pick": {
-    "team": "NC State",
-    "line": 5.5,
-    "text": "NC State +5.5",
-    "strong": false,
-    "caution": false
-   },
-   "winner": "North Carolina",
-   "total_pick": "Under 53.5",
-   "weather": {
-    "dome": false,
-    "temp": 59.7,
-    "wind": 11.5,
-    "gust": 11.5,
-    "rain": 0.0,
-    "code": 0,
-    "night": false,
-    "kind": "actual",
-    "updated": "cfbd"
-   },
-   "qb": {
-    "home": {
-     "name": "Travis Burgess",
-     "status": "unknown",
-     "note": null,
-     "if_out": null,
-     "auto": false,
-     "news": null
-    },
-    "away": {
-     "name": "CJ Bailey",
-     "status": "unknown",
-     "note": null,
-     "if_out": null,
-     "auto": false,
-     "news": null
-    }
-   }
-  },
-  {
-   "id": 401856761,
-   "kickoff": "2026-11-28T17:00:00+00:00",
-   "time_tbd": false,
-   "week": 13,
-   "venue": "Kroger Field",
-   "neutral": false,
-   "network": "ESPN2",
-   "home": {
-    "team": "Kentucky",
-    "record": "7\u20134",
-    "proj": 21.8,
-    "rating": 0.7,
-    "conf": "SEC"
-   },
-   "away": {
-    "team": "Louisville",
-    "record": "8\u20133",
-    "proj": 32.4,
-    "rating": 10.1,
-    "conf": "ACC"
-   },
-   "market": {
-    "spread": 3.0,
-    "spread_open": -1.5,
-    "total": 54.5,
-    "line_move": -4.5,
-    "total_open": 54.5,
-    "provider": "DraftKings",
-    "line_text": "Kentucky +3.0"
-   },
-   "model": {
-    "margin": -10.6,
-    "total": 54.3,
-    "line_text": "Kentucky +10.6",
-    "rating_margin": -6.4
-   },
-   "moneyline": {
-    "home": 120.0,
-    "away": -142.0,
-    "win_chance": 73.9,
-    "value": {
-     "team": "Louisville",
-     "odds": -142.0,
-     "gap": 17.5
-    }
-   },
-   "splits": null,
-   "bet_early": false,
-   "total_move": 0.0,
-   "total_bet_early": false,
-   "line_history": [
-    {
-     "t": null,
-     "label": "Open",
-     "spread": -1.5,
-     "total": 54.5
-    },
-    {
-     "t": "2026-11-22T14:00:13.747279+00:00",
-     "label": "Sun",
-     "spread": 1.5,
-     "total": 54.5
-    },
-    {
-     "t": "now",
-     "label": "Now",
-     "spread": 3.0,
-     "total": 54.5
-    }
-   ],
-   "locked": {
-    "text": "Louisville \u22121.5",
-    "at": "2026-11-22T14:00:13.747279+00:00",
-    "edge": 6.4,
-    "line_text": "Kentucky +1.5"
-   },
-   "edge": 7.6,
-   "our_pick": {
-    "text": "Louisville \u22121.5",
-    "edge": 6.4,
-    "locked": true
-   },
-   "pick": {
-    "team": "Louisville",
-    "line": -3.0,
-    "text": "Louisville \u22123.0",
-    "strong": false,
-    "caution": true
-   },
-   "winner": "Louisville",
-   "total_pick": "Under 54.5",
-   "weather": {
-    "dome": false,
-    "temp": 47.5,
-    "wind": 9.8,
-    "gust": 9.8,
-    "rain": 0.0,
-    "code": 3,
-    "night": false,
-    "kind": "actual",
-    "updated": "cfbd"
-   },
-   "qb": {
-    "home": {
-     "name": "Kenny Minchey",
-     "status": "unknown",
-     "note": null,
-     "if_out": null,
-     "auto": false,
-     "news": null
-    },
-    "away": {
-     "name": "Lincoln Kienholz",
-     "status": "unknown",
-     "note": null,
-     "if_out": null,
-     "auto": false,
-     "news": null
-    }
-   }
-  },
-  {
-   "id": 401866474,
-   "kickoff": "2026-11-28T17:00:00+00:00",
-   "time_tbd": false,
-   "week": 13,
-   "venue": "Scheumann Stadium",
-   "neutral": false,
-   "network": "CBSSN",
-   "home": {
-    "team": "Ball State",
-    "record": "3\u20138",
-    "proj": 21.0,
-    "rating": -12.3,
-    "conf": "Mid-American"
-   },
-   "away": {
-    "team": "Central Michigan",
-    "record": "5\u20136",
-    "proj": 26.0,
-    "rating": -5.5,
-    "conf": "Mid-American"
-   },
-   "market": {
-    "spread": 4.0,
-    "spread_open": 6.5,
-    "total": 48.5,
-    "line_move": 2.5,
-    "total_open": 46.5,
-    "provider": "DraftKings",
-    "line_text": "Ball State +4.0"
-   },
-   "model": {
-    "margin": -5.0,
-    "total": 47.1,
-    "line_text": "Ball State +5.0",
-    "rating_margin": -3.8
-   },
-   "moneyline": {
-    "home": 160.0,
-    "away": -192.0,
-    "win_chance": 61.8,
-    "value": null
-   },
-   "splits": null,
-   "bet_early": false,
-   "total_move": 2.0,
-   "total_bet_early": false,
-   "line_history": [
-    {
-     "t": null,
-     "label": "Open",
-     "spread": 6.5,
-     "total": 46.5
-    },
-    {
-     "t": "2026-11-20T21:42:58.585222+00:00",
-     "label": "Fri",
-     "spread": null,
-     "total": null
-    },
-    {
-     "t": "2026-11-23T03:35:52.524998+00:00",
-     "label": "Sun",
-     "spread": 4.5,
-     "total": 47.5
-    },
-    {
-     "t": "now",
-     "label": "Now",
-     "spread": 4.0,
-     "total": 48.5
-    }
-   ],
-   "locked": {
-    "text": "Central Michigan \u22124.5",
-    "at": "2026-11-23T03:35:52.524998+00:00",
-    "edge": 0.6,
-    "line_text": "Ball State +4.5"
-   },
-   "edge": 1.0,
-   "our_pick": null,
-   "pick": {
-    "team": "Central Michigan",
-    "line": -4.0,
-    "text": "Central Michigan \u22124.0",
-    "strong": false,
-    "caution": false
-   },
-   "winner": "Central Michigan",
-   "total_pick": "Under 48.5",
-   "weather": {
-    "dome": false,
-    "temp": 46.9,
-    "wind": 12.6,
-    "gust": 12.6,
-    "rain": 0.0,
-    "code": 3,
-    "night": false,
-    "kind": "actual",
-    "updated": "cfbd"
-   },
-   "qb": {
-    "home": {
-     "name": "Keldric Luster",
-     "status": "unknown",
-     "note": null,
-     "if_out": null,
-     "auto": false,
-     "news": null
-    },
-    "away": {
-     "name": "Jadyn Glasser",
-     "status": "unknown",
-     "note": null,
-     "if_out": null,
-     "auto": false,
-     "news": null
-    }
-   }
-  },
-  {
-   "id": 401861969,
-   "kickoff": "2026-11-28T17:00:00+00:00",
-   "time_tbd": false,
-   "week": 13,
-   "venue": "War Memorial Stadium",
-   "neutral": false,
-   "network": "FS1",
-   "home": {
-    "team": "Wyoming",
-    "record": "7\u20134",
-    "proj": 24.5,
-    "rating": -5.3,
-    "conf": "Mountain West"
-   },
-   "away": {
-    "team": "UConn",
-    "record": "6\u20135",
-    "proj": 25.1,
-    "rating": -2.2,
-    "conf": "FBS Independents"
-   },
-   "market": {
-    "spread": 3.0,
-    "spread_open": 2.5,
-    "total": 46.5,
-    "line_move": -0.5,
-    "total_open": 49.5,
-    "provider": "DraftKings",
-    "line_text": "Wyoming +3.0"
-   },
-   "model": {
-    "margin": -0.6,
-    "total": 49.5,
-    "line_text": "Wyoming +0.6",
-    "rating_margin": -0.1
-   },
-   "moneyline": {
-    "home": 130.0,
-    "away": -155.0,
-    "win_chance": 51.5,
-    "value": {
-     "team": "Wyoming",
-     "odds": 130.0,
-     "gap": 6.8
-    }
-   },
-   "splits": null,
-   "bet_early": false,
-   "total_move": -3.0,
-   "total_bet_early": false,
-   "line_history": [
-    {
-     "t": null,
-     "label": "Open",
-     "spread": 2.5,
-     "total": 49.5
-    },
-    {
-     "t": "2026-11-20T21:42:58.585222+00:00",
-     "label": "Fri",
-     "spread": null,
-     "total": null
-    },
-    {
-     "t": "2026-11-23T03:35:52.524998+00:00",
-     "label": "Sun",
-     "spread": 3.5,
-     "total": 48.5
-    },
-    {
-     "t": "now",
-     "label": "Now",
-     "spread": 3.0,
-     "total": 46.5
-    }
-   ],
-   "locked": {
-    "text": "Wyoming +3.5",
-    "at": "2026-11-23T03:35:52.524998+00:00",
-    "edge": 2.9,
-    "line_text": "Wyoming +3.5"
-   },
-   "edge": 2.4,
-   "our_pick": null,
-   "pick": {
-    "team": "Wyoming",
-    "line": 3.0,
-    "text": "Wyoming +3.0",
-    "strong": false,
-    "caution": false
-   },
-   "winner": "UConn",
-   "total_pick": "Over 46.5",
-   "weather": {
-    "dome": false,
-    "temp": 30.9,
-    "wind": 15.7,
-    "gust": 15.7,
-    "rain": 0.0,
-    "code": 51,
-    "night": false,
-    "kind": "actual",
-    "updated": "cfbd"
-   },
-   "qb": {
-    "home": {
-     "name": "Landon Sims",
-     "status": "unknown",
-     "note": null,
-     "if_out": null,
-     "auto": false,
-     "news": null
-    },
-    "away": {
-     "name": "Kalieb Osborne",
-     "status": "unknown",
-     "note": null,
-     "if_out": null,
-     "auto": false,
-     "news": null
-    }
-   }
-  },
-  {
    "id": 401858314,
    "kickoff": "2026-11-28T17:00:00+00:00",
    "time_tbd": false,
@@ -2505,14 +2064,14 @@
    "home": {
     "team": "Syracuse",
     "record": "5\u20136",
-    "proj": 15.2,
+    "proj": 15.5,
     "rating": -1.7,
     "conf": "ACC"
    },
    "away": {
     "team": "Notre Dame",
     "record": "10\u20131",
-    "proj": 38.4,
+    "proj": 38.1,
     "rating": 18.5,
     "conf": "FBS Independents"
    },
@@ -2526,15 +2085,15 @@
     "line_text": "Syracuse +24.5"
    },
    "model": {
-    "margin": -23.2,
+    "margin": -22.7,
     "total": 53.6,
-    "line_text": "Syracuse +23.2",
+    "line_text": "Syracuse +22.7",
     "rating_margin": -17.2
    },
    "moneyline": {
     "home": 1300.0,
     "away": -2800.0,
-    "win_chance": 91.9,
+    "win_chance": 91.4,
     "value": null
    },
    "splits": null,
@@ -2561,7 +2120,7 @@
     "edge": 1.8,
     "line_text": "Syracuse +24.5"
    },
-   "edge": 1.3,
+   "edge": 1.8,
    "our_pick": null,
    "pick": {
     "team": "Syracuse",
@@ -2603,62 +2162,62 @@
    }
   },
   {
-   "id": 401869954,
+   "id": 401862842,
    "kickoff": "2026-11-28T17:00:00+00:00",
    "time_tbd": false,
    "week": 13,
-   "venue": "Allen E. Paulson Stadium",
+   "venue": "Jerry Richardson Stadium",
    "neutral": false,
-   "network": "ESPNU",
+   "network": "ESPN+",
    "home": {
-    "team": "Georgia Southern",
-    "record": "7\u20134",
-    "proj": 26.5,
-    "rating": 2.3,
-    "conf": "Sun Belt"
+    "team": "Charlotte",
+    "record": "1\u201310",
+    "proj": 21.7,
+    "rating": -14.9,
+    "conf": "American Athletic"
    },
    "away": {
-    "team": "Louisiana Tech",
-    "record": "9\u20132",
-    "proj": 26.4,
-    "rating": 6.6,
-    "conf": "Sun Belt"
+    "team": "Navy",
+    "record": "4\u20136",
+    "proj": 33.8,
+    "rating": -4.0,
+    "conf": "American Athletic"
    },
    "market": {
-    "spread": -2.5,
-    "spread_open": -1.5,
+    "spread": 16.5,
+    "spread_open": 16.5,
     "total": 54.5,
-    "line_move": 1.0,
-    "total_open": 52.5,
+    "line_move": 0.0,
+    "total_open": 53.5,
     "provider": "DraftKings",
-    "line_text": "Georgia Southern \u22122.5"
+    "line_text": "Charlotte +16.5"
    },
    "model": {
-    "margin": 0.1,
-    "total": 52.8,
-    "line_text": "Georgia Southern \u22120.1",
-    "rating_margin": -1.3
+    "margin": -12.1,
+    "total": 55.5,
+    "line_text": "Charlotte +12.1",
+    "rating_margin": -7.9
    },
    "moneyline": {
-    "home": -135.0,
-    "away": 114.0,
-    "win_chance": 50.1,
+    "home": 575.0,
+    "away": -850.0,
+    "win_chance": 76.7,
     "value": {
-     "team": "Louisiana Tech",
-     "odds": 114.0,
-     "gap": 5.0
+     "team": "Charlotte",
+     "odds": 575.0,
+     "gap": 9.1
     }
    },
    "splits": null,
-   "bet_early": false,
-   "total_move": 2.0,
+   "bet_early": true,
+   "total_move": 1.0,
    "total_bet_early": false,
    "line_history": [
     {
      "t": null,
      "label": "Open",
-     "spread": -1.5,
-     "total": 52.5
+     "spread": 16.5,
+     "total": 53.5
     },
     {
      "t": "2026-11-20T21:42:58.585222+00:00",
@@ -2669,47 +2228,47 @@
     {
      "t": "2026-11-23T03:35:52.524998+00:00",
      "label": "Sun",
-     "spread": -2.5,
-     "total": 52.5
+     "spread": 16.5,
+     "total": 55.5
     },
     {
      "t": "now",
      "label": "Now",
-     "spread": -2.5,
+     "spread": 16.5,
      "total": 54.5
     }
    ],
    "locked": {
-    "text": "Louisiana Tech +2.5",
+    "text": "Charlotte +16.5",
     "at": "2026-11-23T03:35:52.524998+00:00",
-    "edge": 2.3,
-    "line_text": "Georgia Southern \u22122.5"
+    "edge": 3.7,
+    "line_text": "Charlotte +16.5"
    },
-   "edge": 2.4,
+   "edge": 4.4,
    "our_pick": null,
    "pick": {
-    "team": "Louisiana Tech",
-    "line": 2.5,
-    "text": "Louisiana Tech +2.5",
-    "strong": false,
+    "team": "Charlotte",
+    "line": 16.5,
+    "text": "Charlotte +16.5",
+    "strong": true,
     "caution": false
    },
-   "winner": "Georgia Southern",
-   "total_pick": "Under 54.5",
+   "winner": "Navy",
+   "total_pick": "Over 54.5",
    "weather": {
     "dome": false,
-    "temp": 57.9,
-    "wind": 7.8,
-    "gust": 7.8,
+    "temp": 59.2,
+    "wind": 10.4,
+    "gust": 10.4,
     "rain": 0.0,
-    "code": 3,
+    "code": 0,
     "night": false,
     "kind": "actual",
     "updated": "cfbd"
    },
    "qb": {
     "home": {
-     "name": "Max Johnson",
+     "name": "Conner Harrell",
      "status": "unknown",
      "note": null,
      "if_out": null,
@@ -2717,7 +2276,7 @@
      "news": null
     },
     "away": {
-     "name": "Blake Baker",
+     "name": "Jackson Gutierrez",
      "status": "unknown",
      "note": null,
      "if_out": null,
@@ -2759,7 +2318,7 @@
    },
    "model": {
     "margin": 14.5,
-    "total": 43.2,
+    "total": 43.1,
     "line_text": "Ohio State \u221214.5",
     "rating_margin": 14.2
    },
@@ -2857,124 +2416,6 @@
    }
   },
   {
-   "id": 401862842,
-   "kickoff": "2026-11-28T17:00:00+00:00",
-   "time_tbd": false,
-   "week": 13,
-   "venue": "Jerry Richardson Stadium",
-   "neutral": false,
-   "network": "ESPN+",
-   "home": {
-    "team": "Charlotte",
-    "record": "1\u201310",
-    "proj": 21.3,
-    "rating": -15.0,
-    "conf": "American Athletic"
-   },
-   "away": {
-    "team": "Navy",
-    "record": "4\u20136",
-    "proj": 34.2,
-    "rating": -4.0,
-    "conf": "American Athletic"
-   },
-   "market": {
-    "spread": 16.5,
-    "spread_open": 16.5,
-    "total": 55.5,
-    "line_move": 0.0,
-    "total_open": 53.5,
-    "provider": "DraftKings",
-    "line_text": "Charlotte +16.5"
-   },
-   "model": {
-    "margin": -12.9,
-    "total": 55.5,
-    "line_text": "Charlotte +12.9",
-    "rating_margin": -7.9
-   },
-   "moneyline": {
-    "home": 575.0,
-    "away": -850.0,
-    "win_chance": 78.1,
-    "value": {
-     "team": "Charlotte",
-     "odds": 575.0,
-     "gap": 7.7
-    }
-   },
-   "splits": null,
-   "bet_early": true,
-   "total_move": 2.0,
-   "total_bet_early": false,
-   "line_history": [
-    {
-     "t": null,
-     "label": "Open",
-     "spread": 16.5,
-     "total": 53.5
-    },
-    {
-     "t": "2026-11-20T21:42:58.585222+00:00",
-     "label": "Fri",
-     "spread": null,
-     "total": null
-    },
-    {
-     "t": "now",
-     "label": "Now",
-     "spread": 16.5,
-     "total": 55.5
-    }
-   ],
-   "locked": {
-    "text": "Charlotte +16.5",
-    "at": "2026-11-23T03:35:52.524998+00:00",
-    "edge": 3.7,
-    "line_text": "Charlotte +16.5"
-   },
-   "edge": 3.6,
-   "our_pick": null,
-   "pick": {
-    "team": "Charlotte",
-    "line": 16.5,
-    "text": "Charlotte +16.5",
-    "strong": true,
-    "caution": false
-   },
-   "winner": "Navy",
-   "total_pick": "Under 55.5",
-   "weather": {
-    "dome": false,
-    "temp": 59.2,
-    "wind": 10.4,
-    "gust": 10.4,
-    "rain": 0.0,
-    "code": 0,
-    "night": false,
-    "kind": "actual",
-    "updated": "cfbd"
-   },
-   "qb": {
-    "home": {
-     "name": "Conner Harrell",
-     "status": "unknown",
-     "note": null,
-     "if_out": null,
-     "auto": false,
-     "news": null
-    },
-    "away": {
-     "name": "Jackson Gutierrez",
-     "status": "unknown",
-     "note": null,
-     "if_out": null,
-     "auto": false,
-     "news": null
-    }
-   }
-  },
-  {
    "id": 401858311,
    "kickoff": "2026-11-28T17:00:00+00:00",
    "time_tbd": false,
@@ -2985,14 +2426,14 @@
    "home": {
     "team": "Miami",
     "record": "10\u20131",
-    "proj": 41.5,
+    "proj": 41.3,
     "rating": 15.3,
     "conf": "ACC"
    },
    "away": {
     "team": "Boston College",
     "record": "5\u20136",
-    "proj": 14.0,
+    "proj": 14.2,
     "rating": -4.8,
     "conf": "ACC"
    },
@@ -3006,15 +2447,15 @@
     "line_text": "Miami \u221225.5"
    },
    "model": {
-    "margin": 27.5,
+    "margin": 27.1,
     "total": 55.6,
-    "line_text": "Miami \u221227.5",
+    "line_text": "Miami \u221227.1",
     "rating_margin": 23.2
    },
    "moneyline": {
     "home": -2800.0,
     "away": 1300.0,
-    "win_chance": 95.1,
+    "win_chance": 94.9,
     "value": null
    },
    "splits": null,
@@ -3047,7 +2488,7 @@
     "edge": 1.4,
     "line_text": "Miami \u221225.5"
    },
-   "edge": 2.0,
+   "edge": 1.6,
    "our_pick": null,
    "pick": {
     "team": "Miami",
@@ -3089,6 +2530,632 @@
    }
   },
   {
+   "id": 401856761,
+   "kickoff": "2026-11-28T17:00:00+00:00",
+   "time_tbd": false,
+   "week": 13,
+   "venue": "Kroger Field",
+   "neutral": false,
+   "network": "ESPN2",
+   "home": {
+    "team": "Kentucky",
+    "record": "7\u20134",
+    "proj": 21.7,
+    "rating": 0.7,
+    "conf": "SEC"
+   },
+   "away": {
+    "team": "Louisville",
+    "record": "8\u20133",
+    "proj": 32.6,
+    "rating": 10.1,
+    "conf": "ACC"
+   },
+   "market": {
+    "spread": 3.0,
+    "spread_open": -1.5,
+    "total": 54.5,
+    "line_move": -4.5,
+    "total_open": 54.5,
+    "provider": "DraftKings",
+    "line_text": "Kentucky +3.0"
+   },
+   "model": {
+    "margin": -10.9,
+    "total": 54.3,
+    "line_text": "Kentucky +10.9",
+    "rating_margin": -6.3
+   },
+   "moneyline": {
+    "home": 120.0,
+    "away": -142.0,
+    "win_chance": 74.4,
+    "value": {
+     "team": "Louisville",
+     "odds": -142.0,
+     "gap": 18.0
+    }
+   },
+   "splits": null,
+   "bet_early": false,
+   "total_move": 0.0,
+   "total_bet_early": false,
+   "line_history": [
+    {
+     "t": null,
+     "label": "Open",
+     "spread": -1.5,
+     "total": 54.5
+    },
+    {
+     "t": "2026-11-22T14:00:13.747279+00:00",
+     "label": "Sun",
+     "spread": 1.5,
+     "total": 54.5
+    },
+    {
+     "t": "now",
+     "label": "Now",
+     "spread": 3.0,
+     "total": 54.5
+    }
+   ],
+   "locked": {
+    "text": "Louisville \u22121.5",
+    "at": "2026-11-22T14:00:13.747279+00:00",
+    "edge": 6.4,
+    "line_text": "Kentucky +1.5"
+   },
+   "edge": 7.9,
+   "our_pick": {
+    "text": "Louisville \u22121.5",
+    "edge": 6.4,
+    "locked": true
+   },
+   "pick": {
+    "team": "Louisville",
+    "line": -3.0,
+    "text": "Louisville \u22123.0",
+    "strong": false,
+    "caution": true
+   },
+   "winner": "Louisville",
+   "total_pick": "Under 54.5",
+   "weather": {
+    "dome": false,
+    "temp": 47.5,
+    "wind": 9.8,
+    "gust": 9.8,
+    "rain": 0.0,
+    "code": 3,
+    "night": false,
+    "kind": "actual",
+    "updated": "cfbd"
+   },
+   "qb": {
+    "home": {
+     "name": "Kenny Minchey",
+     "status": "unknown",
+     "note": null,
+     "if_out": null,
+     "auto": false,
+     "news": null
+    },
+    "away": {
+     "name": "Lincoln Kienholz",
+     "status": "unknown",
+     "note": null,
+     "if_out": null,
+     "auto": false,
+     "news": null
+    }
+   }
+  },
+  {
+   "id": 401866474,
+   "kickoff": "2026-11-28T17:00:00+00:00",
+   "time_tbd": false,
+   "week": 13,
+   "venue": "Scheumann Stadium",
+   "neutral": false,
+   "network": "CBSSN",
+   "home": {
+    "team": "Ball State",
+    "record": "3\u20138",
+    "proj": 21.1,
+    "rating": -12.3,
+    "conf": "Mid-American"
+   },
+   "away": {
+    "team": "Central Michigan",
+    "record": "5\u20136",
+    "proj": 25.9,
+    "rating": -5.4,
+    "conf": "Mid-American"
+   },
+   "market": {
+    "spread": 4.0,
+    "spread_open": 6.5,
+    "total": 49.5,
+    "line_move": 2.5,
+    "total_open": 46.5,
+    "provider": "DraftKings",
+    "line_text": "Ball State +4.0"
+   },
+   "model": {
+    "margin": -4.8,
+    "total": 47.1,
+    "line_text": "Ball State +4.8",
+    "rating_margin": -3.8
+   },
+   "moneyline": {
+    "home": 160.0,
+    "away": -192.0,
+    "win_chance": 61.4,
+    "value": null
+   },
+   "splits": null,
+   "bet_early": false,
+   "total_move": 3.0,
+   "total_bet_early": false,
+   "line_history": [
+    {
+     "t": null,
+     "label": "Open",
+     "spread": 6.5,
+     "total": 46.5
+    },
+    {
+     "t": "2026-11-20T21:42:58.585222+00:00",
+     "label": "Fri",
+     "spread": null,
+     "total": null
+    },
+    {
+     "t": "2026-11-23T03:35:52.524998+00:00",
+     "label": "Sun",
+     "spread": 4.5,
+     "total": 47.5
+    },
+    {
+     "t": "2026-11-24T01:31:01.241455+00:00",
+     "label": "Mon",
+     "spread": 4.0,
+     "total": 48.5
+    },
+    {
+     "t": "now",
+     "label": "Now",
+     "spread": 4.0,
+     "total": 49.5
+    }
+   ],
+   "locked": {
+    "text": "Central Michigan \u22124.5",
+    "at": "2026-11-23T03:35:52.524998+00:00",
+    "edge": 0.6,
+    "line_text": "Ball State +4.5"
+   },
+   "edge": 0.8,
+   "our_pick": null,
+   "pick": {
+    "team": "Central Michigan",
+    "line": -4.0,
+    "text": "Central Michigan \u22124.0",
+    "strong": false,
+    "caution": false
+   },
+   "winner": "Central Michigan",
+   "total_pick": "Under 49.5",
+   "weather": {
+    "dome": false,
+    "temp": 46.9,
+    "wind": 12.6,
+    "gust": 12.6,
+    "rain": 0.0,
+    "code": 3,
+    "night": false,
+    "kind": "actual",
+    "updated": "cfbd"
+   },
+   "qb": {
+    "home": {
+     "name": "Keldric Luster",
+     "status": "unknown",
+     "note": null,
+     "if_out": null,
+     "auto": false,
+     "news": null
+    },
+    "away": {
+     "name": "Jadyn Glasser",
+     "status": "unknown",
+     "note": null,
+     "if_out": null,
+     "auto": false,
+     "news": null
+    }
+   }
+  },
+  {
+   "id": 401858313,
+   "kickoff": "2026-11-28T17:00:00+00:00",
+   "time_tbd": false,
+   "week": 13,
+   "venue": "Kenan Stadium",
+   "neutral": false,
+   "network": "ACC Network",
+   "home": {
+    "team": "North Carolina",
+    "record": "5\u20136",
+    "proj": 29.0,
+    "rating": 1.4,
+    "conf": "ACC"
+   },
+   "away": {
+    "team": "NC State",
+    "record": "5\u20136",
+    "proj": 24.4,
+    "rating": 1.4,
+    "conf": "ACC"
+   },
+   "market": {
+    "spread": -5.5,
+    "spread_open": 1.5,
+    "total": 54.5,
+    "line_move": 7.0,
+    "total_open": 55.5,
+    "provider": "DraftKings",
+    "line_text": "North Carolina \u22125.5"
+   },
+   "model": {
+    "margin": 4.7,
+    "total": 53.4,
+    "line_text": "North Carolina \u22124.7",
+    "rating_margin": 3.1
+   },
+   "moneyline": {
+    "home": -218.0,
+    "away": 180.0,
+    "win_chance": 61.1,
+    "value": {
+     "team": "NC State",
+     "odds": 180.0,
+     "gap": 4.7
+    }
+   },
+   "splits": null,
+   "bet_early": false,
+   "total_move": -1.0,
+   "total_bet_early": false,
+   "line_history": [
+    {
+     "t": null,
+     "label": "Open",
+     "spread": 1.5,
+     "total": 55.5
+    },
+    {
+     "t": "2026-11-23T03:35:52.524998+00:00",
+     "label": "Sun",
+     "spread": -5.5,
+     "total": 54.5
+    },
+    {
+     "t": "2026-11-24T01:31:01.241455+00:00",
+     "label": "Mon",
+     "spread": -5.5,
+     "total": 53.5
+    },
+    {
+     "t": "now",
+     "label": "Now",
+     "spread": -5.5,
+     "total": 54.5
+    }
+   ],
+   "locked": {
+    "text": "North Carolina +1.5",
+    "at": "2026-11-22T14:00:13.747279+00:00",
+    "edge": 4.9,
+    "line_text": "North Carolina +1.5"
+   },
+   "edge": 0.8,
+   "our_pick": null,
+   "pick": {
+    "team": "NC State",
+    "line": 5.5,
+    "text": "NC State +5.5",
+    "strong": false,
+    "caution": false
+   },
+   "winner": "North Carolina",
+   "total_pick": "Under 54.5",
+   "weather": {
+    "dome": false,
+    "temp": 59.7,
+    "wind": 11.5,
+    "gust": 11.5,
+    "rain": 0.0,
+    "code": 0,
+    "night": false,
+    "kind": "actual",
+    "updated": "cfbd"
+   },
+   "qb": {
+    "home": {
+     "name": "Travis Burgess",
+     "status": "unknown",
+     "note": null,
+     "if_out": null,
+     "auto": false,
+     "news": null
+    },
+    "away": {
+     "name": "CJ Bailey",
+     "status": "unknown",
+     "note": null,
+     "if_out": null,
+     "auto": false,
+     "news": null
+    }
+   }
+  },
+  {
+   "id": 401861969,
+   "kickoff": "2026-11-28T17:00:00+00:00",
+   "time_tbd": false,
+   "week": 13,
+   "venue": "War Memorial Stadium",
+   "neutral": false,
+   "network": "FS1",
+   "home": {
+    "team": "Wyoming",
+    "record": "7\u20134",
+    "proj": 24.5,
+    "rating": -5.3,
+    "conf": "Mountain West"
+   },
+   "away": {
+    "team": "UConn",
+    "record": "6\u20135",
+    "proj": 25.0,
+    "rating": -2.2,
+    "conf": "FBS Independents"
+   },
+   "market": {
+    "spread": 3.0,
+    "spread_open": 2.5,
+    "total": 45.5,
+    "line_move": -0.5,
+    "total_open": 49.5,
+    "provider": "DraftKings",
+    "line_text": "Wyoming +3.0"
+   },
+   "model": {
+    "margin": -0.5,
+    "total": 49.5,
+    "line_text": "Wyoming +0.5",
+    "rating_margin": -0.0
+   },
+   "moneyline": {
+    "home": 130.0,
+    "away": -155.0,
+    "win_chance": 51.2,
+    "value": {
+     "team": "Wyoming",
+     "odds": 130.0,
+     "gap": 7.1
+    }
+   },
+   "splits": null,
+   "bet_early": false,
+   "total_move": -4.0,
+   "total_bet_early": false,
+   "line_history": [
+    {
+     "t": null,
+     "label": "Open",
+     "spread": 2.5,
+     "total": 49.5
+    },
+    {
+     "t": "2026-11-20T21:42:58.585222+00:00",
+     "label": "Fri",
+     "spread": null,
+     "total": null
+    },
+    {
+     "t": "2026-11-23T03:35:52.524998+00:00",
+     "label": "Sun",
+     "spread": 3.5,
+     "total": 48.5
+    },
+    {
+     "t": "2026-11-24T01:31:01.241455+00:00",
+     "label": "Mon",
+     "spread": 3.0,
+     "total": 46.5
+    },
+    {
+     "t": "now",
+     "label": "Now",
+     "spread": 3.0,
+     "total": 45.5
+    }
+   ],
+   "locked": {
+    "text": "Wyoming +3.5",
+    "at": "2026-11-23T03:35:52.524998+00:00",
+    "edge": 2.9,
+    "line_text": "Wyoming +3.5"
+   },
+   "edge": 2.5,
+   "our_pick": null,
+   "pick": {
+    "team": "Wyoming",
+    "line": 3.0,
+    "text": "Wyoming +3.0",
+    "strong": false,
+    "caution": false
+   },
+   "winner": "UConn",
+   "total_pick": "Over 45.5",
+   "weather": {
+    "dome": false,
+    "temp": 30.9,
+    "wind": 15.7,
+    "gust": 15.7,
+    "rain": 0.0,
+    "code": 3,
+    "night": false,
+    "kind": "actual",
+    "updated": "cfbd"
+   },
+   "qb": {
+    "home": {
+     "name": "Landon Sims",
+     "status": "unknown",
+     "note": null,
+     "if_out": null,
+     "auto": false,
+     "news": null
+    },
+    "away": {
+     "name": "Kalieb Osborne",
+     "status": "unknown",
+     "note": null,
+     "if_out": null,
+     "auto": false,
+     "news": null
+    }
+   }
+  },
+  {
+   "id": 401869954,
+   "kickoff": "2026-11-28T17:00:00+00:00",
+   "time_tbd": false,
+   "week": 13,
+   "venue": "Allen E. Paulson Stadium",
+   "neutral": false,
+   "network": "ESPNU",
+   "home": {
+    "team": "Georgia Southern",
+    "record": "7\u20134",
+    "proj": 26.5,
+    "rating": 2.3,
+    "conf": "Sun Belt"
+   },
+   "away": {
+    "team": "Louisiana Tech",
+    "record": "9\u20132",
+    "proj": 26.3,
+    "rating": 6.6,
+    "conf": "Sun Belt"
+   },
+   "market": {
+    "spread": -2.5,
+    "spread_open": -1.5,
+    "total": 54.5,
+    "line_move": 1.0,
+    "total_open": 52.5,
+    "provider": "DraftKings",
+    "line_text": "Georgia Southern \u22122.5"
+   },
+   "model": {
+    "margin": 0.2,
+    "total": 52.8,
+    "line_text": "Georgia Southern \u22120.2",
+    "rating_margin": -1.3
+   },
+   "moneyline": {
+    "home": -135.0,
+    "away": 114.0,
+    "win_chance": 50.5,
+    "value": {
+     "team": "Louisiana Tech",
+     "odds": 114.0,
+     "gap": 4.7
+    }
+   },
+   "splits": null,
+   "bet_early": false,
+   "total_move": 2.0,
+   "total_bet_early": false,
+   "line_history": [
+    {
+     "t": null,
+     "label": "Open",
+     "spread": -1.5,
+     "total": 52.5
+    },
+    {
+     "t": "2026-11-20T21:42:58.585222+00:00",
+     "label": "Fri",
+     "spread": null,
+     "total": null
+    },
+    {
+     "t": "2026-11-23T03:35:52.524998+00:00",
+     "label": "Sun",
+     "spread": -2.5,
+     "total": 52.5
+    },
+    {
+     "t": "now",
+     "label": "Now",
+     "spread": -2.5,
+     "total": 54.5
+    }
+   ],
+   "locked": {
+    "text": "Louisiana Tech +2.5",
+    "at": "2026-11-23T03:35:52.524998+00:00",
+    "edge": 2.3,
+    "line_text": "Georgia Southern \u22122.5"
+   },
+   "edge": 2.3,
+   "our_pick": null,
+   "pick": {
+    "team": "Louisiana Tech",
+    "line": 2.5,
+    "text": "Louisiana Tech +2.5",
+    "strong": false,
+    "caution": false
+   },
+   "winner": "Georgia Southern",
+   "total_pick": "Under 54.5",
+   "weather": {
+    "dome": false,
+    "temp": 57.9,
+    "wind": 7.8,
+    "gust": 7.8,
+    "rain": 0.0,
+    "code": 3,
+    "night": false,
+    "kind": "actual",
+    "updated": "cfbd"
+   },
+   "qb": {
+    "home": {
+     "name": "Max Johnson",
+     "status": "unknown",
+     "note": null,
+     "if_out": null,
+     "auto": false,
+     "news": null
+    },
+    "away": {
+     "name": "Blake Baker",
+     "status": "unknown",
+     "note": null,
+     "if_out": null,
+     "auto": false,
+     "news": null
+    }
+   }
+  },
+  {
    "id": 401858537,
    "kickoff": "2026-11-28T17:30:00+00:00",
    "time_tbd": false,
@@ -3099,45 +3166,45 @@
    "home": {
     "team": "Northwestern",
     "record": "6\u20135",
-    "proj": 30.1,
+    "proj": 30.3,
     "rating": 6.6,
     "conf": "Big Ten"
    },
    "away": {
     "team": "Illinois",
     "record": "6\u20135",
-    "proj": 19.7,
+    "proj": 19.5,
     "rating": 2.4,
     "conf": "Big Ten"
    },
    "market": {
     "spread": -3.0,
     "spread_open": 3.5,
-    "total": 49.5,
+    "total": 50.5,
     "line_move": 6.5,
     "total_open": 52.5,
     "provider": "DraftKings",
     "line_text": "Northwestern \u22123.0"
    },
    "model": {
-    "margin": 10.4,
+    "margin": 10.8,
     "total": 49.8,
-    "line_text": "Northwestern \u221210.4",
+    "line_text": "Northwestern \u221210.8",
     "rating_margin": 7.2
    },
    "moneyline": {
     "home": -148.0,
     "away": 124.0,
-    "win_chance": 73.5,
+    "win_chance": 74.2,
     "value": {
      "team": "Northwestern",
      "odds": -148.0,
-     "gap": 16.3
+     "gap": 17.0
     }
    },
    "splits": null,
    "bet_early": false,
-   "total_move": -3.0,
+   "total_move": -2.0,
    "total_bet_early": false,
    "line_history": [
     {
@@ -3153,10 +3220,16 @@
      "total": 47.5
     },
     {
+     "t": "2026-11-23T03:35:52.524998+00:00",
+     "label": "Sun",
+     "spread": -3.0,
+     "total": 49.5
+    },
+    {
      "t": "now",
      "label": "Now",
      "spread": -3.0,
-     "total": 49.5
+     "total": 50.5
     }
    ],
    "locked": {
@@ -3165,7 +3238,7 @@
     "edge": 7.2,
     "line_text": "Northwestern \u22124.0"
    },
-   "edge": 7.4,
+   "edge": 7.8,
    "our_pick": {
     "text": "Northwestern \u22124.0",
     "edge": 7.2,
@@ -3179,7 +3252,7 @@
     "caution": true
    },
    "winner": "Northwestern",
-   "total_pick": "Over 49.5",
+   "total_pick": "Under 50.5",
    "weather": {
     "dome": false,
     "temp": 46.6,
@@ -3205,8 +3278,8 @@
      "status": "unknown",
      "note": null,
      "if_out": {
-      "home": 29.9,
-      "away": 19.3
+      "home": 30.0,
+      "away": 19.1
      },
      "auto": false,
      "news": {
@@ -3236,14 +3309,14 @@
    "home": {
     "team": "Arkansas",
     "record": "4\u20137",
-    "proj": 19.5,
+    "proj": 19.6,
     "rating": -1.6,
     "conf": "SEC"
    },
    "away": {
     "team": "LSU",
     "record": "6\u20135",
-    "proj": 32.4,
+    "proj": 32.3,
     "rating": 9.1,
     "conf": "SEC"
    },
@@ -3257,19 +3330,19 @@
     "line_text": "Arkansas +14.5"
    },
    "model": {
-    "margin": -12.9,
+    "margin": -12.8,
     "total": 51.9,
-    "line_text": "Arkansas +12.9",
+    "line_text": "Arkansas +12.8",
     "rating_margin": -7.7
    },
    "moneyline": {
     "home": 455.0,
     "away": -625.0,
-    "win_chance": 78.2,
+    "win_chance": 77.9,
     "value": {
      "team": "Arkansas",
      "odds": 455.0,
-     "gap": 4.5
+     "gap": 4.8
     }
    },
    "splits": null,
@@ -3308,7 +3381,7 @@
     "edge": 0.5,
     "line_text": "Arkansas +13.5"
    },
-   "edge": 1.6,
+   "edge": 1.7,
    "our_pick": null,
    "pick": {
     "team": "Arkansas",
@@ -3350,364 +3423,6 @@
    }
   },
   {
-   "id": 401870804,
-   "kickoff": "2026-11-28T18:00:00+00:00",
-   "time_tbd": false,
-   "week": 13,
-   "venue": "Houchens Industries-L.T. Smith Stadium",
-   "neutral": false,
-   "network": "ESPN+",
-   "home": {
-    "team": "Western Kentucky",
-    "record": "4\u20137",
-    "proj": 28.2,
-    "rating": -6.4,
-    "conf": "Conference USA"
-   },
-   "away": {
-    "team": "Kennesaw State",
-    "record": "5\u20136",
-    "proj": 27.2,
-    "rating": -5.7,
-    "conf": "Conference USA"
-   },
-   "market": {
-    "spread": 3.5,
-    "spread_open": 1.5,
-    "total": 53.5,
-    "line_move": -2.0,
-    "total_open": 53.5,
-    "provider": "DraftKings",
-    "line_text": "Western Kentucky +3.5"
-   },
-   "model": {
-    "margin": 1.0,
-    "total": 55.5,
-    "line_text": "Western Kentucky \u22121.0",
-    "rating_margin": 2.4
-   },
-   "moneyline": {
-    "home": 142.0,
-    "away": -170.0,
-    "win_chance": 52.5,
-    "value": {
-     "team": "Western Kentucky",
-     "odds": 142.0,
-     "gap": 12.9
-    }
-   },
-   "splits": null,
-   "bet_early": false,
-   "total_move": 0.0,
-   "total_bet_early": false,
-   "line_history": [
-    {
-     "t": null,
-     "label": "Open",
-     "spread": 1.5,
-     "total": 53.5
-    },
-    {
-     "t": "2026-11-20T21:42:58.585222+00:00",
-     "label": "Fri",
-     "spread": null,
-     "total": null
-    },
-    {
-     "t": "2026-11-23T03:35:52.524998+00:00",
-     "label": "Sun",
-     "spread": 3.0,
-     "total": 54.5
-    },
-    {
-     "t": "now",
-     "label": "Now",
-     "spread": 3.5,
-     "total": 53.5
-    }
-   ],
-   "locked": {
-    "text": "Western Kentucky +3.0",
-    "at": "2026-11-23T03:35:52.524998+00:00",
-    "edge": 4.9,
-    "line_text": "Western Kentucky +3.0"
-   },
-   "edge": 4.5,
-   "our_pick": null,
-   "pick": {
-    "team": "Western Kentucky",
-    "line": 3.5,
-    "text": "Western Kentucky +3.5",
-    "strong": true,
-    "caution": false
-   },
-   "winner": "Western Kentucky",
-   "total_pick": "Over 53.5",
-   "weather": {
-    "dome": false,
-    "temp": 52.7,
-    "wind": 11.6,
-    "gust": 11.6,
-    "rain": 0.0,
-    "code": 3,
-    "night": false,
-    "kind": "actual",
-    "updated": "cfbd"
-   },
-   "qb": {
-    "home": {
-     "name": "Brock Glenn",
-     "status": "unknown",
-     "note": null,
-     "if_out": null,
-     "auto": false,
-     "news": null
-    },
-    "away": {
-     "name": "Landon Varnes",
-     "status": "unknown",
-     "note": null,
-     "if_out": null,
-     "auto": false,
-     "news": null
-    }
-   }
-  },
-  {
-   "id": 401871102,
-   "kickoff": "2026-11-28T18:00:00+00:00",
-   "time_tbd": false,
-   "week": 13,
-   "venue": "Malone Stadium",
-   "neutral": false,
-   "network": "ESPN+",
-   "home": {
-    "team": "UL Monroe",
-    "record": "2\u20139",
-    "proj": 21.9,
-    "rating": -13.4,
-    "conf": "Sun Belt"
-   },
-   "away": {
-    "team": "Marshall",
-    "record": "6\u20135",
-    "proj": 28.7,
-    "rating": -7.2,
-    "conf": "Sun Belt"
-   },
-   "market": {
-    "spread": 5.5,
-    "spread_open": 4.0,
-    "total": 51.5,
-    "line_move": -1.5,
-    "total_open": 49.5,
-    "provider": "DraftKings",
-    "line_text": "UL Monroe +5.5"
-   },
-   "model": {
-    "margin": -6.8,
-    "total": 50.7,
-    "line_text": "UL Monroe +6.8",
-    "rating_margin": -3.1
-   },
-   "moneyline": {
-    "home": 164.0,
-    "away": -198.0,
-    "win_chance": 65.9,
-    "value": null
-   },
-   "splits": null,
-   "bet_early": false,
-   "total_move": 2.0,
-   "total_bet_early": false,
-   "line_history": [
-    {
-     "t": null,
-     "label": "Open",
-     "spread": 4.0,
-     "total": 49.5
-    },
-    {
-     "t": "2026-11-20T21:42:58.585222+00:00",
-     "label": "Fri",
-     "spread": null,
-     "total": null
-    },
-    {
-     "t": "2026-11-23T03:35:52.524998+00:00",
-     "label": "Sun",
-     "spread": 4.5,
-     "total": 51.5
-    },
-    {
-     "t": "now",
-     "label": "Now",
-     "spread": 5.5,
-     "total": 51.5
-    }
-   ],
-   "locked": {
-    "text": "Marshall \u22124.5",
-    "at": "2026-11-23T03:35:52.524998+00:00",
-    "edge": 1.7,
-    "line_text": "UL Monroe +4.5"
-   },
-   "edge": 1.3,
-   "our_pick": null,
-   "pick": {
-    "team": "Marshall",
-    "line": -5.5,
-    "text": "Marshall \u22125.5",
-    "strong": false,
-    "caution": false
-   },
-   "winner": "Marshall",
-   "total_pick": "Under 51.5",
-   "weather": {
-    "dome": false,
-    "temp": 65.3,
-    "wind": 7.6,
-    "gust": 7.6,
-    "rain": 0.0,
-    "code": 0,
-    "night": false,
-    "kind": "actual",
-    "updated": "cfbd"
-   },
-   "qb": {
-    "home": {
-     "name": "Austin Carlisle",
-     "status": "unknown",
-     "note": null,
-     "if_out": null,
-     "auto": false,
-     "news": null
-    },
-    "away": {
-     "name": "Carlos Del Rio-Wilson",
-     "status": "unknown",
-     "note": null,
-     "if_out": null,
-     "auto": false,
-     "news": null
-    }
-   }
-  },
-  {
-   "id": 401862837,
-   "kickoff": "2026-11-28T18:00:00+00:00",
-   "time_tbd": false,
-   "week": 13,
-   "venue": "Dowdy-Ficklen Stadium",
-   "neutral": false,
-   "network": "ESPN+",
-   "home": {
-    "team": "East Carolina",
-    "record": "7\u20134",
-    "proj": 29.1,
-    "rating": -2.7,
-    "conf": "American Athletic"
-   },
-   "away": {
-    "team": "Florida Atlantic",
-    "record": "7\u20134",
-    "proj": 27.8,
-    "rating": -1.4,
-    "conf": "American Athletic"
-   },
-   "market": {
-    "spread": -1.5,
-    "spread_open": -2.5,
-    "total": 55.5,
-    "line_move": -1.0,
-    "total_open": 55.5,
-    "provider": "DraftKings",
-    "line_text": "East Carolina \u22121.5"
-   },
-   "model": {
-    "margin": 1.4,
-    "total": 56.9,
-    "line_text": "East Carolina \u22121.4",
-    "rating_margin": 1.7
-   },
-   "moneyline": {
-    "home": -115.0,
-    "away": -105.0,
-    "win_chance": 53.3,
-    "value": null
-   },
-   "splits": null,
-   "bet_early": false,
-   "total_move": 0.0,
-   "total_bet_early": false,
-   "line_history": [
-    {
-     "t": null,
-     "label": "Open",
-     "spread": -2.5,
-     "total": 55.5
-    },
-    {
-     "t": "2026-11-20T21:42:58.585222+00:00",
-     "label": "Fri",
-     "spread": null,
-     "total": null
-    },
-    {
-     "t": "now",
-     "label": "Now",
-     "spread": -1.5,
-     "total": 55.5
-    }
-   ],
-   "locked": {
-    "text": "Florida Atlantic +1.5",
-    "at": "2026-11-23T03:35:52.524998+00:00",
-    "edge": 0.1,
-    "line_text": "East Carolina \u22121.5"
-   },
-   "edge": 0.1,
-   "our_pick": null,
-   "pick": {
-    "team": "Florida Atlantic",
-    "line": 1.5,
-    "text": "Florida Atlantic +1.5",
-    "strong": false,
-    "caution": false
-   },
-   "winner": "East Carolina",
-   "total_pick": "Over 55.5",
-   "weather": {
-    "dome": false,
-    "temp": 58.1,
-    "wind": 10.3,
-    "gust": 10.3,
-    "rain": 0.0,
-    "code": 0,
-    "night": false,
-    "kind": "actual",
-    "updated": "cfbd"
-   },
-   "qb": {
-    "home": {
-     "name": "Emory Williams",
-     "status": "unknown",
-     "note": null,
-     "if_out": null,
-     "auto": false,
-     "news": null
-    },
-    "away": {
-     "name": "Caden Veltkamp",
-     "status": "unknown",
-     "note": null,
-     "if_out": null,
-     "auto": false,
-     "news": null
-    }
-   }
-  },
-  {
    "id": 401871103,
    "kickoff": "2026-11-28T18:00:00+00:00",
    "time_tbd": false,
@@ -3718,14 +3433,14 @@
    "home": {
     "team": "Old Dominion",
     "record": "3\u20138",
-    "proj": 27.6,
-    "rating": -7.3,
+    "proj": 27.7,
+    "rating": -7.2,
     "conf": "Sun Belt"
    },
    "away": {
     "team": "Southern Miss",
     "record": "3\u20138",
-    "proj": 21.5,
+    "proj": 21.4,
     "rating": -8.9,
     "conf": "Sun Belt"
    },
@@ -3739,15 +3454,15 @@
     "line_text": "Old Dominion \u22125.5"
    },
    "model": {
-    "margin": 6.1,
+    "margin": 6.2,
     "total": 49.1,
-    "line_text": "Old Dominion \u22126.1",
+    "line_text": "Old Dominion \u22126.2",
     "rating_margin": 4.7
    },
    "moneyline": {
     "home": -230.0,
     "away": 190.0,
-    "win_chance": 64.4,
+    "win_chance": 64.6,
     "value": null
    },
    "splits": null,
@@ -3786,7 +3501,7 @@
     "edge": 0.3,
     "line_text": "Old Dominion \u22126.0"
    },
-   "edge": 0.6,
+   "edge": 0.7,
    "our_pick": null,
    "pick": {
     "team": "Old Dominion",
@@ -3828,6 +3543,494 @@
    }
   },
   {
+   "id": 401871102,
+   "kickoff": "2026-11-28T18:00:00+00:00",
+   "time_tbd": false,
+   "week": 13,
+   "venue": "Malone Stadium",
+   "neutral": false,
+   "network": "ESPN+",
+   "home": {
+    "team": "UL Monroe",
+    "record": "2\u20139",
+    "proj": 22.0,
+    "rating": -13.4,
+    "conf": "Sun Belt"
+   },
+   "away": {
+    "team": "Marshall",
+    "record": "6\u20135",
+    "proj": 28.7,
+    "rating": -7.2,
+    "conf": "Sun Belt"
+   },
+   "market": {
+    "spread": 5.5,
+    "spread_open": 4.0,
+    "total": 51.5,
+    "line_move": -1.5,
+    "total_open": 49.5,
+    "provider": "DraftKings",
+    "line_text": "UL Monroe +5.5"
+   },
+   "model": {
+    "margin": -6.7,
+    "total": 50.7,
+    "line_text": "UL Monroe +6.7",
+    "rating_margin": -3.2
+   },
+   "moneyline": {
+    "home": 170.0,
+    "away": -205.0,
+    "win_chance": 65.7,
+    "value": null
+   },
+   "splits": null,
+   "bet_early": false,
+   "total_move": 2.0,
+   "total_bet_early": false,
+   "line_history": [
+    {
+     "t": null,
+     "label": "Open",
+     "spread": 4.0,
+     "total": 49.5
+    },
+    {
+     "t": "2026-11-20T21:42:58.585222+00:00",
+     "label": "Fri",
+     "spread": null,
+     "total": null
+    },
+    {
+     "t": "2026-11-23T03:35:52.524998+00:00",
+     "label": "Sun",
+     "spread": 4.5,
+     "total": 51.5
+    },
+    {
+     "t": "now",
+     "label": "Now",
+     "spread": 5.5,
+     "total": 51.5
+    }
+   ],
+   "locked": {
+    "text": "Marshall \u22124.5",
+    "at": "2026-11-23T03:35:52.524998+00:00",
+    "edge": 1.7,
+    "line_text": "UL Monroe +4.5"
+   },
+   "edge": 1.2,
+   "our_pick": null,
+   "pick": {
+    "team": "Marshall",
+    "line": -5.5,
+    "text": "Marshall \u22125.5",
+    "strong": false,
+    "caution": false
+   },
+   "winner": "Marshall",
+   "total_pick": "Under 51.5",
+   "weather": {
+    "dome": false,
+    "temp": 65.3,
+    "wind": 7.6,
+    "gust": 7.6,
+    "rain": 0.0,
+    "code": 0,
+    "night": false,
+    "kind": "actual",
+    "updated": "cfbd"
+   },
+   "qb": {
+    "home": {
+     "name": "Austin Carlisle",
+     "status": "unknown",
+     "note": null,
+     "if_out": null,
+     "auto": false,
+     "news": null
+    },
+    "away": {
+     "name": "Carlos Del Rio-Wilson",
+     "status": "unknown",
+     "note": null,
+     "if_out": null,
+     "auto": false,
+     "news": null
+    }
+   }
+  },
+  {
+   "id": 401870804,
+   "kickoff": "2026-11-28T18:00:00+00:00",
+   "time_tbd": false,
+   "week": 13,
+   "venue": "Houchens Industries-L.T. Smith Stadium",
+   "neutral": false,
+   "network": "ESPN+",
+   "home": {
+    "team": "Western Kentucky",
+    "record": "4\u20137",
+    "proj": 28.2,
+    "rating": -6.4,
+    "conf": "Conference USA"
+   },
+   "away": {
+    "team": "Kennesaw State",
+    "record": "5\u20136",
+    "proj": 27.3,
+    "rating": -5.7,
+    "conf": "Conference USA"
+   },
+   "market": {
+    "spread": 3.5,
+    "spread_open": 1.5,
+    "total": 53.5,
+    "line_move": -2.0,
+    "total_open": 53.5,
+    "provider": "DraftKings",
+    "line_text": "Western Kentucky +3.5"
+   },
+   "model": {
+    "margin": 0.9,
+    "total": 55.4,
+    "line_text": "Western Kentucky \u22120.9",
+    "rating_margin": 2.4
+   },
+   "moneyline": {
+    "home": 142.0,
+    "away": -170.0,
+    "win_chance": 52.2,
+    "value": {
+     "team": "Western Kentucky",
+     "odds": 142.0,
+     "gap": 12.6
+    }
+   },
+   "splits": null,
+   "bet_early": false,
+   "total_move": 0.0,
+   "total_bet_early": false,
+   "line_history": [
+    {
+     "t": null,
+     "label": "Open",
+     "spread": 1.5,
+     "total": 53.5
+    },
+    {
+     "t": "2026-11-20T21:42:58.585222+00:00",
+     "label": "Fri",
+     "spread": null,
+     "total": null
+    },
+    {
+     "t": "2026-11-23T03:35:52.524998+00:00",
+     "label": "Sun",
+     "spread": 3.0,
+     "total": 54.5
+    },
+    {
+     "t": "now",
+     "label": "Now",
+     "spread": 3.5,
+     "total": 53.5
+    }
+   ],
+   "locked": {
+    "text": "Western Kentucky +3.0",
+    "at": "2026-11-23T03:35:52.524998+00:00",
+    "edge": 4.9,
+    "line_text": "Western Kentucky +3.0"
+   },
+   "edge": 4.4,
+   "our_pick": null,
+   "pick": {
+    "team": "Western Kentucky",
+    "line": 3.5,
+    "text": "Western Kentucky +3.5",
+    "strong": true,
+    "caution": false
+   },
+   "winner": "Western Kentucky",
+   "total_pick": "Over 53.5",
+   "weather": {
+    "dome": false,
+    "temp": 52.7,
+    "wind": 11.6,
+    "gust": 11.6,
+    "rain": 0.0,
+    "code": 3,
+    "night": false,
+    "kind": "actual",
+    "updated": "cfbd"
+   },
+   "qb": {
+    "home": {
+     "name": "Brock Glenn",
+     "status": "unknown",
+     "note": null,
+     "if_out": null,
+     "auto": false,
+     "news": null
+    },
+    "away": {
+     "name": "Landon Varnes",
+     "status": "unknown",
+     "note": null,
+     "if_out": null,
+     "auto": false,
+     "news": null
+    }
+   }
+  },
+  {
+   "id": 401862837,
+   "kickoff": "2026-11-28T18:00:00+00:00",
+   "time_tbd": false,
+   "week": 13,
+   "venue": "Dowdy-Ficklen Stadium",
+   "neutral": false,
+   "network": "ESPN+",
+   "home": {
+    "team": "East Carolina",
+    "record": "7\u20134",
+    "proj": 29.1,
+    "rating": -2.7,
+    "conf": "American Athletic"
+   },
+   "away": {
+    "team": "Florida Atlantic",
+    "record": "7\u20134",
+    "proj": 27.8,
+    "rating": -1.4,
+    "conf": "American Athletic"
+   },
+   "market": {
+    "spread": -1.5,
+    "spread_open": -2.5,
+    "total": 57.5,
+    "line_move": -1.0,
+    "total_open": 55.5,
+    "provider": "DraftKings",
+    "line_text": "East Carolina \u22121.5"
+   },
+   "model": {
+    "margin": 1.3,
+    "total": 56.9,
+    "line_text": "East Carolina \u22121.3",
+    "rating_margin": 1.7
+   },
+   "moneyline": {
+    "home": -118.0,
+    "away": -102.0,
+    "win_chance": 53.1,
+    "value": null
+   },
+   "splits": null,
+   "bet_early": false,
+   "total_move": 2.0,
+   "total_bet_early": false,
+   "line_history": [
+    {
+     "t": null,
+     "label": "Open",
+     "spread": -2.5,
+     "total": 55.5
+    },
+    {
+     "t": "2026-11-20T21:42:58.585222+00:00",
+     "label": "Fri",
+     "spread": null,
+     "total": null
+    },
+    {
+     "t": "2026-11-23T03:35:52.524998+00:00",
+     "label": "Sun",
+     "spread": -1.5,
+     "total": 55.5
+    },
+    {
+     "t": "now",
+     "label": "Now",
+     "spread": -1.5,
+     "total": 57.5
+    }
+   ],
+   "locked": {
+    "text": "Florida Atlantic +1.5",
+    "at": "2026-11-23T03:35:52.524998+00:00",
+    "edge": 0.1,
+    "line_text": "East Carolina \u22121.5"
+   },
+   "edge": 0.2,
+   "our_pick": null,
+   "pick": {
+    "team": "Florida Atlantic",
+    "line": 1.5,
+    "text": "Florida Atlantic +1.5",
+    "strong": false,
+    "caution": false
+   },
+   "winner": "East Carolina",
+   "total_pick": "Under 57.5",
+   "weather": {
+    "dome": false,
+    "temp": 58.1,
+    "wind": 10.3,
+    "gust": 10.3,
+    "rain": 0.0,
+    "code": 0,
+    "night": false,
+    "kind": "actual",
+    "updated": "cfbd"
+   },
+   "qb": {
+    "home": {
+     "name": "Emory Williams",
+     "status": "unknown",
+     "note": null,
+     "if_out": null,
+     "auto": false,
+     "news": null
+    },
+    "away": {
+     "name": "Caden Veltkamp",
+     "status": "unknown",
+     "note": null,
+     "if_out": null,
+     "auto": false,
+     "news": null
+    }
+   }
+  },
+  {
+   "id": 401856875,
+   "kickoff": "2026-11-28T19:00:00+00:00",
+   "time_tbd": false,
+   "week": 13,
+   "venue": "Folsom Field",
+   "neutral": false,
+   "network": "TNT",
+   "home": {
+    "team": "Colorado",
+    "record": "4\u20137",
+    "proj": 25.7,
+    "rating": -4.1,
+    "conf": "Big 12"
+   },
+   "away": {
+    "team": "UCF",
+    "record": "6\u20135",
+    "proj": 26.7,
+    "rating": 0.9,
+    "conf": "Big 12"
+   },
+   "market": {
+    "spread": -2.5,
+    "spread_open": -1.5,
+    "total": 50.5,
+    "line_move": 1.0,
+    "total_open": 50.5,
+    "provider": "DraftKings",
+    "line_text": "Colorado \u22122.5"
+   },
+   "model": {
+    "margin": -1.0,
+    "total": 52.4,
+    "line_text": "Colorado +1.0",
+    "rating_margin": -2.0
+   },
+   "moneyline": {
+    "home": -125.0,
+    "away": 105.0,
+    "win_chance": 52.4,
+    "value": {
+     "team": "UCF",
+     "odds": 105.0,
+     "gap": 5.6
+    }
+   },
+   "splits": null,
+   "bet_early": false,
+   "total_move": 0.0,
+   "total_bet_early": false,
+   "line_history": [
+    {
+     "t": null,
+     "label": "Open",
+     "spread": -1.5,
+     "total": 50.5
+    },
+    {
+     "t": "2026-11-20T21:42:58.585222+00:00",
+     "label": "Fri",
+     "spread": null,
+     "total": null
+    },
+    {
+     "t": "2026-11-23T03:35:52.524998+00:00",
+     "label": "Sun",
+     "spread": -2.5,
+     "total": 51.5
+    },
+    {
+     "t": "now",
+     "label": "Now",
+     "spread": -2.5,
+     "total": 50.5
+    }
+   ],
+   "locked": {
+    "text": "UCF +2.5",
+    "at": "2026-11-23T03:35:52.524998+00:00",
+    "edge": 3.2,
+    "line_text": "Colorado \u22122.5"
+   },
+   "edge": 3.5,
+   "our_pick": null,
+   "pick": {
+    "team": "UCF",
+    "line": 2.5,
+    "text": "UCF +2.5",
+    "strong": true,
+    "caution": false
+   },
+   "winner": "UCF",
+   "total_pick": "Over 50.5",
+   "weather": {
+    "dome": false,
+    "temp": 48.4,
+    "wind": 10.5,
+    "gust": 10.5,
+    "rain": 0.0,
+    "code": 3,
+    "night": false,
+    "kind": "actual",
+    "updated": "cfbd"
+   },
+   "qb": {
+    "home": {
+     "name": "Isaac Wilson",
+     "status": "unknown",
+     "note": null,
+     "if_out": null,
+     "auto": false,
+     "news": null
+    },
+    "away": {
+     "name": "Alonza Barnett",
+     "status": "unknown",
+     "note": null,
+     "if_out": null,
+     "auto": false,
+     "news": null
+    }
+   }
+  },
+  {
    "id": 401862841,
    "kickoff": "2026-11-28T19:00:00+00:00",
    "time_tbd": false,
@@ -3838,14 +4041,14 @@
    "home": {
     "team": "Rice",
     "record": "2\u20139",
-    "proj": 23.1,
-    "rating": -9.5,
+    "proj": 22.8,
+    "rating": -9.4,
     "conf": "American Athletic"
    },
    "away": {
     "team": "Army",
     "record": "5\u20135",
-    "proj": 28.9,
+    "proj": 29.2,
     "rating": -1.0,
     "conf": "American Athletic"
    },
@@ -3859,15 +4062,15 @@
     "line_text": "Rice +6.0"
    },
    "model": {
-    "margin": -5.8,
+    "margin": -6.4,
     "total": 51.9,
-    "line_text": "Rice +5.8",
+    "line_text": "Rice +6.4",
     "rating_margin": -5.4
    },
    "moneyline": {
-    "home": 190.0,
-    "away": -230.0,
-    "win_chance": 63.6,
+    "home": 170.0,
+    "away": -205.0,
+    "win_chance": 65.0,
     "value": null
    },
    "splits": null,
@@ -3906,12 +4109,12 @@
     "edge": 0.1,
     "line_text": "Rice +6.5"
    },
-   "edge": 0.2,
+   "edge": 0.4,
    "our_pick": null,
    "pick": {
-    "team": "Rice",
-    "line": 6.0,
-    "text": "Rice +6.0",
+    "team": "Army",
+    "line": -6.0,
+    "text": "Army \u22126.0",
     "strong": false,
     "caution": false
    },
@@ -3948,58 +4151,62 @@
    }
   },
   {
-   "id": 401869947,
+   "id": 401856878,
    "kickoff": "2026-11-28T19:00:00+00:00",
    "time_tbd": false,
    "week": 13,
-   "venue": "Bridgeforth Stadium",
+   "venue": "Jack Trice Stadium",
    "neutral": false,
    "network": "ESPN+",
    "home": {
-    "team": "James Madison",
-    "record": "8\u20133",
-    "proj": 36.5,
-    "rating": 4.1,
-    "conf": "Sun Belt"
+    "team": "Iowa State",
+    "record": "5\u20136",
+    "proj": 28.5,
+    "rating": -1.9,
+    "conf": "Big 12"
    },
    "away": {
-    "team": "Coastal Carolina",
+    "team": "Kansas State",
     "record": "4\u20137",
-    "proj": 18.5,
-    "rating": -7.7,
-    "conf": "Sun Belt"
+    "proj": 28.5,
+    "rating": -0.8,
+    "conf": "Big 12"
    },
    "market": {
-    "spread": -16.5,
-    "spread_open": -13.5,
-    "total": 55.5,
-    "line_move": 3.0,
-    "total_open": 55.5,
+    "spread": -3.5,
+    "spread_open": -5.5,
+    "total": 53.5,
+    "line_move": -2.0,
+    "total_open": 54.5,
     "provider": "DraftKings",
-    "line_text": "James Madison \u221216.5"
+    "line_text": "Iowa State \u22123.5"
    },
    "model": {
-    "margin": 17.9,
-    "total": 55.0,
-    "line_text": "James Madison \u221217.9",
-    "rating_margin": 14.9
+    "margin": -0.0,
+    "total": 57.1,
+    "line_text": "Iowa State PK",
+    "rating_margin": 2.0
    },
    "moneyline": {
-    "home": -850.0,
-    "away": 575.0,
-    "win_chance": 86.0,
-    "value": null
+    "home": -180.0,
+    "away": 150.0,
+    "win_chance": 50.0,
+    "value": {
+     "team": "Kansas State",
+     "odds": 150.0,
+     "gap": 11.7
+    }
    },
    "splits": null,
    "bet_early": false,
-   "total_move": 0.0,
+   "total_move": -1.0,
    "total_bet_early": false,
    "line_history": [
     {
      "t": null,
      "label": "Open",
-     "spread": -13.5,
-     "total": 55.5
+     "spread": -5.5,
+     "total": 54.5
     },
     {
      "t": "2026-11-20T21:42:58.585222+00:00",
@@ -4010,44 +4217,44 @@
     {
      "t": "2026-11-23T03:35:52.524998+00:00",
      "label": "Sun",
-     "spread": -15.5,
-     "total": 56.5
+     "spread": -4.5,
+     "total": 54.5
     },
     {
      "t": "2026-11-24T01:31:01.241455+00:00",
      "label": "Mon",
-     "spread": -16.5,
-     "total": 56.5
+     "spread": -3.5,
+     "total": 54.5
     },
     {
      "t": "now",
      "label": "Now",
-     "spread": -16.5,
-     "total": 55.5
+     "spread": -3.5,
+     "total": 53.5
     }
    ],
    "locked": {
-    "text": "James Madison \u221215.5",
+    "text": "Kansas State +4.5",
     "at": "2026-11-23T03:35:52.524998+00:00",
-    "edge": 2.6,
-    "line_text": "James Madison \u221215.5"
+    "edge": 3.3,
+    "line_text": "Iowa State \u22124.5"
    },
-   "edge": 1.4,
+   "edge": 3.5,
    "our_pick": null,
    "pick": {
-    "team": "James Madison",
-    "line": -16.5,
-    "text": "James Madison \u221216.5",
-    "strong": false,
+    "team": "Kansas State",
+    "line": 3.5,
+    "text": "Kansas State +3.5",
+    "strong": true,
     "caution": false
    },
-   "winner": "James Madison",
-   "total_pick": "Under 55.5",
+   "winner": "Kansas State",
+   "total_pick": "Over 53.5",
    "weather": {
     "dome": false,
-    "temp": 52.2,
-    "wind": 9.8,
-    "gust": 9.8,
+    "temp": 48.6,
+    "wind": 8.9,
+    "gust": 8.9,
     "rain": 0.0,
     "code": 3,
     "night": false,
@@ -4056,7 +4263,7 @@
    },
    "qb": {
     "home": {
-     "name": "JC Evans",
+     "name": "Jaylen Raynor",
      "status": "unknown",
      "note": null,
      "if_out": null,
@@ -4064,7 +4271,121 @@
      "news": null
     },
     "away": {
-     "name": "Deuce Bailey",
+     "name": "Dillon Duff",
+     "status": "unknown",
+     "note": null,
+     "if_out": null,
+     "auto": false,
+     "news": null
+    }
+   }
+  },
+  {
+   "id": 401871082,
+   "kickoff": "2026-11-28T19:00:00+00:00",
+   "time_tbd": false,
+   "week": 13,
+   "venue": "Pitbull Stadium",
+   "neutral": false,
+   "network": "ESPN+",
+   "home": {
+    "team": "Florida International",
+    "record": "4\u20137",
+    "proj": 29.9,
+    "rating": -7.1,
+    "conf": "Conference USA"
+   },
+   "away": {
+    "team": "Sam Houston",
+    "record": "1\u201310",
+    "proj": 17.4,
+    "rating": -13.9,
+    "conf": "Conference USA"
+   },
+   "market": {
+    "spread": -11.5,
+    "spread_open": -10.5,
+    "total": 41.5,
+    "line_move": 1.0,
+    "total_open": 39.5,
+    "provider": "DraftKings",
+    "line_text": "Florida International \u221211.5"
+   },
+   "model": {
+    "margin": 12.5,
+    "total": 47.3,
+    "line_text": "Florida International \u221212.5",
+    "rating_margin": 9.8
+   },
+   "moneyline": {
+    "home": -455.0,
+    "away": 350.0,
+    "win_chance": 77.5,
+    "value": null
+   },
+   "splits": null,
+   "bet_early": false,
+   "total_move": 2.0,
+   "total_bet_early": false,
+   "line_history": [
+    {
+     "t": null,
+     "label": "Open",
+     "spread": -10.5,
+     "total": 39.5
+    },
+    {
+     "t": "2026-11-20T21:42:58.585222+00:00",
+     "label": "Fri",
+     "spread": null,
+     "total": null
+    },
+    {
+     "t": "now",
+     "label": "Now",
+     "spread": -11.5,
+     "total": 41.5
+    }
+   ],
+   "locked": {
+    "text": "Florida International \u221211.5",
+    "at": "2026-11-23T03:35:52.524998+00:00",
+    "edge": 1.5,
+    "line_text": "Florida International \u221211.5"
+   },
+   "edge": 1.0,
+   "our_pick": null,
+   "pick": {
+    "team": "Florida International",
+    "line": -11.5,
+    "text": "Florida International \u221211.5",
+    "strong": false,
+    "caution": false
+   },
+   "winner": "Florida International",
+   "total_pick": "Over 41.5",
+   "weather": {
+    "dome": false,
+    "temp": 73.9,
+    "wind": 5.8,
+    "gust": 5.8,
+    "rain": 0.0,
+    "code": 3,
+    "night": false,
+    "kind": "actual",
+    "updated": "cfbd"
+   },
+   "qb": {
+    "home": {
+     "name": "J.J. Kohl",
+     "status": "unknown",
+     "note": null,
+     "if_out": null,
+     "auto": false,
+     "news": null
+    },
+    "away": {
+     "name": "Landyn Locke",
      "status": "unknown",
      "note": null,
      "if_out": null,
@@ -4091,7 +4412,7 @@
    "away": {
     "team": "Louisiana",
     "record": "8\u20133",
-    "proj": 30.2,
+    "proj": 30.1,
     "rating": 0.6,
     "conf": "Sun Belt"
    },
@@ -4105,19 +4426,19 @@
     "line_text": "Georgia State +5.5"
    },
    "model": {
-    "margin": -4.3,
+    "margin": -4.2,
     "total": 56.1,
-    "line_text": "Georgia State +4.3",
+    "line_text": "Georgia State +4.2",
     "rating_margin": -2.5
    },
    "moneyline": {
-    "home": 180.0,
-    "away": -218.0,
-    "win_chance": 60.1,
+    "home": 170.0,
+    "away": -205.0,
+    "win_chance": 60.0,
     "value": {
      "team": "Georgia State",
-     "odds": 180.0,
-     "gap": 5.6
+     "odds": 170.0,
+     "gap": 4.5
     }
    },
    "splits": null,
@@ -4156,7 +4477,7 @@
     "edge": 1.3,
     "line_text": "Georgia State +5.5"
    },
-   "edge": 1.2,
+   "edge": 1.3,
    "our_pick": null,
    "pick": {
     "team": "Georgia State",
@@ -4198,6 +4519,138 @@
    }
   },
   {
+   "id": 401869947,
+   "kickoff": "2026-11-28T19:00:00+00:00",
+   "time_tbd": false,
+   "week": 13,
+   "venue": "Bridgeforth Stadium",
+   "neutral": false,
+   "network": "ESPN+",
+   "home": {
+    "team": "James Madison",
+    "record": "8\u20133",
+    "proj": 36.6,
+    "rating": 4.1,
+    "conf": "Sun Belt"
+   },
+   "away": {
+    "team": "Coastal Carolina",
+    "record": "4\u20137",
+    "proj": 18.3,
+    "rating": -7.7,
+    "conf": "Sun Belt"
+   },
+   "market": {
+    "spread": -17.5,
+    "spread_open": -13.5,
+    "total": 54.5,
+    "line_move": 4.0,
+    "total_open": 55.5,
+    "provider": "DraftKings",
+    "line_text": "James Madison \u221217.5"
+   },
+   "model": {
+    "margin": 18.3,
+    "total": 55.0,
+    "line_text": "James Madison \u221218.3",
+    "rating_margin": 14.9
+   },
+   "moneyline": {
+    "home": -850.0,
+    "away": 575.0,
+    "win_chance": 86.5,
+    "value": null
+   },
+   "splits": null,
+   "bet_early": false,
+   "total_move": -1.0,
+   "total_bet_early": false,
+   "line_history": [
+    {
+     "t": null,
+     "label": "Open",
+     "spread": -13.5,
+     "total": 55.5
+    },
+    {
+     "t": "2026-11-20T21:42:58.585222+00:00",
+     "label": "Fri",
+     "spread": null,
+     "total": null
+    },
+    {
+     "t": "2026-11-23T03:35:52.524998+00:00",
+     "label": "Sun",
+     "spread": -15.5,
+     "total": 56.5
+    },
+    {
+     "t": "2026-11-24T01:31:01.241455+00:00",
+     "label": "Mon",
+     "spread": -16.5,
+     "total": 56.5
+    },
+    {
+     "t": "2026-11-24T13:03:59.672993+00:00",
+     "label": "Tue",
+     "spread": -16.5,
+     "total": 55.5
+    },
+    {
+     "t": "now",
+     "label": "Now",
+     "spread": -17.5,
+     "total": 54.5
+    }
+   ],
+   "locked": {
+    "text": "James Madison \u221215.5",
+    "at": "2026-11-23T03:35:52.524998+00:00",
+    "edge": 2.6,
+    "line_text": "James Madison \u221215.5"
+   },
+   "edge": 0.8,
+   "our_pick": null,
+   "pick": {
+    "team": "James Madison",
+    "line": -17.5,
+    "text": "James Madison \u221217.5",
+    "strong": false,
+    "caution": false
+   },
+   "winner": "James Madison",
+   "total_pick": "Over 54.5",
+   "weather": {
+    "dome": false,
+    "temp": 52.2,
+    "wind": 9.8,
+    "gust": 9.8,
+    "rain": 0.0,
+    "code": 3,
+    "night": false,
+    "kind": "actual",
+    "updated": "cfbd"
+   },
+   "qb": {
+    "home": {
+     "name": "JC Evans",
+     "status": "unknown",
+     "note": null,
+     "if_out": null,
+     "auto": false,
+     "news": null
+    },
+    "away": {
+     "name": "Deuce Bailey",
+     "status": "unknown",
+     "note": null,
+     "if_out": null,
+     "auto": false,
+     "news": null
+    }
+   }
+  },
+  {
    "id": 401871083,
    "kickoff": "2026-11-28T19:00:00+00:00",
    "time_tbd": false,
@@ -4215,7 +4668,7 @@
    "away": {
     "team": "New Mexico State",
     "record": "3\u20138",
-    "proj": 23.9,
+    "proj": 23.8,
     "rating": -10.8,
     "conf": "Conference USA"
    },
@@ -4237,11 +4690,11 @@
    "moneyline": {
     "home": -155.0,
     "away": 130.0,
-    "win_chance": 64.7,
+    "win_chance": 64.8,
     "value": {
      "team": "Middle Tennessee",
      "odds": -155.0,
-     "gap": 6.4
+     "gap": 6.5
     }
    },
    "splits": null,
@@ -4322,374 +4775,6 @@
    }
   },
   {
-   "id": 401871082,
-   "kickoff": "2026-11-28T19:00:00+00:00",
-   "time_tbd": false,
-   "week": 13,
-   "venue": "Pitbull Stadium",
-   "neutral": false,
-   "network": "ESPN+",
-   "home": {
-    "team": "Florida International",
-    "record": "4\u20137",
-    "proj": 30.2,
-    "rating": -7.1,
-    "conf": "Conference USA"
-   },
-   "away": {
-    "team": "Sam Houston",
-    "record": "1\u201310",
-    "proj": 17.1,
-    "rating": -13.9,
-    "conf": "Conference USA"
-   },
-   "market": {
-    "spread": -11.5,
-    "spread_open": -10.5,
-    "total": 41.5,
-    "line_move": 1.0,
-    "total_open": 39.5,
-    "provider": "DraftKings",
-    "line_text": "Florida International \u221211.5"
-   },
-   "model": {
-    "margin": 13.0,
-    "total": 47.3,
-    "line_text": "Florida International \u221213.0",
-    "rating_margin": 9.8
-   },
-   "moneyline": {
-    "home": -455.0,
-    "away": 350.0,
-    "win_chance": 78.3,
-    "value": null
-   },
-   "splits": null,
-   "bet_early": false,
-   "total_move": 2.0,
-   "total_bet_early": false,
-   "line_history": [
-    {
-     "t": null,
-     "label": "Open",
-     "spread": -10.5,
-     "total": 39.5
-    },
-    {
-     "t": "2026-11-20T21:42:58.585222+00:00",
-     "label": "Fri",
-     "spread": null,
-     "total": null
-    },
-    {
-     "t": "now",
-     "label": "Now",
-     "spread": -11.5,
-     "total": 41.5
-    }
-   ],
-   "locked": {
-    "text": "Florida International \u221211.5",
-    "at": "2026-11-23T03:35:52.524998+00:00",
-    "edge": 1.5,
-    "line_text": "Florida International \u221211.5"
-   },
-   "edge": 1.5,
-   "our_pick": null,
-   "pick": {
-    "team": "Florida International",
-    "line": -11.5,
-    "text": "Florida International \u221211.5",
-    "strong": false,
-    "caution": false
-   },
-   "winner": "Florida International",
-   "total_pick": "Over 41.5",
-   "weather": {
-    "dome": false,
-    "temp": 73.9,
-    "wind": 5.8,
-    "gust": 5.8,
-    "rain": 0.0,
-    "code": 3,
-    "night": false,
-    "kind": "actual",
-    "updated": "cfbd"
-   },
-   "qb": {
-    "home": {
-     "name": "J.J. Kohl",
-     "status": "unknown",
-     "note": null,
-     "if_out": null,
-     "auto": false,
-     "news": null
-    },
-    "away": {
-     "name": "Landyn Locke",
-     "status": "unknown",
-     "note": null,
-     "if_out": null,
-     "auto": false,
-     "news": null
-    }
-   }
-  },
-  {
-   "id": 401856875,
-   "kickoff": "2026-11-28T19:00:00+00:00",
-   "time_tbd": false,
-   "week": 13,
-   "venue": "Folsom Field",
-   "neutral": false,
-   "network": "TNT",
-   "home": {
-    "team": "Colorado",
-    "record": "4\u20137",
-    "proj": 25.9,
-    "rating": -4.1,
-    "conf": "Big 12"
-   },
-   "away": {
-    "team": "UCF",
-    "record": "6\u20135",
-    "proj": 26.6,
-    "rating": 0.9,
-    "conf": "Big 12"
-   },
-   "market": {
-    "spread": -2.5,
-    "spread_open": -1.5,
-    "total": 50.5,
-    "line_move": 1.0,
-    "total_open": 50.5,
-    "provider": "DraftKings",
-    "line_text": "Colorado \u22122.5"
-   },
-   "model": {
-    "margin": -0.7,
-    "total": 52.4,
-    "line_text": "Colorado +0.7",
-    "rating_margin": -2.0
-   },
-   "moneyline": {
-    "home": -125.0,
-    "away": 105.0,
-    "win_chance": 51.7,
-    "value": {
-     "team": "UCF",
-     "odds": 105.0,
-     "gap": 5.0
-    }
-   },
-   "splits": null,
-   "bet_early": false,
-   "total_move": 0.0,
-   "total_bet_early": false,
-   "line_history": [
-    {
-     "t": null,
-     "label": "Open",
-     "spread": -1.5,
-     "total": 50.5
-    },
-    {
-     "t": "2026-11-20T21:42:58.585222+00:00",
-     "label": "Fri",
-     "spread": null,
-     "total": null
-    },
-    {
-     "t": "2026-11-23T03:35:52.524998+00:00",
-     "label": "Sun",
-     "spread": -2.5,
-     "total": 51.5
-    },
-    {
-     "t": "now",
-     "label": "Now",
-     "spread": -2.5,
-     "total": 50.5
-    }
-   ],
-   "locked": {
-    "text": "UCF +2.5",
-    "at": "2026-11-23T03:35:52.524998+00:00",
-    "edge": 3.2,
-    "line_text": "Colorado \u22122.5"
-   },
-   "edge": 3.2,
-   "our_pick": null,
-   "pick": {
-    "team": "UCF",
-    "line": 2.5,
-    "text": "UCF +2.5",
-    "strong": true,
-    "caution": false
-   },
-   "winner": "UCF",
-   "total_pick": "Over 50.5",
-   "weather": {
-    "dome": false,
-    "temp": 48.4,
-    "wind": 10.5,
-    "gust": 10.5,
-    "rain": 0.0,
-    "code": 3,
-    "night": false,
-    "kind": "actual",
-    "updated": "cfbd"
-   },
-   "qb": {
-    "home": {
-     "name": "Isaac Wilson",
-     "status": "unknown",
-     "note": null,
-     "if_out": null,
-     "auto": false,
-     "news": null
-    },
-    "away": {
-     "name": "Alonza Barnett",
-     "status": "unknown",
-     "note": null,
-     "if_out": null,
-     "auto": false,
-     "news": null
-    }
-   }
-  },
-  {
-   "id": 401856878,
-   "kickoff": "2026-11-28T19:00:00+00:00",
-   "time_tbd": false,
-   "week": 13,
-   "venue": "Jack Trice Stadium",
-   "neutral": false,
-   "network": "ESPN+",
-   "home": {
-    "team": "Iowa State",
-    "record": "5\u20136",
-    "proj": 28.8,
-    "rating": -1.9,
-    "conf": "Big 12"
-   },
-   "away": {
-    "team": "Kansas State",
-    "record": "4\u20137",
-    "proj": 28.4,
-    "rating": -0.9,
-    "conf": "Big 12"
-   },
-   "market": {
-    "spread": -3.5,
-    "spread_open": -5.5,
-    "total": 53.5,
-    "line_move": -2.0,
-    "total_open": 54.5,
-    "provider": "DraftKings",
-    "line_text": "Iowa State \u22123.5"
-   },
-   "model": {
-    "margin": 0.4,
-    "total": 57.3,
-    "line_text": "Iowa State \u22120.4",
-    "rating_margin": 2.0
-   },
-   "moneyline": {
-    "home": -180.0,
-    "away": 150.0,
-    "win_chance": 50.9,
-    "value": {
-     "team": "Kansas State",
-     "odds": 150.0,
-     "gap": 10.7
-    }
-   },
-   "splits": null,
-   "bet_early": false,
-   "total_move": -1.0,
-   "total_bet_early": false,
-   "line_history": [
-    {
-     "t": null,
-     "label": "Open",
-     "spread": -5.5,
-     "total": 54.5
-    },
-    {
-     "t": "2026-11-20T21:42:58.585222+00:00",
-     "label": "Fri",
-     "spread": null,
-     "total": null
-    },
-    {
-     "t": "2026-11-23T03:35:52.524998+00:00",
-     "label": "Sun",
-     "spread": -4.5,
-     "total": 54.5
-    },
-    {
-     "t": "2026-11-24T01:31:01.241455+00:00",
-     "label": "Mon",
-     "spread": -3.5,
-     "total": 54.5
-    },
-    {
-     "t": "now",
-     "label": "Now",
-     "spread": -3.5,
-     "total": 53.5
-    }
-   ],
-   "locked": {
-    "text": "Kansas State +4.5",
-    "at": "2026-11-23T03:35:52.524998+00:00",
-    "edge": 3.3,
-    "line_text": "Iowa State \u22124.5"
-   },
-   "edge": 3.1,
-   "our_pick": null,
-   "pick": {
-    "team": "Kansas State",
-    "line": 3.5,
-    "text": "Kansas State +3.5",
-    "strong": true,
-    "caution": false
-   },
-   "winner": "Iowa State",
-   "total_pick": "Over 53.5",
-   "weather": {
-    "dome": false,
-    "temp": 48.6,
-    "wind": 8.9,
-    "gust": 8.9,
-    "rain": 0.0,
-    "code": 3,
-    "night": false,
-    "kind": "actual",
-    "updated": "cfbd"
-   },
-   "qb": {
-    "home": {
-     "name": "Jaylen Raynor",
-     "status": "unknown",
-     "note": null,
-     "if_out": null,
-     "auto": false,
-     "news": null
-    },
-    "away": {
-     "name": "Dillon Duff",
-     "status": "unknown",
-     "note": null,
-     "if_out": null,
-     "auto": false,
-     "news": null
-    }
-   }
-  },
-  {
    "id": 401871063,
    "kickoff": "2026-11-28T19:00:00+00:00",
    "time_tbd": false,
@@ -4714,7 +4799,7 @@
    "market": {
     "spread": 16.5,
     "spread_open": 14.5,
-    "total": 52.5,
+    "total": 53.5,
     "line_move": -2.0,
     "total_open": 51.5,
     "provider": "DraftKings",
@@ -4727,14 +4812,14 @@
     "rating_margin": -10.7
    },
    "moneyline": {
-    "home": 550.0,
-    "away": -800.0,
-    "win_chance": 85.2,
+    "home": 575.0,
+    "away": -850.0,
+    "win_chance": 85.3,
     "value": null
    },
    "splits": null,
    "bet_early": false,
-   "total_move": 1.0,
+   "total_move": 2.0,
    "total_bet_early": false,
    "line_history": [
     {
@@ -4756,10 +4841,16 @@
      "total": 51.5
     },
     {
+     "t": "2026-11-24T01:31:01.241455+00:00",
+     "label": "Mon",
+     "spread": 16.5,
+     "total": 52.5
+    },
+    {
      "t": "now",
      "label": "Now",
      "spread": 16.5,
-     "total": 52.5
+     "total": 53.5
     }
    ],
    "locked": {
@@ -4778,7 +4869,7 @@
     "caution": false
    },
    "winner": "Liberty",
-   "total_pick": "Under 52.5",
+   "total_pick": "Under 53.5",
    "weather": {
     "dome": false,
     "temp": 53.1,
@@ -4810,248 +4901,6 @@
    }
   },
   {
-   "id": 401856764,
-   "kickoff": "2026-11-28T20:00:00+00:00",
-   "time_tbd": false,
-   "week": 13,
-   "venue": "Memorial Stadium (Clemson, SC)",
-   "neutral": false,
-   "network": "ESPN2",
-   "home": {
-    "team": "Clemson",
-    "record": "7\u20134",
-    "proj": 21.0,
-    "rating": 2.9,
-    "conf": "ACC"
-   },
-   "away": {
-    "team": "South Carolina",
-    "record": "6\u20135",
-    "proj": 23.9,
-    "rating": 3.9,
-    "conf": "SEC"
-   },
-   "market": {
-    "spread": 5.5,
-    "spread_open": -3.0,
-    "total": 41.5,
-    "line_move": -8.5,
-    "total_open": 53.5,
-    "provider": "DraftKings",
-    "line_text": "Clemson +5.5"
-   },
-   "model": {
-    "margin": -2.9,
-    "total": 44.9,
-    "line_text": "Clemson +2.9",
-    "rating_margin": 2.0
-   },
-   "moneyline": {
-    "home": 180.0,
-    "away": -218.0,
-    "win_chance": 56.8,
-    "value": {
-     "team": "Clemson",
-     "odds": 180.0,
-     "gap": 8.9
-    }
-   },
-   "splits": null,
-   "bet_early": false,
-   "total_move": -12.0,
-   "total_bet_early": false,
-   "line_history": [
-    {
-     "t": null,
-     "label": "Open",
-     "spread": -3.0,
-     "total": 53.5
-    },
-    {
-     "t": "2026-11-22T14:00:13.747279+00:00",
-     "label": "Sun",
-     "spread": 3.5,
-     "total": 42.5
-    },
-    {
-     "t": "2026-11-23T03:35:52.524998+00:00",
-     "label": "Sun",
-     "spread": 5.5,
-     "total": 40.5
-    },
-    {
-     "t": "now",
-     "label": "Now",
-     "spread": 5.5,
-     "total": 41.5
-    }
-   ],
-   "locked": {
-    "text": "South Carolina \u22123.5",
-    "at": "2026-11-22T14:00:13.747279+00:00",
-    "edge": 1.0,
-    "line_text": "Clemson +3.5"
-   },
-   "edge": 2.6,
-   "our_pick": null,
-   "pick": {
-    "team": "Clemson",
-    "line": 5.5,
-    "text": "Clemson +5.5",
-    "strong": false,
-    "caution": false
-   },
-   "winner": "South Carolina",
-   "total_pick": "Over 41.5",
-   "weather": {
-    "dome": false,
-    "temp": 57.2,
-    "wind": 14.1,
-    "gust": 14.1,
-    "rain": 0.0,
-    "code": 0,
-    "night": false,
-    "kind": "actual",
-    "updated": "cfbd"
-   },
-   "qb": {
-    "home": {
-     "name": "Trent Pearman",
-     "status": "unknown",
-     "note": null,
-     "if_out": null,
-     "auto": false,
-     "news": null
-    },
-    "away": {
-     "name": "Lanorris Sellers",
-     "status": "unknown",
-     "note": null,
-     "if_out": null,
-     "auto": false,
-     "news": null
-    }
-   }
-  },
-  {
-   "id": 401858317,
-   "kickoff": "2026-11-28T20:00:00+00:00",
-   "time_tbd": false,
-   "week": 13,
-   "venue": "Lane Stadium",
-   "neutral": false,
-   "network": "CW",
-   "home": {
-    "team": "Virginia Tech",
-    "record": "6\u20135",
-    "proj": 25.7,
-    "rating": -1.1,
-    "conf": "ACC"
-   },
-   "away": {
-    "team": "Virginia",
-    "record": "6\u20135",
-    "proj": 25.2,
-    "rating": 2.0,
-    "conf": "ACC"
-   },
-   "market": {
-    "spread": -3.0,
-    "spread_open": -1.5,
-    "total": 51.5,
-    "line_move": 1.5,
-    "total_open": 53.5,
-    "provider": "DraftKings",
-    "line_text": "Virginia Tech \u22123.0"
-   },
-   "model": {
-    "margin": 0.5,
-    "total": 50.9,
-    "line_text": "Virginia Tech \u22120.5",
-    "rating_margin": -0.1
-   },
-   "moneyline": {
-    "home": -155.0,
-    "away": 130.0,
-    "win_chance": 51.2,
-    "value": {
-     "team": "Virginia",
-     "odds": 130.0,
-     "gap": 7.1
-    }
-   },
-   "splits": null,
-   "bet_early": false,
-   "total_move": -2.0,
-   "total_bet_early": false,
-   "line_history": [
-    {
-     "t": null,
-     "label": "Open",
-     "spread": -1.5,
-     "total": 53.5
-    },
-    {
-     "t": "2026-11-22T14:00:13.747279+00:00",
-     "label": "Sun",
-     "spread": -3.0,
-     "total": 53.5
-    },
-    {
-     "t": "now",
-     "label": "Now",
-     "spread": -3.0,
-     "total": 51.5
-    }
-   ],
-   "locked": {
-    "text": "Virginia +3.0",
-    "at": "2026-11-22T14:00:13.747279+00:00",
-    "edge": 2.3,
-    "line_text": "Virginia Tech \u22123.0"
-   },
-   "edge": 2.5,
-   "our_pick": null,
-   "pick": {
-    "team": "Virginia",
-    "line": 3.0,
-    "text": "Virginia +3.0",
-    "strong": false,
-    "caution": false
-   },
-   "winner": "Virginia Tech",
-   "total_pick": "Under 51.5",
-   "weather": {
-    "dome": false,
-    "temp": 48.6,
-    "wind": 12.7,
-    "gust": 12.7,
-    "rain": 0.0,
-    "code": 3,
-    "night": false,
-    "kind": "actual",
-    "updated": "cfbd"
-   },
-   "qb": {
-    "home": {
-     "name": "Ethan Grunkemeyer",
-     "status": "unknown",
-     "note": null,
-     "if_out": null,
-     "auto": false,
-     "news": null
-    },
-    "away": {
-     "name": "Beau Pribula",
-     "status": "unknown",
-     "note": null,
-     "if_out": null,
-     "auto": false,
-     "news": null
-    }
-   }
-  },
-  {
    "id": 401869939,
    "kickoff": "2026-11-28T20:00:00+00:00",
    "time_tbd": false,
@@ -5070,7 +4919,7 @@
     "team": "Troy",
     "record": "4\u20137",
     "proj": 20.4,
-    "rating": -9.2,
+    "rating": -9.1,
     "conf": "Sun Belt"
    },
    "market": {
@@ -5086,12 +4935,12 @@
     "margin": 6.1,
     "total": 46.9,
     "line_text": "Arkansas State \u22126.1",
-    "rating_margin": 5.1
+    "rating_margin": 5.0
    },
    "moneyline": {
     "home": -185.0,
     "away": 154.0,
-    "win_chance": 64.3,
+    "win_chance": 64.4,
     "value": null
    },
    "splits": null,
@@ -5172,6 +5021,628 @@
    }
   },
   {
+   "id": 401856764,
+   "kickoff": "2026-11-28T20:00:00+00:00",
+   "time_tbd": false,
+   "week": 13,
+   "venue": "Memorial Stadium (Clemson, SC)",
+   "neutral": false,
+   "network": "ESPN2",
+   "home": {
+    "team": "Clemson",
+    "record": "7\u20134",
+    "proj": 20.6,
+    "rating": 2.9,
+    "conf": "ACC"
+   },
+   "away": {
+    "team": "South Carolina",
+    "record": "6\u20135",
+    "proj": 24.3,
+    "rating": 3.9,
+    "conf": "SEC"
+   },
+   "market": {
+    "spread": 6.0,
+    "spread_open": -3.0,
+    "total": 41.5,
+    "line_move": -9.0,
+    "total_open": 53.5,
+    "provider": "DraftKings",
+    "line_text": "Clemson +6.0"
+   },
+   "model": {
+    "margin": -3.8,
+    "total": 44.9,
+    "line_text": "Clemson +3.8",
+    "rating_margin": 2.1
+   },
+   "moneyline": {
+    "home": 190.0,
+    "away": -230.0,
+    "win_chance": 58.9,
+    "value": {
+     "team": "Clemson",
+     "odds": 190.0,
+     "gap": 8.0
+    }
+   },
+   "splits": null,
+   "bet_early": false,
+   "total_move": -12.0,
+   "total_bet_early": false,
+   "line_history": [
+    {
+     "t": null,
+     "label": "Open",
+     "spread": -3.0,
+     "total": 53.5
+    },
+    {
+     "t": "2026-11-22T14:00:13.747279+00:00",
+     "label": "Sun",
+     "spread": 3.5,
+     "total": 42.5
+    },
+    {
+     "t": "2026-11-23T03:35:52.524998+00:00",
+     "label": "Sun",
+     "spread": 5.5,
+     "total": 40.5
+    },
+    {
+     "t": "2026-11-24T13:03:59.672993+00:00",
+     "label": "Tue",
+     "spread": 5.5,
+     "total": 41.5
+    },
+    {
+     "t": "now",
+     "label": "Now",
+     "spread": 6.0,
+     "total": 41.5
+    }
+   ],
+   "locked": {
+    "text": "South Carolina \u22123.5",
+    "at": "2026-11-22T14:00:13.747279+00:00",
+    "edge": 1.0,
+    "line_text": "Clemson +3.5"
+   },
+   "edge": 2.2,
+   "our_pick": null,
+   "pick": {
+    "team": "Clemson",
+    "line": 6.0,
+    "text": "Clemson +6.0",
+    "strong": false,
+    "caution": false
+   },
+   "winner": "South Carolina",
+   "total_pick": "Over 41.5",
+   "weather": {
+    "dome": false,
+    "temp": 57.2,
+    "wind": 14.1,
+    "gust": 14.1,
+    "rain": 0.0,
+    "code": 0,
+    "night": false,
+    "kind": "actual",
+    "updated": "cfbd"
+   },
+   "qb": {
+    "home": {
+     "name": "Trent Pearman",
+     "status": "unknown",
+     "note": null,
+     "if_out": null,
+     "auto": false,
+     "news": null
+    },
+    "away": {
+     "name": "Lanorris Sellers",
+     "status": "unknown",
+     "note": null,
+     "if_out": null,
+     "auto": false,
+     "news": null
+    }
+   }
+  },
+  {
+   "id": 401858317,
+   "kickoff": "2026-11-28T20:00:00+00:00",
+   "time_tbd": false,
+   "week": 13,
+   "venue": "Lane Stadium",
+   "neutral": false,
+   "network": "CW",
+   "home": {
+    "team": "Virginia Tech",
+    "record": "6\u20135",
+    "proj": 25.6,
+    "rating": -1.1,
+    "conf": "ACC"
+   },
+   "away": {
+    "team": "Virginia",
+    "record": "6\u20135",
+    "proj": 25.3,
+    "rating": 2.0,
+    "conf": "ACC"
+   },
+   "market": {
+    "spread": -3.0,
+    "spread_open": -1.5,
+    "total": 51.5,
+    "line_move": 1.5,
+    "total_open": 53.5,
+    "provider": "DraftKings",
+    "line_text": "Virginia Tech \u22123.0"
+   },
+   "model": {
+    "margin": 0.3,
+    "total": 50.9,
+    "line_text": "Virginia Tech \u22120.3",
+    "rating_margin": -0.0
+   },
+   "moneyline": {
+    "home": -155.0,
+    "away": 130.0,
+    "win_chance": 50.6,
+    "value": {
+     "team": "Virginia",
+     "odds": 130.0,
+     "gap": 7.7
+    }
+   },
+   "splits": null,
+   "bet_early": false,
+   "total_move": -2.0,
+   "total_bet_early": false,
+   "line_history": [
+    {
+     "t": null,
+     "label": "Open",
+     "spread": -1.5,
+     "total": 53.5
+    },
+    {
+     "t": "2026-11-22T14:00:13.747279+00:00",
+     "label": "Sun",
+     "spread": -3.0,
+     "total": 53.5
+    },
+    {
+     "t": "now",
+     "label": "Now",
+     "spread": -3.0,
+     "total": 51.5
+    }
+   ],
+   "locked": {
+    "text": "Virginia +3.0",
+    "at": "2026-11-22T14:00:13.747279+00:00",
+    "edge": 2.3,
+    "line_text": "Virginia Tech \u22123.0"
+   },
+   "edge": 2.7,
+   "our_pick": null,
+   "pick": {
+    "team": "Virginia",
+    "line": 3.0,
+    "text": "Virginia +3.0",
+    "strong": false,
+    "caution": false
+   },
+   "winner": "Virginia Tech",
+   "total_pick": "Under 51.5",
+   "weather": {
+    "dome": false,
+    "temp": 48.6,
+    "wind": 12.7,
+    "gust": 12.7,
+    "rain": 0.0,
+    "code": 3,
+    "night": false,
+    "kind": "actual",
+    "updated": "cfbd"
+   },
+   "qb": {
+    "home": {
+     "name": "Ethan Grunkemeyer",
+     "status": "unknown",
+     "note": null,
+     "if_out": null,
+     "auto": false,
+     "news": null
+    },
+    "away": {
+     "name": "Beau Pribula",
+     "status": "unknown",
+     "note": null,
+     "if_out": null,
+     "auto": false,
+     "news": null
+    }
+   }
+  },
+  {
+   "id": 401866475,
+   "kickoff": "2026-11-28T20:30:00+00:00",
+   "time_tbd": false,
+   "week": 13,
+   "venue": "Doyt L. Perry Stadium",
+   "neutral": false,
+   "network": "ESPN+",
+   "home": {
+    "team": "Bowling Green",
+    "record": "3\u20138",
+    "proj": 26.2,
+    "rating": -10.1,
+    "conf": "Mid-American"
+   },
+   "away": {
+    "team": "Massachusetts",
+    "record": "5\u20136",
+    "proj": 18.2,
+    "rating": -12.8,
+    "conf": "Mid-American"
+   },
+   "market": {
+    "spread": -3.0,
+    "spread_open": -1.5,
+    "total": 43.5,
+    "line_move": 1.5,
+    "total_open": 43.5,
+    "provider": "DraftKings",
+    "line_text": "Bowling Green \u22123.0"
+   },
+   "model": {
+    "margin": 8.0,
+    "total": 44.4,
+    "line_text": "Bowling Green \u22128.0",
+    "rating_margin": 5.8
+   },
+   "moneyline": {
+    "home": -155.0,
+    "away": 130.0,
+    "win_chance": 68.5,
+    "value": {
+     "team": "Bowling Green",
+     "odds": -155.0,
+     "gap": 10.2
+    }
+   },
+   "splits": null,
+   "bet_early": false,
+   "total_move": 0.0,
+   "total_bet_early": false,
+   "line_history": [
+    {
+     "t": null,
+     "label": "Open",
+     "spread": -1.5,
+     "total": 43.5
+    },
+    {
+     "t": "2026-11-20T21:42:58.585222+00:00",
+     "label": "Fri",
+     "spread": null,
+     "total": null
+    },
+    {
+     "t": "2026-11-23T03:35:52.524998+00:00",
+     "label": "Sun",
+     "spread": -3.0,
+     "total": 44.5
+    },
+    {
+     "t": "now",
+     "label": "Now",
+     "spread": -3.0,
+     "total": 43.5
+    }
+   ],
+   "locked": {
+    "text": "Bowling Green \u22123.0",
+    "at": "2026-11-23T03:35:52.524998+00:00",
+    "edge": 4.9,
+    "line_text": "Bowling Green \u22123.0"
+   },
+   "edge": 5.0,
+   "our_pick": null,
+   "pick": {
+    "team": "Bowling Green",
+    "line": -3.0,
+    "text": "Bowling Green \u22123.0",
+    "strong": true,
+    "caution": false
+   },
+   "winner": "Bowling Green",
+   "total_pick": "Over 43.5",
+   "weather": {
+    "dome": false,
+    "temp": 45.0,
+    "wind": 11.4,
+    "gust": 11.4,
+    "rain": 0.0,
+    "code": 3,
+    "night": false,
+    "kind": "actual",
+    "updated": "cfbd"
+   },
+   "qb": {
+    "home": {
+     "name": "Austin Novosad",
+     "status": "unknown",
+     "note": null,
+     "if_out": null,
+     "auto": false,
+     "news": null
+    },
+    "away": {
+     "name": "Logan Inagawa",
+     "status": "unknown",
+     "note": null,
+     "if_out": null,
+     "auto": false,
+     "news": null
+    }
+   }
+  },
+  {
+   "id": 401871062,
+   "kickoff": "2026-11-28T20:30:00+00:00",
+   "time_tbd": false,
+   "week": 13,
+   "venue": "Delaware Stadium",
+   "neutral": false,
+   "network": "CBSSN",
+   "home": {
+    "team": "Delaware",
+    "record": "6\u20135",
+    "proj": 28.1,
+    "rating": -3.4,
+    "conf": "Conference USA"
+   },
+   "away": {
+    "team": "Jacksonville State",
+    "record": "8\u20133",
+    "proj": 27.2,
+    "rating": -1.4,
+    "conf": "Conference USA"
+   },
+   "market": {
+    "spread": -2.5,
+    "spread_open": -1.5,
+    "total": 58.5,
+    "line_move": 1.0,
+    "total_open": 57.5,
+    "provider": "DraftKings",
+    "line_text": "Delaware \u22122.5"
+   },
+   "model": {
+    "margin": 0.9,
+    "total": 55.4,
+    "line_text": "Delaware \u22120.9",
+    "rating_margin": 1.1
+   },
+   "moneyline": {
+    "home": -142.0,
+    "away": 120.0,
+    "win_chance": 52.2,
+    "value": {
+     "team": "Jacksonville State",
+     "odds": 120.0,
+     "gap": 4.2
+    }
+   },
+   "splits": null,
+   "bet_early": false,
+   "total_move": 1.0,
+   "total_bet_early": false,
+   "line_history": [
+    {
+     "t": null,
+     "label": "Open",
+     "spread": -1.5,
+     "total": 57.5
+    },
+    {
+     "t": "2026-11-20T21:42:58.585222+00:00",
+     "label": "Fri",
+     "spread": null,
+     "total": null
+    },
+    {
+     "t": "2026-11-23T03:35:52.524998+00:00",
+     "label": "Sun",
+     "spread": -2.5,
+     "total": 57.5
+    },
+    {
+     "t": "now",
+     "label": "Now",
+     "spread": -2.5,
+     "total": 58.5
+    }
+   ],
+   "locked": {
+    "text": "Jacksonville State +2.5",
+    "at": "2026-11-23T03:35:52.524998+00:00",
+    "edge": 1.9,
+    "line_text": "Delaware \u22122.5"
+   },
+   "edge": 1.6,
+   "our_pick": null,
+   "pick": {
+    "team": "Jacksonville State",
+    "line": 2.5,
+    "text": "Jacksonville State +2.5",
+    "strong": false,
+    "caution": false
+   },
+   "winner": "Delaware",
+   "total_pick": "Under 58.5",
+   "weather": {
+    "dome": false,
+    "temp": 52.2,
+    "wind": 16.5,
+    "gust": 16.5,
+    "rain": 0.0,
+    "code": 3,
+    "night": false,
+    "kind": "actual",
+    "updated": "cfbd"
+   },
+   "qb": {
+    "home": {
+     "name": "Nick Minicucci",
+     "status": "unknown",
+     "note": null,
+     "if_out": null,
+     "auto": false,
+     "news": null
+    },
+    "away": {
+     "name": "Caden Creel",
+     "status": "unknown",
+     "note": null,
+     "if_out": null,
+     "auto": false,
+     "news": null
+    }
+   }
+  },
+  {
+   "id": 401864550,
+   "kickoff": "2026-11-28T20:30:00+00:00",
+   "time_tbd": false,
+   "week": 13,
+   "venue": "Huskie Stadium",
+   "neutral": false,
+   "network": "MW+",
+   "home": {
+    "team": "Northern Illinois",
+    "record": "0\u201311",
+    "proj": 27.1,
+    "rating": -15.0,
+    "conf": "Mountain West"
+   },
+   "away": {
+    "team": "UTEP",
+    "record": "1\u201310",
+    "proj": 22.0,
+    "rating": -16.1,
+    "conf": "Mountain West"
+   },
+   "market": {
+    "spread": -4.5,
+    "spread_open": -4.5,
+    "total": 50.5,
+    "line_move": 0.0,
+    "total_open": 49.5,
+    "provider": "DraftKings",
+    "line_text": "Northern Illinois \u22124.5"
+   },
+   "model": {
+    "margin": 5.1,
+    "total": 49.1,
+    "line_text": "Northern Illinois \u22125.1",
+    "rating_margin": 4.1
+   },
+   "moneyline": {
+    "home": -192.0,
+    "away": 160.0,
+    "win_chance": 62.0,
+    "value": null
+   },
+   "splits": null,
+   "bet_early": false,
+   "total_move": 1.0,
+   "total_bet_early": false,
+   "line_history": [
+    {
+     "t": null,
+     "label": "Open",
+     "spread": -4.5,
+     "total": 49.5
+    },
+    {
+     "t": "2026-11-20T21:42:58.585222+00:00",
+     "label": "Fri",
+     "spread": null,
+     "total": null
+    },
+    {
+     "t": "2026-11-23T03:35:52.524998+00:00",
+     "label": "Sun",
+     "spread": -4.5,
+     "total": 48.5
+    },
+    {
+     "t": "2026-11-24T01:31:01.241455+00:00",
+     "label": "Mon",
+     "spread": -4.0,
+     "total": 50.5
+    },
+    {
+     "t": "now",
+     "label": "Now",
+     "spread": -4.5,
+     "total": 50.5
+    }
+   ],
+   "locked": {
+    "text": "Northern Illinois \u22124.5",
+    "at": "2026-11-23T03:35:52.524998+00:00",
+    "edge": 0.7,
+    "line_text": "Northern Illinois \u22124.5"
+   },
+   "edge": 0.6,
+   "our_pick": null,
+   "pick": {
+    "team": "Northern Illinois",
+    "line": -4.5,
+    "text": "Northern Illinois \u22124.5",
+    "strong": false,
+    "caution": false
+   },
+   "winner": "Northern Illinois",
+   "total_pick": "Under 50.5",
+   "weather": {
+    "dome": false,
+    "temp": 46.0,
+    "wind": 10.5,
+    "gust": 10.5,
+    "rain": 0.0,
+    "code": 0,
+    "night": false,
+    "kind": "actual",
+    "updated": "cfbd"
+   },
+   "qb": {
+    "home": {
+     "name": "Taron Dickens",
+     "status": "unknown",
+     "note": null,
+     "if_out": null,
+     "auto": false,
+     "news": null
+    },
+    "away": {
+     "name": "Raymond Moore III",
+     "status": "unknown",
+     "note": null,
+     "if_out": null,
+     "auto": false,
+     "news": null
+    }
+   }
+  },
+  {
    "id": 401858316,
    "kickoff": "2026-11-28T20:30:00+00:00",
    "time_tbd": false,
@@ -5182,7 +5653,7 @@
    "home": {
     "team": "Stanford",
     "record": "6\u20135",
-    "proj": 24.9,
+    "proj": 24.8,
     "rating": -4.5,
     "conf": "ACC"
    },
@@ -5190,7 +5661,7 @@
     "team": "SMU",
     "record": "7\u20134",
     "proj": 31.7,
-    "rating": 4.5,
+    "rating": 4.6,
     "conf": "ACC"
    },
    "market": {
@@ -5203,15 +5674,15 @@
     "line_text": "Stanford +7.5"
    },
    "model": {
-    "margin": -6.8,
+    "margin": -6.9,
     "total": 56.5,
-    "line_text": "Stanford +6.8",
+    "line_text": "Stanford +6.9",
     "rating_margin": -6.0
    },
    "moneyline": {
     "home": 250.0,
     "away": -310.0,
-    "win_chance": 65.9,
+    "win_chance": 66.0,
     "value": {
      "team": "Stanford",
      "odds": 250.0,
@@ -5254,7 +5725,7 @@
     "edge": 1.4,
     "line_text": "Stanford +8.5"
    },
-   "edge": 0.7,
+   "edge": 0.6,
    "our_pick": null,
    "pick": {
     "team": "Stanford",
@@ -5271,7 +5742,7 @@
     "wind": 2.7,
     "gust": 2.7,
     "rain": 0.0,
-    "code": 3,
+    "code": 0,
     "night": false,
     "kind": "actual",
     "updated": "cfbd"
@@ -5296,6 +5767,495 @@
    }
   },
   {
+   "id": 401858539,
+   "kickoff": "2026-11-28T20:30:00+00:00",
+   "time_tbd": false,
+   "week": 13,
+   "venue": "SECU Stadium",
+   "neutral": false,
+   "network": "FS1",
+   "home": {
+    "team": "Maryland",
+    "record": "4\u20137",
+    "proj": 21.4,
+    "rating": -1.7,
+    "conf": "Big Ten"
+   },
+   "away": {
+    "team": "Penn State",
+    "record": "6\u20135",
+    "proj": 29.7,
+    "rating": 5.9,
+    "conf": "Big Ten"
+   },
+   "market": {
+    "spread": 7.0,
+    "spread_open": 7.5,
+    "total": 49.5,
+    "line_move": 0.5,
+    "total_open": 49.5,
+    "provider": "DraftKings",
+    "line_text": "Maryland +7.0"
+   },
+   "model": {
+    "margin": -8.3,
+    "total": 51.2,
+    "line_text": "Maryland +8.3",
+    "rating_margin": -4.5
+   },
+   "moneyline": {
+    "home": 225.0,
+    "away": -278.0,
+    "win_chance": 69.1,
+    "value": null
+   },
+   "splits": null,
+   "bet_early": false,
+   "total_move": 0.0,
+   "total_bet_early": false,
+   "line_history": [
+    {
+     "t": null,
+     "label": "Open",
+     "spread": 7.5,
+     "total": 49.5
+    },
+    {
+     "t": "2026-11-20T21:42:58.585222+00:00",
+     "label": "Fri",
+     "spread": null,
+     "total": null
+    },
+    {
+     "t": "2026-11-23T03:35:52.524998+00:00",
+     "label": "Sun",
+     "spread": 7.0,
+     "total": 50.5
+    },
+    {
+     "t": "now",
+     "label": "Now",
+     "spread": 7.0,
+     "total": 49.5
+    }
+   ],
+   "locked": {
+    "text": "Penn State \u22127.0",
+    "at": "2026-11-23T03:35:52.524998+00:00",
+    "edge": 1.8,
+    "line_text": "Maryland +7.0"
+   },
+   "edge": 1.3,
+   "our_pick": null,
+   "pick": {
+    "team": "Penn State",
+    "line": -7.0,
+    "text": "Penn State \u22127.0",
+    "strong": false,
+    "caution": false
+   },
+   "winner": "Penn State",
+   "total_pick": "Over 49.5",
+   "weather": {
+    "dome": false,
+    "temp": 53.4,
+    "wind": 11.5,
+    "gust": 11.5,
+    "rain": 0.0,
+    "code": 0,
+    "night": false,
+    "kind": "actual",
+    "updated": "cfbd"
+   },
+   "qb": {
+    "home": {
+     "name": "Malik Washington",
+     "status": "unknown",
+     "note": null,
+     "if_out": null,
+     "auto": false,
+     "news": null
+    },
+    "away": {
+     "name": "Rocco Becht",
+     "status": "unknown",
+     "note": null,
+     "if_out": null,
+     "auto": false,
+     "news": null
+    }
+   }
+  },
+  {
+   "id": 401856760,
+   "kickoff": "2026-11-28T20:30:00+00:00",
+   "time_tbd": false,
+   "week": 13,
+   "venue": "Sanford Stadium",
+   "neutral": false,
+   "network": "ABC",
+   "home": {
+    "team": "Georgia",
+    "record": "10\u20131",
+    "proj": 45.5,
+    "rating": 21.2,
+    "conf": "SEC"
+   },
+   "away": {
+    "team": "Georgia Tech",
+    "record": "3\u20138",
+    "proj": 10.1,
+    "rating": -4.1,
+    "conf": "ACC"
+   },
+   "market": {
+    "spread": -35.5,
+    "spread_open": -35.5,
+    "total": 55.5,
+    "line_move": 0.0,
+    "total_open": 55.5,
+    "provider": "DraftKings",
+    "line_text": "Georgia \u221235.5"
+   },
+   "model": {
+    "margin": 35.4,
+    "total": 55.7,
+    "line_text": "Georgia \u221235.4",
+    "rating_margin": 28.3
+   },
+   "moneyline": {
+    "home": -8000.0,
+    "away": 2200.0,
+    "win_chance": 98.4,
+    "value": null
+   },
+   "splits": null,
+   "bet_early": false,
+   "total_move": 0.0,
+   "total_bet_early": false,
+   "line_history": [
+    {
+     "t": null,
+     "label": "Open",
+     "spread": -35.5,
+     "total": 55.5
+    },
+    {
+     "t": "2026-11-20T09:47:23.854036+00:00",
+     "label": "Fri",
+     "spread": null,
+     "total": null
+    },
+    {
+     "t": "2026-11-23T03:35:52.524998+00:00",
+     "label": "Sun",
+     "spread": -36.5,
+     "total": 55.5
+    },
+    {
+     "t": "now",
+     "label": "Now",
+     "spread": -35.5,
+     "total": 55.5
+    }
+   ],
+   "locked": {
+    "text": "Georgia Tech +36.5",
+    "at": "2026-11-23T03:35:52.524998+00:00",
+    "edge": 0.0,
+    "line_text": "Georgia \u221236.5"
+   },
+   "edge": 0.1,
+   "our_pick": null,
+   "pick": {
+    "team": "Georgia Tech",
+    "line": 35.5,
+    "text": "Georgia Tech +35.5",
+    "strong": false,
+    "caution": false
+   },
+   "winner": "Georgia",
+   "total_pick": "Over 55.5",
+   "weather": {
+    "dome": false,
+    "temp": 56.8,
+    "wind": 8.7,
+    "gust": 8.7,
+    "rain": 0.0,
+    "code": 3,
+    "night": false,
+    "kind": "actual",
+    "updated": "cfbd"
+   },
+   "qb": {
+    "home": {
+     "name": "Gunner Stockton",
+     "status": "unknown",
+     "note": null,
+     "if_out": null,
+     "auto": false,
+     "news": null
+    },
+    "away": {
+     "name": "Alberto Mendoza",
+     "status": "unknown",
+     "note": null,
+     "if_out": {
+      "home": 45.2,
+      "away": 9.8
+     },
+     "auto": false,
+     "news": {
+      "suggested": "out",
+      "qb": "Alberto Mendoza",
+      "headline": "Georgia Tech QB Mendoza's status uncertain, backup Adamson out for game at No. 1 Georgia",
+      "confirmed": false,
+      "evidence": [
+       "Oskaloosa Herald: Georgia Tech QB Mendoza's status uncertain, backup Adamson out for game at No. 1 Georgia"
+      ],
+      "missed_last": false,
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPakNSMnBHaVJyN2c2VXpfbVdXRTVCUUZWaXVHa0c4QWMzNUoyUnJfSDVJMnAwVU5NNHFYSThtTFJ2ZlBhZWVlQms3N2lvUXBlMjJEellpc2UxaDktTnlYRGhGU19VRTRFX3hnSk9BRTVBM3ZCSGo4Ri1YWnozX0kzRm1WaGZwT1lqdjdzQlV1Z3NXZURTZEZDbld6OWliSlE0YlZIVkFNMlN0UE0tYktGLWpHSWxsbWRuZzgxelA4Wm82d0NBd0ZjeGRuZVIyU0xPNEVvTk5EX1lyYmRnUjBLbW1XNmJiX1duUS00eHNhb0xhVU10MmFtaEJRVUJNUUJNWEpKd1A2RUJaUkZpcDBEd3ZR?oc=5",
+      "source": "Oskaloosa Herald",
+      "published": "2026-11-24T18:22:08+00:00"
+     }
+    }
+   }
+  },
+  {
+   "id": 401862839,
+   "kickoff": "2026-11-28T20:30:00+00:00",
+   "time_tbd": false,
+   "week": 13,
+   "venue": "Raymond James Stadium",
+   "neutral": false,
+   "network": "ESPN+",
+   "home": {
+    "team": "South Florida",
+    "record": "6\u20135",
+    "proj": 28.6,
+    "rating": -1.5,
+    "conf": "American Athletic"
+   },
+   "away": {
+    "team": "Tulane",
+    "record": "6\u20135",
+    "proj": 21.7,
+    "rating": -5.4,
+    "conf": "American Athletic"
+   },
+   "market": {
+    "spread": -6.5,
+    "spread_open": -8.5,
+    "total": 43.5,
+    "line_move": -2.0,
+    "total_open": 45.5,
+    "provider": "DraftKings",
+    "line_text": "South Florida \u22126.5"
+   },
+   "model": {
+    "margin": 6.9,
+    "total": 50.3,
+    "line_text": "South Florida \u22126.9",
+    "rating_margin": 7.0
+   },
+   "moneyline": {
+    "home": -238.0,
+    "away": 195.0,
+    "win_chance": 66.1,
+    "value": null
+   },
+   "splits": null,
+   "bet_early": false,
+   "total_move": -2.0,
+   "total_bet_early": false,
+   "line_history": [
+    {
+     "t": null,
+     "label": "Open",
+     "spread": -8.5,
+     "total": 45.5
+    },
+    {
+     "t": "2026-11-20T21:42:58.585222+00:00",
+     "label": "Fri",
+     "spread": null,
+     "total": null
+    },
+    {
+     "t": "now",
+     "label": "Now",
+     "spread": -6.5,
+     "total": 43.5
+    }
+   ],
+   "locked": {
+    "text": "South Florida \u22126.5",
+    "at": "2026-11-23T03:35:52.524998+00:00",
+    "edge": 0.2,
+    "line_text": "South Florida \u22126.5"
+   },
+   "edge": 0.4,
+   "our_pick": null,
+   "pick": {
+    "team": "South Florida",
+    "line": -6.5,
+    "text": "South Florida \u22126.5",
+    "strong": false,
+    "caution": false
+   },
+   "winner": "South Florida",
+   "total_pick": "Over 43.5",
+   "weather": {
+    "dome": false,
+    "temp": 66.4,
+    "wind": 5.8,
+    "gust": 5.8,
+    "rain": 0.0,
+    "code": 3,
+    "night": false,
+    "kind": "actual",
+    "updated": "cfbd"
+   },
+   "qb": {
+    "home": {
+     "name": "Luke Kromenhoek",
+     "status": "unknown",
+     "note": null,
+     "if_out": null,
+     "auto": false,
+     "news": null
+    },
+    "away": {
+     "name": "Trace Johnson",
+     "status": "unknown",
+     "note": null,
+     "if_out": null,
+     "auto": false,
+     "news": null
+    }
+   }
+  },
+  {
+   "id": 401858312,
+   "kickoff": "2026-11-28T20:30:00+00:00",
+   "time_tbd": false,
+   "week": 13,
+   "venue": "Allegacy Federal Credit Union Stadium",
+   "neutral": false,
+   "network": "ESPN",
+   "home": {
+    "team": "Wake Forest",
+    "record": "10\u20131",
+    "proj": 35.1,
+    "rating": 14.1,
+    "conf": "ACC"
+   },
+   "away": {
+    "team": "Duke",
+    "record": "7\u20134",
+    "proj": 18.0,
+    "rating": 6.5,
+    "conf": "ACC"
+   },
+   "market": {
+    "spread": -14.5,
+    "spread_open": -10.5,
+    "total": 55.5,
+    "line_move": 4.0,
+    "total_open": 52.5,
+    "provider": "DraftKings",
+    "line_text": "Wake Forest \u221214.5"
+   },
+   "model": {
+    "margin": 17.1,
+    "total": 53.0,
+    "line_text": "Wake Forest \u221217.1",
+    "rating_margin": 10.6
+   },
+   "moneyline": {
+    "home": -625.0,
+    "away": 455.0,
+    "win_chance": 84.9,
+    "value": null
+   },
+   "splits": null,
+   "bet_early": false,
+   "total_move": 3.0,
+   "total_bet_early": false,
+   "line_history": [
+    {
+     "t": null,
+     "label": "Open",
+     "spread": -10.5,
+     "total": 52.5
+    },
+    {
+     "t": "2026-11-22T04:56:43.892762+00:00",
+     "label": "Sat",
+     "spread": -13.5,
+     "total": 55.5
+    },
+    {
+     "t": "2026-11-23T03:35:52.524998+00:00",
+     "label": "Sun",
+     "spread": -14.0,
+     "total": 55.5
+    },
+    {
+     "t": "now",
+     "label": "Now",
+     "spread": -14.5,
+     "total": 55.5
+    }
+   ],
+   "locked": {
+    "text": "Wake Forest \u221213.5",
+    "at": "2026-11-22T14:00:13.747279+00:00",
+    "edge": 2.8,
+    "line_text": "Wake Forest \u221213.5"
+   },
+   "edge": 2.6,
+   "our_pick": null,
+   "pick": {
+    "team": "Wake Forest",
+    "line": -14.5,
+    "text": "Wake Forest \u221214.5",
+    "strong": false,
+    "caution": false
+   },
+   "winner": "Wake Forest",
+   "total_pick": "Under 55.5",
+   "weather": {
+    "dome": false,
+    "temp": 54.5,
+    "wind": 9.6,
+    "gust": 9.6,
+    "rain": 0.0,
+    "code": 0,
+    "night": false,
+    "kind": "actual",
+    "updated": "cfbd"
+   },
+   "qb": {
+    "home": {
+     "name": "Giovanni Lopez",
+     "status": "unknown",
+     "note": null,
+     "if_out": null,
+     "auto": false,
+     "news": null
+    },
+    "away": {
+     "name": "Walker Eget",
+     "status": "unknown",
+     "note": null,
+     "if_out": null,
+     "auto": false,
+     "news": null
+    }
+   }
+  },
+  {
    "id": 401858543,
    "kickoff": "2026-11-28T20:30:00+00:00",
    "time_tbd": false,
@@ -5306,14 +6266,14 @@
    "home": {
     "team": "UCLA",
     "record": "10\u20131",
-    "proj": 26.7,
-    "rating": 6.8,
+    "proj": 26.5,
+    "rating": 6.7,
     "conf": "Big Ten"
    },
    "away": {
     "team": "USC",
     "record": "8\u20133",
-    "proj": 23.0,
+    "proj": 23.2,
     "rating": 9.7,
     "conf": "Big Ten"
    },
@@ -5327,19 +6287,19 @@
     "line_text": "UCLA +7.0"
    },
    "model": {
-    "margin": 3.7,
+    "margin": 3.3,
     "total": 49.7,
-    "line_text": "UCLA \u22123.7",
+    "line_text": "UCLA \u22123.3",
     "rating_margin": 0.1
    },
    "moneyline": {
     "home": 215.0,
     "away": -265.0,
-    "win_chance": 58.9,
+    "win_chance": 58.0,
     "value": {
      "team": "UCLA",
      "odds": 215.0,
-     "gap": 28.4
+     "gap": 27.6
     }
    },
    "splits": null,
@@ -5390,7 +6350,7 @@
     "edge": 10.1,
     "line_text": "UCLA +6.5"
    },
-   "edge": 10.7,
+   "edge": 10.3,
    "our_pick": {
     "text": "UCLA +6.5",
     "edge": 10.1,
@@ -5422,390 +6382,28 @@
      "status": "unknown",
      "note": null,
      "if_out": {
-      "home": 25.3,
-      "away": 23.8
+      "home": 25.2,
+      "away": 23.9
      },
      "auto": false,
      "news": {
-      "suggested": "questionable",
+      "suggested": "out",
       "qb": "Ty Dieffenbach",
-      "headline": "Quarterback Ty Dieffenbach's availability uncertain ahead of UCLA-USC showdown",
+      "headline": "UCLA QB Ty Dieffenbach not ruled out vs. USC",
       "confirmed": false,
       "evidence": [
-       "The Sporting Tribune: Quarterback Ty Dieffenbach's availability uncertain ahead of UCLA-USC showdown",
        "Los Angeles Daily News: UCLA QB Ty Dieffenbach not ruled out vs. USC",
-       "USA Today: Ty Dieffenbach injury takes surprising turn with UCLA\u2019s season, CFP ranking at stake"
+       "USA Today: Ty Dieffenbach injury takes surprising turn with UCLA\u2019s season, CFP ranking at stake",
+       "Los Angeles Times: Injured UCLA quarterback Ty Dieffenbach may play against USC, likely could play in CFP"
       ],
       "missed_last": false,
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRHVieW1hVldfMHBNbnZqcnQzN0pTNWlPTXFtWXNmSFQtbkZ4dTZNUFhLaVJFWWI2SmVnSVhHekRkazlyangxZVpRUDYtcjJGVHF0LW5JbENYclI4ZHRaNGVQUUtKMXFOMU9iMUtqQS1Dd2k4MzJkYlZDSzFpMFhqZkZuVnNGWVhDVE9rd1VuVklvUWtvanVrcVpLenBtd3FKb0dxMUhUX1QwTVBnb2VOcXRIU3lVR29xR1RpWjgwNjc?oc=5",
-      "source": "The Sporting Tribune",
-      "published": "2026-11-24T04:45:13+00:00"
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNlJOZDUtak9NVGhVSWZFbk1tdWdIZ0E5Y3loWFJUSHFQSUwxb2RWWDkxUXItZ1BkZHVreWg5WlJzMVZxcmswWk81WGNUTExQZGhZeU1vYThWNnpENm4xenpmb0RBa0hyVkRtVEZEam5fUjc3ZE9VY2ZBY0tLUDZZQWxwenZUSWp6?oc=5",
+      "source": "Los Angeles Daily News",
+      "published": "2026-11-23T23:30:10+00:00"
      }
     },
     "away": {
      "name": "Jayden Maiava",
-     "status": "unknown",
-     "note": null,
-     "if_out": null,
-     "auto": false,
-     "news": null
-    }
-   }
-  },
-  {
-   "id": 401858539,
-   "kickoff": "2026-11-28T20:30:00+00:00",
-   "time_tbd": false,
-   "week": 13,
-   "venue": "SECU Stadium",
-   "neutral": false,
-   "network": "FS1",
-   "home": {
-    "team": "Maryland",
-    "record": "4\u20137",
-    "proj": 21.3,
-    "rating": -1.7,
-    "conf": "Big Ten"
-   },
-   "away": {
-    "team": "Penn State",
-    "record": "6\u20135",
-    "proj": 29.9,
-    "rating": 5.9,
-    "conf": "Big Ten"
-   },
-   "market": {
-    "spread": 7.0,
-    "spread_open": 7.5,
-    "total": 50.5,
-    "line_move": 0.5,
-    "total_open": 49.5,
-    "provider": "DraftKings",
-    "line_text": "Maryland +7.0"
-   },
-   "model": {
-    "margin": -8.7,
-    "total": 51.2,
-    "line_text": "Maryland +8.7",
-    "rating_margin": -4.5
-   },
-   "moneyline": {
-    "home": 225.0,
-    "away": -278.0,
-    "win_chance": 69.9,
-    "value": null
-   },
-   "splits": null,
-   "bet_early": false,
-   "total_move": 1.0,
-   "total_bet_early": false,
-   "line_history": [
-    {
-     "t": null,
-     "label": "Open",
-     "spread": 7.5,
-     "total": 49.5
-    },
-    {
-     "t": "2026-11-20T21:42:58.585222+00:00",
-     "label": "Fri",
-     "spread": null,
-     "total": null
-    },
-    {
-     "t": "now",
-     "label": "Now",
-     "spread": 7.0,
-     "total": 50.5
-    }
-   ],
-   "locked": {
-    "text": "Penn State \u22127.0",
-    "at": "2026-11-23T03:35:52.524998+00:00",
-    "edge": 1.8,
-    "line_text": "Maryland +7.0"
-   },
-   "edge": 1.7,
-   "our_pick": null,
-   "pick": {
-    "team": "Penn State",
-    "line": -7.0,
-    "text": "Penn State \u22127.0",
-    "strong": false,
-    "caution": false
-   },
-   "winner": "Penn State",
-   "total_pick": "Over 50.5",
-   "weather": {
-    "dome": false,
-    "temp": 53.4,
-    "wind": 11.5,
-    "gust": 11.5,
-    "rain": 0.0,
-    "code": 0,
-    "night": false,
-    "kind": "actual",
-    "updated": "cfbd"
-   },
-   "qb": {
-    "home": {
-     "name": "Malik Washington",
-     "status": "unknown",
-     "note": null,
-     "if_out": null,
-     "auto": false,
-     "news": null
-    },
-    "away": {
-     "name": "Rocco Becht",
-     "status": "unknown",
-     "note": null,
-     "if_out": null,
-     "auto": false,
-     "news": null
-    }
-   }
-  },
-  {
-   "id": 401871062,
-   "kickoff": "2026-11-28T20:30:00+00:00",
-   "time_tbd": false,
-   "week": 13,
-   "venue": "Delaware Stadium",
-   "neutral": false,
-   "network": "CBSSN",
-   "home": {
-    "team": "Delaware",
-    "record": "6\u20135",
-    "proj": 28.0,
-    "rating": -3.4,
-    "conf": "Conference USA"
-   },
-   "away": {
-    "team": "Jacksonville State",
-    "record": "8\u20133",
-    "proj": 27.4,
-    "rating": -1.4,
-    "conf": "Conference USA"
-   },
-   "market": {
-    "spread": -2.5,
-    "spread_open": -1.5,
-    "total": 58.5,
-    "line_move": 1.0,
-    "total_open": 57.5,
-    "provider": "DraftKings",
-    "line_text": "Delaware \u22122.5"
-   },
-   "model": {
-    "margin": 0.6,
-    "total": 55.4,
-    "line_text": "Delaware \u22120.6",
-    "rating_margin": 1.1
-   },
-   "moneyline": {
-    "home": -142.0,
-    "away": 120.0,
-    "win_chance": 51.5,
-    "value": {
-     "team": "Jacksonville State",
-     "odds": 120.0,
-     "gap": 4.9
-    }
-   },
-   "splits": null,
-   "bet_early": false,
-   "total_move": 1.0,
-   "total_bet_early": false,
-   "line_history": [
-    {
-     "t": null,
-     "label": "Open",
-     "spread": -1.5,
-     "total": 57.5
-    },
-    {
-     "t": "2026-11-20T21:42:58.585222+00:00",
-     "label": "Fri",
-     "spread": null,
-     "total": null
-    },
-    {
-     "t": "2026-11-23T03:35:52.524998+00:00",
-     "label": "Sun",
-     "spread": -2.5,
-     "total": 57.5
-    },
-    {
-     "t": "now",
-     "label": "Now",
-     "spread": -2.5,
-     "total": 58.5
-    }
-   ],
-   "locked": {
-    "text": "Jacksonville State +2.5",
-    "at": "2026-11-23T03:35:52.524998+00:00",
-    "edge": 1.9,
-    "line_text": "Delaware \u22122.5"
-   },
-   "edge": 1.9,
-   "our_pick": null,
-   "pick": {
-    "team": "Jacksonville State",
-    "line": 2.5,
-    "text": "Jacksonville State +2.5",
-    "strong": false,
-    "caution": false
-   },
-   "winner": "Delaware",
-   "total_pick": "Under 58.5",
-   "weather": {
-    "dome": false,
-    "temp": 52.2,
-    "wind": 16.5,
-    "gust": 16.5,
-    "rain": 0.0,
-    "code": 3,
-    "night": false,
-    "kind": "actual",
-    "updated": "cfbd"
-   },
-   "qb": {
-    "home": {
-     "name": "Nick Minicucci",
-     "status": "unknown",
-     "note": null,
-     "if_out": null,
-     "auto": false,
-     "news": null
-    },
-    "away": {
-     "name": "Caden Creel",
-     "status": "unknown",
-     "note": null,
-     "if_out": null,
-     "auto": false,
-     "news": null
-    }
-   }
-  },
-  {
-   "id": 401866475,
-   "kickoff": "2026-11-28T20:30:00+00:00",
-   "time_tbd": false,
-   "week": 13,
-   "venue": "Doyt L. Perry Stadium",
-   "neutral": false,
-   "network": "ESPN+",
-   "home": {
-    "team": "Bowling Green",
-    "record": "3\u20138",
-    "proj": 26.3,
-    "rating": -10.1,
-    "conf": "Mid-American"
-   },
-   "away": {
-    "team": "Massachusetts",
-    "record": "5\u20136",
-    "proj": 18.2,
-    "rating": -12.8,
-    "conf": "Mid-American"
-   },
-   "market": {
-    "spread": -3.0,
-    "spread_open": -1.5,
-    "total": 43.5,
-    "line_move": 1.5,
-    "total_open": 43.5,
-    "provider": "DraftKings",
-    "line_text": "Bowling Green \u22123.0"
-   },
-   "model": {
-    "margin": 8.1,
-    "total": 44.4,
-    "line_text": "Bowling Green \u22128.1",
-    "rating_margin": 5.8
-   },
-   "moneyline": {
-    "home": -155.0,
-    "away": 130.0,
-    "win_chance": 68.7,
-    "value": {
-     "team": "Bowling Green",
-     "odds": -155.0,
-     "gap": 10.4
-    }
-   },
-   "splits": null,
-   "bet_early": false,
-   "total_move": 0.0,
-   "total_bet_early": false,
-   "line_history": [
-    {
-     "t": null,
-     "label": "Open",
-     "spread": -1.5,
-     "total": 43.5
-    },
-    {
-     "t": "2026-11-20T21:42:58.585222+00:00",
-     "label": "Fri",
-     "spread": null,
-     "total": null
-    },
-    {
-     "t": "2026-11-23T03:35:52.524998+00:00",
-     "label": "Sun",
-     "spread": -3.0,
-     "total": 44.5
-    },
-    {
-     "t": "now",
-     "label": "Now",
-     "spread": -3.0,
-     "total": 43.5
-    }
-   ],
-   "locked": {
-    "text": "Bowling Green \u22123.0",
-    "at": "2026-11-23T03:35:52.524998+00:00",
-    "edge": 4.9,
-    "line_text": "Bowling Green \u22123.0"
-   },
-   "edge": 5.1,
-   "our_pick": null,
-   "pick": {
-    "team": "Bowling Green",
-    "line": -3.0,
-    "text": "Bowling Green \u22123.0",
-    "strong": true,
-    "caution": false
-   },
-   "winner": "Bowling Green",
-   "total_pick": "Over 43.5",
-   "weather": {
-    "dome": false,
-    "temp": 45.0,
-    "wind": 11.4,
-    "gust": 11.4,
-    "rain": 0.0,
-    "code": 3,
-    "night": false,
-    "kind": "actual",
-    "updated": "cfbd"
-   },
-   "qb": {
-    "home": {
-     "name": "Austin Novosad",
-     "status": "unknown",
-     "note": null,
-     "if_out": null,
-     "auto": false,
-     "news": null
-    },
-    "away": {
-     "name": "Logan Inagawa",
      "status": "unknown",
      "note": null,
      "if_out": null,
@@ -5825,41 +6423,41 @@
    "home": {
     "team": "BYU",
     "record": "9\u20132",
-    "proj": 36.2,
+    "proj": 36.0,
     "rating": 9.7,
     "conf": "Big 12"
    },
    "away": {
     "team": "Cincinnati",
     "record": "6\u20135",
-    "proj": 17.9,
+    "proj": 18.1,
     "rating": -1.9,
     "conf": "Big 12"
    },
    "market": {
     "spread": -15.5,
     "spread_open": -12.5,
-    "total": 55.5,
+    "total": 56.5,
     "line_move": 3.0,
     "total_open": 56.5,
     "provider": "DraftKings",
     "line_text": "BYU \u221215.5"
    },
    "model": {
-    "margin": 18.2,
+    "margin": 17.9,
     "total": 54.1,
-    "line_text": "BYU \u221218.2",
+    "line_text": "BYU \u221217.9",
     "rating_margin": 14.6
    },
    "moneyline": {
     "home": -700.0,
     "away": 500.0,
-    "win_chance": 86.4,
+    "win_chance": 86.0,
     "value": null
    },
    "splits": null,
    "bet_early": false,
-   "total_move": -1.0,
+   "total_move": 0.0,
    "total_bet_early": false,
    "line_history": [
     {
@@ -5881,10 +6479,16 @@
      "total": 55.5
     },
     {
+     "t": "2026-11-24T01:31:01.241455+00:00",
+     "label": "Mon",
+     "spread": -15.5,
+     "total": 55.5
+    },
+    {
      "t": "now",
      "label": "Now",
      "spread": -15.5,
-     "total": 55.5
+     "total": 56.5
     }
    ],
    "locked": {
@@ -5893,7 +6497,7 @@
     "edge": 3.6,
     "line_text": "BYU \u221214.5"
    },
-   "edge": 2.7,
+   "edge": 2.4,
    "our_pick": null,
    "pick": {
     "team": "BYU",
@@ -5903,7 +6507,7 @@
     "caution": false
    },
    "winner": "BYU",
-   "total_pick": "Under 55.5",
+   "total_pick": "Under 56.5",
    "weather": {
     "dome": false,
     "temp": 43.7,
@@ -5926,486 +6530,6 @@
     },
     "away": {
      "name": "JC French",
-     "status": "unknown",
-     "note": null,
-     "if_out": null,
-     "auto": false,
-     "news": null
-    }
-   }
-  },
-  {
-   "id": 401858312,
-   "kickoff": "2026-11-28T20:30:00+00:00",
-   "time_tbd": false,
-   "week": 13,
-   "venue": "Allegacy Federal Credit Union Stadium",
-   "neutral": false,
-   "network": "ESPN",
-   "home": {
-    "team": "Wake Forest",
-    "record": "10\u20131",
-    "proj": 35.1,
-    "rating": 14.1,
-    "conf": "ACC"
-   },
-   "away": {
-    "team": "Duke",
-    "record": "7\u20134",
-    "proj": 17.9,
-    "rating": 6.5,
-    "conf": "ACC"
-   },
-   "market": {
-    "spread": -14.5,
-    "spread_open": -10.5,
-    "total": 55.5,
-    "line_move": 4.0,
-    "total_open": 52.5,
-    "provider": "DraftKings",
-    "line_text": "Wake Forest \u221214.5"
-   },
-   "model": {
-    "margin": 17.2,
-    "total": 53.0,
-    "line_text": "Wake Forest \u221217.2",
-    "rating_margin": 10.6
-   },
-   "moneyline": {
-    "home": -625.0,
-    "away": 455.0,
-    "win_chance": 85.0,
-    "value": null
-   },
-   "splits": null,
-   "bet_early": false,
-   "total_move": 3.0,
-   "total_bet_early": false,
-   "line_history": [
-    {
-     "t": null,
-     "label": "Open",
-     "spread": -10.5,
-     "total": 52.5
-    },
-    {
-     "t": "2026-11-22T04:56:43.892762+00:00",
-     "label": "Sat",
-     "spread": -13.5,
-     "total": 55.5
-    },
-    {
-     "t": "2026-11-23T03:35:52.524998+00:00",
-     "label": "Sun",
-     "spread": -14.0,
-     "total": 55.5
-    },
-    {
-     "t": "now",
-     "label": "Now",
-     "spread": -14.5,
-     "total": 55.5
-    }
-   ],
-   "locked": {
-    "text": "Wake Forest \u221213.5",
-    "at": "2026-11-22T14:00:13.747279+00:00",
-    "edge": 2.8,
-    "line_text": "Wake Forest \u221213.5"
-   },
-   "edge": 2.7,
-   "our_pick": null,
-   "pick": {
-    "team": "Wake Forest",
-    "line": -14.5,
-    "text": "Wake Forest \u221214.5",
-    "strong": false,
-    "caution": false
-   },
-   "winner": "Wake Forest",
-   "total_pick": "Under 55.5",
-   "weather": {
-    "dome": false,
-    "temp": 54.5,
-    "wind": 9.6,
-    "gust": 9.6,
-    "rain": 0.0,
-    "code": 0,
-    "night": false,
-    "kind": "actual",
-    "updated": "cfbd"
-   },
-   "qb": {
-    "home": {
-     "name": "Giovanni Lopez",
-     "status": "unknown",
-     "note": null,
-     "if_out": null,
-     "auto": false,
-     "news": null
-    },
-    "away": {
-     "name": "Walker Eget",
-     "status": "unknown",
-     "note": null,
-     "if_out": null,
-     "auto": false,
-     "news": null
-    }
-   }
-  },
-  {
-   "id": 401864550,
-   "kickoff": "2026-11-28T20:30:00+00:00",
-   "time_tbd": false,
-   "week": 13,
-   "venue": "Huskie Stadium",
-   "neutral": false,
-   "network": "MW+",
-   "home": {
-    "team": "Northern Illinois",
-    "record": "0\u201311",
-    "proj": 27.2,
-    "rating": -15.0,
-    "conf": "Mountain West"
-   },
-   "away": {
-    "team": "UTEP",
-    "record": "1\u201310",
-    "proj": 22.0,
-    "rating": -16.1,
-    "conf": "Mountain West"
-   },
-   "market": {
-    "spread": -4.5,
-    "spread_open": -4.5,
-    "total": 50.5,
-    "line_move": 0.0,
-    "total_open": 49.5,
-    "provider": "DraftKings",
-    "line_text": "Northern Illinois \u22124.5"
-   },
-   "model": {
-    "margin": 5.2,
-    "total": 49.1,
-    "line_text": "Northern Illinois \u22125.2",
-    "rating_margin": 4.1
-   },
-   "moneyline": {
-    "home": -192.0,
-    "away": 160.0,
-    "win_chance": 62.3,
-    "value": null
-   },
-   "splits": null,
-   "bet_early": false,
-   "total_move": 1.0,
-   "total_bet_early": false,
-   "line_history": [
-    {
-     "t": null,
-     "label": "Open",
-     "spread": -4.5,
-     "total": 49.5
-    },
-    {
-     "t": "2026-11-20T21:42:58.585222+00:00",
-     "label": "Fri",
-     "spread": null,
-     "total": null
-    },
-    {
-     "t": "2026-11-23T03:35:52.524998+00:00",
-     "label": "Sun",
-     "spread": -4.5,
-     "total": 48.5
-    },
-    {
-     "t": "2026-11-24T01:31:01.241455+00:00",
-     "label": "Mon",
-     "spread": -4.0,
-     "total": 50.5
-    },
-    {
-     "t": "now",
-     "label": "Now",
-     "spread": -4.5,
-     "total": 50.5
-    }
-   ],
-   "locked": {
-    "text": "Northern Illinois \u22124.5",
-    "at": "2026-11-23T03:35:52.524998+00:00",
-    "edge": 0.7,
-    "line_text": "Northern Illinois \u22124.5"
-   },
-   "edge": 0.7,
-   "our_pick": null,
-   "pick": {
-    "team": "Northern Illinois",
-    "line": -4.5,
-    "text": "Northern Illinois \u22124.5",
-    "strong": false,
-    "caution": false
-   },
-   "winner": "Northern Illinois",
-   "total_pick": "Under 50.5",
-   "weather": {
-    "dome": false,
-    "temp": 46.0,
-    "wind": 10.5,
-    "gust": 10.5,
-    "rain": 0.0,
-    "code": 3,
-    "night": false,
-    "kind": "actual",
-    "updated": "cfbd"
-   },
-   "qb": {
-    "home": {
-     "name": "Taron Dickens",
-     "status": "unknown",
-     "note": null,
-     "if_out": null,
-     "auto": false,
-     "news": null
-    },
-    "away": {
-     "name": "Raymond Moore III",
-     "status": "unknown",
-     "note": null,
-     "if_out": null,
-     "auto": false,
-     "news": null
-    }
-   }
-  },
-  {
-   "id": 401856760,
-   "kickoff": "2026-11-28T20:30:00+00:00",
-   "time_tbd": false,
-   "week": 13,
-   "venue": "Sanford Stadium",
-   "neutral": false,
-   "network": "ABC",
-   "home": {
-    "team": "Georgia",
-    "record": "10\u20131",
-    "proj": 45.7,
-    "rating": 21.2,
-    "conf": "SEC"
-   },
-   "away": {
-    "team": "Georgia Tech",
-    "record": "3\u20138",
-    "proj": 9.9,
-    "rating": -4.1,
-    "conf": "ACC"
-   },
-   "market": {
-    "spread": -35.5,
-    "spread_open": -35.5,
-    "total": 55.5,
-    "line_move": 0.0,
-    "total_open": 55.5,
-    "provider": "DraftKings",
-    "line_text": "Georgia \u221235.5"
-   },
-   "model": {
-    "margin": 35.8,
-    "total": 55.7,
-    "line_text": "Georgia \u221235.8",
-    "rating_margin": 28.4
-   },
-   "moneyline": {
-    "home": -8000.0,
-    "away": 2200.0,
-    "win_chance": 98.5,
-    "value": null
-   },
-   "splits": null,
-   "bet_early": false,
-   "total_move": 0.0,
-   "total_bet_early": false,
-   "line_history": [
-    {
-     "t": null,
-     "label": "Open",
-     "spread": -35.5,
-     "total": 55.5
-    },
-    {
-     "t": "2026-11-20T09:47:23.854036+00:00",
-     "label": "Fri",
-     "spread": null,
-     "total": null
-    },
-    {
-     "t": "2026-11-23T03:35:52.524998+00:00",
-     "label": "Sun",
-     "spread": -36.5,
-     "total": 55.5
-    },
-    {
-     "t": "now",
-     "label": "Now",
-     "spread": -35.5,
-     "total": 55.5
-    }
-   ],
-   "locked": {
-    "text": "Georgia Tech +36.5",
-    "at": "2026-11-23T03:35:52.524998+00:00",
-    "edge": 0.0,
-    "line_text": "Georgia \u221236.5"
-   },
-   "edge": 0.3,
-   "our_pick": null,
-   "pick": {
-    "team": "Georgia",
-    "line": -35.5,
-    "text": "Georgia \u221235.5",
-    "strong": false,
-    "caution": false
-   },
-   "winner": "Georgia",
-   "total_pick": "Over 55.5",
-   "weather": {
-    "dome": false,
-    "temp": 56.8,
-    "wind": 8.7,
-    "gust": 8.7,
-    "rain": 0.0,
-    "code": 3,
-    "night": false,
-    "kind": "actual",
-    "updated": "cfbd"
-   },
-   "qb": {
-    "home": {
-     "name": "Gunner Stockton",
-     "status": "unknown",
-     "note": null,
-     "if_out": null,
-     "auto": false,
-     "news": null
-    },
-    "away": {
-     "name": "Alberto Mendoza",
-     "status": "unknown",
-     "note": null,
-     "if_out": null,
-     "auto": false,
-     "news": null
-    }
-   }
-  },
-  {
-   "id": 401862839,
-   "kickoff": "2026-11-28T20:30:00+00:00",
-   "time_tbd": false,
-   "week": 13,
-   "venue": "Raymond James Stadium",
-   "neutral": false,
-   "network": "ESPN+",
-   "home": {
-    "team": "South Florida",
-    "record": "6\u20135",
-    "proj": 28.5,
-    "rating": -1.5,
-    "conf": "American Athletic"
-   },
-   "away": {
-    "team": "Tulane",
-    "record": "6\u20135",
-    "proj": 21.8,
-    "rating": -5.4,
-    "conf": "American Athletic"
-   },
-   "market": {
-    "spread": -6.5,
-    "spread_open": -8.5,
-    "total": 43.5,
-    "line_move": -2.0,
-    "total_open": 45.5,
-    "provider": "DraftKings",
-    "line_text": "South Florida \u22126.5"
-   },
-   "model": {
-    "margin": 6.7,
-    "total": 50.3,
-    "line_text": "South Florida \u22126.7",
-    "rating_margin": 7.0
-   },
-   "moneyline": {
-    "home": -238.0,
-    "away": 195.0,
-    "win_chance": 65.8,
-    "value": null
-   },
-   "splits": null,
-   "bet_early": false,
-   "total_move": -2.0,
-   "total_bet_early": false,
-   "line_history": [
-    {
-     "t": null,
-     "label": "Open",
-     "spread": -8.5,
-     "total": 45.5
-    },
-    {
-     "t": "2026-11-20T21:42:58.585222+00:00",
-     "label": "Fri",
-     "spread": null,
-     "total": null
-    },
-    {
-     "t": "now",
-     "label": "Now",
-     "spread": -6.5,
-     "total": 43.5
-    }
-   ],
-   "locked": {
-    "text": "South Florida \u22126.5",
-    "at": "2026-11-23T03:35:52.524998+00:00",
-    "edge": 0.2,
-    "line_text": "South Florida \u22126.5"
-   },
-   "edge": 0.2,
-   "our_pick": null,
-   "pick": {
-    "team": "South Florida",
-    "line": -6.5,
-    "text": "South Florida \u22126.5",
-    "strong": false,
-    "caution": false
-   },
-   "winner": "South Florida",
-   "total_pick": "Over 43.5",
-   "weather": {
-    "dome": false,
-    "temp": 66.4,
-    "wind": 5.8,
-    "gust": 5.8,
-    "rain": 0.0,
-    "code": 3,
-    "night": false,
-    "kind": "actual",
-    "updated": "cfbd"
-   },
-   "qb": {
-    "home": {
-     "name": "Luke Kromenhoek",
-     "status": "unknown",
-     "note": null,
-     "if_out": null,
-     "auto": false,
-     "news": null
-    },
-    "away": {
-     "name": "Trace Johnson",
      "status": "unknown",
      "note": null,
      "if_out": null,
@@ -6439,7 +6563,7 @@
    "market": {
     "spread": -3.5,
     "spread_open": -4.5,
-    "total": 46.5,
+    "total": 45.5,
     "line_move": -1.0,
     "total_open": 48.5,
     "provider": "DraftKings",
@@ -6449,21 +6573,21 @@
     "margin": 9.2,
     "total": 60.0,
     "line_text": "North Texas \u22129.2",
-    "rating_margin": 9.3
+    "rating_margin": 9.2
    },
    "moneyline": {
-    "home": -180.0,
-    "away": 150.0,
-    "win_chance": 71.1,
+    "home": -170.0,
+    "away": 142.0,
+    "win_chance": 71.0,
     "value": {
      "team": "North Texas",
-     "odds": -180.0,
-     "gap": 9.5
+     "odds": -170.0,
+     "gap": 10.7
     }
    },
    "splits": null,
    "bet_early": false,
-   "total_move": -2.0,
+   "total_move": -3.0,
    "total_bet_early": false,
    "line_history": [
     {
@@ -6491,10 +6615,16 @@
      "total": 47.5
     },
     {
+     "t": "2026-11-24T13:03:59.672993+00:00",
+     "label": "Tue",
+     "spread": -3.5,
+     "total": 46.5
+    },
+    {
      "t": "now",
      "label": "Now",
      "spread": -3.5,
-     "total": 46.5
+     "total": 45.5
     }
    ],
    "locked": {
@@ -6517,14 +6647,14 @@
     "caution": false
    },
    "winner": "North Texas",
-   "total_pick": "Over 46.5",
+   "total_pick": "Over 45.5",
    "weather": {
     "dome": false,
     "temp": 60.6,
     "wind": 7.1,
     "gust": 7.1,
     "rain": 0.0,
-    "code": 0,
+    "code": 3,
     "night": false,
     "kind": "actual",
     "updated": "cfbd"
@@ -6559,36 +6689,36 @@
    "home": {
     "team": "Missouri",
     "record": "7\u20134",
-    "proj": 23.1,
-    "rating": 6.6,
+    "proj": 23.5,
+    "rating": 6.7,
     "conf": "SEC"
    },
    "away": {
     "team": "Oklahoma",
     "record": "7\u20134",
-    "proj": 22.9,
+    "proj": 22.6,
     "rating": 8.6,
     "conf": "SEC"
    },
    "market": {
-    "spread": -1.5,
+    "spread": -2.5,
     "spread_open": -1.5,
     "total": 41.5,
-    "line_move": 0.0,
+    "line_move": 1.0,
     "total_open": 42.5,
     "provider": "DraftKings",
-    "line_text": "Missouri \u22121.5"
+    "line_text": "Missouri \u22122.5"
    },
    "model": {
-    "margin": 0.2,
+    "margin": 0.9,
     "total": 46.0,
-    "line_text": "Missouri \u22120.2",
+    "line_text": "Missouri \u22120.9",
     "rating_margin": 1.1
    },
    "moneyline": {
     "home": -122.0,
     "away": 102.0,
-    "win_chance": 50.6,
+    "win_chance": 52.1,
     "value": null
    },
    "splits": null,
@@ -6603,9 +6733,15 @@
      "total": 42.5
     },
     {
+     "t": "2026-11-23T03:35:52.524998+00:00",
+     "label": "Sun",
+     "spread": -1.5,
+     "total": 41.5
+    },
+    {
      "t": "now",
      "label": "Now",
-     "spread": -1.5,
+     "spread": -2.5,
      "total": 41.5
     }
    ],
@@ -6615,12 +6751,12 @@
     "edge": 1.1,
     "line_text": "Missouri \u22121.5"
    },
-   "edge": 1.3,
+   "edge": 1.6,
    "our_pick": null,
    "pick": {
     "team": "Oklahoma",
-    "line": 1.5,
-    "text": "Oklahoma +1.5",
+    "line": 2.5,
+    "text": "Oklahoma +2.5",
     "strong": false,
     "caution": false
    },
@@ -6632,7 +6768,7 @@
     "wind": 1.4,
     "gust": 1.4,
     "rain": 0.0,
-    "code": 3,
+    "code": 1,
     "night": false,
     "kind": "actual",
     "updated": "cfbd"
@@ -6667,14 +6803,14 @@
    "home": {
     "team": "Rutgers",
     "record": "3\u20138",
-    "proj": 25.6,
+    "proj": 25.5,
     "rating": -4.2,
     "conf": "Big Ten"
    },
    "away": {
     "team": "Michigan State",
     "record": "3\u20138",
-    "proj": 25.3,
+    "proj": 24.9,
     "rating": -3.3,
     "conf": "Big Ten"
    },
@@ -6688,19 +6824,19 @@
     "line_text": "Rutgers +3.5"
    },
    "model": {
-    "margin": 0.2,
-    "total": 50.9,
-    "line_text": "Rutgers \u22120.2",
+    "margin": 0.6,
+    "total": 50.3,
+    "line_text": "Rutgers \u22120.6",
     "rating_margin": 2.2
    },
    "moneyline": {
     "home": 142.0,
     "away": -170.0,
-    "win_chance": 50.6,
+    "win_chance": 51.5,
     "value": {
      "team": "Rutgers",
      "odds": 142.0,
-     "gap": 11.0
+     "gap": 11.8
     }
    },
    "splits": null,
@@ -6733,7 +6869,7 @@
     "edge": 3.9,
     "line_text": "Rutgers +3.5"
    },
-   "edge": 3.7,
+   "edge": 4.1,
    "our_pick": null,
    "pick": {
     "team": "Rutgers",
@@ -6761,8 +6897,8 @@
      "status": "unknown",
      "note": null,
      "if_out": {
-      "home": 24.7,
-      "away": 25.6
+      "home": 24.6,
+      "away": 25.1
      },
      "auto": false,
      "news": {
@@ -6781,11 +6917,23 @@
     },
     "away": {
      "name": "Alessio Milivojevic",
-     "status": "unknown",
-     "note": null,
+     "status": "out",
+     "note": "confirmed by news: 247Sports",
      "if_out": null,
-     "auto": false,
-     "news": null
+     "auto": true,
+     "news": {
+      "suggested": "out",
+      "qb": "Alessio Milivojevic",
+      "headline": "Michigan State starting QB Alessio Milivojevic ruled out for Oregon game",
+      "confirmed": true,
+      "evidence": [
+       "247Sports: Michigan State starting QB Alessio Milivojevic ruled out for Oregon game"
+      ],
+      "missed_last": true,
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNOUZYVlJVMUJpVmx2aEVaeFBrUFBkSlVRUFBIbWxCU04zd211WUR6Zk5YZW85LXdTWTNpWTNWRVNrcUd4Z3hFYkJaQTdqUUxjYXdzWFlHRnFCVTR1R0l6NmdqTTBnOUk2MFBTUVVxcUtZLVQtbUY5NzNuX2VnQVlrYldNd0Vucnp2UmNscDVndmEtM2xKS1E0MXV2eUtDTWJkVjZhLTRpbVJsemtNOXpMeHhualpFTzBzMWFhNXBtTXlmOVRIOWQ5TXdaMkw5bEl4dVZ2U2lIVlJPV0tsaHYtaQ?oc=5",
+      "source": "247Sports",
+      "published": "2026-11-24T20:23:37+00:00"
+     }
     }
    }
   },
@@ -6807,7 +6955,7 @@
    "away": {
     "team": "Boise State",
     "record": "9\u20132",
-    "proj": 42.4,
+    "proj": 42.3,
     "rating": 5.9,
     "conf": "Pac-12"
    },
@@ -6821,19 +6969,19 @@
     "line_text": "Colorado State +21.0"
    },
    "model": {
-    "margin": -18.9,
-    "total": 65.9,
-    "line_text": "Colorado State +18.9",
+    "margin": -18.8,
+    "total": 65.8,
+    "line_text": "Colorado State +18.8",
     "rating_margin": -14.6
    },
    "moneyline": {
     "home": 1000.0,
     "away": -1800.0,
-    "win_chance": 87.2,
+    "win_chance": 87.1,
     "value": {
      "team": "Colorado State",
      "odds": 1000.0,
-     "gap": 4.0
+     "gap": 4.1
     }
    },
    "splits": null,
@@ -6866,7 +7014,7 @@
     "edge": 2.4,
     "line_text": "Colorado State +21.0"
    },
-   "edge": 2.1,
+   "edge": 2.2,
    "our_pick": null,
    "pick": {
     "team": "Colorado State",
@@ -6919,13 +7067,13 @@
     "team": "Oklahoma State",
     "record": "7\u20134",
     "proj": 32.4,
-    "rating": 2.5,
+    "rating": 2.4,
     "conf": "Big 12"
    },
    "away": {
     "team": "Kansas",
     "record": "4\u20137",
-    "proj": 28.4,
+    "proj": 28.3,
     "rating": 1.9,
     "conf": "Big 12"
    },
@@ -6939,19 +7087,19 @@
     "line_text": "Oklahoma State \u22126.5"
    },
    "model": {
-    "margin": 4.0,
+    "margin": 4.1,
     "total": 60.7,
-    "line_text": "Oklahoma State \u22124.0",
-    "rating_margin": 3.6
+    "line_text": "Oklahoma State \u22124.1",
+    "rating_margin": 3.5
    },
    "moneyline": {
-    "home": -250.0,
-    "away": 205.0,
-    "win_chance": 59.6,
+    "home": -238.0,
+    "away": 195.0,
+    "win_chance": 59.8,
     "value": {
      "team": "Kansas",
-     "odds": 205.0,
-     "gap": 9.0
+     "odds": 195.0,
+     "gap": 7.7
     }
    },
    "splits": null,
@@ -6996,7 +7144,7 @@
     "edge": 2.7,
     "line_text": "Oklahoma State \u22127.0"
    },
-   "edge": 2.5,
+   "edge": 2.4,
    "our_pick": null,
    "pick": {
     "team": "Kansas",
@@ -7013,7 +7161,7 @@
     "wind": 7.1,
     "gust": 7.1,
     "rain": 0.0,
-    "code": 3,
+    "code": 0,
     "night": false,
     "kind": "actual",
     "updated": "cfbd"
@@ -7061,14 +7209,14 @@
    "home": {
     "team": "Washington State",
     "record": "2\u20139",
-    "proj": 25.5,
+    "proj": 25.7,
     "rating": -3.3,
     "conf": "Pac-12"
    },
    "away": {
     "team": "San Diego State",
     "record": "6\u20135",
-    "proj": 22.5,
+    "proj": 22.4,
     "rating": -0.7,
     "conf": "Pac-12"
    },
@@ -7082,15 +7230,15 @@
     "line_text": "Washington State \u22122.5"
    },
    "model": {
-    "margin": 3.0,
+    "margin": 3.3,
     "total": 48.1,
-    "line_text": "Washington State \u22123.0",
+    "line_text": "Washington State \u22123.3",
     "rating_margin": 0.4
    },
    "moneyline": {
     "home": -142.0,
     "away": 120.0,
-    "win_chance": 57.2,
+    "win_chance": 57.8,
     "value": null
    },
    "splits": null,
@@ -7129,7 +7277,7 @@
     "edge": 3.5,
     "line_text": "Washington State +1.5"
    },
-   "edge": 0.5,
+   "edge": 0.8,
    "our_pick": null,
    "pick": {
     "team": "Washington State",
@@ -7171,120 +7319,6 @@
    }
   },
   {
-   "id": 401858538,
-   "kickoff": "2026-11-29T00:00:00+00:00",
-   "time_tbd": false,
-   "week": 13,
-   "venue": "Memorial Stadium (Bloomington, IN)",
-   "neutral": false,
-   "network": "FS1",
-   "home": {
-    "team": "Indiana",
-    "record": "9\u20132",
-    "proj": 37.6,
-    "rating": 13.1,
-    "conf": "Big Ten"
-   },
-   "away": {
-    "team": "Purdue",
-    "record": "3\u20138",
-    "proj": 12.7,
-    "rating": -4.6,
-    "conf": "Big Ten"
-   },
-   "market": {
-    "spread": -22.5,
-    "spread_open": -22.5,
-    "total": 52.5,
-    "line_move": 0.0,
-    "total_open": 52.5,
-    "provider": "DraftKings",
-    "line_text": "Indiana \u221222.5"
-   },
-   "model": {
-    "margin": 24.8,
-    "total": 50.3,
-    "line_text": "Indiana \u221224.8",
-    "rating_margin": 20.8
-   },
-   "moneyline": {
-    "home": -2100.0,
-    "away": 1100.0,
-    "win_chance": 93.3,
-    "value": null
-   },
-   "splits": null,
-   "bet_early": false,
-   "total_move": 0.0,
-   "total_bet_early": false,
-   "line_history": [
-    {
-     "t": null,
-     "label": "Open",
-     "spread": -22.5,
-     "total": 52.5
-    },
-    {
-     "t": "2026-11-20T09:47:23.854036+00:00",
-     "label": "Fri",
-     "spread": null,
-     "total": null
-    },
-    {
-     "t": "now",
-     "label": "Now",
-     "spread": -22.5,
-     "total": 52.5
-    }
-   ],
-   "locked": {
-    "text": "Indiana \u221222.5",
-    "at": "2026-11-23T03:35:52.524998+00:00",
-    "edge": 2.1,
-    "line_text": "Indiana \u221222.5"
-   },
-   "edge": 2.3,
-   "our_pick": null,
-   "pick": {
-    "team": "Indiana",
-    "line": -22.5,
-    "text": "Indiana \u221222.5",
-    "strong": false,
-    "caution": false
-   },
-   "winner": "Indiana",
-   "total_pick": "Under 52.5",
-   "weather": {
-    "dome": false,
-    "temp": 42.6,
-    "wind": 7.8,
-    "gust": 7.8,
-    "rain": 0.0,
-    "code": 3,
-    "night": true,
-    "kind": "actual",
-    "updated": "cfbd"
-   },
-   "qb": {
-    "home": {
-     "name": "Grant Wilson",
-     "status": "unknown",
-     "note": null,
-     "if_out": null,
-     "auto": false,
-     "news": null
-    },
-    "away": {
-     "name": "Ryan Browne",
-     "status": "unknown",
-     "note": null,
-     "if_out": null,
-     "auto": false,
-     "news": null
-    }
-   }
-  },
-  {
    "id": 401856765,
    "kickoff": "2026-11-29T00:00:00+00:00",
    "time_tbd": false,
@@ -7295,14 +7329,14 @@
    "home": {
     "team": "Vanderbilt",
     "record": "4\u20137",
-    "proj": 13.9,
+    "proj": 14.3,
     "rating": -0.8,
     "conf": "SEC"
    },
    "away": {
     "team": "Tennessee",
     "record": "9\u20132",
-    "proj": 35.9,
+    "proj": 35.5,
     "rating": 12.6,
     "conf": "SEC"
    },
@@ -7316,19 +7350,19 @@
     "line_text": "Vanderbilt +13.5"
    },
    "model": {
-    "margin": -21.9,
+    "margin": -21.2,
     "total": 49.8,
-    "line_text": "Vanderbilt +21.9",
-    "rating_margin": -10.4
+    "line_text": "Vanderbilt +21.2",
+    "rating_margin": -10.3
    },
    "moneyline": {
     "home": 410.0,
     "away": -550.0,
-    "win_chance": 90.7,
+    "win_chance": 89.9,
     "value": {
      "team": "Tennessee",
      "odds": -550.0,
-     "gap": 9.5
+     "gap": 8.7
     }
    },
    "splits": null,
@@ -7367,7 +7401,7 @@
     "edge": 7.2,
     "line_text": "Vanderbilt +13.5"
    },
-   "edge": 8.4,
+   "edge": 7.7,
    "our_pick": {
     "text": "Tennessee \u221213.5",
     "edge": 7.2,
@@ -7399,8 +7433,8 @@
      "status": "unknown",
      "note": null,
      "if_out": {
-      "home": 12.8,
-      "away": 36.4
+      "home": 13.4,
+      "away": 35.9
      },
      "auto": false,
      "news": {
@@ -7424,8 +7458,8 @@
      "status": "unknown",
      "note": null,
      "if_out": {
-      "home": 14.1,
-      "away": 35.7
+      "home": 14.5,
+      "away": 35.3
      },
      "auto": false,
      "news": {
@@ -7445,146 +7479,111 @@
    }
   },
   {
-   "id": 401856757,
-   "kickoff": "2026-11-29T00:30:00+00:00",
+   "id": 401858538,
+   "kickoff": "2026-11-29T00:00:00+00:00",
    "time_tbd": false,
    "week": 13,
-   "venue": "Bryant-Denny Stadium",
+   "venue": "Memorial Stadium (Bloomington, IN)",
    "neutral": false,
-   "network": "ABC",
+   "network": "FS1",
    "home": {
-    "team": "Alabama",
+    "team": "Indiana",
     "record": "9\u20132",
-    "proj": 34.5,
-    "rating": 14.4,
-    "conf": "SEC"
+    "proj": 37.7,
+    "rating": 13.1,
+    "conf": "Big Ten"
    },
    "away": {
-    "team": "Auburn",
-    "record": "7\u20134",
-    "proj": 16.3,
-    "rating": 3.8,
-    "conf": "SEC"
+    "team": "Purdue",
+    "record": "3\u20138",
+    "proj": 12.6,
+    "rating": -4.6,
+    "conf": "Big Ten"
    },
    "market": {
-    "spread": -16.5,
-    "spread_open": -10.0,
-    "total": 49.5,
-    "line_move": 6.5,
-    "total_open": 53.5,
+    "spread": -22.5,
+    "spread_open": -22.5,
+    "total": 52.5,
+    "line_move": 0.0,
+    "total_open": 52.5,
     "provider": "DraftKings",
-    "line_text": "Alabama \u221216.5"
+    "line_text": "Indiana \u221222.5"
    },
    "model": {
-    "margin": 18.2,
-    "total": 50.8,
-    "line_text": "Alabama \u221218.2",
-    "rating_margin": 13.7
+    "margin": 25.1,
+    "total": 50.3,
+    "line_text": "Indiana \u221225.1",
+    "rating_margin": 20.7
    },
    "moneyline": {
-    "home": -750.0,
-    "away": 525.0,
-    "win_chance": 86.4,
+    "home": -2100.0,
+    "away": 1100.0,
+    "win_chance": 93.5,
     "value": null
    },
    "splits": null,
    "bet_early": false,
-   "total_move": -4.0,
+   "total_move": 0.0,
    "total_bet_early": false,
    "line_history": [
     {
      "t": null,
      "label": "Open",
-     "spread": -10.0,
-     "total": 53.5
+     "spread": -22.5,
+     "total": 52.5
     },
     {
      "t": "2026-11-20T09:47:23.854036+00:00",
      "label": "Fri",
-     "spread": -15.5,
-     "total": 50.5
-    },
-    {
-     "t": "2026-11-22T04:56:43.892762+00:00",
-     "label": "Sat",
-     "spread": -14.0,
-     "total": 50.5
-    },
-    {
-     "t": "2026-11-23T03:35:52.524998+00:00",
-     "label": "Sun",
-     "spread": -16.5,
-     "total": 49.5
-    },
-    {
-     "t": "2026-11-24T01:31:01.241455+00:00",
-     "label": "Mon",
-     "spread": -16.5,
-     "total": 48.5
+     "spread": null,
+     "total": null
     },
     {
      "t": "now",
      "label": "Now",
-     "spread": -16.5,
-     "total": 49.5
+     "spread": -22.5,
+     "total": 52.5
     }
    ],
    "locked": {
-    "text": "Alabama \u221214.0",
-    "at": "2026-11-22T14:00:13.747279+00:00",
-    "edge": 3.4,
-    "line_text": "Alabama \u221214.0"
+    "text": "Indiana \u221222.5",
+    "at": "2026-11-23T03:35:52.524998+00:00",
+    "edge": 2.1,
+    "line_text": "Indiana \u221222.5"
    },
-   "edge": 1.7,
+   "edge": 2.6,
    "our_pick": null,
    "pick": {
-    "team": "Alabama",
-    "line": -16.5,
-    "text": "Alabama \u221216.5",
+    "team": "Indiana",
+    "line": -22.5,
+    "text": "Indiana \u221222.5",
     "strong": false,
     "caution": false
    },
-   "winner": "Alabama",
-   "total_pick": "Over 49.5",
+   "winner": "Indiana",
+   "total_pick": "Under 52.5",
    "weather": {
     "dome": false,
-    "temp": 50.9,
-    "wind": 7.6,
-    "gust": 7.6,
+    "temp": 42.6,
+    "wind": 7.8,
+    "gust": 7.8,
     "rain": 0.0,
-    "code": 3,
+    "code": 0,
     "night": true,
     "kind": "actual",
     "updated": "cfbd"
    },
    "qb": {
     "home": {
-     "name": "Keelon Russell",
+     "name": "Grant Wilson",
      "status": "unknown",
      "note": null,
-     "if_out": {
-      "home": 33.0,
-      "away": 17.1
-     },
+     "if_out": null,
      "auto": false,
-     "news": {
-      "suggested": "questionable",
-      "qb": "Keelon Russell",
-      "headline": "Kalen DeBoer Announces Keelon Russell Injury Update Before Iron Bowl",
-      "confirmed": false,
-      "evidence": [
-       "Yahoo Sports: Kalen DeBoer Announces Keelon Russell Injury Update Before Iron Bowl",
-       "ESPN: Alabama's DeBoer expects QB Russell to be 'full go' vs. Auburn",
-       "The Tuscaloosa News: Keelon Russell expected to be 'full go' ahead of Alabama vs Auburn"
-      ],
-      "missed_last": true,
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdTgtNEowMFM0NGRUTTg2RUZjT1BfQVVHdE95NzlMcVZpQ2JzV2FkOUVIM1NhTy1FOFkxdlRqVUlZR1JmdzlCZjFnMlhkWjlqaHhhUWNjMEtST0d2LUhZQm9aOGJWbzhxNVZEODRfbEpPeFJBVVRtZUhHOHR6Y1lwOEFzNW5hZDdMZ1VEbWF0cw?oc=5",
-      "source": "Yahoo Sports",
-      "published": "2026-11-23T19:05:00+00:00"
-     }
+     "news": null
     },
     "away": {
-     "name": "Byrum Brown",
+     "name": "Ryan Browne",
      "status": "unknown",
      "note": null,
      "if_out": null,
@@ -7604,14 +7603,14 @@
    "home": {
     "team": "California",
     "record": "3\u20138",
-    "proj": 13.4,
+    "proj": 13.6,
     "rating": -9.5,
     "conf": "ACC"
    },
    "away": {
     "team": "Pittsburgh",
     "record": "6\u20135",
-    "proj": 36.9,
+    "proj": 36.7,
     "rating": 1.7,
     "conf": "ACC"
    },
@@ -7625,19 +7624,19 @@
     "line_text": "California +9.5"
    },
    "model": {
-    "margin": -23.5,
+    "margin": -23.1,
     "total": 50.4,
-    "line_text": "California +23.5",
+    "line_text": "California +23.1",
     "rating_margin": -8.1
    },
    "moneyline": {
     "home": 280.0,
     "away": -355.0,
-    "win_chance": 92.1,
+    "win_chance": 91.8,
     "value": {
      "team": "Pittsburgh",
      "odds": -355.0,
-     "gap": 17.4
+     "gap": 17.0
     }
    },
    "splits": null,
@@ -7670,7 +7669,7 @@
     "edge": 13.9,
     "line_text": "California +9.5"
    },
-   "edge": 14.0,
+   "edge": 13.6,
    "our_pick": {
     "text": "Pittsburgh \u22129.5",
     "edge": 13.9,
@@ -7759,7 +7758,7 @@
     "value": {
      "team": "Washington",
      "odds": 440.0,
-     "gap": 4.5
+     "gap": 4.6
     }
    },
    "splits": null,
@@ -7846,6 +7845,158 @@
    }
   },
   {
+   "id": 401856757,
+   "kickoff": "2026-11-29T00:30:00+00:00",
+   "time_tbd": false,
+   "week": 13,
+   "venue": "Bryant-Denny Stadium",
+   "neutral": false,
+   "network": "ABC",
+   "home": {
+    "team": "Alabama",
+    "record": "9\u20132",
+    "proj": 34.1,
+    "rating": 14.4,
+    "conf": "SEC"
+   },
+   "away": {
+    "team": "Auburn",
+    "record": "7\u20134",
+    "proj": 16.6,
+    "rating": 3.8,
+    "conf": "SEC"
+   },
+   "market": {
+    "spread": -14.5,
+    "spread_open": -10.0,
+    "total": 49.5,
+    "line_move": 4.5,
+    "total_open": 53.5,
+    "provider": "DraftKings",
+    "line_text": "Alabama \u221214.5"
+   },
+   "model": {
+    "margin": 17.5,
+    "total": 50.7,
+    "line_text": "Alabama \u221217.5",
+    "rating_margin": 13.7
+   },
+   "moneyline": {
+    "home": -700.0,
+    "away": 500.0,
+    "win_chance": 85.5,
+    "value": null
+   },
+   "splits": null,
+   "bet_early": false,
+   "total_move": -4.0,
+   "total_bet_early": false,
+   "line_history": [
+    {
+     "t": null,
+     "label": "Open",
+     "spread": -10.0,
+     "total": 53.5
+    },
+    {
+     "t": "2026-11-20T09:47:23.854036+00:00",
+     "label": "Fri",
+     "spread": -15.5,
+     "total": 50.5
+    },
+    {
+     "t": "2026-11-22T04:56:43.892762+00:00",
+     "label": "Sat",
+     "spread": -14.0,
+     "total": 50.5
+    },
+    {
+     "t": "2026-11-23T03:35:52.524998+00:00",
+     "label": "Sun",
+     "spread": -16.5,
+     "total": 49.5
+    },
+    {
+     "t": "2026-11-24T01:31:01.241455+00:00",
+     "label": "Mon",
+     "spread": -16.5,
+     "total": 48.5
+    },
+    {
+     "t": "2026-11-24T13:03:59.672993+00:00",
+     "label": "Tue",
+     "spread": -16.5,
+     "total": 49.5
+    },
+    {
+     "t": "now",
+     "label": "Now",
+     "spread": -14.5,
+     "total": 49.5
+    }
+   ],
+   "locked": {
+    "text": "Alabama \u221214.0",
+    "at": "2026-11-22T14:00:13.747279+00:00",
+    "edge": 3.4,
+    "line_text": "Alabama \u221214.0"
+   },
+   "edge": 3.0,
+   "our_pick": null,
+   "pick": {
+    "team": "Alabama",
+    "line": -14.5,
+    "text": "Alabama \u221214.5",
+    "strong": true,
+    "caution": false
+   },
+   "winner": "Alabama",
+   "total_pick": "Over 49.5",
+   "weather": {
+    "dome": false,
+    "temp": 50.9,
+    "wind": 7.6,
+    "gust": 7.6,
+    "rain": 0.0,
+    "code": 3,
+    "night": true,
+    "kind": "actual",
+    "updated": "cfbd"
+   },
+   "qb": {
+    "home": {
+     "name": "Keelon Russell",
+     "status": "unknown",
+     "note": null,
+     "if_out": null,
+     "auto": false,
+     "news": {
+      "suggested": "available",
+      "qb": "Keelon Russell",
+      "headline": "Alabama's DeBoer expects QB Russell to be 'full go' vs. Auburn",
+      "confirmed": false,
+      "evidence": [
+       "ESPN: Alabama's DeBoer expects QB Russell to be 'full go' vs. Auburn",
+       "The Tuscaloosa News: Keelon Russell expected to be 'full go' ahead of Alabama vs Auburn",
+       "On3: Injury updates on Keelon Russell, other Alabama players after Chattanooga game"
+      ],
+      "missed_last": true,
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPd3hrWXBBUEctTlN3b1JibzJ6YWJLYWtCck56M3lyWTY3bTl5anVla2V1RVFoOFo4YWpUd2oyRVdSVUtpRm5fY1hzWG1jdHpjeUFLR0VKRW1YNlZPb3pXZ0tJS21sTHNLaFdQMmNockZyUEpxRmNfcEhQaXdYOWsyWTRZVkJJOEp0Y093TVA2Y256RTdoQlpXak16SUR5YXF4UEFxbmtqcnRIUQ?oc=5",
+      "source": "ESPN",
+      "published": "2026-11-23T18:05:22+00:00"
+     }
+    },
+    "away": {
+     "name": "Byrum Brown",
+     "status": "unknown",
+     "note": null,
+     "if_out": null,
+     "auto": false,
+     "news": null
+    }
+   }
+  },
+  {
    "id": 401864548,
    "kickoff": "2026-11-29T02:00:00+00:00",
    "time_tbd": false,
@@ -7877,15 +8028,15 @@
     "line_text": "UNLV \u22125.5"
    },
    "model": {
-    "margin": 7.8,
+    "margin": 7.9,
     "total": 47.4,
-    "line_text": "UNLV \u22127.8",
+    "line_text": "UNLV \u22127.9",
     "rating_margin": 7.0
    },
    "moneyline": {
     "home": -225.0,
     "away": 185.0,
-    "win_chance": 68.0,
+    "win_chance": 68.2,
     "value": null
    },
    "splits": null,
@@ -7924,7 +8075,7 @@
     "edge": 3.1,
     "line_text": "UNLV \u22124.5"
    },
-   "edge": 2.3,
+   "edge": 2.4,
    "our_pick": null,
    "pick": {
     "team": "UNLV",
@@ -7960,7 +8111,7 @@
      "status": "unknown",
      "note": null,
      "if_out": {
-      "home": 27.1,
+      "home": 27.2,
       "away": 19.3
      },
      "auto": false,
@@ -7973,9 +8124,9 @@
        "Nevada Sports Net: 'I wasn't coming out of this game.' AJ Bianco shakes off injury, leads Nevada over Hawai'i"
       ],
       "missed_last": false,
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZE5YcW5wTTFPZlpyMGFQSVdUZnRzckwzV2F5RHhZaDVHT1Q2YmZBeDFTWnRXSzRwdURZdTJvLU1wQWNWRVc1aXRLMlV0SXcyWTdJaUtQZk5pU3g3Njh5TVpuenF2Tkk1aUFWMVM4YktEa0x6R0tURVdqb2oxUnozb1RXamtCbFpKc1p5aG1zTXZjanE4RVlPTnA1XzN2SUZEdWZNZXZzYkd1OVFlRzVDTDhWMlMzczFsUzdTVTlsOE96UjVzQndNWEY2emdfXzlDanI1cQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOE9ZTzBOY1E4SnBhWGh6MnhWS21hMEV1N25VampFVEFFeFRadzgtazdZbkdkVXNxNjlrbDY1TE1uU1VwSVBETjdrYk5fMVVua0N4cEdteFZKNWRsTlJQVF9IUGxtUFlwekpoN3kxY3F0SlU2RDhoUUNNYTduQkRBZ0Fuc2xtRWdvd2RVMWJLeWFMTW9rcUM1Y3gyOUdTbGNBajZjdUhJSVF5d3lrSDh0UXlKendDazc3TTBSS2dGRS14OHlzOFE?oc=5",
       "source": "Nevada Sports Net",
-      "published": "2026-11-22T09:03:49+00:00"
+      "published": "2026-11-22T09:03:04+00:00"
      }
     }
    }
@@ -7998,38 +8149,38 @@
    "away": {
     "team": "Arizona State",
     "record": "6\u20135",
-    "proj": 19.6,
+    "proj": 19.5,
     "rating": 0.9,
     "conf": "Big 12"
    },
    "market": {
     "spread": -8.5,
     "spread_open": -4.5,
-    "total": 54.5,
+    "total": 53.5,
     "line_move": 4.0,
     "total_open": 52.5,
     "provider": "DraftKings",
     "line_text": "Arizona \u22128.5"
    },
    "model": {
-    "margin": 14.6,
+    "margin": 14.7,
     "total": 53.8,
-    "line_text": "Arizona \u221214.6",
+    "line_text": "Arizona \u221214.7",
     "rating_margin": 10.4
    },
    "moneyline": {
-    "home": -340.0,
-    "away": 270.0,
-    "win_chance": 81.0,
+    "home": -325.0,
+    "away": 260.0,
+    "win_chance": 81.2,
     "value": {
      "team": "Arizona",
-     "odds": -340.0,
-     "gap": 6.9
+     "odds": -325.0,
+     "gap": 7.8
     }
    },
    "splits": null,
    "bet_early": false,
-   "total_move": 2.0,
+   "total_move": 1.0,
    "total_bet_early": false,
    "line_history": [
     {
@@ -8045,10 +8196,16 @@
      "total": 54.5
     },
     {
+     "t": "2026-11-24T01:31:01.241455+00:00",
+     "label": "Mon",
+     "spread": -8.5,
+     "total": 54.5
+    },
+    {
      "t": "now",
      "label": "Now",
      "spread": -8.5,
-     "total": 54.5
+     "total": 53.5
     }
    ],
    "locked": {
@@ -8057,7 +8214,7 @@
     "edge": 8.8,
     "line_text": "Arizona \u22124.5"
    },
-   "edge": 6.1,
+   "edge": 6.2,
    "our_pick": {
     "text": "Arizona \u22124.5",
     "edge": 8.8,
@@ -8071,7 +8228,7 @@
     "caution": false
    },
    "winner": "Arizona",
-   "total_pick": "Under 54.5",
+   "total_pick": "Over 53.5",
    "weather": {
     "dome": false,
     "temp": 64.2,
@@ -8113,40 +8270,40 @@
    "home": {
     "team": "Houston",
     "record": "8\u20133",
-    "proj": 29.5,
+    "proj": 29.1,
     "rating": 6.0,
     "conf": "Big 12"
    },
    "away": {
     "team": "Baylor",
     "record": "6\u20135",
-    "proj": 25.5,
+    "proj": 25.9,
     "rating": 5.1,
     "conf": "Big 12"
    },
    "market": {
-    "spread": -5.5,
+    "spread": -4.5,
     "spread_open": -4.5,
     "total": 55.5,
-    "line_move": 1.0,
+    "line_move": 0.0,
     "total_open": 54.5,
     "provider": "DraftKings",
-    "line_text": "Houston \u22125.5"
+    "line_text": "Houston \u22124.5"
    },
    "model": {
-    "margin": 3.9,
+    "margin": 3.2,
     "total": 55.0,
-    "line_text": "Houston \u22123.9",
+    "line_text": "Houston \u22123.2",
     "rating_margin": 4.0
    },
    "moneyline": {
     "home": -198.0,
     "away": 164.0,
-    "win_chance": 59.4,
+    "win_chance": 57.6,
     "value": {
      "team": "Baylor",
      "odds": 164.0,
-     "gap": 4.3
+     "gap": 6.1
     }
    },
    "splits": null,
@@ -8173,9 +8330,15 @@
      "total": 55.5
     },
     {
+     "t": "2026-11-24T01:31:01.241455+00:00",
+     "label": "Mon",
+     "spread": -5.5,
+     "total": 55.5
+    },
+    {
      "t": "now",
      "label": "Now",
-     "spread": -5.5,
+     "spread": -4.5,
      "total": 55.5
     }
    ],
@@ -8185,12 +8348,12 @@
     "edge": 2.2,
     "line_text": "Houston \u22126.0"
    },
-   "edge": 1.6,
+   "edge": 1.3,
    "our_pick": null,
    "pick": {
     "team": "Baylor",
-    "line": 5.5,
-    "text": "Baylor +5.5",
+    "line": 4.5,
+    "text": "Baylor +4.5",
     "strong": false,
     "caution": false
    },
@@ -8212,24 +8375,9 @@
      "name": "Conner Weigman",
      "status": "unknown",
      "note": null,
-     "if_out": {
-      "home": 28.3,
-      "away": 26.9
-     },
+     "if_out": null,
      "auto": false,
-     "news": {
-      "suggested": "questionable",
-      "qb": "Conner Weigman",
-      "headline": "Conner Weigman Injury: Set to practice ahead of Baylor game",
-      "confirmed": false,
-      "evidence": [
-       "RotoWire: Conner Weigman Injury: Set to practice ahead of Baylor game"
-      ],
-      "missed_last": true,
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcWVsTzlsaWFENXBXcjhwRllLbWhHOFdEUUVxWDFtRE1oUmVuM1FwelJmMHctOG14VVI4SlN6XzV4TlB6RmYwdmNGSGVrN3Z1TmVYRGhqMF80dVh2UUs1aEsxNEQxakFhdnB6T0ZjWU1WNlVrUXRzMzRyZ3JwQlhKQlNCYmpLMDEzSGNDbzY1Rlh5YW9UeFU1WEdoRVNyRzFZQi1HS0JjSG11dHkyZ3dJ?oc=5",
-      "source": "RotoWire",
-      "published": "2026-11-23T18:20:50+00:00"
-     }
+     "news": null
     },
     "away": {
      "name": "D.J. Lagway",
@@ -8259,7 +8407,7 @@
    "away": {
     "team": "Texas State",
     "record": "7\u20134",
-    "proj": 31.3,
+    "proj": 31.4,
     "rating": 5.7,
     "conf": "Pac-12"
    },
@@ -8273,15 +8421,15 @@
     "line_text": "Utah State +7.0"
    },
    "model": {
-    "margin": -8.3,
-    "total": 54.3,
-    "line_text": "Utah State +8.3",
+    "margin": -8.4,
+    "total": 54.4,
+    "line_text": "Utah State +8.4",
     "rating_margin": -6.2
    },
    "moneyline": {
     "home": 220.0,
     "away": -270.0,
-    "win_chance": 69.2,
+    "win_chance": 69.4,
     "value": null
    },
    "splits": null,
@@ -8314,7 +8462,7 @@
     "edge": 1.3,
     "line_text": "Utah State +7.0"
    },
-   "edge": 1.3,
+   "edge": 1.4,
    "our_pick": null,
    "pick": {
     "team": "Texas State",
@@ -8366,21 +8514,21 @@
    "home": {
     "team": "Fresno State",
     "record": "6\u20135",
-    "proj": 33.2,
+    "proj": 33.1,
     "rating": 1.1,
     "conf": "Pac-12"
    },
    "away": {
     "team": "Oregon State",
     "record": "6\u20135",
-    "proj": 26.0,
-    "rating": -0.9,
+    "proj": 25.9,
+    "rating": -1.0,
     "conf": "Pac-12"
    },
    "market": {
     "spread": -3.0,
     "spread_open": -1.5,
-    "total": 56.5,
+    "total": 57.5,
     "line_move": 1.5,
     "total_open": 56.5,
     "provider": "DraftKings",
@@ -8388,23 +8536,23 @@
    },
    "model": {
     "margin": 7.2,
-    "total": 59.2,
+    "total": 59.0,
     "line_text": "Fresno State \u22127.2",
     "rating_margin": 5.1
    },
    "moneyline": {
     "home": -155.0,
     "away": 130.0,
-    "win_chance": 66.8,
+    "win_chance": 66.9,
     "value": {
      "team": "Fresno State",
      "odds": -155.0,
-     "gap": 8.5
+     "gap": 8.6
     }
    },
    "splits": null,
    "bet_early": false,
-   "total_move": 0.0,
+   "total_move": 1.0,
    "total_bet_early": false,
    "line_history": [
     {
@@ -8426,10 +8574,16 @@
      "total": 57.5
     },
     {
+     "t": "2026-11-24T01:31:01.241455+00:00",
+     "label": "Mon",
+     "spread": -3.0,
+     "total": 56.5
+    },
+    {
      "t": "now",
      "label": "Now",
      "spread": -3.0,
-     "total": 56.5
+     "total": 57.5
     }
    ],
    "locked": {
@@ -8448,7 +8602,7 @@
     "caution": false
    },
    "winner": "Fresno State",
-   "total_pick": "Over 56.5",
+   "total_pick": "Over 57.5",
    "weather": {
     "dome": false,
     "temp": 55.0,
@@ -8490,36 +8644,36 @@
    "home": {
     "team": "Hawai'i",
     "record": "3\u20138",
-    "proj": 29.9,
+    "proj": 29.6,
     "rating": -5.4,
     "conf": "Mountain West"
    },
    "away": {
     "team": "Sacramento State",
     "record": "2\u20139",
-    "proj": 13.7,
+    "proj": 13.9,
     "rating": -13.8,
     "conf": "Mid-American"
    },
    "market": {
-    "spread": -14.0,
+    "spread": -13.5,
     "spread_open": -13.5,
     "total": 39.5,
-    "line_move": 0.5,
+    "line_move": 0.0,
     "total_open": 44.5,
     "provider": "DraftKings",
-    "line_text": "Hawai'i \u221214.0"
+    "line_text": "Hawai'i \u221213.5"
    },
    "model": {
-    "margin": 16.2,
+    "margin": 15.7,
     "total": 43.5,
-    "line_text": "Hawai'i \u221216.2",
+    "line_text": "Hawai'i \u221215.7",
     "rating_margin": 11.5
    },
    "moneyline": {
-    "home": -600.0,
-    "away": 440.0,
-    "win_chance": 83.6,
+    "home": -575.0,
+    "away": 425.0,
+    "win_chance": 82.8,
     "value": null
    },
    "splits": null,
@@ -8546,9 +8700,15 @@
      "total": 38.5
     },
     {
+     "t": "2026-11-24T01:31:01.241455+00:00",
+     "label": "Mon",
+     "spread": -14.0,
+     "total": 39.5
+    },
+    {
      "t": "now",
      "label": "Now",
-     "spread": -14.0,
+     "spread": -13.5,
      "total": 39.5
     }
    ],
@@ -8562,8 +8722,8 @@
    "our_pick": null,
    "pick": {
     "team": "Hawai'i",
-    "line": -14.0,
-    "text": "Hawai'i \u221214.0",
+    "line": -13.5,
+    "text": "Hawai'i \u221213.5",
     "strong": false,
     "caution": false
    },

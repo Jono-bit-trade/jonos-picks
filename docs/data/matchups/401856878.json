@@ -274,9 +274,9 @@
    ],
    "rating": {
     "rank": 70,
-    "overall": -0.86,
+    "overall": -0.85,
     "offense": 26.8,
-    "defense": 27.66
+    "defense": 27.65
    }
   },
   "home": {
@@ -550,9 +550,9 @@
    ],
    "rating": {
     "rank": 82,
-    "overall": -1.93,
-    "offense": 25.99,
-    "defense": 27.92
+    "overall": -1.94,
+    "offense": 25.96,
+    "defense": 27.91
    }
   }
  },
